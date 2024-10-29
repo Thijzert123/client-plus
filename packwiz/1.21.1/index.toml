@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/options.txt"
+hash = "f0c09d5d8f8f050dcfbb825f424735af719aa658d8a6918dd63e8e5a1cf4dd13"
+
+[[files]]
 file = "emotes/Cheer.emotecraft"
 hash = "bff0ecf72c000553aa94cb8423ae94d789dac417bc32af770fc0df8512661c98"
 
