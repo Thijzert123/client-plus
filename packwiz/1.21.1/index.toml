@@ -538,6 +538,11 @@ hash = "a6067de910898e6b132045cea193f30bba6224a0400f5a4c099f82e3b39c9a69"
 metafile = true
 
 [[files]]
+file = "resourcepacks/default-splashes.pw.toml"
+hash = "2dd0a3abc81676163b8fc10db544a7babcc55776f0a69c4b2c044b9e193a68f8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/enchant-icons-countxd.pw.toml"
 hash = "bb2b6a511327bc8782c7c12c6be81c11fa3fcb7fa4fd10d4093a5170862e1ad5"
 metafile = true
