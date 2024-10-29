@@ -1,0 +1,16 @@
+version:3955
+advancedItemTooltips:true
+darkMojangStudiosBackground:true
+guiScale:3
+joinedFirstServer:true
+operatorItemsTab:true
+resourcePacks:["vanilla","fabric","file/Redstone Tweaks 2.4.5.zip","continuity:glass_pane_culling_fix","continuity:default","file/EvenBetterEnchants_v2_r1.zip","file/Icons v.1.11.3.zip","file/better_flame_particles-v2.1-mc1.14x-1.21x-resourcepack.zip","file/enchant icons 1.21 v1.3.zip","minecraft:supporteatinganimation"]
+skipMultiplayerWarning:true
+telemetryOptInExtra:false
+tutorialStep:none
+key_zoomify.key.zoom:key.keyboard.c
+key_zoomify.key.zoom.secondary:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_key.fabricskyboxes.toggle:key.keyboard.unknown
