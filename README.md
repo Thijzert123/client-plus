@@ -8,6 +8,8 @@ Not only that, mods that improve gameplay are also included, specifically on the
 
 Client+ ships with all the resource packs and shaders you'll ever need, even with some resource packs enabled out of the box. Redstone Tweaks, Connected Textures and Fullbright UB all improve Minecraft and are available in this modpack. As for shaders, Complementary Shaders Reinmagined/Unbound, BSL Shaders, Solas Shader and more are included.
 
+_Note: a few mods are (partially) server-side or require a server with the same mod (such as Simple Voice Chat). They are still included because they can be very useful in singleplayer or are very well known and installed on a lot of servers._
+
 ## Mod information
 This is all the content in the modpack, including mods, resource packs and shaders:
 - 3D Skin Layers (skinlayers3d-fabric-1.6.7-mc1.21.jar)
