@@ -6,6 +6,8 @@ This modpack provides the best performance mods, allowing you to enjoy Minecraft
 
 Not only that, mods that improve gameplay are also included, specifically on the client-side. For example: Mouse Tweaks and Client Sort both allow you to organize and streamline the inventory, without interrupting vanilla gameplay. But the best part is that they are completely client-side!
 
+Client+ ships with all the resource packs and shaders you'll ever need, even with some resource packs enabled out of the box. Redstone Tweaks, Connected Textures and Fullbright UB all improve Minecraft and are available in this modpack. As for shaders, Complementary Shaders Reinmagined/Unbound, BSL Shaders, Solas Shader and more are included.
+
 ## Mod information
 This is all the content in the modpack, including mods, resource packs and shaders:
 - 3D Skin Layers (skinlayers3d-fabric-1.6.7-mc1.21.jar)
