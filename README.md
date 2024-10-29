@@ -67,7 +67,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 - Fullbright UB (Fullbright-UB-1.21.zip)
 - Glowing Torchflower (glowing-torchflower-1.20.3-1.1.0.jar)
 - Grimdark Sky Pack (GrimdarkSky-v11-34.zip)
-- Hyper Realistic Sky (Hyper_Realistic_Sky_[Vanilla].zip)
+- Hyper Realistic Sky (Hyper_Realistic_Sky_[v2.2].zip)
 - Iceberg (Iceberg-1.21-fabric-1.2.7.jar)
 - Icons (Icons v.1.11.3.zip)
 - ImmediatelyFast (ImmediatelyFast-Fabric-1.3.0+1.21.1.jar)
