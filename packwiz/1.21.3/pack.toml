@@ -1,0 +1,16 @@
+name = "Client+"
+author = "Thijzert"
+version = "1.0.0+1.21.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "65207748c65b1cfc4b3389a95df44a8d77283bb8260103e171f20b094eeb367a"
+
+[versions]
+fabric = "0.16.8"
+minecraft = "1.21.3"
+
+[options]
+acceptable-game-versions = ["1.21.2"]

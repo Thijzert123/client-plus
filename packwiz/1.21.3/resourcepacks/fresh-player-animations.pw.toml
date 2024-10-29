@@ -1,0 +1,13 @@
+name = "Fresh Player Animations"
+filename = "FreshPlayerAnimations_v0.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uYE6VsYf/versions/JhePbphi/FreshPlayerAnimations_v0.3.zip"
+hash-format = "sha512"
+hash = "629c7b5a69984f580fd824e5b4436afc09ebe3354d20b66baf169e299bd5037630eb700ec1295cf9fcc682c064934dbac4b47990981053a86b37f5e0d7ae8765"
+
+[update]
+[update.modrinth]
+mod-id = "uYE6VsYf"
+version = "JhePbphi"

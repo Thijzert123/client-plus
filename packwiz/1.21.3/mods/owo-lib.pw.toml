@@ -1,0 +1,13 @@
+name = "oωo (owo-lib)"
+filename = "owo-lib-0.12.17+1.21.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ccKDOlHs/versions/Doig2v73/owo-lib-0.12.17%2B1.21.2.jar"
+hash-format = "sha512"
+hash = "589123d1d21cbe8ab42c507de528dd9b0c891dd24c44aefcc42cafbe3b879f3919a002b3c3593e877dddaf37970eef14e1e4efd013c15d23a8b0e999059fec65"
+
+[update]
+[update.modrinth]
+mod-id = "ccKDOlHs"
+version = "Doig2v73"
