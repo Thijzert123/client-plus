@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "f0c09d5d8f8f050dcfbb825f424735af719aa658d8a6918dd63e8e5a1cf4dd13"
+hash = "da56106cf0f4d3204ab04d6814837097c9ca19dd54cc03f5cd038654f4693019"
 
 [[files]]
 file = "emotes/Cheer.emotecraft"
@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/hyper-realistic-sky.pw.toml"
-hash = "0865bbd8bd1afddb5f175682454851110ff0a1185dd0d51f5f2156f4f154187b"
+hash = "b40a494b7e770b40c0f46d089bae58d14ff67ce2c2c4396434a639756c994c72"
 metafile = true
 
 [[files]]
