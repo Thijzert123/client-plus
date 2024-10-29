@@ -2,6 +2,10 @@
 # Client+
 Minecraft modpack focused on improving vanilla Minecraft on the client-side. Enjoy a better Minecraft anywhere, in singleplayer or multiplayer!
 
+This modpack provides the best performance mods, allowing you to enjoy Minecraft without worrying about your FPS. These mods include Sodium, Immediately Fast, Lithium and Ferrite Core.
+
+Not only that, mods that improve gameplay are also included, specifically on the client-side. For example: Mouse Tweaks and Client Sort both allow you to organize and streamline the inventory, without interrupting vanilla gameplay. But the best part is that they are completely client-side!
+
 ## Mod information
 This is all the content in the modpack, including mods, resource packs and shaders:
 - 3D Skin Layers (skinlayers3d-fabric-1.6.7-mc1.21.jar)
