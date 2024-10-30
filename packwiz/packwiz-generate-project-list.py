@@ -45,7 +45,6 @@ def update_toml_data(root, category, mc_version):
 def convert_dict_to_list():
     global project_list
     for i in project_dict:
-        print(project_dict[i])
         project_list.append(project_dict[i])
     
     project_list = sorted(project_list, key=lambda d: d["Name"])
