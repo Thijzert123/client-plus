@@ -11,7 +11,7 @@ Client+ ships with all the resource packs and shaders you'll ever need, even wit
 _Note: a few mods are (partially) server-side or require a server with the same mod (such as Simple Voice Chat). They are still included because they can be very useful in singleplayer or are very well known and installed on a lot of servers._
 
 ## Mod information
-This is all the content in the modpack, including mods, resource packs and shaders:
+This is all the content in the modpack, including mods, resource packs and shaders and their dependencies:
 |                                      Name                                      |      1.21.1      |      1.21.3      |
 |--------------------------------------------------------------------------------|------------------|------------------|
 |             [3D Skin Layers](https://modrinth.com/project/zV5r3pPn)            |:white_check_mark:|        :x:       |
