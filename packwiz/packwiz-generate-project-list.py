@@ -8,6 +8,8 @@ import os
 import tomllib # python >= 3.11
 from py_markdown_table.markdown_table import markdown_table # pip install py-markdown-table
 
+
+PROJECT_LIST_FILENAME = "project_list.md"
 ROOT_DIR = "."
 MC_PREFIX = "mc"
 PACKWIZ_SUFFIX = ".pw.toml"
@@ -65,4 +67,8 @@ def generate_project_list():
     return markdown_table(project_list).set_params(row_sep = "markdown", quote = False).get_markdown()
 
 if __name__ == "__main__":
-    print(generate_project_list())
+    project_list = generate_project_list()
+    with open(PROJECT_LIST_FILENAME, "w") as project_list_file:
+        project_list_file.write(project_list)
+        
+    print("Wrote project list to " + PROJECT_LIST_FILENAME)
