@@ -4,6 +4,8 @@
 # Exclude exported Modrinth modpacks
 *.mrpack
 
+# Generated project list
+project_list.md
 
 # Backup files from Emacs
 *~
