@@ -13,12 +13,12 @@ MC_PREFIX = "mc"
 PACKWIZ_SUFFIX = ".pw.toml"
 SUPPORTED_MC_VERSIONS = ["1.21.1", "1.21.3"]
 
-checkmark_icon = ":white_check_mark:"
-x_icon = ":x:"
+checkmark_icon = "✅"
+x_icon = "❌"
 project_dict = {}
 project_list = []
 
-def update_toml_data(root, category, mc_version, modrinth):
+def update_toml_data(root, category, mc_version):
     for root, dirs, files in os.walk(root):
         for filename in files:
             if filename.endswith(PACKWIZ_SUFFIX):
@@ -50,7 +50,7 @@ def convert_dict_to_list():
     
     project_list = sorted(project_list, key=lambda d: d["Name"])
 
-def generate_project_list(modrinth = False):
+def generate_project_list():
     for currentdir, rootdirs, rootfiles in os.walk("."):
         for rootdir in rootdirs:
             if rootdir.startswith(MC_PREFIX):
@@ -60,7 +60,7 @@ def generate_project_list(modrinth = False):
                     for minecraftdir in minecraftdirs:
                         if minecraftdir in ["mods", "resourcepacks", "shaderpacks"]:
                             toml_root = os.path.join(minecraftroot, minecraftdir)
-                            update_toml_data(toml_root, minecraftdir, mc_version, False)
+                            update_toml_data(toml_root, minecraftdir, mc_version)
 
     convert_dict_to_list()
     return markdown_table(project_list).set_params(row_sep = "markdown", quote = False).get_markdown()
