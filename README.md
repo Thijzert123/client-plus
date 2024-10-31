@@ -132,3 +132,6 @@ This is all the content in the modpack, including mods, resource packs and shade
 |                  [e4mc](https://modrinth.com/project/qANg5Jrr)                 |   ✅  |   ❌  |
 |             [oωo (owo-lib)](https://modrinth.com/project/ccKDOlHs)             |   ✅  |   ❌  |
 |       [qrafty's Capitalized Font](https://modrinth.com/project/FA4ebMMU)       |   ✅  |   ✅  |
+
+## ToDo
+- [ ] Change project list generator to include Vanilla Tweaks resource packs.
