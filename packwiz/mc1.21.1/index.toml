@@ -17,6 +17,10 @@ file = "config/yosbr/options.txt"
 hash = "e7e8714256654a0018f1650d94504db09564a1d29a25766097ca11247c93f7a2"
 
 [[files]]
+file = "credits.txt"
+hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
+
+[[files]]
 file = "emotes/Cheer.emotecraft"
 hash = "bff0ecf72c000553aa94cb8423ae94d789dac417bc32af770fc0df8512661c98"
 
@@ -523,6 +527,22 @@ metafile = true
 file = "resourcepacks/3d-plants.pw.toml"
 hash = "9a4d40635b61605b879b63e48a5fcb71e3eec47d6a0f7e017b63474c7cdb3126"
 metafile = true
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_3D_r139394_MC1.21.x.zip"
+hash = "8522da8eb02a385144c3d2254a465cb51708132ce490f12f6d26855e409b2c6e"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_Colored_Ping_Indicator_r186221_MC1.21.x.zip"
+hash = "aa1dfd50864cc8e23a4be1bb6ed047e5e89425ddab3cfe60b6e2bb6b2f853112"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_Lower_Shield_r640024_MC1.21.x.zip"
+hash = "4adae284ccd9b2e47744b36fa00e5dc5c73f68581106383b6b543d727bebf47f"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_Variation_r730822_MC1.21.x.zip"
+hash = "785086ff39dc58abacaffa691b543818cacb93e426f446d3cfaea1a3bc89c6b7"
 
 [[files]]
 file = "resourcepacks/animated-items.pw.toml"
