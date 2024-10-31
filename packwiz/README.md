@@ -7,11 +7,19 @@ In the folder of a Minecraft version, run:
 packwiz modrinth export
 ```
 
-## Adding mods to another packwiz instance
-You can use `packwiz-import-mods.sh` to import all the mods, resource packs and shaders to another packwiz instance.
+## Updating or adding contents of this modpack to another packwiz instance
+You can use `packwiz_update.py` to import all the mods, resource packs and shaders to another packwiz instance. After that, you need to copy the contents of the directory `packwiz/overrides/<your Minecraft version>` to your folder containing the packwiz data. Don't forget to run `packwiz refresh` to update the hashes and the `index.toml` file. These actions would look something like this:
+```
+$ pwd # current working directory
+/home/john/git/client-plus/packwiz/YOUR-MC-VERSION
+$ python3 ../packwiz_update.py
+...
+$ cp -r ../overrides/YOUR-MC-VERSION/* .
+$ packwiz refresh
+```
 
 ## Generation of a project list
-With `packwiz-generate-project-list.py`, you can generate a list of all the mods used in this modpack and in which versions they come in. To download the dependencies, run `pip install py-markdown-table`. Then, while inside the packwiz directory, run:
+With `packwiz_generate_project_list.py`, you can generate a list of all the mods used in this modpack and in which versions they come in. To download the dependencies, run `pip install py-markdown-table`. Then, while inside the packwiz directory, run:
 ```bash
 python3 pip install py-markdown-table
 ```
