@@ -1,0 +1,13 @@
+name = "BindCommands"
+filename = "bind-cmd-1.5.1-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WeytAdLH/versions/fCTOUy3J/bind-cmd-1.5.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "73737ae7f9bb680461f2b466b695432a1ba96ee57a0f684453e611f16ec1025aa0791990da131b0cb98596d47f09a75e3c1ca25cf4db2276167562a3abb4c9f0"
+
+[update]
+[update.modrinth]
+mod-id = "WeytAdLH"
+version = "fCTOUy3J"

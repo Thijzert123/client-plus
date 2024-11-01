@@ -101,6 +101,11 @@ file = "emotes/yoinky sploinky.emotecraft"
 hash = "05933bc57359c9b7ace9a619eeb9dac1dac4eca54187e4145cc949a5ed03276f"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "f504ba087ee77ecd5a111e372eab535cddea4a7362f59902ccad72a6cb40ada2"
 metafile = true
@@ -108,6 +113,16 @@ metafile = true
 [[files]]
 file = "mods/better-stats.pw.toml"
 hash = "abd50b3c38738d8e69ab76dd8bd12452664c9077b90cf2a40521bea51660fb9b"
+metafile = true
+
+[[files]]
+file = "mods/bettercommandblockui.pw.toml"
+hash = "9280b4eda4267e59b47e6a029ef0cb7dbd81b0458bb2ba1266e6b75e41ee2acd"
+metafile = true
+
+[[files]]
+file = "mods/bindcommands.pw.toml"
+hash = "13f9269ca0c43781e8a0b0b1559f94dd03b5412f01e0183fec933d322a7ec8b4"
 metafile = true
 
 [[files]]
@@ -136,6 +151,11 @@ hash = "6bb5dc7d6fd4a3dcc54144f35ad6aee8d3d4903571931e702df9a83610d69179"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "81bedf03407dc7bce461e28e84ba38a4f289848272e3f5b67c4ebcf6ea7bb22f"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "9140b66e8acb149d35a2a719b772a7cfbd379a1fd1419787eac65734c0462af4"
 metafile = true
@@ -152,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "389abdf912da1a7ee300d5603bcd0db449481c5f6ad57920163afa8f25b9f9e5"
+hash = "0d8e3adfe182798fefea493226cdea7e40a3eaba5ffad556fd2f0e24909c3817"
 metafile = true
 
 [[files]]
@@ -192,7 +212,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7ed4b1f815d4c6121591cbad1d0b41fea818c4cb377b0f8f39655392f8cf63df"
+hash = "ef269caaa262a2239c2c89d93f8f52aed1b75504e4e10408d802e962853fd2f3"
+metafile = true
+
+[[files]]
+file = "mods/improved-sign-editing.pw.toml"
+hash = "2af826fa3aefd7e1264381881ba8d6a399a6d6e93e2e10992e4b9d2ca7d24c9c"
 metafile = true
 
 [[files]]
@@ -212,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "f98851f8b60b5bc324fd1fb1051603c7758af53329949dfcdcc5849f2bac0a68"
+hash = "140a10c7f0ab40b7155a4d19f184916c642dea27ffc488aa55417f73c7e6489e"
 metafile = true
 
 [[files]]
@@ -257,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "42d6325a886395b4370d12bd94d9d2f75e5dfabfb82d4f9b303d6f834968b181"
+hash = "31313dda4416f67bc44efb4fa021ffb596a475e9998104d46d9c5ee753347176"
 metafile = true
 
 [[files]]
@@ -288,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "a0478c37ec11704dc5136a4e92e9e0b54e3dc89e114bc6504692e8adfe4d423c"
+metafile = true
+
+[[files]]
+file = "mods/world-play-time.pw.toml"
+hash = "d381e862b3f1a29cabe97e64c96024ac2e8d9071969e91ae0390024488f9e7fb"
 metafile = true
 
 [[files]]
@@ -323,7 +353,7 @@ hash = "785086ff39dc58abacaffa691b543818cacb93e426f446d3cfaea1a3bc89c6b7"
 
 [[files]]
 file = "resourcepacks/better-flame-particles.pw.toml"
-hash = "ecb81e596bf26031e45a21c5cd044ceb54c48b7265dccc8376e2e0b64f29316e"
+hash = "ff85d06569c47f70c8fdd3ca44d80b3e19dff6e12e854a4bc8fd4ee09ec82940"
 metafile = true
 
 [[files]]
@@ -339,6 +369,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/default-splashes.pw.toml"
 hash = "2dd0a3abc81676163b8fc10db544a7babcc55776f0a69c4b2c044b9e193a68f8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dramatic-skys.pw.toml"
+hash = "aa4e5a5aba56e4a2deef8b84c9ec9098561d91e2acf1523302c00d5aa180c081"
 metafile = true
 
 [[files]]
@@ -374,4 +409,9 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "d222003558c856ef20e0865b26d03f92d1a6015bc6c6d637169bdbbfdbafcf3c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/miniature-shader.pw.toml"
+hash = "0cc19c395a702367e428fc03b6c54a3d2177e2f0f32ed5ba483ac58e19233e76"
 metafile = true
