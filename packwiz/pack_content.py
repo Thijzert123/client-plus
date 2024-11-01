@@ -75,7 +75,8 @@
                            "legendary-tooltips",
                            "flasback",
                            "bettercommandblockui",
-                           "improved-sign-editing"],
+                           "improved-sign-editing",
+                           "bindcommands"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
