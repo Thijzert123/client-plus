@@ -73,7 +73,7 @@
                            "extended-world-selection",
                            "clumps",
                            "legendary-tooltips",
-                           "flasback",
+                           "flashback",
                            "bettercommandblockui",
                            "improved-sign-editing",
                            "bindcommands"],
