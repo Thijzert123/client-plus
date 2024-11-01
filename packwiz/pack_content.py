@@ -73,7 +73,8 @@
                            "extended-world-selection",
                            "clumps",
                            "legendary-tooltips",
-                           "flasback"],
+                           "flasback",
+                           "bettercommandblockui"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
