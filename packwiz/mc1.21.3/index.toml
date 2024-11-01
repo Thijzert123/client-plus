@@ -196,6 +196,11 @@ hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "bfd3187408d732c518bdbbf7c4c4fbb07450dcdee31f0628c2271d823caf10b0"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "41504449b69a32068d2db598dfbc8d3690690e16a3a6d5cc1af256fbead1f653"
 metafile = true
