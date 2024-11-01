@@ -76,7 +76,8 @@
                            "flashback",
                            "bettercommandblockui",
                            "improved-sign-editing",
-                           "bindcommands"],
+                           "bindcommands",
+                           "fallingleaves"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
