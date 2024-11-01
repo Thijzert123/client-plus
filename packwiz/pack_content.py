@@ -65,7 +65,6 @@
                            "inventory-blur",
                            "calcmod",
                            "chunky",
-                           "noemotecraft",
                            "better-f1-reborn",
                            "xaeros-world-map",
                            "xaeros-minimap",
