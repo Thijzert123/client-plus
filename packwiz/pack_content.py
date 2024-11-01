@@ -30,7 +30,6 @@
                            "clientsort",
                            "bobby",
                            "fastquit",
-                           "no-chat-reports",
                            "mixintrace",
                            "e4mc",
                            "modelfix",
