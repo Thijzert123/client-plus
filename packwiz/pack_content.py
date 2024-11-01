@@ -72,7 +72,8 @@
                            "fast-ip-ping",
                            "extended-world-selection",
                            "clumps",
-                           "legendary-tooltips"],
+                           "legendary-tooltips",
+                           "flasback"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
