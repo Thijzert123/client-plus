@@ -1,13 +1,13 @@
 name = "Better Flame Particles"
-filename = "better_flame_particles-v2.1-mc1.14x-1.21x-resourcepack.zip"
+filename = "better_flame_particles-v2.2-mc1.14x-1.21x-resourcepack.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ivUZsvzp/versions/2LIpeoIm/better_flame_particles-v2.1-mc1.14x-1.21x-resourcepack.zip"
+url = "https://cdn.modrinth.com/data/ivUZsvzp/versions/AQvH8uLq/better_flame_particles-v2.2-mc1.14x-1.21x-resourcepack.zip"
 hash-format = "sha512"
-hash = "0a50e9e6342e5ee03181b50850c7343fad8ca3bb44910a977d8988dc7125eb5fe0c7be94cc31e063428850da68c4612a651b16dec612bec49c99c4a2d16ce952"
+hash = "adce2c1712ff39c980c4e2d9a9f910928e8792d21be9b9873217a5c454c6da73f789a3593e8d2b215620130f3f98a92d9d2f60ef605a79f4c7afcbce16bc889b"
 
 [update]
 [update.modrinth]
 mod-id = "ivUZsvzp"
-version = "2LIpeoIm"
+version = "AQvH8uLq"

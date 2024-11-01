@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "9460d497d821c589a08bbec71b094ce4fd8540324ee9a3f95aecc5ea1cb6399f"
+hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "9e987ca790ae39c1897b96b29fee74907e76282dd8ecd015c66e5ad35a814c02"
+hash = "6c697c8b7205ea2be0e04567b42e64f120ccda136930a99c059f80e15ed51ea7"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "20a941f234eb3182ddf55862ecfc9b5f24911a27e88310f2a127dd0e8d675008"
+hash = "b1a64c666e561ad9f9af5322e0364010b164b3b9ee03b0162d4054c683367d01"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "9b7a2371de4ca39b009067a20bd71a35100ef87ab16a4b0b34f04fc4ace881f3"
+hash = "e92486f046ce8e0abe24b61e4be63f691746fe521014672bc363c989e177e736"
 metafile = true
 
 [[files]]
@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "a7fbc8653864ad1160b2a05e6041ffb99fb1f9f34f67fe2f40a136121ba22b66"
+hash = "505f869f53c79f95ad105fdd9fccf24baa267fda9428eabde0525f98b471a817"
 metafile = true
 
 [[files]]
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "4e5d4dd178c19e09ef55e11fd4fd1cebd8f93fba7d9781ec5a95b3d95d5ddefb"
+hash = "4dc08fba8bbc2f015d56b0b0184bd19d2f9b897654d275151e7a3dbb9ee1792f"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "81a0c59e2345c142bd07b2fc792ba39b7d7a0a5b0ed0b74a0ca1aca827822b1c"
+hash = "2f7cd6067865d66bdd991e97389fd8ca6c4204f6032113d50d0c5d6bafea6e97"
 metafile = true
 
 [[files]]
@@ -551,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-flame-particles.pw.toml"
-hash = "ecb81e596bf26031e45a21c5cd044ceb54c48b7265dccc8376e2e0b64f29316e"
+hash = "ff85d06569c47f70c8fdd3ca44d80b3e19dff6e12e854a4bc8fd4ee09ec82940"
 metafile = true
 
 [[files]]
