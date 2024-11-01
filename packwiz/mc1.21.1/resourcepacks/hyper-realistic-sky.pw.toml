@@ -1,6 +1,7 @@
 name = "Hyper Realistic Sky"
 filename = "Hyper_Realistic_Sky_[v2.2].zip"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/PsMUgCo5/versions/Ag95J3hS/Hyper_Realistic_Sky_%5Bv2.2%5D.zip"

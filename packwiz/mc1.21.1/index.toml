@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/hyper-realistic-sky.pw.toml"
-hash = "b40a494b7e770b40c0f46d089bae58d14ff67ce2c2c4396434a639756c994c72"
+hash = "ad6e0d24cb0fd6dc920a404362f7c005cbcb760caf3250a76e73b9e2050fd32e"
 metafile = true
 
 [[files]]
