@@ -14,7 +14,6 @@
                            "language-reload",
                            "lambdynamiclights",
                            "badoptimizations",
-                           "vmp-fabric",
                            "entity-model-features",
                            "entitytexturefeatures",
                            "lighty",
