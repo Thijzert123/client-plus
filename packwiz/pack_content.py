@@ -74,7 +74,8 @@
                            "clumps",
                            "legendary-tooltips",
                            "flasback",
-                           "bettercommandblockui"],
+                           "bettercommandblockui",
+                           "improved-sign-editing"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
