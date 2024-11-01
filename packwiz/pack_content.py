@@ -105,5 +105,6 @@
                            "hyper-realistic-sky",
                            "grimdark-sky",
                            "animated-items",
-                           "better-lanterns"]
+                           "better-lanterns",
+                           "dramatic-skys"]
 }
