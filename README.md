@@ -16,16 +16,18 @@ This is all the content in the modpack, including mods, resource packs and shade
 |--------------------------------------------------------------------------------|------|------|
 |             [3D Skin Layers](https://modrinth.com/project/zV5r3pPn)            |   ✅  |   ❌  |
 |             [Animated Items](https://modrinth.com/project/uBBepXuH)            |   ✅  |   ❌  |
-|               [AppleSkin](https://modrinth.com/project/EsAfCjCV)               |   ✅  |   ❌  |
+|               [AppleSkin](https://modrinth.com/project/EsAfCjCV)               |   ✅  |   ✅  |
 |                [Auth Me](https://modrinth.com/project/yjgIrBjZ)                |   ✅  |   ❌  |
 |         [BSL Shaders - Original](https://modrinth.com/project/Q1vvjJYV)        |   ✅  |   ❌  |
 |            [BadOptimizations](https://modrinth.com/project/g96Z4WVZ)           |   ✅  |   ✅  |
+|        [Better Command Block UI](https://modrinth.com/project/8iQcgjQ2)        |   ✅  |   ✅  |
 |            [Better F1 Reborn](https://modrinth.com/project/2JIeCmxb)           |   ✅  |   ❌  |
 |         [Better Flame Particles](https://modrinth.com/project/ivUZsvzp)        |   ✅  |   ✅  |
 |            [Better Lanterns](https://modrinth.com/project/PGGrfcvL)            |   ✅  |   ✅  |
 |            [Better Mount HUD](https://modrinth.com/project/kqJFAPU9)           |   ✅  |   ❌  |
 |        [Better Statistics Screen](https://modrinth.com/project/n6PXGAoM)       |   ✅  |   ✅  |
 |                [BetterF3](https://modrinth.com/project/8shC1gFX)               |   ✅  |   ❌  |
+|              [BindCommands](https://modrinth.com/project/WeytAdLH)             |   ✅  |   ✅  |
 |                 [Bobby](https://modrinth.com/project/M08ruV16)                 |   ✅  |   ✅  |
 |               [CIT Resewn](https://modrinth.com/project/otVJckYQ)              |   ✅  |   ❌  |
 |                [CalcMod](https://modrinth.com/project/XoHTb2Ap)                |   ✅  |   ❌  |
@@ -36,6 +38,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |              [Client Sort](https://modrinth.com/project/K0AkAin6)              |   ✅  |   ✅  |
 |            [Cloth Config API](https://modrinth.com/project/9s6osm5g)           |   ✅  |   ✅  |
 |                 [Clumps](https://modrinth.com/project/Wnxd13zP)                |   ✅  |   ❌  |
+|               [Collective](https://modrinth.com/project/e0M1UDsY)              |   ✅  |   ✅  |
 |   [Complementary Shaders - Reimagined](https://modrinth.com/project/HVnmMxH1)  |   ✅  |   ✅  |
 |    [Complementary Shaders - Unbound](https://modrinth.com/project/R6NEzAwj)    |   ✅  |   ✅  |
 |               [Continuity](https://modrinth.com/project/1IjD5062)              |   ✅  |   ❌  |
@@ -44,6 +47,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |            [Cubic Sun & Moon](https://modrinth.com/project/g4bSYbrU)           |   ✅  |   ❌  |
 |            [Default Splashes](https://modrinth.com/project/RMESe7qr)           |   ✅  |   ✅  |
 |            [Detail Armor Bar](https://modrinth.com/project/hAt6ty93)           |   ✅  |   ✅  |
+|             [Dramatic Skys](https://modrinth.com/project/2YyNMled)             |   ✅  |   ✅  |
 |              [Dynamic FPS](https://modrinth.com/project/LQ3K71Q1)              |   ✅  |   ✅  |
 |            [Eating Animation](https://modrinth.com/project/rUgZvGzi)           |   ✅  |   ❌  |
 |             [Enchant Icons](https://modrinth.com/project/6vhHOIKw)             |   ✅  |   ❌  |
@@ -60,6 +64,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |              [Fast IP Ping](https://modrinth.com/project/9mtu0sUO)             |   ✅  |   ✅  |
 |                [FastQuit](https://modrinth.com/project/x1hIzbuY)               |   ✅  |   ❌  |
 |              [FerriteCore](https://modrinth.com/project/uXXizFIs)              |   ✅  |   ✅  |
+|               [Flashback](https://modrinth.com/project/4das1Fjq)               |   ✅  |   ❌  |
 |         [Forge Config API Port](https://modrinth.com/project/ohNO6lps)         |   ✅  |   ❌  |
 |            [Fresh Animations](https://modrinth.com/project/50dA9Sha)           |   ✅  |   ❌  |
 |        [Fresh Player Animations](https://modrinth.com/project/uYE6VsYf)        |   ✅  |   ❌  |
@@ -70,6 +75,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |                [Iceberg](https://modrinth.com/project/5faXoLqX)                |   ✅  |   ❌  |
 |                 [Icons](https://modrinth.com/project/O7z3QKAG)                 |   ✅  |   ❌  |
 |            [ImmediatelyFast](https://modrinth.com/project/5ZwdcRci)            |   ✅  |   ✅  |
+|         [Improved Sign Editing](https://modrinth.com/project/EWQifKYI)         |   ✅  |   ✅  |
 |             [Inventory Blur](https://modrinth.com/project/lTS6nyFs)            |   ✅  |   ❌  |
 |              [Iris Shaders](https://modrinth.com/project/YL57xq9U)             |   ✅  |   ✅  |
 |           [LambDynamicLights](https://modrinth.com/project/yBW8D80W)           |   ✅  |   ✅  |
@@ -82,7 +88,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |                [MaLiLib](https://modrinth.com/project/GcWjdA9I)                |   ✅  |   ❌  |
 |              [Mace but 3D](https://modrinth.com/project/6LzngQIs)              |   ✅  |   ✅  |
 |          [MakeUp - Ultra Fast](https://modrinth.com/project/izsIPI7a)          |   ✅  |   ❌  |
-|            [Miniature Shader](https://modrinth.com/project/UaS8ROxa)           |   ✅  |   ❌  |
+|            [Miniature Shader](https://modrinth.com/project/UaS8ROxa)           |   ✅  |   ✅  |
 |               [MixinTrace](https://modrinth.com/project/sGmHWmeL)              |   ✅  |   ❌  |
 |               [Mob Crates](https://modrinth.com/project/bYcjtBki)              |   ✅  |   ✅  |
 |                [Mod Menu](https://modrinth.com/project/mOgUt4GM)               |   ✅  |   ✅  |
@@ -121,7 +127,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |       [Very Many Players (Fabric)](https://modrinth.com/project/wnEe9KBa)      |   ✅  |   ✅  |
 |           [Visual Armor Trims](https://modrinth.com/project/tPtjib62)          |   ✅  |   ❌  |
 |               [Visuality](https://modrinth.com/project/rI0hvYcd)               |   ✅  |   ✅  |
-|            [World Play Time](https://modrinth.com/project/YkKeggdl)            |   ✅  |   ❌  |
+|            [World Play Time](https://modrinth.com/project/YkKeggdl)            |   ✅  |   ✅  |
 |            [Xaero's Minimap](https://modrinth.com/project/1bokaNcj)            |   ✅  |   ❌  |
 |           [Xaero's World Map](https://modrinth.com/project/NcUtCpym)           |   ✅  |   ❌  |
 |       [YetAnotherConfigLib (YACL)](https://modrinth.com/project/1eAoo2KR)      |   ✅  |   ✅  |
