@@ -90,7 +90,7 @@ hash = "05933bc57359c9b7ace9a619eeb9dac1dac4eca54187e4145cc949a5ed03276f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "3ba7d03b5b6f8a06c9bb6bfd48ee73858b6ee7cdeb51616e57e8e3cf348cf5a1"
+hash = "20fd19d17cd5436f4184105db0eb8f325ae097183f3adace1ec4981e204bbe50"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "4bfb1d289f403c3c78c687ca0101a03b474f5d36de013ba9236007657fc262d6"
+hash = "3aed30044ddce0ddc1b8bd23c5f8da11f784b6848a84a3bb04c9b394cd9d0182"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "d0a050b2a5fbb6234f8555e9c7de9b5afd7d64cb022484f44bb96546e1350ac0"
+hash = "069c8336de7ebd096411a547dd6a08aa71e0fc71ca88202f5590b93d7e2b6a37"
 metafile = true
 
 [[files]]
@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "1b02ebac642ccf7870fd24e7935072bf7446450e54bd455216751859b2fcf8a5"
+hash = "3105655e451d9a2d5cdd4f791cc6a8f20a4063da9bf5713eeaeb341ea702f8cf"
 metafile = true
 
 [[files]]
