@@ -75,7 +75,8 @@
                            "bettercommandblockui",
                            "improved-sign-editing",
                            "bindcommands",
-                           "fallingleaves"],
+                           "fallingleaves",
+                           "no-chat-reports"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
