@@ -101,6 +101,11 @@ file = "emotes/yoinky sploinky.emotecraft"
 hash = "05933bc57359c9b7ace9a619eeb9dac1dac4eca54187e4145cc949a5ed03276f"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "6e02fff6b30098b49f8c073ccef0ac0b3d24ee41fdd93429ff76dd569682ba10"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
 metafile = true
@@ -112,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "abd50b3c38738d8e69ab76dd8bd12452664c9077b90cf2a40521bea51660fb9b"
+hash = "386e990c85e864cd14bc4188750c0acb8f221f90b87377e91d122c88d9fac665"
 metafile = true
 
 [[files]]
@@ -216,6 +221,11 @@ hash = "bfd0e9e0e3ba950e458caf9687e2ebbf0a3c4e1f2f97259a25242f5649e808a9"
 metafile = true
 
 [[files]]
+file = "mods/flashback.pw.toml"
+hash = "84cfb0f3ee6bd8e98a4a0c15962cb8f90593ad8318b9966ff498eacde583eb55"
+metafile = true
+
+[[files]]
 file = "mods/glowing-torchflower.pw.toml"
 hash = "06c46f4319a3548afc70c19ba880d6f32b53c9b00f78af7ea3f8ce3197b2e610"
 metafile = true
@@ -281,6 +291,11 @@ hash = "97c158c4d7cdf095cb481ea4376f7f2d8f185dbc23d156aaea25415a46a31cc8"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "dcf6dc018809ec2d694268fda913030b4669d1b24099371ce82f7a380c3ff4b0"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "90c4e2a4c42f9cab7b9fd7ad860fdabb7f6d63c461a54ae3ba570f4580db9254"
 metafile = true
@@ -317,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "98ba867dd49c9933653d53906d54b1716b2b89f2d9d9ea18b1db433af73dfacf"
+hash = "95b4e72d3bb5459b33b7860a8a430ca935ab2486938f39a1ea2f157f1b964988"
 metafile = true
 
 [[files]]
@@ -394,6 +409,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fullbright-ub.pw.toml"
 hash = "49f59612c990ff39abe09b4eb1e7508cfe362e9e7b25ca6d90b1a9e811c64914"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hyper-realistic-sky.pw.toml"
+hash = "ad6e0d24cb0fd6dc920a404362f7c005cbcb760caf3250a76e73b9e2050fd32e"
 metafile = true
 
 [[files]]
