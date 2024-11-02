@@ -141,4 +141,4 @@ This is all the content in the modpack, including mods, resource packs and shade
 
 ## ToDo
 - [ ] Change project list generator to include Vanilla Tweaks resource packs
-- [ ] Add No Chat Reports when [this](https://github.com/Aizistral-Studios/No-Chat-Reports/issues/492) issue is fixed
+- [x] ~~Add No Chat Reports when [this](https://github.com/Aizistral-Studios/No-Chat-Reports/issues/492) issue is fixed~~
