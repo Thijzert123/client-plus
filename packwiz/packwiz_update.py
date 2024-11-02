@@ -5,6 +5,7 @@
 #
 
 import os
+import sys
 import tomllib # python >= 3.11
 import requests
 
@@ -47,8 +48,14 @@ def retrieve_pinned_projects():
 def main():
     if not os.path.isfile("pack.toml"):
         print("No pack.toml found, exiting")
-        exit(0)
+        exit(1)
 
+    if len(sys.argv) < 2:
+        print("Please specify Minecraft version (e.g. 1.21.1)")
+        exit(1)
+
+    mc_version = sys.argv[1]
+    
     pack_content = eval(open("../pack_content.py").read())
     pinned_projects = retrieve_pinned_projects()
 
@@ -57,7 +64,18 @@ def main():
             abstract_modrinth_id = convert_to_abstract_modrinth_id(project)
             if abstract_modrinth_id not in pinned_projects:
                 print("Adding project: " + project)
-                os.system("packwiz modrinth install --yes " + project)
+
+                if project == "no-chat-reports" and mc_version == "1.21.1":
+                    os.system("packwiz modrinth install --project-id no-chat-reports --version-id riMhCAII")
+                    os.system("packwiz pin no-chat-reports")
+                elif project == "controlify" and mc_version == "1.21.1":
+                    os.system("packwiz modrinth install --project-id controlify --version-id mYyOLshA")
+                    os.system("packwiz pin controlify")
+                elif project == "hyper-realistic-sky":
+                    os.system("packwiz modrinth install --project-id hyper-realistic-sky --version-id Ag95J3hS")
+                    os.system("packwiz pin hyper-realistic-sky")
+                else:
+                    os.system("packwiz modrinth install --yes " + project)
             else:
                 print("Project already in packwiz: " + project)
 
