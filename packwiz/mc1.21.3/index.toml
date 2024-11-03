@@ -196,6 +196,11 @@ hash = "bab4a9a4177f633e2a9d5c4d4bbd00f5bfa056324e7351a863ffb41d360f2baa"
 metafile = true
 
 [[files]]
+file = "mods/extended-world-selection.pw.toml"
+hash = "b685fdf6be1b2cf573865f35ae1abe5a54093611599d1a1fac66b036b850d728"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "74a3dc06ef31f258f4eb6e3b053775bfe466f6b9a1bc9ae1ae333dd2a863279a"
 metafile = true
