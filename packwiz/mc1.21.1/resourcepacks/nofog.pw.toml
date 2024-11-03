@@ -1,0 +1,13 @@
+name = "No Fog"
+filename = "NoFog.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nEIVEFEF/versions/RpRSb3mC/NoFog.zip"
+hash-format = "sha512"
+hash = "0573becc8dec2c20d5a3d684e065f9a7ed91a8adb7ab32e349d73400777042359d5513e57a303292f3fb02823d15041009d302f2614c8167b7c0052c6c603d2d"
+
+[update]
+[update.modrinth]
+mod-id = "nEIVEFEF"
+version = "RpRSb3mC"

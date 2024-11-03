@@ -397,6 +397,11 @@ hash = "da6cacd85d1b3dd1b058aac6934094901fe802b16370f5da8bab73da8ea20c78"
 metafile = true
 
 [[files]]
+file = "resourcepacks/bow-load-indicator.pw.toml"
+hash = "4a61bab01a625cbca8bf3fd1b7cf5f6454eb2bc31830df2da905b3045196390f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-splashes.pw.toml"
 hash = "2dd0a3abc81676163b8fc10db544a7babcc55776f0a69c4b2c044b9e193a68f8"
 metafile = true
@@ -424,6 +429,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mob-crates.pw.toml"
 hash = "b7dcc09736cc40dd812348a2591eb200ad23d6f9159de952ae2e89c8620790c3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/new-glowing-ores.pw.toml"
+hash = "0511040326c7649fde9b5784fff73b083f55e4ae7d43bfebc5e494cde0fe49e3"
 metafile = true
 
 [[files]]
