@@ -17,7 +17,7 @@ def convert_to_abstract_modrinth_id(human_readable_id):
     project_url = "https://api.modrinth.com/v2/project/" + human_readable_id
     r = requests.get(project_url)
     if r.status_code != 200:
-        print("Error while retrieving project " + human_readable_id)
+        print("Error while retrieving project " + human_readable_id + ", " + r.status_code)
         exit(1)
     project_details = r.json()
     return project_details["id"]
