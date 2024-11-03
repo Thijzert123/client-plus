@@ -447,6 +447,11 @@ hash = "df08ba59fb22b90abce8144115d8283e10b891687ac682d9f2b6d3e09775963d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/simple-grass-flowers.pw.toml"
+hash = "259183e1fb70031eef6042ebb5de9de6c71877352b8a13aa7fad1dd49c1b24f4"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "e6996ecb68a6c690558f589e7194d7df23a186ab8b75f0f67cfed069a280470b"
 metafile = true
