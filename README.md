@@ -31,6 +31,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |                [BetterF3](https://modrinth.com/project/8shC1gFX)               |   ✅  |   ❌  |
 |              [BindCommands](https://modrinth.com/project/WeytAdLH)             |   ✅  |   ✅  |
 |                 [Bobby](https://modrinth.com/project/M08ruV16)                 |   ✅  |   ✅  |
+|           [Bow Load Indicator](https://modrinth.com/project/dj5wVJsq)          |   ✅  |   ✅  |
 |               [CIT Resewn](https://modrinth.com/project/otVJckYQ)              |   ✅  |   ❌  |
 |                [CalcMod](https://modrinth.com/project/XoHTb2Ap)                |   ✅  |   ❌  |
 |                 [Capes](https://modrinth.com/project/89Wsn8GD)                 |   ✅  |   ✅  |
@@ -103,7 +104,9 @@ This is all the content in the modpack, including mods, resource packs and shade
 |              [Mouse Tweaks](https://modrinth.com/project/aC3cM3Vq)             |   ✅  |   ✅  |
 |  [Music Delay Remover (Infinite Music)](https://modrinth.com/project/OJLdOa8k) |   ✅  |   ❌  |
 |           [Music Notification](https://modrinth.com/project/A4YQgwzz)          |   ✅  |   ✅  |
+|            [New Glowing Ores](https://modrinth.com/project/oL18adaQ)           |   ✅  |   ✅  |
 |            [No Chat Reports](https://modrinth.com/project/qQyHxfxd)            |   ✅  |   ✅  |
+|                 [No Fog](https://modrinth.com/project/nEIVEFEF)                |   ✅  |   ❌  |
 |       [No Resource Pack Warnings](https://modrinth.com/project/6xKUDQcB)       |   ✅  |   ❌  |
 |                [Noisium](https://modrinth.com/project/KuNKN7d2)                |   ✅  |   ❌  |
 |         [Not Enough Animations](https://modrinth.com/project/MPCX6s5C)         |   ✅  |   ❌  |
@@ -116,7 +119,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |               [Reimagined](https://modrinth.com/project/ta5dy0aA)              |   ✅  |   ❌  |
 |           [Rethinking Voxels](https://modrinth.com/project/kmwfVOoi)           |   ✅  |   ❌  |
 |          [Shulker Box Tooltip](https://modrinth.com/project/2M01OLQq)          |   ✅  |   ✅  |
-|          [Simple Grass Flowers](https://modrinth.com/project/ti9KkMHm)         |   ✅  |   ❌  |
+|          [Simple Grass Flowers](https://modrinth.com/project/ti9KkMHm)         |   ✅  |   ✅  |
 |           [Simple Voice Chat](https://modrinth.com/project/9eGKb6K1)           |   ✅  |   ✅  |
 |              [Skin Shuffle](https://modrinth.com/project/3s19I5jr)             |   ✅  |   ❌  |
 |              [Sodium Extra](https://modrinth.com/project/PtjYWJkn)             |   ✅  |   ✅  |
