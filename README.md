@@ -14,7 +14,7 @@ _Note: a few mods are (partially) server-side or require a server with the same 
 This is all the content in the modpack, including mods, resource packs and shaders and their dependencies:
 |                                      Name                                      |1.21.1|1.21.3|
 |--------------------------------------------------------------------------------|------|------|
-|             [3D Skin Layers](https://modrinth.com/project/zV5r3pPn)            |   ✅  |   ❌  |
+|             [3D Skin Layers](https://modrinth.com/project/zV5r3pPn)            |   ✅  |   ✅  |
 |             [Animated Items](https://modrinth.com/project/uBBepXuH)            |   ✅  |   ❌  |
 |               [AppleSkin](https://modrinth.com/project/EsAfCjCV)               |   ✅  |   ✅  |
 |                [Auth Me](https://modrinth.com/project/yjgIrBjZ)                |   ✅  |   ❌  |
@@ -52,26 +52,27 @@ This is all the content in the modpack, including mods, resource packs and shade
 |            [Eating Animation](https://modrinth.com/project/rUgZvGzi)           |   ✅  |   ❌  |
 |             [Enchant Icons](https://modrinth.com/project/6vhHOIKw)             |   ✅  |   ❌  |
 |        [Enhanced Block Entities](https://modrinth.com/project/OVuFYfre)        |   ✅  |   ❌  |
-|             [Entity Culling](https://modrinth.com/project/NNAgCjsB)            |   ✅  |   ❌  |
+|             [Entity Culling](https://modrinth.com/project/NNAgCjsB)            |   ✅  |   ✅  |
 |          [Even Better Enchants](https://modrinth.com/project/6udpuGCH)         |   ✅  |   ✅  |
-|        [Extended world selection](https://modrinth.com/project/hejbH2cH)       |   ✅  |   ❌  |
+|        [Extended world selection](https://modrinth.com/project/hejbH2cH)       |   ✅  |   ✅  |
 |               [Fabric API](https://modrinth.com/project/P7dR8mSH)              |   ✅  |   ✅  |
 |         [Fabric Language Kotlin](https://modrinth.com/project/Ha28R6CL)        |   ✅  |   ✅  |
 |         [FabricSkyBoxes Interop](https://modrinth.com/project/HpdHOPOp)        |   ✅  |   ❌  |
 |             [FabricSkyboxes](https://modrinth.com/project/YBz7DOs8)            |   ✅  |   ❌  |
 |               [Fabrishot](https://modrinth.com/project/3qsfQtE9)               |   ✅  |   ❌  |
+|             [Falling Leaves](https://modrinth.com/project/WhbRG4iK)            |   ✅  |   ✅  |
 |              [Fancy Crops](https://modrinth.com/project/UGEVQ6t9)              |   ✅  |   ❌  |
 |              [Fast IP Ping](https://modrinth.com/project/9mtu0sUO)             |   ✅  |   ✅  |
 |                [FastQuit](https://modrinth.com/project/x1hIzbuY)               |   ✅  |   ❌  |
 |              [FerriteCore](https://modrinth.com/project/uXXizFIs)              |   ✅  |   ✅  |
-|               [Flashback](https://modrinth.com/project/4das1Fjq)               |   ✅  |   ❌  |
+|               [Flashback](https://modrinth.com/project/4das1Fjq)               |   ✅  |   ✅  |
 |         [Forge Config API Port](https://modrinth.com/project/ohNO6lps)         |   ✅  |   ❌  |
 |            [Fresh Animations](https://modrinth.com/project/50dA9Sha)           |   ✅  |   ❌  |
 |        [Fresh Player Animations](https://modrinth.com/project/uYE6VsYf)        |   ✅  |   ❌  |
 |             [Fullbright UB](https://modrinth.com/project/ItHr72Fy)             |   ✅  |   ✅  |
 |          [Glowing Torchflower](https://modrinth.com/project/1S4LxcvL)          |   ✅  |   ✅  |
 |           [Grimdark Sky Pack](https://modrinth.com/project/TzZ0IFZH)           |   ✅  |   ❌  |
-|          [Hyper Realistic Sky](https://modrinth.com/project/PsMUgCo5)          |   ✅  |   ❌  |
+|          [Hyper Realistic Sky](https://modrinth.com/project/PsMUgCo5)          |   ✅  |   ✅  |
 |                [Iceberg](https://modrinth.com/project/5faXoLqX)                |   ✅  |   ❌  |
 |                 [Icons](https://modrinth.com/project/O7z3QKAG)                 |   ✅  |   ❌  |
 |            [ImmediatelyFast](https://modrinth.com/project/5ZwdcRci)            |   ✅  |   ✅  |
@@ -106,13 +107,13 @@ This is all the content in the modpack, including mods, resource packs and shade
 |         [Not Enough Animations](https://modrinth.com/project/MPCX6s5C)         |   ✅  |   ❌  |
 |              [Particular ✨](https://modrinth.com/project/B1CcCd9h)             |   ✅  |   ❌  |
 |            [Pick Up Notifier](https://modrinth.com/project/ZX66K16c)           |   ✅  |   ❌  |
-|                [Polytone](https://modrinth.com/project/3qAYkBMB)               |   ✅  |   ❌  |
+|                [Polytone](https://modrinth.com/project/3qAYkBMB)               |   ✅  |   ✅  |
 |                 [Prism](https://modrinth.com/project/1OE8wbN0)                 |   ✅  |   ❌  |
 |              [Puzzles Lib](https://modrinth.com/project/QAGBst4M)              |   ✅  |   ❌  |
 |            [Redstone Tweaks](https://modrinth.com/project/RvfAlf4Z)            |   ✅  |   ✅  |
 |               [Reimagined](https://modrinth.com/project/ta5dy0aA)              |   ✅  |   ❌  |
 |           [Rethinking Voxels](https://modrinth.com/project/kmwfVOoi)           |   ✅  |   ❌  |
-|          [Shulker Box Tooltip](https://modrinth.com/project/2M01OLQq)          |   ✅  |   ❌  |
+|          [Shulker Box Tooltip](https://modrinth.com/project/2M01OLQq)          |   ✅  |   ✅  |
 |          [Simple Grass Flowers](https://modrinth.com/project/ti9KkMHm)         |   ✅  |   ❌  |
 |           [Simple Voice Chat](https://modrinth.com/project/9eGKb6K1)           |   ✅  |   ✅  |
 |              [Skin Shuffle](https://modrinth.com/project/3s19I5jr)             |   ✅  |   ❌  |
@@ -124,7 +125,6 @@ This is all the content in the modpack, including mods, resource packs and shade
 |             [TCDCommons API](https://modrinth.com/project/Eldc1g37)            |   ✅  |   ✅  |
 |          [Text Placeholder API](https://modrinth.com/project/eXts2L7r)         |   ✅  |   ✅  |
 |       [Vervada's enhanced plants](https://modrinth.com/project/ghc0v6DT)       |   ✅  |   ❌  |
-|       [Very Many Players (Fabric)](https://modrinth.com/project/wnEe9KBa)      |   ✅  |   ✅  |
 |           [Visual Armor Trims](https://modrinth.com/project/tPtjib62)          |   ✅  |   ❌  |
 |               [Visuality](https://modrinth.com/project/rI0hvYcd)               |   ✅  |   ✅  |
 |            [World Play Time](https://modrinth.com/project/YkKeggdl)            |   ✅  |   ✅  |
@@ -139,6 +139,8 @@ This is all the content in the modpack, including mods, resource packs and shade
 |             [oωo (owo-lib)](https://modrinth.com/project/ccKDOlHs)             |   ✅  |   ❌  |
 |       [qrafty's Capitalized Font](https://modrinth.com/project/FA4ebMMU)       |   ✅  |   ✅  |
 
-## ToDo
-- [ ] Change project list generator to include Vanilla Tweaks resource packs
-- [x] ~~Add No Chat Reports when [this](https://github.com/Aizistral-Studios/No-Chat-Reports/issues/492) issue is fixed~~
+Apart from that, we also include various Vanilla Tweaks resource packs:
+- [3D](https://vanillatweaks.net/share/#i3k5KZ)
+- [Colored Ping Indicator](https://vanillatweaks.net/share/#lz4EZp)
+- [Lower Shield](https://vanillatweaks.net/share#dczqmI)
+- [Variated Blocks](https://vanillatweaks.net/share#Oz7pBC)
