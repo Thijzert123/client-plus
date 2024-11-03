@@ -110,5 +110,8 @@
                            "grimdark-sky",
                            "animated-items",
                            "better-lanterns",
-                           "dramatic-skys"]
+                           "dramatic-skys",
+                           "new-glowing-ores",
+                           "bow-load-indicator",
+                           "nofog"]
 }
