@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "db4e5efaaaf8caf66feebb7023c217f1ac3083cfa967fbdcd439aa41df8a7ab0"
+hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "d6c35ed0fef6b7e708e007bf2f885b0c839ad3024870467ca352d7ed4b776c06"
+hash = "e43ec2832e62efbb8625a0ccb57de93c7fa2bdcb1f53ecf6f60824cac738a9a1"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "8663b25e8805cc38d50355590699b2266c2c8be50000451311c866113aa29b4b"
+hash = "0382e17bb9cfb6e3f111ddcc69438cfa45dfa43d367651f736ab0e2a065f69c6"
 metafile = true
 
 [[files]]

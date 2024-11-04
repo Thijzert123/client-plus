@@ -126,6 +126,11 @@ hash = "9280b4eda4267e59b47e6a029ef0cb7dbd81b0458bb2ba1266e6b75e41ee2acd"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "f1abbc18408577afdca37f201e5fcca3ec702ed39131d9cffab3a6e3747917d8"
+metafile = true
+
+[[files]]
 file = "mods/bindcommands.pw.toml"
 hash = "13f9269ca0c43781e8a0b0b1559f94dd03b5412f01e0183fec933d322a7ec8b4"
 metafile = true
@@ -147,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "377f3776f96baf8a4376452266f6d8492219e74013e9be9741ca6b0b9e39e27b"
+hash = "3d461742b51c1fe7e039c2fb101772414e5d97d11855ca75e8919f28b18bcafb"
 metafile = true
 
 [[files]]
@@ -247,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d3d53e83fbebd420919804c2204e411923f8ea0c62fafa2771c0beb5ed4cfbe2"
+hash = "e42830c54c1c892fdd0ee731c158b20930546d02a7d306768d57f0e8fb422a00"
 metafile = true
 
 [[files]]
