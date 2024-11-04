@@ -82,7 +82,12 @@
                            "resourcify",
                            "craftpresence",
                            "advancement-plaques",
-                           "chunks-fade-in"],
+                           "chunks-fade-in",
+                           "krypton",
+                           "make_bubbles_pop",
+                           "snapper",
+                           "seamless-loading-screen",
+                           "screenshot-to-clipboard"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
