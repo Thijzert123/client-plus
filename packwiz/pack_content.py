@@ -81,7 +81,8 @@
                            "indium",
                            "resourcify",
                            "craftpresence",
-                           "advancement-plaques"],
+                           "advancement-plaques",
+                           "chunks-fade-in"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
