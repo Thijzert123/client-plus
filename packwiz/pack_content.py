@@ -76,7 +76,9 @@
                            "improved-sign-editing",
                            "bindcommands",
                            "fallingleaves",
-                           "no-chat-reports"],
+                           "no-chat-reports",
+                           "paginatedadvancements",
+                           "indium"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
