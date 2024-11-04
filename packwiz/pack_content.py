@@ -114,6 +114,5 @@
                            "better-lanterns",
                            "dramatic-skys",
                            "new-glowing-ores",
-                           "bow-load-indicator",
-                           "nofog"]
+                           "bow-load-indicator"]
 }
