@@ -171,6 +171,11 @@ hash = "9140b66e8acb149d35a2a719b772a7cfbd379a1fd1419787eac65734c0462af4"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "420d7cd0252260daf1b8656bfc3055bf6f8ca27c8495432130c7b49fb37b103b"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "f32c30de1ae7dbeeae00b654eb15ea358c6d26f631dc292bdb88dba9c30a8cc8"
 metafile = true
@@ -316,6 +321,11 @@ hash = "5118828f042b9a50e97f906d36b732b261bd83f65c0b07e1ebd7258578f3f3d0"
 metafile = true
 
 [[files]]
+file = "mods/resourcify.pw.toml"
+hash = "8a8811491d33e0164792ad8cd872c307596da9ab15c13ab2720121cef91a6495"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "766ccbf1ce73d127cd7c59547b501aded621e79caffa8363fdf5724b157b7166"
 metafile = true
@@ -343,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "95b4e72d3bb5459b33b7860a8a430ca935ab2486938f39a1ea2f157f1b964988"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "25d1cabf98095278221878a2ed05a19b641ee4a5e25a802c3492b88e6cc8e0c2"
 metafile = true
 
 [[files]]
@@ -404,6 +419,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/bow-load-indicator.pw.toml"
 hash = "4a61bab01a625cbca8bf3fd1b7cf5f6454eb2bc31830df2da905b3045196390f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "ac13f7c9bc5f99ce85c6104f0aff4d36117c98bd7e6b8c124c7ecb21b94604de"
 metafile = true
 
 [[files]]

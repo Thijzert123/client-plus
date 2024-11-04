@@ -204,6 +204,11 @@ hash = "55d01712b99ba5ea4f3dfca5b38cd4692afd6732c3d897e704c8cdc717f245a3"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "0d393d125275f28d7cec57525f02ad664af5b471c10cd0ce5f465b0379e21850"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "7797b4dcd9c68b4555caf2629b0bff76f234ae04e8b42956e95ce2c65807049e"
 metafile = true
@@ -489,6 +494,11 @@ hash = "dd4b5f371bf4737672ed5bde3a1e45690541ab23cc32236ca2019aba603e51d2"
 metafile = true
 
 [[files]]
+file = "mods/resourcify.pw.toml"
+hash = "69b0045cda21697af714c4546c43d1643e38efaac029bcb3d6bf954870a5a886"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "4dc08fba8bbc2f015d56b0b0184bd19d2f9b897654d275151e7a3dbb9ee1792f"
 metafile = true
@@ -521,6 +531,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "3105655e451d9a2d5cdd4f791cc6a8f20a4063da9bf5713eeaeb341ea702f8cf"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "8876d40c26a95e28a925c2e9339bbda9e1a21843ecec39abf4737cbc264a4147"
 metafile = true
 
 [[files]]
@@ -605,6 +620,11 @@ hash = "4a61bab01a625cbca8bf3fd1b7cf5f6454eb2bc31830df2da905b3045196390f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "ac13f7c9bc5f99ce85c6104f0aff4d36117c98bd7e6b8c124c7ecb21b94604de"
+metafile = true
+
+[[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"
 hash = "a6067de910898e6b132045cea193f30bba6224a0400f5a4c099f82e3b39c9a69"
 metafile = true
@@ -677,11 +697,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/new-glowing-ores.pw.toml"
 hash = "0511040326c7649fde9b5784fff73b083f55e4ae7d43bfebc5e494cde0fe49e3"
-metafile = true
-
-[[files]]
-file = "resourcepacks/nofog.pw.toml"
-hash = "8a05bad348617c83d93652265a162795d23758287496ba0d9d1b2d66cb1ab483"
 metafile = true
 
 [[files]]
