@@ -78,7 +78,8 @@
                            "fallingleaves",
                            "no-chat-reports",
                            "paginatedadvancements",
-                           "indium"],
+                           "indium",
+                           "resourcify"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
