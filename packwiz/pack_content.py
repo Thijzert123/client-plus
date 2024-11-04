@@ -114,5 +114,6 @@
                            "better-lanterns",
                            "dramatic-skys",
                            "new-glowing-ores",
-                           "bow-load-indicator"]
+                           "bow-load-indicator",
+                           "chat-reporting-helper"]
 }
