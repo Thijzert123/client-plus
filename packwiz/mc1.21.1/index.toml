@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "84d7829103b314743bd9760cb6cd0d101c7c39d8ddfe5114de0d03c7730c3df9"
+hash = "80c54802303925188e17006fdbaad0c05c007d2e35a107ecfb238ff6118e402a"
 metafile = true
 
 [[files]]
@@ -326,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/improved-sign-editing.pw.toml"
 hash = "4e0c776eb758664740d9aebbf894b6a7a556074a8b4c1c0e9fa8910286f5689b"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
 metafile = true
 
 [[files]]
@@ -446,6 +451,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "22d2bd35f4752e53e7604168881af536589e1a29df882bc0f2431e38912a58ec"
+metafile = true
+
+[[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "110132a70b524eaadb750bc110c9344d84432da97a5434ae185e815d778d21f0"
 metafile = true
 
 [[files]]
