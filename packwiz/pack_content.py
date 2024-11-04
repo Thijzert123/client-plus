@@ -79,7 +79,8 @@
                            "no-chat-reports",
                            "paginatedadvancements",
                            "indium",
-                           "resourcify"],
+                           "resourcify",
+                           "craftpresence"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
