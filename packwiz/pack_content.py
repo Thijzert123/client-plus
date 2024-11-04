@@ -80,7 +80,8 @@
                            "paginatedadvancements",
                            "indium",
                            "resourcify",
-                           "craftpresence"],
+                           "craftpresence",
+                           "advancement-plaques"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
