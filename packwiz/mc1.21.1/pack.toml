@@ -1,6 +1,6 @@
 name = "Client+"
 author = "Thijzert"
-version = "1.0.0+1.21.1-beta.1"
+version = "1.0.0+1.21.1-beta.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
