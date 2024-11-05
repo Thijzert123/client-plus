@@ -169,11 +169,6 @@ hash = "e019787865ea432893629a076f69708f61a63fbd7c91c73337197f7373f95a8a"
 metafile = true
 
 [[files]]
-file = "mods/chunks-fade-in.pw.toml"
-hash = "4cc08d03433fa396e3251e218cf25f1b319d5e4464849a0807ab62b0201d8754"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8d3bd79b5dcb781507857f857b2a0c78cd31ea489f19444ab63cf429d2a64d03"
 metafile = true
