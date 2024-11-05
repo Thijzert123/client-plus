@@ -82,7 +82,6 @@
                            "resourcify",
                            "craftpresence",
                            "advancement-plaques",
-                           "chunks-fade-in",
                            "krypton",
                            "make_bubbles_pop",
                            "snapper",
