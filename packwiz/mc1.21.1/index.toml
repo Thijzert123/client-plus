@@ -94,6 +94,11 @@ hash = "20fd19d17cd5436f4184105db0eb8f325ae097183f3adace1ec4981e204bbe50"
 metafile = true
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "9329663d157d0dfa1c9a5a4c5ccad1d1c5042759527ce503ed46804fe1c357f3"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
@@ -161,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "e019787865ea432893629a076f69708f61a63fbd7c91c73337197f7373f95a8a"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "4cc08d03433fa396e3251e218cf25f1b319d5e4464849a0807ab62b0201d8754"
 metafile = true
 
 [[files]]
@@ -340,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-music.pw.toml"
-hash = "1496d36f8ffbb1400b3684eb8ccff4d484a2e682f1c3c5e055cd9f5068ff8912"
+hash = "f5afb2456a9d6809d335f84882fb8a944c52fa22510866b048f54f9c870fe90e"
 metafile = true
 
 [[files]]
@@ -351,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "0382e17bb9cfb6e3f111ddcc69438cfa45dfa43d367651f736ab0e2a065f69c6"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
 
 [[files]]
@@ -389,6 +404,11 @@ hash = "d566d65c32658f8b6e445ab0261edb7c5488d931328767e2495b3c494501a74f"
 metafile = true
 
 [[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "f531a8ee70e9d78ee62a84e3fd18088070dcf8f2cee2384a8aabed16dbfafe6c"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "dd941ad7e4c054475831614e7d8197684c3f0667075b8b69dc093da4ab653755"
 metafile = true
@@ -405,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c60d088f476eb37e15d88a762591d39874a99d80c729da813e0f4951e2906d16"
+hash = "d795ac4bc7321d5b9defa33eaba9e03b5fa38b8345d827417d9366913567cb67"
 metafile = true
 
 [[files]]
@@ -499,6 +519,16 @@ hash = "69b0045cda21697af714c4546c43d1643e38efaac029bcb3d6bf954870a5a886"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "86ff9b67d90f046045619aa571df7bad909e480711c5d8b8967e3efca84ad16a"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "365fe19fb21fd8b81f3684a5646f9eac1509a7cd459f9a78cdac2a6a86041101"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "4dc08fba8bbc2f015d56b0b0184bd19d2f9b897654d275151e7a3dbb9ee1792f"
 metafile = true
@@ -511,6 +541,11 @@ metafile = true
 [[files]]
 file = "mods/skinshuffle.pw.toml"
 hash = "358ddfbe575dc18bfc25ea1471304a8ffd33be4dc58534b15e35e1487da80f75"
+metafile = true
+
+[[files]]
+file = "mods/snapper.pw.toml"
+hash = "b233111b5f7da33d0364ce71ecd83e728dd28c8e21211bc2a34b097c193225c6"
 metafile = true
 
 [[files]]

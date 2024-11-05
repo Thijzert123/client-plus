@@ -1,0 +1,13 @@
+name = "Music Delay Remover (Infinite Music)"
+filename = "infinite-music-0.4.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OJLdOa8k/versions/YeKqV93s/infinite-music-0.4.5.jar"
+hash-format = "sha512"
+hash = "2115d2c358e1b87c714e1c8ae1042a4e5efdc348769f7198abe3562a0c6318a3fcf938b4642344effb475ea8c0ed453fd3e1a353f810d7ddf3833b88f0231b06"
+
+[update]
+[update.modrinth]
+mod-id = "OJLdOa8k"
+version = "YeKqV93s"

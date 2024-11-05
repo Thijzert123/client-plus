@@ -1,0 +1,13 @@
+name = "Snapper"
+filename = "snapper1.0.0x1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MZQyESDC/versions/JYWFOAnC/snapper1.0.0x1.21.jar"
+hash-format = "sha512"
+hash = "74e453ef1a3c94eb9b641650f6a9aa6c030a0467c4c96a2571e7d598d952241ae91bce22ae36746d68cdfa0b396856b1587a62d4bc8772ac21118b58c805bbad"
+
+[update]
+[update.modrinth]
+mod-id = "MZQyESDC"
+version = "JYWFOAnC"

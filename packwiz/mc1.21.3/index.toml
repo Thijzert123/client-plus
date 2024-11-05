@@ -151,6 +151,16 @@ hash = "c105e0cc947060ba738fc37eaf6d7099f886b0d7bfe0c28498b454bd71c58271"
 metafile = true
 
 [[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "c0705e4ee78a2058321c7247ba193b86ca7a8b1be6d82b0fa8ca03dd237ba604"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "64c483fe6597534270aac57d7cd3f59928641b97de649312a14d392b5343e483"
+metafile = true
+
+[[files]]
 file = "mods/clientsort.pw.toml"
 hash = "3d461742b51c1fe7e039c2fb101772414e5d97d11855ca75e8919f28b18bcafb"
 metafile = true
@@ -256,8 +266,18 @@ hash = "2af826fa3aefd7e1264381881ba8d6a399a6d6e93e2e10992e4b9d2ca7d24c9c"
 metafile = true
 
 [[files]]
+file = "mods/infinite-music.pw.toml"
+hash = "bcd273c7ca706f8845aacc6b46a12cece99e34190a194b79bb0b82fb9e83d753"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "e42830c54c1c892fdd0ee731c158b20930546d02a7d306768d57f0e8fb422a00"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
 
 [[files]]
@@ -308,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "dcf6dc018809ec2d694268fda913030b4669d1b24099371ce82f7a380c3ff4b0"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "1d1edcd545d8ce0252488071aaa0d69fb7bfe9a937a21117f00e4b122f049ce3"
 metafile = true
 
 [[files]]
