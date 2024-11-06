@@ -90,7 +90,7 @@ hash = "05933bc57359c9b7ace9a619eeb9dac1dac4eca54187e4145cc949a5ed03276f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "20fd19d17cd5436f4184105db0eb8f325ae097183f3adace1ec4981e204bbe50"
+hash = "322fd11cf2b368465e64f828f8442cbe24abd7ea069a3490ec8a0d58e46a4e5c"
 metafile = true
 
 [[files]]
@@ -166,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "e019787865ea432893629a076f69708f61a63fbd7c91c73337197f7373f95a8a"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "05f43b63f135bddef9b29d50ca9ff49879f3a665085690986464be8f32b02f3c"
 metafile = true
 
 [[files]]

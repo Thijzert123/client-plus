@@ -102,7 +102,7 @@ hash = "05933bc57359c9b7ace9a619eeb9dac1dac4eca54187e4145cc949a5ed03276f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "6e02fff6b30098b49f8c073ccef0ac0b3d24ee41fdd93429ff76dd569682ba10"
+hash = "285cd6ea8b1092fc876ca76c021876ef673a770a74a838b2d26114660ca9b75f"
 metafile = true
 
 [[files]]
@@ -148,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "c105e0cc947060ba738fc37eaf6d7099f886b0d7bfe0c28498b454bd71c58271"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "215a1240424e4f203fecc236e506ed760d34f37399ff9c567af53537decccbd1"
 metafile = true
 
 [[files]]
