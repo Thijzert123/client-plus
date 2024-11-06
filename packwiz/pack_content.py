@@ -86,7 +86,8 @@
                            "make_bubbles_pop",
                            "snapper",
                            "seamless-loading-screen",
-                           "screenshot-to-clipboard"],
+                           "screenshot-to-clipboard",
+                           "chunks-fade-in"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",

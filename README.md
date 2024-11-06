@@ -149,6 +149,3 @@ Apart from that, we also include various Vanilla Tweaks resource packs:
 - [Colored Ping Indicator](https://vanillatweaks.net/share/#lz4EZp)
 - [Lower Shield](https://vanillatweaks.net/share#dczqmI)
 - [Variated Blocks](https://vanillatweaks.net/share#Oz7pBC)
-
-## TODO
-- [ ] Add [Chunks fade in](https://modrinth.com/mod/chunks-fade-in) when [this](https://github.com/kerudion/chunksfadein/issues/99#issue-2633830768) issue is resolved.
