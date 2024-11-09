@@ -5,24 +5,12 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "d8c6c5843af8a5ebd1f2ef3f853ba4045a1dde73a0648765e4d0b254122a3790"
 
 [[files]]
-file = "config/yosbr/config/sodium-options.json~"
-hash = "eb5d7db89c5248fd6450216797b50e4b755e6fbeeb17ce21d4f510a2c98e6ec0"
-
-[[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "28a9d68f9a8097d8a808ccd2fc3043a5b6989bba3695c83ee5eeaaccc66aae4d"
 
 [[files]]
-file = "config/yosbr/config/xaerominimap.txt~"
-hash = "1e16635ebd025f16fe2b60d1dacb7bb4979ef6cb0b458798ba282d7fbba56cf5"
-
-[[files]]
 file = "config/yosbr/config/xaerominimap_entities.json"
 hash = "2403af18d131d038d9db0a7b76f66997c594166e19db5f63f2e58caa9fc850af"
-
-[[files]]
-file = "config/yosbr/config/xaerominimap_entities.json~"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -332,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "dcf6dc018809ec2d694268fda913030b4669d1b24099371ce82f7a380c3ff4b0"
+hash = "477ee00ae9c0473f452c78a3191428a5758486c4e74955e0fc741481fc5dc14b"
 metafile = true
 
 [[files]]
