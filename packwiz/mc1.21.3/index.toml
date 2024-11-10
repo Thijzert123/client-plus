@@ -5,12 +5,24 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "d8c6c5843af8a5ebd1f2ef3f853ba4045a1dde73a0648765e4d0b254122a3790"
 
 [[files]]
+file = "config/yosbr/config/sodium-options.json~"
+hash = "eb5d7db89c5248fd6450216797b50e4b755e6fbeeb17ce21d4f510a2c98e6ec0"
+
+[[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "28a9d68f9a8097d8a808ccd2fc3043a5b6989bba3695c83ee5eeaaccc66aae4d"
 
 [[files]]
+file = "config/yosbr/config/xaerominimap.txt~"
+hash = "1e16635ebd025f16fe2b60d1dacb7bb4979ef6cb0b458798ba282d7fbba56cf5"
+
+[[files]]
 file = "config/yosbr/config/xaerominimap_entities.json"
 hash = "2403af18d131d038d9db0a7b76f66997c594166e19db5f63f2e58caa9fc850af"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap_entities.json~"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -285,7 +297,12 @@ metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "140a10c7f0ab40b7155a4d19f184916c642dea27ffc488aa55417f73c7e6489e"
+hash = "9238e21004871fa972bdb05e1b39062fb7cbc25ed7bd122e871d051ba1d9f4d6"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "9b29ae99d79593df0ca70661e04a96f5e871ef631d703216f6a1c3aec61b9c12"
 metafile = true
 
 [[files]]
@@ -305,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "a1cc57acc756f73f2fd9c282350ecb883df96a455c3632126705ffdb232ccbdb"
+hash = "7407b47719f2901c0e0d0f0b5af2aa999703b78ec19b6728deecdfb724d49181"
 metafile = true
 
 [[files]]
@@ -321,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "477ee00ae9c0473f452c78a3191428a5758486c4e74955e0fc741481fc5dc14b"
+metafile = true
+
+[[files]]
+file = "mods/no-resource-pack-warnings.pw.toml"
+hash = "275212f23c7a91b4764b7df11b163aac06a32e87bfe955ad758d04d68cb61eb7"
 metafile = true
 
 [[files]]
@@ -386,6 +408,16 @@ metafile = true
 [[files]]
 file = "mods/world-play-time.pw.toml"
 hash = "d381e862b3f1a29cabe97e64c96024ac2e8d9071969e91ae0390024488f9e7fb"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "0f20c51b06c9041e58a88fb30e9a968c50f30f8c87ad7c7f99a0816ca0fad8e2"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "ce89f7e3ab5b053cd3d45c257164c952ac55e7a9fc11d471a4b6799e2397677d"
 metafile = true
 
 [[files]]
