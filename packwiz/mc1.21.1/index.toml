@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/seamless_loading_screen.json"
+hash = "b7c9d710cb0da0fffe4e71039886e740d9a0deb68ad6a8c23c872fe7888521c6"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "d8c6c5843af8a5ebd1f2ef3f853ba4045a1dde73a0648765e4d0b254122a3790"
 
@@ -14,7 +18,7 @@ hash = "2403af18d131d038d9db0a7b76f66997c594166e19db5f63f2e58caa9fc850af"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "ad6c6814f045a62cae7340fcc40bc1aae962dcc9957e8d3f8b014d034fd62c54"
+hash = "66d66086413e088b0417461fc5839acb23439f9224ced0d7397087afc0808d4c"
 
 [[files]]
 file = "credits.txt"
@@ -335,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b1a64c666e561ad9f9af5322e0364010b164b3b9ee03b0162d4054c683367d01"
+hash = "d9d52cb38be989efc4c99d47cb9b6b0eee0b86679b29be6135c5fdb8ecbfbd26"
 metafile = true
 
 [[files]]
@@ -471,6 +475,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "ab2c5617ae054c92648cd1415c665e350f067f4cc5f4b178edc8f150e57c024e"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "ca77b2f891e554b3ba0db25f14403f7fbe9dceb7c0958e8077684b9a2d34529b"
 metafile = true
 
 [[files]]
@@ -660,6 +669,16 @@ hash = "ac13f7c9bc5f99ce85c6104f0aff4d36117c98bd7e6b8c124c7ecb21b94604de"
 metafile = true
 
 [[files]]
+file = "resourcepacks/colourful-containers-dark-mode-gui.pw.toml"
+hash = "b5fc6d1818511356a31ac23a1377d38da5c377f53f4af745ff99cb3a4a49e98b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/colourful-containers-gui.pw.toml"
+hash = "f829cdf8308e62d53022e8a748a2aa395d88c34a3424a95a3109464db51868c3"
+metafile = true
+
+[[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"
 hash = "a6067de910898e6b132045cea193f30bba6224a0400f5a4c099f82e3b39c9a69"
 metafile = true
@@ -757,6 +776,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/spectral.pw.toml"
 hash = "a495baae0cb18fbdb7cb3e2fedd79319d0cbee152ded80b9f6a9516bb4bc3e45"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spryzeens-healthbars.pw.toml"
+hash = "510e5d115d3d6bb655dc6ed425a853f961693a0d458ec0ebc8cb284e76c56302"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spryzeens-knight-armor.pw.toml"
+hash = "30f61f6b2865ee0a233bdc0b959ab33b567b1a48d89bb289c2d1113e1f9550b1"
 metafile = true
 
 [[files]]

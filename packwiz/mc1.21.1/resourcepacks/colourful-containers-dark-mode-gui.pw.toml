@@ -1,0 +1,13 @@
+name = "Colourful containers Dark Mode GUI"
+filename = "colourful containers darkmode.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PCGR5Y1W/versions/6qO0Rr9C/colourful%20containers%20darkmode.zip"
+hash-format = "sha512"
+hash = "fd6e8a1fe9f4caf9ebf9ab2dc85a4a38ee86635ded29a2f51a5afea9c4658f60839e109612bbd59f2d09e09a9797e7262ff54eed7df3105e92e21b0882960f71"
+
+[update]
+[update.modrinth]
+mod-id = "PCGR5Y1W"
+version = "6qO0Rr9C"
