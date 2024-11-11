@@ -79,7 +79,5 @@ def main():
             else:
                 print("Project already in packwiz: " + project)
 
-    os.system("packwiz update --all --yes")
-
 if __name__ == "__main__":
     main()
