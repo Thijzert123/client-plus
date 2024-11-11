@@ -7,7 +7,7 @@ enableVsync:false
 guiScale:3
 joinedFirstServer:true
 operatorItemsTab:true
-resourcePacks:["vanilla","fabric","file/Redstone Tweaks 2.4.5.zip","continuity:glass_pane_culling_fix","continuity:default","file/EvenBetterEnchants_v2_r1.zip","file/Icons v.1.11.3.zip","file/better_flame_particles-v2.1-mc1.14x-1.21x-resourcepack.zip","file/enchant icons 1.21 v1.3.zip","minecraft:supporteatinganimation","file/Default_Splashes.zip","file/VanillaTweaks_3D_r139394_MC1.21.x.zip","file/VanillaTweaks_Colored_Ping_Indicator_r186221_MC1.21.x.zip","file/VanillaTweaks_Lower_Shield_r640024_MC1.21.x.zip","file/VanillaTweaks_Variation_r730822_MC1.21.x.zip"]
+resourcePacks:["vanilla","fabric","file/Redstone Tweaks 2.4.5.zip","continuity:glass_pane_culling_fix","continuity:default","file/EvenBetterEnchants_v2_r1.zip","file/Icons v.1.11.3.zip","file/better_flame_particles-v2.1-mc1.14x-1.21x-resourcepack.zip","file/enchant icons 1.21 v1.3.zip","minecraft:supporteatinganimation","file/Default_Splashes.zip","file/VanillaTweaks_3D_r139394_MC1.21.x.zip","file/VanillaTweaks_Colored_Ping_Indicator_r186221_MC1.21.x.zip","file/VanillaTweaks_Lower_Shield_r640024_MC1.21.x.zip","file/VanillaTweaks_Variation_r730822_MC1.21.x.zip","file/Chat Reporting Helper.zip"]
 skipMultiplayerWarning:true
 telemetryOptInExtra:false
 tutorialStep:none
