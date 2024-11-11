@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "51184f4b5c406dd2df58a8e2af3607baa5aca057d9e226f43294861d9b101531"
+hash = "ab2c5617ae054c92648cd1415c665e350f067f4cc5f4b178edc8f150e57c024e"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "88eff735d2adb7d8c238ca45f20adee117cf9297990fc6ffa0f8ea6f1a19a108"
+hash = "bc2e8acaeb12757c25db01c70103beb02de99cdb11a25143ff779cab77e80957"
 metafile = true
 
 [[files]]
