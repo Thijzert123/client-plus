@@ -87,7 +87,8 @@
                            "snapper",
                            "seamless-loading-screen",
                            "screenshot-to-clipboard",
-                           "chunks-fade-in"],
+                           "chunks-fade-in",
+                           "optigui"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
@@ -124,5 +125,9 @@
                            "dramatic-skys",
                            "new-glowing-ores",
                            "bow-load-indicator",
-                           "chat-reporting-helper"]
+                           "chat-reporting-helper",
+                           "spryzeens-knight-armor",
+                           "spryzeens-healthbars",
+                           "colourful-containers-gui",
+                           "colourful-containers-dark-mode-gui"]
 }
