@@ -88,7 +88,8 @@
                            "seamless-loading-screen",
                            "screenshot-to-clipboard",
                            "chunks-fade-in",
-                           "optigui"],
+                           "optigui",
+                           "custom-credits"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
