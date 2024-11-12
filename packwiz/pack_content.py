@@ -129,5 +129,6 @@
                            "spryzeens-knight-armor",
                            "spryzeens-healthbars",
                            "colourful-containers-gui",
-                           "colourful-containers-dark-mode-gui"]
+                           "colourful-containers-dark-mode-gui",
+                           "translations-for-sodium"]
 }
