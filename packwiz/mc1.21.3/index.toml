@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "9140b66e8acb149d35a2a719b772a7cfbd379a1fd1419787eac65734c0462af4"
+hash = "02bd5096b3f7a68983a11642e9aee5bf20423680a100d62f285c6502e7c445c7"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "75aab1dee4fda89771ef4611e8f53ed8fb49d6493811105d086b3cbf11a623f7"
+hash = "1818c649f9e717420b712bb5c056f145476d79ca18fb8e3633838338046d4df0"
 metafile = true
 
 [[files]]
@@ -384,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0720b9be77b12ad08c6b41bfaef416d3405600aadd7a0f1078df1517eb9cd5cb"
+hash = "91a899313603220debbe9b19c1d36add4f2df33329b999fbae52872e4f631e3a"
 metafile = true
 
 [[files]]

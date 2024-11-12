@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "05f43b63f135bddef9b29d50ca9ff49879f3a665085690986464be8f32b02f3c"
+hash = "327c76c7a1d921e55fe67b52d41fd942c84bebe6822ce2504eebb5c3d9cb3333"
 metafile = true
 
 [[files]]
@@ -474,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "ab2c5617ae054c92648cd1415c665e350f067f4cc5f4b178edc8f150e57c024e"
+hash = "10e477afd7cae112d9f19d65c000cc46935596efc460f9711eec9d6e22d44ea4"
 metafile = true
 
 [[files]]
