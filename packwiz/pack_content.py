@@ -91,7 +91,8 @@
                            "optigui",
                            "custom-credits",
                            "dynamiccrosshair",
-                           "show-me-your-skin"],
+                           "show-me-your-skin",
+                           "controlling"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
