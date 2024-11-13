@@ -188,6 +188,11 @@ hash = "f32c30de1ae7dbeeae00b654eb15ea358c6d26f631dc292bdb88dba9c30a8cc8"
 metafile = true
 
 [[files]]
+file = "mods/custom-credits.pw.toml"
+hash = "5410fea228bfa0c47b66b506e76c9c1d06e2f7383ad8601e9a2153b1a51c3049"
+metafile = true
+
+[[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "f40e996859e78555a081ea5578d4f74bb22eccc675d3b2c76c6cdbb51e731bcc"
 metafile = true
@@ -219,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6424d0bd607f839372a3da21e53604cd1554a8289348f987c850a1fc01e8b5c7"
+hash = "0abc7ac235d62020bebff5318073b581fa3c8c624f69577c619cf737fa1afd54"
 metafile = true
 
 [[files]]
@@ -535,7 +540,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/simple-grass-flowers.pw.toml"
-hash = "259183e1fb70031eef6042ebb5de9de6c71877352b8a13aa7fad1dd49c1b24f4"
+hash = "a52bbbdb204013e36703a7119c6d0ba71bdee1022823f836141f2577df362c00"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "23122a777d278ac792872875bd2ffe691c14950b3726f6a85f4e57d385f68bea"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "2b77815f179c8ac5fbce20ca185b7c87c269566674eed4dbeab084ebe4e12d39"
 metafile = true
 
 [[files]]
