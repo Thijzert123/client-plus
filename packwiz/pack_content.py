@@ -89,7 +89,8 @@
                            "screenshot-to-clipboard",
                            "chunks-fade-in",
                            "optigui",
-                           "custom-credits"],
+                           "custom-credits",
+                           "dynamiccrosshair"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
