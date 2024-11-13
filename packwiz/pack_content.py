@@ -90,7 +90,8 @@
                            "chunks-fade-in",
                            "optigui",
                            "custom-credits",
-                           "dynamiccrosshair"],
+                           "dynamiccrosshair",
+                           "show-me-your-skin"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
