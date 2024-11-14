@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/chunksfadein.properties"
+hash = "cef1821cb8f861d3b2345d99667af26a67df083c1422133b437342c723c65ec3"
+
+[[files]]
+file = "config/yosbr/config/customcredits/credits.json"
+hash = "ede4819525725497ac0c9b381105b588f77678307d3a3819a21351c11459f053"
+
+[[files]]
 file = "config/yosbr/config/seamless_loading_screen.json"
 hash = "b7c9d710cb0da0fffe4e71039886e740d9a0deb68ad6a8c23c872fe7888521c6"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "d8c6c5843af8a5ebd1f2ef3f853ba4045a1dde73a0648765e4d0b254122a3790"
+hash = "be255ff4587feee964e11feba338d417485c7d26e4e7881f00eea2762fe9b7ca"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
@@ -18,7 +26,7 @@ hash = "2403af18d131d038d9db0a7b76f66997c594166e19db5f63f2e58caa9fc850af"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "66d66086413e088b0417461fc5839acb23439f9224ced0d7397087afc0808d4c"
+hash = "113186df7da5cb2138efcd948ba94d5275de693fe6b6429dc21a3e3200e8581a"
 
 [[files]]
 file = "credits.txt"
@@ -144,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "c105e0cc947060ba738fc37eaf6d7099f886b0d7bfe0c28498b454bd71c58271"
+hash = "f6135ea20e3a714a43969ed394fab0291e4e3b8a4bee1f8db5c0d74e6f65d0d3"
 metafile = true
 
 [[files]]
@@ -203,8 +211,13 @@ hash = "0d8e3adfe182798fefea493226cdea7e40a3eaba5ffad556fd2f0e24909c3817"
 metafile = true
 
 [[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "3fa2fe8518693b1b847572ebc51b7ba005e9046e400fc8140ad095c1e79f1382"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "c2210a58773af364184cb114d27c53412c9f1d2df31d39d38a80a3883252ad54"
+hash = "8c30705e816f74aac2899e6ee7ac5e7eb096915e2572f158b1396d99fa40517b"
 metafile = true
 
 [[files]]
@@ -550,7 +563,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "2b77815f179c8ac5fbce20ca185b7c87c269566674eed4dbeab084ebe4e12d39"
+hash = "62d53239b66f98e34c94fa632bb1cb59f28af5c0a3dccb7d83f4fde468939cb8"
 metafile = true
 
 [[files]]

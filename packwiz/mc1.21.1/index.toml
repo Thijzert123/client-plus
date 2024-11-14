@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/chunksfadein.properties"
+hash = "cef1821cb8f861d3b2345d99667af26a67df083c1422133b437342c723c65ec3"
+
+[[files]]
+file = "config/yosbr/config/customcredits/credits.json"
+hash = "ede4819525725497ac0c9b381105b588f77678307d3a3819a21351c11459f053"
+
+[[files]]
 file = "config/yosbr/config/seamless_loading_screen.json"
 hash = "b7c9d710cb0da0fffe4e71039886e740d9a0deb68ad6a8c23c872fe7888521c6"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "d8c6c5843af8a5ebd1f2ef3f853ba4045a1dde73a0648765e4d0b254122a3790"
+hash = "be255ff4587feee964e11feba338d417485c7d26e4e7881f00eea2762fe9b7ca"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
@@ -18,7 +26,7 @@ hash = "2403af18d131d038d9db0a7b76f66997c594166e19db5f63f2e58caa9fc850af"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "66d66086413e088b0417461fc5839acb23439f9224ced0d7397087afc0808d4c"
+hash = "113186df7da5cb2138efcd948ba94d5275de693fe6b6429dc21a3e3200e8581a"
 
 [[files]]
 file = "credits.txt"
@@ -164,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8f34e07fd020c5393d5c1cf686f67013aa64768725ed4ac5245de89a8c1e2173"
+hash = "258d19f7a30f0fc833e49731146503e1e1cfdaec80ea5fa1ce9eb794b42d3152"
 metafile = true
 
 [[files]]
@@ -180,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "8d3bd79b5dcb781507857f857b2a0c78cd31ea489f19444ab63cf429d2a64d03"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "7b24565cbfed71b13cb435ef15b237a2a5175eab719310a37e6ca640f248e2d8"
 metafile = true
 
 [[files]]
@@ -218,6 +231,11 @@ hash = "55d01712b99ba5ea4f3dfca5b38cd4692afd6732c3d897e704c8cdc717f245a3"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "1365610f945f34d5d9ca8987ff8dc9a6d0754d49f5b7a78ca507a1e74bcb0ce2"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "0d393d125275f28d7cec57525f02ad664af5b471c10cd0ce5f465b0379e21850"
 metafile = true
@@ -240,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "6c697c8b7205ea2be0e04567b42e64f120ccda136930a99c059f80e15ed51ea7"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "7a2e1578094baebcd74491f46871b0e7d52d14aa1f691b394c553265afed1b8b"
 metafile = true
 
 [[files]]
@@ -543,6 +566,16 @@ hash = "365fe19fb21fd8b81f3684a5646f9eac1509a7cd459f9a78cdac2a6a86041101"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "b0af06e4699a4e17ae158d3a50a21d13dcd1f759f1ec2373e7d147f4a3a68239"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "4dc08fba8bbc2f015d56b0b0184bd19d2f9b897654d275151e7a3dbb9ee1792f"
 metafile = true
@@ -805,7 +838,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "2b77815f179c8ac5fbce20ca185b7c87c269566674eed4dbeab084ebe4e12d39"
+hash = "62d53239b66f98e34c94fa632bb1cb59f28af5c0a3dccb7d83f4fde468939cb8"
 metafile = true
 
 [[files]]
