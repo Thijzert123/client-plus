@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Thijzert123/client-plus/blob/main/images/banner.png?raw=true)
 # Client+
-Minecraft modpack focused on improving vanilla Minecraft on the client-side. Enjoy a better Minecraft anywhere, in singleplayer or multiplayer!
+A Minecraft modpack focused on improving vanilla Minecraft on the client-side. Enjoy a better Minecraft anywhere, in singleplayer or multiplayer!
 
 This modpack provides the best performance mods, allowing you to enjoy Minecraft without worrying about your FPS. These mods include Sodium, Immediately Fast, Lithium and Ferrite Core.
 
