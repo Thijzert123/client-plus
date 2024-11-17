@@ -92,7 +92,8 @@
                            "custom-credits",
                            "dynamiccrosshair",
                            "show-me-your-skin",
-                           "controlling"],
+                           "controlling",
+                           "durability-plus"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
