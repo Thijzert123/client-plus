@@ -175,3 +175,6 @@ Apart from that, we also include various Vanilla Tweaks resource packs:
 - [Colored Ping Indicator](https://vanillatweaks.net/share/#lz4EZp)
 - [Lower Shield](https://vanillatweaks.net/share#dczqmI)
 - [Variated Blocks](https://vanillatweaks.net/share#Oz7pBC)
+
+## TODO
+- [ ] Add Vanilla Tweaks and other overrides to 1.20.1 and 1.20.4
