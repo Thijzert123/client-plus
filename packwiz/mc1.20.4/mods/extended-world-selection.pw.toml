@@ -1,0 +1,13 @@
+name = "Extended world selection"
+filename = "extendedworldselection-1.1+fabric-1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hejbH2cH/versions/K8p8nIfv/extendedworldselection-1.1%2Bfabric-1.20.4.jar"
+hash-format = "sha512"
+hash = "c1d2004f5d6ffda7b66814a8522af8e897396c6c2f9e61bef39560590639f2d318f6c793a6e6e1349d83ff165d3d184527ca0a9f3364a77a21371c6751654618"
+
+[update]
+[update.modrinth]
+mod-id = "hejbH2cH"
+version = "K8p8nIfv"
