@@ -102,12 +102,12 @@ hash = "05933bc57359c9b7ace9a619eeb9dac1dac4eca54187e4145cc949a5ed03276f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "322fd11cf2b368465e64f828f8442cbe24abd7ea069a3490ec8a0d58e46a4e5c"
+hash = "6cc53611899ef65d2c4385d1fe5abcf92b5afac1448ec468383939685f6db42a"
 metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
-hash = "9329663d157d0dfa1c9a5a4c5ccad1d1c5042759527ce503ed46804fe1c357f3"
+hash = "26085aa8480f728633c0b84a5eb1879f2911993905c425f3596fb2bef0ed94cc"
 metafile = true
 
 [[files]]
@@ -256,6 +256,11 @@ hash = "183a686a2e5076c6dbb6c6d8145a5b10d544295cf1a7bbffd8bbceaf072ede4f"
 metafile = true
 
 [[files]]
+file = "mods/durability-plus.pw.toml"
+hash = "4df86a1620217251fc0c2bd6971a207bd3745db6f729b2175818948f43fc9e6e"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "6c697c8b7205ea2be0e04567b42e64f120ccda136930a99c059f80e15ed51ea7"
 metafile = true
@@ -352,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "5ca392cf6ef19f056bd3f880f3b15322d3e327312671236737344d319d6c742b"
+hash = "9b8d70fd10ae28731c232bc1328bf912d897b897b19ac72178ae31fdfe17c31b"
 metafile = true
 
 [[files]]
@@ -392,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d76381c45ede03fe1c011d878b1debb38782bdeb22149916efd725ef4fee2833"
+hash = "ef19c1c85edcb9a19dc784c264497f6191579942b63e6343daaf6c9cdd9a3b78"
 metafile = true
 
 [[files]]
@@ -427,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e371e2a99c4958e0cd64914932a69562ef33748de04c1729999761423c4e330a"
+hash = "680f4d24e4ec78ed0ebaa0d71b6b721a7c2f86bc68de74c9f7573a670f93dcaa"
 metafile = true
 
 [[files]]
@@ -537,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "bc2e8acaeb12757c25db01c70103beb02de99cdb11a25143ff779cab77e80957"
+hash = "63b20e7d719e1af3775996b891b7094e80f2eddafe4708993373a95c2081f340"
 metafile = true
 
 [[files]]
@@ -582,12 +587,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9bdcdf6050b27b23f7f575d958c4efb4fb54b92b833934807ac86ce1463f3504"
+hash = "b4dd4bdea5b9f69e842f0096feb79d3bd2635de2ea2b68a0ff2e158acaf9d4a4"
 metafile = true
 
 [[files]]
 file = "mods/skinshuffle.pw.toml"
-hash = "358ddfbe575dc18bfc25ea1471304a8ffd33be4dc58534b15e35e1487da80f75"
+hash = "0272ddfb5a351126571f0a8d9521b022f8ab6fc08878febdc28f5337fcc05fb0"
 metafile = true
 
 [[files]]
@@ -597,12 +602,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "7797b3e10400ef30c32c5ecdc028a81a382a6a809f6166f9d11a6e1a3f4b5adb"
+hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "6c1e39822b75339afddef8504a135345c119de71004ca135c442eeea4088d475"
+hash = "11e2d2257d15509f1acffb9945c0a85f35ddffbf6877b8ab8ff21414f0f3caff"
 metafile = true
 
 [[files]]
@@ -828,7 +833,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "23122a777d278ac792872875bd2ffe691c14950b3726f6a85f4e57d385f68bea"
+hash = "6108e3a9c2090fac87f7c98943b95b6327074c0fd17d2933c29189fa833fd609"
 metafile = true
 
 [[files]]
@@ -838,7 +843,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "62d53239b66f98e34c94fa632bb1cb59f28af5c0a3dccb7d83f4fde468939cb8"
+hash = "95b28fe2091b763d5c4338830af58de79efe17d754bd7e961a3cb9657ac4afdb"
 metafile = true
 
 [[files]]
@@ -853,12 +858,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "3aad2d506e595ff009b78aa3a89ed9903c6d92c09bb2d78f3ebf65662e0544c3"
+hash = "debfc9032c943c978fb1bd5c1e3eec5f46d3655111bbbd57cae8020e3cea173b"
 metafile = true
 
 [[files]]
 file = "shaderpacks/miniature-shader.pw.toml"
-hash = "0cc19c395a702367e428fc03b6c54a3d2177e2f0f32ed5ba483ac58e19233e76"
+hash = "7438230c68e50c2fc259380ad78b257558449611f8323019ec74688448d51a4e"
 metafile = true
 
 [[files]]
