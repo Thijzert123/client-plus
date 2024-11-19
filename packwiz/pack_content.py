@@ -102,7 +102,8 @@
                            "rethinking-voxels",
                            "complementary-unbound",
                            "bsl-shaders",
-                           "complementary-reimagined"],
+                           "complementary-reimagined",
+                           "bliss-shader"],
     
     "resourcepacks":      ["default-splashes",
                            "fullbright-ub",
