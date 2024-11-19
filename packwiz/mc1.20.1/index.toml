@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "5005f83b3296b3db77ac514495ffed3355bfdc820cbcae6ff64830e3094a2997"
+hash = "d898a6759ccf5c552c18671f59be67f25cef7435abb0a9c2d6c96ef77712795f"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/hyper-realistic-sky.pw.toml"
-hash = "ad6e0d24cb0fd6dc920a404362f7c005cbcb760caf3250a76e73b9e2050fd32e"
+hash = "b40a494b7e770b40c0f46d089bae58d14ff67ce2c2c4396434a639756c994c72"
 metafile = true
 
 [[files]]

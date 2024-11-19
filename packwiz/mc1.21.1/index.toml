@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "55d01712b99ba5ea4f3dfca5b38cd4692afd6732c3d897e704c8cdc717f245a3"
+hash = "72c1d1d5b0d22582cb8698847ad9f17e22304e3877ebad8874a0a65452403986"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "069c8336de7ebd096411a547dd6a08aa71e0fc71ca88202f5590b93d7e2b6a37"
+hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
 
 [[files]]
@@ -773,7 +773,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/hyper-realistic-sky.pw.toml"
-hash = "ad6e0d24cb0fd6dc920a404362f7c005cbcb760caf3250a76e73b9e2050fd32e"
+hash = "b40a494b7e770b40c0f46d089bae58d14ff67ce2c2c4396434a639756c994c72"
 metafile = true
 
 [[files]]
