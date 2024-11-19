@@ -1,83 +1,76 @@
 #!/usr/bin/python3
 
-#
-# min. python version: 3.11
-#
-
-import os
 import sys
-import tomllib # python >= 3.11
-import requests
+import os
+import subprocess
 
-PACKWIZ_SUFFIX = ".pw.toml"
+PACKWIZ_SUFFIX = ".pw.toml" # files that are managed by packwiz
 
-# human readable id: fabric-api
-# abstract id: P7dR8mSH
-def convert_to_abstract_modrinth_id(human_readable_id):
-    project_url = "https://api.modrinth.com/v2/project/" + human_readable_id
-    r = requests.get(project_url)
-    if r.status_code != 200:
-        print("Error while retrieving project " + human_readable_id + ", " + r.status_code)
-        exit(1)
-    project_details = r.json()
-    return project_details["id"]
+class Colors:
+    GREEN = '\033[92m'
+    RED = '\033[91m'
+    END = '\033[0m'
 
-def retrieve_pinned_projects():
-    pinned_projects = []
-    for root, dirs, files in os.walk("."):
-        for file_name in files:
-            if file_name.endswith(PACKWIZ_SUFFIX):
-                file_path = os.path.join(root, file_name)
-                remove = True
-                abstract_modrinth_id = ""
-                with open(file_path, "rb") as file_content:
-                    toml_data = tomllib.load(file_content)
-                    abstract_modrinth_id = toml_data["update"]["modrinth"]["mod-id"]
-                    if "pin" in toml_data:
-                        if toml_data["pin"] == True:
-                            remove = False
-                if remove:
-                    print("Removing " + file_path)
-                    os.remove(file_path)
-                else:
-                    print(abstract_modrinth_id + " is pinned")
-                    pinned_projects.append(abstract_modrinth_id)
-    os.system("packwiz refresh")
-    return pinned_projects
+# remove and clean all mod/shaders/resources managed by packwiz
+def remove_packwiz_files(debug = False):
+    for root, dirnames, filenames in os.walk("."):
+        for filename in filenames:
+            if filename.endswith(PACKWIZ_SUFFIX):
+                filepath = os.path.join(root, filename)
+                if debug:
+                    print("Removing " + filepath)
+                os.remove(filepath)
 
-def main():
-    if not os.path.isfile("pack.toml"):
-        print("No pack.toml found, exiting")
-        exit(1)
-
+def main(debug = False):
     if len(sys.argv) < 2:
-        print("Please specify Minecraft version (e.g. 1.21.1)")
+        print("Please specify Minecraft version (e.g. 1.21.1) or update all instances with 'all'.")
         exit(1)
 
-    mc_version = sys.argv[1]
-    
-    pack_content = eval(open("../pack_content.py").read())
-    pinned_projects = retrieve_pinned_projects()
+    packwiz_output_stream = subprocess.DEVNULL
+    if debug:
+        packwiz_output_stream = None
 
+    mc_dirs = [] # such as mc1.20.4 or mc1.21.1
+    if sys.argv[1] == "all":
+        for root, dirnames, filenames in os.walk("."):
+            for dirname in dirnames:
+                if dirname.startswith("mc"):
+                    mc_dirs.append(dirname)
+    else:
+        for arg in sys.argv[1:]: # skip first entry
+            mc_dirs.append("mc" + arg)
+
+    pack_content = eval(open("pack_content.py").read())
+
+    print("Removing packwiz files...", end="")
+    sys.stdout.flush()
+    remove_packwiz_files(debug)
+    print(" done")
+    
+    projects = []
     for content_type in pack_content:
         for project in pack_content[content_type]:
-            abstract_modrinth_id = convert_to_abstract_modrinth_id(project)
-            if abstract_modrinth_id not in pinned_projects:
-                print("Adding project: " + project)
+            projects.append(project)
 
-                if project == "no-chat-reports" and mc_version == "1.21.1":
-                    os.system("packwiz modrinth install --project-id no-chat-reports --version-id riMhCAII")
-                    os.system("packwiz pin no-chat-reports")
-                elif project == "controlify" and mc_version == "1.21.1":
-                    os.system("packwiz modrinth install --project-id controlify --version-id mYyOLshA")
-                    os.system("packwiz pin controlify")
-                elif project == "hyper-realistic-sky":
-                    os.system("packwiz modrinth install --project-id hyper-realistic-sky --version-id Ag95J3hS")
-                    os.system("packwiz pin hyper-realistic-sky")
-                else:
-                    os.system("packwiz modrinth install --yes " + project)
+    for project in sorted(projects):
+        print(f"Adding {project}: ", end="")
+        sys.stdout.flush()
+        
+        for mc_dir in sorted(mc_dirs):
+            command = ["packwiz", "modrinth", "install", "--yes", project]
+            if project == "hyper-realistic-sky":
+                command = ["packwiz", "modrinth", "install", "--yes", "--project-id", "hyper-realistic-sky", "--version-id", "Ag95J3hS"]
+                    
+            returncode = subprocess.run(command, cwd=mc_dir, stdout=packwiz_output_stream, stderr=packwiz_output_stream).returncode
+            mc_version = mc_dir.replace("mc", "")
+            
+            if returncode == 0:
+                print(f"{Colors.GREEN}{mc_version}{Colors.END} ", end="")
             else:
-                print("Project already in packwiz: " + project)
+                print(f"{Colors.RED}{mc_version}{Colors.END} ", end="")
+            sys.stdout.flush()
+                    
+        print("done")
 
 if __name__ == "__main__":
     main()
