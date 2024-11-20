@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "cf0d22c615de599912978e0352bde47a818d9ba306e34f832b578a86f2912433"
+hash = "cbc6ac7cd925b77d81d59f8f56a8d7bfdf5327570d9778b597760d61d8156e43"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-play-time.pw.toml"
-hash = "b6cda1f19cae5d145eaa940ef3810fb2c2d3863c5629ad6cc3fa2ff8aa24d0dc"
+hash = "f4014a2c6a6195890ab5e4828be0ac1ac2eb9443a71ce8229a21122fe4fe3965"
 metafile = true
 
 [[files]]
@@ -678,6 +678,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/visual-armor-trims.pw.toml"
 hash = "4b2551f0b343330ef1e290cdaa8a8e67e27160cec96151a2eb56940d772bb698"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "39fb167ebfa9d8de02150c261c3f14f775083f8ad2ad4b7225308bc81d6d18e2"
 metafile = true
 
 [[files]]

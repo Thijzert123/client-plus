@@ -16,6 +16,11 @@ hash = "76e15da6281121b0ad76cfa0dac2fa72b12e050e4cfbf44debbd819b7dac1f69"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "9caa254bdbb9dbafd1cc29616cd6aa26f4972eb583961225cf8a8b4836071bfb"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "2f32611ee02b8170b5680f6913403f51e4cf87b344acee82690a7b3110caa4b7"
 metafile = true
@@ -197,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "4777af18a35b263be5f4b99b5dc880c0d2e9376a7e97c0a24ff5543b8e1ebf40"
+hash = "b4e1e7904720dfdb30ed224ef1eed14e5bb3aeb5ceb267cab1d63cade6db6065"
 metafile = true
 
 [[files]]
@@ -258,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/glowing-torchflower.pw.toml"
 hash = "96cd66a321db27ef6bfc9407e9a0b65fc2df198639c013ce82926e221c872045"
+metafile = true
+
+[[files]]
+file = "mods/hey-wiki.pw.toml"
+hash = "f32ce5fe5fde79ac14b7a19da49529cc32020a7d4f3caaf91728132e6c01d5ce"
 metafile = true
 
 [[files]]
@@ -678,6 +688,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/visual-armor-trims.pw.toml"
 hash = "4b2551f0b343330ef1e290cdaa8a8e67e27160cec96151a2eb56940d772bb698"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "39fb167ebfa9d8de02150c261c3f14f775083f8ad2ad4b7225308bc81d6d18e2"
 metafile = true
 
 [[files]]

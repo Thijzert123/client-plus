@@ -111,6 +111,11 @@ hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "c517eccd62ae7e0b30463a781f243fa608ace64f8734862e8813fc6082e7c337"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "d142ed11ea6d49755ff160532d99e5733c9d76dc20c461b43a55d0b6102cbb81"
 metafile = true
@@ -232,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1954c04611da9977b602a9be0af6646e0b57309d507b85c63c67799db2e22b2d"
+hash = "365f9eee5acf079814faee71fe2a16be8f64676879ea42df462b5d6a5d51b654"
 metafile = true
 
 [[files]]
@@ -273,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/glowing-torchflower.pw.toml"
 hash = "06c46f4319a3548afc70c19ba880d6f32b53c9b00f78af7ea3f8ce3197b2e610"
+metafile = true
+
+[[files]]
+file = "mods/hey-wiki.pw.toml"
+hash = "f9ce515d4e3b8fca9f7e2d7e800f89557d12078733f62bf9c87de7eb83004e72"
 metafile = true
 
 [[files]]
@@ -569,6 +579,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "6108e3a9c2090fac87f7c98943b95b6327074c0fd17d2933c29189fa833fd609"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "39fb167ebfa9d8de02150c261c3f14f775083f8ad2ad4b7225308bc81d6d18e2"
 metafile = true
 
 [[files]]
