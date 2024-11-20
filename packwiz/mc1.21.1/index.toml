@@ -9,6 +9,10 @@ file = "config/yosbr/config/customcredits/credits.json"
 hash = "ede4819525725497ac0c9b381105b588f77678307d3a3819a21351c11459f053"
 
 [[files]]
+file = "config/yosbr/config/dynamiccrosshair.json5"
+hash = "09e78e344d0cfea6442b3be31ad65a67623fc4f7ab9266be0707000372d0b62d"
+
+[[files]]
 file = "config/yosbr/config/seamless_loading_screen.json"
 hash = "b7c9d710cb0da0fffe4e71039886e740d9a0deb68ad6a8c23c872fe7888521c6"
 
