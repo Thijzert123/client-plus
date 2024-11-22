@@ -181,6 +181,11 @@ hash = "6bb5dc7d6fd4a3dcc54144f35ad6aee8d3d4903571931e702df9a83610d69179"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "a853237fa57891fd1d6f73c77da86b6dfcc119234a7c2ef29c5a0eea575e8d22"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "81bedf03407dc7bce461e28e84ba38a4f289848272e3f5b67c4ebcf6ea7bb22f"
 metafile = true
@@ -326,6 +331,11 @@ hash = "9238e21004871fa972bdb05e1b39062fb7cbc25ed7bd122e871d051ba1d9f4d6"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "2c63eb13553dd6f07aa3559c0ca007187966aa8d8f7110eca8637c44d5b0d8c1"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "92fa35a4712bf3ef1220d4d5d5542dfdb18fef07d04044aee03781e76aada1ee"
 metafile = true
@@ -333,6 +343,11 @@ metafile = true
 [[files]]
 file = "mods/mace-but-3d.pw.toml"
 hash = "350f8bd3008d03f16a5554ddf253965b1520bbbe50a5c834649ec8482a59fb3f"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "2a6c4fe7034bd9677d2e2077ae4b50bd8f4df494ef4c257bb631505d85ecb2c0"
 metafile = true
 
 [[files]]
@@ -347,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "7407b47719f2901c0e0d0f0b5af2aa999703b78ec19b6728deecdfb724d49181"
+hash = "d42c0dfe3b031b369a555679b263f7152630823f5624518d2b5602580ae8fe12"
 metafile = true
 
 [[files]]
@@ -392,12 +407,12 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "90c4e2a4c42f9cab7b9fd7ad860fdabb7f6d63c461a54ae3ba570f4580db9254"
+hash = "170af2cc47538de9caf10b714d81402b0e13a6b15a3e1e14d35f483f9cb276bd"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "5118828f042b9a50e97f906d36b732b261bd83f65c0b07e1ebd7258578f3f3d0"
+hash = "fd22f5f9da296d9bd424515a60c8cdcd165664f0ad210d0efc24e0bc70170422"
 metafile = true
 
 [[files]]
@@ -407,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "766ccbf1ce73d127cd7c59547b501aded621e79caffa8363fdf5724b157b7166"
+hash = "90c188a415287020a0a05aedc6c20e5d28054a7db3e9404a191ddd322f2a1a96"
 metafile = true
 
 [[files]]

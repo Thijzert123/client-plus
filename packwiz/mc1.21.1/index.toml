@@ -441,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "5c0db9264f886150f26e70ddefdbcf32a398ced2320a67ce4004b96dc96e6549"
+hash = "84f6fdfe8576c72a5704178b45e3142ae81ed263c474c46a93f98f7d42debb68"
 metafile = true
 
 [[files]]
@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "83b2822c8b27eb2b08eba0e71fae33d32b61c1ad7ed6623c2524926cf2fd9238"
+hash = "cbd11dd2ce7d950794a78cc2a2986e89226f418edf578a961b796dbe9be57a27"
 metafile = true
 
 [[files]]
@@ -556,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "27afddbc5448f042c2d723b2a840f346dde5b96b51bc3c7fa17dad8272862659"
+hash = "8ebd5c672784e538bbf7c8889dd0fac123135ffcb2ca1b99d7fa5975bba8ee57"
 metafile = true
 
 [[files]]
