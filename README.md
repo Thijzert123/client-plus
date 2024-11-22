@@ -20,6 +20,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |          [Advancement Plaques](https://modrinth.com/project/9NM0dXub)          |   ✅  |   ✅  |   ✅  |   ❌  |
 |             [Animated Items](https://modrinth.com/project/uBBepXuH)            |   ✅  |   ✅  |   ✅  |   ❌  |
 |               [AppleSkin](https://modrinth.com/project/EsAfCjCV)               |   ✅  |   ✅  |   ✅  |   ✅  |
+|            [Architectury API](https://modrinth.com/project/lhGA9TYQ)           |   ❌  |   ✅  |   ✅  |   ✅  |
 |                [Auth Me](https://modrinth.com/project/yjgIrBjZ)                |   ✅  |   ✅  |   ✅  |   ✅  |
 |              [BSL Shaders](https://modrinth.com/project/Q1vvjJYV)              |   ✅  |   ✅  |   ✅  |   ✅  |
 |            [BadOptimizations](https://modrinth.com/project/g96Z4WVZ)           |   ✅  |   ✅  |   ✅  |   ✅  |
@@ -31,6 +32,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |        [Better Statistics Screen](https://modrinth.com/project/n6PXGAoM)       |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [BetterF3](https://modrinth.com/project/8shC1gFX)               |   ✅  |   ✅  |   ✅  |   ✅  |
 |              [BindCommands](https://modrinth.com/project/WeytAdLH)             |   ❌  |   ✅  |   ✅  |   ✅  |
+|             [Bliss Shaders](https://modrinth.com/project/ZvMtQlho)             |   ✅  |   ✅  |   ✅  |   ✅  |
 |                 [Bobby](https://modrinth.com/project/M08ruV16)                 |   ✅  |   ✅  |   ✅  |   ✅  |
 |           [Bow Load Indicator](https://modrinth.com/project/dj5wVJsq)          |   ✅  |   ✅  |   ✅  |   ✅  |
 |                 [CICADA](https://modrinth.com/project/IwCkru1D)                |   ✅  |   ✅  |   ✅  |   ❌  |
@@ -44,7 +46,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |                 [Chunky](https://modrinth.com/project/fALzjamp)                |   ✅  |   ✅  |   ✅  |   ✅  |
 |              [Client Sort](https://modrinth.com/project/K0AkAin6)              |   ❌  |   ✅  |   ✅  |   ✅  |
 |            [Cloth Config API](https://modrinth.com/project/9s6osm5g)           |   ✅  |   ✅  |   ✅  |   ✅  |
-|                 [Clumps](https://modrinth.com/project/Wnxd13zP)                |   ✅  |   ✅  |   ✅  |   ❌  |
+|                 [Clumps](https://modrinth.com/project/Wnxd13zP)                |   ✅  |   ✅  |   ✅  |   ✅  |
 |               [Collective](https://modrinth.com/project/e0M1UDsY)              |   ✅  |   ✅  |   ✅  |   ✅  |
 |   [Colourful containers Dark Mode GUI](https://modrinth.com/project/PCGR5Y1W)  |   ✅  |   ✅  |   ✅  |   ✅  |
 |        [Colourful containers GUI](https://modrinth.com/project/L85p0yMA)       |   ✅  |   ✅  |   ✅  |   ✅  |
@@ -86,6 +88,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |             [Fullbright UB](https://modrinth.com/project/ItHr72Fy)             |   ✅  |   ✅  |   ✅  |   ✅  |
 |          [Glowing Torchflower](https://modrinth.com/project/1S4LxcvL)          |   ✅  |   ✅  |   ✅  |   ✅  |
 |           [Grimdark Sky Pack](https://modrinth.com/project/TzZ0IFZH)           |   ✅  |   ❌  |   ✅  |   ❌  |
+|                [Hey Wiki](https://modrinth.com/project/6DnswkCZ)               |   ❌  |   ✅  |   ✅  |   ✅  |
 |          [Hyper Realistic Sky](https://modrinth.com/project/PsMUgCo5)          |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [Iceberg](https://modrinth.com/project/5faXoLqX)                |   ✅  |   ✅  |   ✅  |   ❌  |
 |                 [Icons](https://modrinth.com/project/O7z3QKAG)                 |   ✅  |   ✅  |   ✅  |   ❌  |
@@ -99,10 +102,10 @@ This is all the content in the modpack, including mods, resource packs and shade
 |            [Language Reload](https://modrinth.com/project/uLbm7CG6)            |   ✅  |   ✅  |   ✅  |   ✅  |
 |           [Legendary Tooltips](https://modrinth.com/project/atHH8NyV)          |   ✅  |   ✅  |   ✅  |   ❌  |
 |                 [Lighty](https://modrinth.com/project/yjvKidNM)                |   ✅  |   ✅  |   ✅  |   ✅  |
-|               [Litematica](https://modrinth.com/project/bEpr0Arc)              |   ✅  |   ✅  |   ✅  |   ❌  |
+|               [Litematica](https://modrinth.com/project/bEpr0Arc)              |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [Lithium](https://modrinth.com/project/gvQqBUqZ)                |   ✅  |   ✅  |   ✅  |   ✅  |
 |              [Low On Fire](https://modrinth.com/project/RRxvWKNC)              |   ✅  |   ❌  |   ✅  |   ❌  |
-|                [MaLiLib](https://modrinth.com/project/GcWjdA9I)                |   ✅  |   ✅  |   ✅  |   ❌  |
+|                [MaLiLib](https://modrinth.com/project/GcWjdA9I)                |   ✅  |   ✅  |   ✅  |   ✅  |
 |              [Mace but 3D](https://modrinth.com/project/6LzngQIs)              |   ❌  |   ❌  |   ✅  |   ✅  |
 |            [Make Bubbles Pop](https://modrinth.com/project/gPCdW0Wr)           |   ✅  |   ✅  |   ✅  |   ❌  |
 |          [MakeUp - Ultra Fast](https://modrinth.com/project/izsIPI7a)          |   ✅  |   ✅  |   ✅  |   ✅  |
