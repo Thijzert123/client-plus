@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "a853237fa57891fd1d6f73c77da86b6dfcc119234a7c2ef29c5a0eea575e8d22"
+hash = "ec5b53ed8dafead649c2eeca20d5c3f18de8fb997971f9a08b6a4447803294cf"
 metafile = true
 
 [[files]]
@@ -193,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "53bc0362fafb182a3a9e856471c1c10b5dc86f3467cddab26e9c5c1cbc785d60"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "656559fbc72781fd8bd4735a92a1f254d130ca95c1bf5766a8d0fb2ad6804b3c"
 metafile = true
 
 [[files]]
@@ -278,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/flashback.pw.toml"
 hash = "ad20d3e789bcb91821155cdb3d99c0edcaf090ef2c040516af4e5071a1425210"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "1989dfcc9c89cad6ee99095b16fdaf4ad22dc6789464839e3e175a401b367496"
 metafile = true
 
 [[files]]
@@ -406,6 +416,11 @@ hash = "775f5d085b604e5f436687d5f24609df87ebc6a14dfeced7102e06982238ee64"
 metafile = true
 
 [[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "a7f665aed770c64d350c178e90d9fc9f8ed176fac1699462156971f062f1f538"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "170af2cc47538de9caf10b714d81402b0e13a6b15a3e1e14d35f483f9cb276bd"
 metafile = true
@@ -416,8 +431,18 @@ hash = "fd22f5f9da296d9bd424515a60c8cdcd165664f0ad210d0efc24e0bc70170422"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "52551e66deef84415a16a208e7aeb9e80aceb1b29f57c4e7410ea5ea0317ff4b"
+metafile = true
+
+[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "8a8811491d33e0164792ad8cd872c307596da9ab15c13ab2720121cef91a6495"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "bbdc8323c284c6e3f85b74eb35bdf1ce1afa5f96e75081e2138c36ef16d45ed3"
 metafile = true
 
 [[files]]
@@ -593,7 +618,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "6108e3a9c2090fac87f7c98943b95b6327074c0fd17d2933c29189fa833fd609"
+hash = "da9845d48c790f4944cc93ed79a5c420bed0445989d547c071be1347c2895b73"
 metafile = true
 
 [[files]]
