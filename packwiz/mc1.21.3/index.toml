@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "3d461742b51c1fe7e039c2fb101772414e5d97d11855ca75e8919f28b18bcafb"
+hash = "8a1404a738f09111bbe5df3c75aa49fa11663455f1bc8112d87dd8afad34ffc8"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "16f42fd91129d7cba09dbdc523c923e57059266314f18edafc606e8d0641220d"
+hash = "455caee0f4c53abd8ae4d5f528a8b1fb513b181dffff9e9659cd746571220ee8"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "bd9f2b6ea26e9274021fde6cb5b310aa60506aa67a9afd078c6ac0bb4ab15415"
+hash = "7650c6195685a8576ae8ae503bfa053d020a7f038d34fd6c9fcc9065b195561f"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "52551e66deef84415a16a208e7aeb9e80aceb1b29f57c4e7410ea5ea0317ff4b"
+hash = "7eceb421490824d06f219afc05fb4e28e4bb58991377a55649238e3ca561e6e4"
 metafile = true
 
 [[files]]
@@ -463,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "cd921a70bb9cede4a5b6bada6d9e924c6afdf8926f912f3b04c5e9d4cdbf34e1"
+metafile = true
+
+[[files]]
+file = "mods/sound-controller.pw.toml"
+hash = "b32c7533727c3823f41f6d96948728d0dda65028a38f12880c97b25e149cd361"
 metafile = true
 
 [[files]]

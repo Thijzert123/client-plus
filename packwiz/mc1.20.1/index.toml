@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "48d7796c1cd92329b3be7a2720d57a48d22c07434d3a3be34ab412bb8618a4c5"
+hash = "732bc85d460b6399677e5b768318a0d6cc02822b9d005015ec4e16d9730e260a"
 metafile = true
 
 [[files]]
@@ -473,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
+metafile = true
+
+[[files]]
+file = "mods/sound-controller.pw.toml"
+hash = "2be64036133466dac5480708a54274efe97834b438c0d549d30dabf17459699c"
 metafile = true
 
 [[files]]

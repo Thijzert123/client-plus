@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "258d19f7a30f0fc833e49731146503e1e1cfdaec80ea5fa1ce9eb794b42d3152"
+hash = "bdd7d1d38603316ffb37e1dc4cb2cb7a68e3646fa6e66efcdc3b76432047e18d"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "e43ec2832e62efbb8625a0ccb57de93c7fa2bdcb1f53ecf6f60824cac738a9a1"
+hash = "7ab2c1f1f2151de38d4fa427ccf27663c24cbc40d924acd49ba81136746b98d5"
 metafile = true
 
 [[files]]
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5a06bd63b8132c8653e225db9d72e5eab51de5e6b5a4afa499fd3da7be5592f9"
+hash = "c0bb895f2240522cc6f20afb9ef46293d9b689b8d46839364350e5b0682bac4b"
 metafile = true
 
 [[files]]
@@ -421,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "a10649f91fe0d1f5cd96c14421ac53f84843dc7fd49c4f9dd5a20b1e80f5f6df"
+hash = "5d7ca3cf3520f73b6b40a04593dab2e57081c6fa23d03199ab11bd48db920f50"
 metafile = true
 
 [[files]]
@@ -622,6 +622,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "11e2d2257d15509f1acffb9945c0a85f35ddffbf6877b8ab8ff21414f0f3caff"
+metafile = true
+
+[[files]]
+file = "mods/sound-controller.pw.toml"
+hash = "46d8e4cb1988d2c0ec2d2645b95524ce93aee6a404ea0c97a77207882797ce9d"
 metafile = true
 
 [[files]]
