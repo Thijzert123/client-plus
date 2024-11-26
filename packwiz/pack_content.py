@@ -94,7 +94,8 @@
                            "show-me-your-skin",
                            "controlling",
                            "durability-plus",
-                           "hey-wiki"],
+                           "hey-wiki",
+                           "sound-controller"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
