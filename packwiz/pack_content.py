@@ -95,7 +95,8 @@
                            "controlling",
                            "durability-plus",
                            "hey-wiki",
-                           "sound-controller"],
+                           "sound-controller",
+                           "debugify"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
