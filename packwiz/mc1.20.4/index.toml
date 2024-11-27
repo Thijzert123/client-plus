@@ -156,6 +156,11 @@ hash = "fe349cb89bc02b98047b1e082efc882d9a9dfd64385b9f7fc6e2e1f008545479"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "ae10c25b006a7cf0fea838dd58ad89ad4e5deb4d86e3219d32ffcd0ef2c868b6"
+metafile = true
+
+[[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "19c242cf805b01218fa398815d3b508658953a744ad1182e7af917ad9ce3f93d"
 metafile = true

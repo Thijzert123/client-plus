@@ -216,6 +216,11 @@ hash = "5410fea228bfa0c47b66b506e76c9c1d06e2f7383ad8601e9a2153b1a51c3049"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "4d2c83341f911e62074b763440f5b8553096c66dadd599c61cb74493ec99d079"
+metafile = true
+
+[[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "f40e996859e78555a081ea5578d4f74bb22eccc675d3b2c76c6cdbb51e731bcc"
 metafile = true
@@ -432,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "7eceb421490824d06f219afc05fb4e28e4bb58991377a55649238e3ca561e6e4"
+hash = "1517b7676312ec17786535601a90f33d274a25b1b23e41c7859e306223f0b70c"
 metafile = true
 
 [[files]]
