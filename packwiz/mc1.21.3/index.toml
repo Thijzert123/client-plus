@@ -542,6 +542,11 @@ hash = "b40a494b7e770b40c0f46d089bae58d14ff67ce2c2c4396434a639756c994c72"
 metafile = true
 
 [[files]]
+file = "resourcepacks/low-on-fire.pw.toml"
+hash = "347564c7db8830d5595e0c6cc3b7c4bb9d040cfd09272d672a969200cb24d3d0"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mob-crates.pw.toml"
 hash = "b7dcc09736cc40dd812348a2591eb200ad23d6f9159de952ae2e89c8620790c3"
 metafile = true

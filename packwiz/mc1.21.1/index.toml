@@ -13,6 +13,10 @@ file = "config/yosbr/config/dynamiccrosshair.json5"
 hash = "09e78e344d0cfea6442b3be31ad65a67623fc4f7ab9266be0707000372d0b62d"
 
 [[files]]
+file = "config/yosbr/config/malilib.json"
+hash = "2fa4328bcb6660e0b25dff4344f0eccb6b2c9acc41b1c1d624c22ef5b2b8d711"
+
+[[files]]
 file = "config/yosbr/config/seamless_loading_screen.json"
 hash = "b7c9d710cb0da0fffe4e71039886e740d9a0deb68ad6a8c23c872fe7888521c6"
 
@@ -30,79 +34,11 @@ hash = "2403af18d131d038d9db0a7b76f66997c594166e19db5f63f2e58caa9fc850af"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "113186df7da5cb2138efcd948ba94d5275de693fe6b6429dc21a3e3200e8581a"
+hash = "7685025f54c815d5a1ddad062835c316fa8391faef701635973ab18ec835d6a6"
 
 [[files]]
 file = "credits.txt"
 hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
-
-[[files]]
-file = "emotes/Cheer.emotecraft"
-hash = "bff0ecf72c000553aa94cb8423ae94d789dac417bc32af770fc0df8512661c98"
-
-[[files]]
-file = "emotes/Emerge.emotecraft"
-hash = "d7cc085f1531f6f56112ad0f1053e677cbe376ce2f24a4cc633740a3d1253433"
-
-[[files]]
-file = "emotes/Family Guy Death.emotecraft"
-hash = "b36d60ceea4397a4fe14c311eece5d489b8c1b8ef12d14e436a942a03a0fcc70"
-
-[[files]]
-file = "emotes/Fast Salute.emotecraft"
-hash = "1362c4d35dd3774f1336764d7477394e38d710a28b28582dcdac667d0e466988"
-
-[[files]]
-file = "emotes/Four.emotecraft"
-hash = "df18eb6cd01cabe3906a6185081b901f6396217b03840204ebf645624c859691"
-
-[[files]]
-file = "emotes/Get Griddy.emotecraft"
-hash = "a8ab90c4536a5fbcee374e6d50a340eedb7ee43e948801c507f22d63117398e4"
-
-[[files]]
-file = "emotes/GigaChad.emotecraft"
-hash = "606397e6f922cc6bb2b2e8b5fedd0c47dbac108ff4a6336efe07960c260b4816"
-
-[[files]]
-file = "emotes/Petition.emotecraft"
-hash = "b787db3166e49fa4f9a7ffea5a68bbbd54cf038ca5862771db7015e060823427"
-
-[[files]]
-file = "emotes/Riding nothing.emotecraft"
-hash = "6802b7a9055707b6bf66b2b6446bb7211370376ca557b1373ae07e38edcf25cc"
-
-[[files]]
-file = "emotes/Salute.emotecraft"
-hash = "10460f6865e405ea30cf05551144293b7d5b6bf9ba38596237a9b4cec7758fc3"
-
-[[files]]
-file = "emotes/T-Pose.emotecraft"
-hash = "f2e97666e0c3452b2b32cc2fffea7fa2a868899b323ccc6f60f49d817cc1c1b5"
-
-[[files]]
-file = "emotes/The Luddy.emotecraft"
-hash = "5b0ad6df6aee1f451cc60492fafd6d88932cbdd65435737a973b0921d2ab1fda"
-
-[[files]]
-file = "emotes/blow kiss.emotecraft"
-hash = "9edd811a26112327b7d4bef979abe4a11852dd812730c55d6c4eccb7754d5e7c"
-
-[[files]]
-file = "emotes/club penguin dance.emotecraft"
-hash = "420e3d66c48aafb2ba781457ac33aa83a88a99da74f48afe94af9241062e3a47"
-
-[[files]]
-file = "emotes/cool sit.emotecraft"
-hash = "b7fc49d00052854631db398dd8a80e7d8669eded5394906cf264f1b7a407005d"
-
-[[files]]
-file = "emotes/head escape.emotecraft"
-hash = "6fc76eb4cf83b61aa978671921b8c5a69166c553eddc1fa001e77491220f0f5e"
-
-[[files]]
-file = "emotes/yoinky sploinky.emotecraft"
-hash = "05933bc57359c9b7ace9a619eeb9dac1dac4eca54187e4145cc949a5ed03276f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -736,6 +672,10 @@ hash = "ac13f7c9bc5f99ce85c6104f0aff4d36117c98bd7e6b8c124c7ecb21b94604de"
 metafile = true
 
 [[files]]
+file = "resourcepacks/client-plus-lang.zip"
+hash = "41881f655ec6ab2cdb0f1fc80392a492976fb5c9dafe2733b30ee079261effc8"
+
+[[files]]
 file = "resourcepacks/colourful-containers-dark-mode-gui.pw.toml"
 hash = "b5fc6d1818511356a31ac23a1377d38da5c377f53f4af745ff99cb3a4a49e98b"
 metafile = true
@@ -807,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/low-on-fire.pw.toml"
-hash = "0af8190d415b105a7a2b9e1ec360ec0d7ec85e06bbc0616e0f23092bf0f61d79"
+hash = "347564c7db8830d5595e0c6cc3b7c4bb9d040cfd09272d672a969200cb24d3d0"
 metafile = true
 
 [[files]]
