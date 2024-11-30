@@ -8,7 +8,7 @@ Not only that, mods that improve gameplay are also included, specifically on the
 
 Client+ ships with all the resource packs and shaders you'll ever need, even with some resource packs enabled out of the box. Redstone Tweaks, Connected Textures and Fullbright UB all improve Minecraft and are available in this modpack. As for shaders, Complementary Shaders Reinmagined/Unbound, BSL Shaders, Solas Shader and more are included.
 
-_Note: a few mods are (partially) server-side or require a server with the same mod (such as Simple Voice Chat). They are still included because they can be very useful in singleplayer or are very well known and installed on a lot of servers._
+_Note: a few mods are (partially) server-side or require a server with the same mod (such as Simple Voice Chat). They are still included because they can be very useful in singleplayer (with the integrated server) or are very well known and installed on a lot of servers._
 
 ## Mod information
 All the mods, resource packs and shaders have been carefully selected. If you have an issue of any kinds, or if you have recommendations or feature requests, feel free to [open an issue on GitHub](https://github.com/Thijzert123/client-plus/issues).
