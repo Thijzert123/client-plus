@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "e709b0053658948326b858043c729a652258c9fbcf5eb49ba3c48e9fcd65552f"
+hash = "ade96e54f3cc61a9a64356f522f8527f15a20518fe9a782229af7423358fc017"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "38f62f5d33b4cffe69bb70c65e4e8cbbf57cbdcbe99fd46d668f5d2038137728"
+hash = "5e0a28acc79595450b16a13d11fd5df1590289fed6bbe00708b910dd57446012"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "3ecd2b7eb47eb085be2c6dcff6aa10c6a26267c08270ac3013121a032205e27a"
+hash = "5200b85159d7ceff7799d42b99928fc83551792a27a3a7b06a2832ce2fbc8563"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/glowing-torchflower.pw.toml"
-hash = "407ed420e43704bf03211a365438320dd56a7d33f213b05f01c0f27bc79e2d3d"
+hash = "8f329f1b4498ebb983e0cfd25b30f7f8ecd900756fb43a09b3970479ab322382"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "4aa0c90cec84b5b5b010f33a991a04eeb68d05643d34fe510d19ff12b780777a"
+hash = "132995079f7feb86f05b3be792de6e7bb848c5dd2aec949e33204105028250d5"
 metafile = true
 
 [[files]]
@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "da9845d48c790f4944cc93ed79a5c420bed0445989d547c071be1347c2895b73"
+hash = "48bab1371678e19e665b9d8de1c21fbfd4e4390cd00f60b4aadb8826bf45a05e"
 metafile = true
 
 [[files]]

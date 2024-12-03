@@ -1,13 +1,13 @@
 name = "UniLib"
-filename = "UniLib-1.0.3+1.20.4-fabric.jar"
+filename = "UniLib-1.0.4+1.20.4-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/nT86WUER/versions/RHu7GahC/UniLib-1.0.3%2B1.20.4-fabric.jar"
+url = "https://cdn.modrinth.com/data/nT86WUER/versions/fJ6MrWyp/UniLib-1.0.4%2B1.20.4-fabric.jar"
 hash-format = "sha512"
-hash = "fedbc10cd67e79b8c480fa0249c3afac20bb002a3658727e2e4e6e85887a9eca9ed632b2927b002f11abd9e17dda6119c4586ebfe3120e3a373183b23dffb783"
+hash = "1e204fb50c99ce42a0606cf96c59cbeedea9a0ee6b3a2a4634a565aa5c0df4179ec96c0c752b4d511039f07818a44f178bad29ad326795664e022fdc9d3c7d7d"
 
 [update]
 [update.modrinth]
 mod-id = "nT86WUER"
-version = "RHu7GahC"
+version = "fJ6MrWyp"

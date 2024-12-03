@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "39aa7b92dca90abdad627963870b9246497aaad10e5fd6082312ee9259d2abbb"
+hash = "86711648c218d50688af4fd8cbaae872d266724ae653fc2f1d080cabe55d12f4"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "a227644e6290a0d2157c3b1f8f1fb7409d7ad42cad2279df3f227772992824e7"
+hash = "3b0066decca2fa58039b4dbaacc8eb085096adc4befe1b8dcacbe7f0b59b02b9"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/glowing-torchflower.pw.toml"
-hash = "96cd66a321db27ef6bfc9407e9a0b65fc2df198639c013ce82926e221c872045"
+hash = "01071ec9726f37aca8f8e41a5f05844363341da48403382602c56dc4ed25e5cc"
 metafile = true
 
 [[files]]
@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "fe0b561f3e145979e93097fc58f9c059ea95926372ed98f73edc97061da66759"
+hash = "78640d2b6c2e4762ac277709f340148791ff588e826364a55a0d04964b6e962a"
 metafile = true
 
 [[files]]
@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "ac13f7c9bc5f99ce85c6104f0aff4d36117c98bd7e6b8c124c7ecb21b94604de"
+hash = "8f3093e175ab439cdf381c7f038510e73a07698cc9e9c7c370cb327bd8bbd3cd"
 metafile = true
 
 [[files]]
@@ -692,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "da9845d48c790f4944cc93ed79a5c420bed0445989d547c071be1347c2895b73"
+hash = "48bab1371678e19e665b9d8de1c21fbfd4e4390cd00f60b4aadb8826bf45a05e"
 metafile = true
 
 [[files]]

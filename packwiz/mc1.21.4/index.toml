@@ -1,0 +1,11 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "4ee204932077b04537814313c3dd4ed82fe2e8bf4b2dbb3fbcee7109852e1375"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hyper-realistic-sky.pw.toml"
+hash = "b40a494b7e770b40c0f46d089bae58d14ff67ce2c2c4396434a639756c994c72"
+metafile = true

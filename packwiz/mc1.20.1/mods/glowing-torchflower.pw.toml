@@ -1,13 +1,13 @@
 name = "Glowing Torchflower"
-filename = "glowing-torchflower-1.20-1.1.0.jar"
+filename = "glowing-torchflower-1.20-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1S4LxcvL/versions/BNuNgYWy/glowing-torchflower-1.20-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/1S4LxcvL/versions/2cx5QqiP/glowing-torchflower-1.20-1.2.0.jar"
 hash-format = "sha512"
-hash = "7029ccee217a3df97899793b755b7f0cd830cc192ba088e62ef30c2e81bd0fe98fe2e272182519cdf2b750b93a99059fafdd891c177bb0a287059a08388aee97"
+hash = "941edd85bb0c0f5504441bc3f7d4fea99448798152c1dd04e627487339ed70e19dfa093d5daee4f3ec4942b8ed486086acb68ee37e0d3c56853943afdc7cfb8b"
 
 [update]
 [update.modrinth]
 mod-id = "1S4LxcvL"
-version = "BNuNgYWy"
+version = "2cx5QqiP"

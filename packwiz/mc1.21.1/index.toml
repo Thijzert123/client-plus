@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "327c76c7a1d921e55fe67b52d41fd942c84bebe6822ce2504eebb5c3d9cb3333"
+hash = "660096bcadefd334877889261bfecea95756a804365368174d247d9a77fb4ce2"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "0d393d125275f28d7cec57525f02ad664af5b471c10cd0ce5f465b0379e21850"
+hash = "6185d6951df8226115e35bd3e7e1e659a38f1d80b5da902ea4aa0e401e95cc47"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "7a2e1578094baebcd74491f46871b0e7d52d14aa1f691b394c553265afed1b8b"
+hash = "a52ba05fa9ffc50b308707fb270b804a91f93377f075065d0f9eeb08a448e844"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "77c35043d1e5dbeba210c69ef7aa15dd47ab978e2e27ee3e37ad8838a0c08d80"
+hash = "8945ea290647fec8b91c24bd81821ee1d73d84a968d23260dbee24ceb951db4d"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/glowing-torchflower.pw.toml"
-hash = "96cd66a321db27ef6bfc9407e9a0b65fc2df198639c013ce82926e221c872045"
+hash = "01071ec9726f37aca8f8e41a5f05844363341da48403382602c56dc4ed25e5cc"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ef19c1c85edcb9a19dc784c264497f6191579942b63e6343daaf6c9cdd9a3b78"
+hash = "12ccc252376279689c9f3073f55bb8685ccd1c5f0c435b96c89e71d1b4396c72"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "5d7ca3cf3520f73b6b40a04593dab2e57081c6fa23d03199ab11bd48db920f50"
+hash = "0802f98909f8ef394056804e4772be187ff3143c9d4038ccb7dc3dcacfe535fc"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "84f6fdfe8576c72a5704178b45e3142ae81ed263c474c46a93f98f7d42debb68"
+hash = "c6d58a7af6566256a14b48cd4ccda92e3c830efde32ca75e526a1902342d2ef5"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "cbd11dd2ce7d950794a78cc2a2986e89226f418edf578a961b796dbe9be57a27"
+hash = "ac18f08584260cf3a3dc69068513b0ae6b0a3b8b7be9a4c0c4e02b22d77e9635"
 metafile = true
 
 [[files]]
@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/snapper.pw.toml"
-hash = "b233111b5f7da33d0364ce71ecd83e728dd28c8e21211bc2a34b097c193225c6"
+hash = "37bc655ebb417b6624fbeddeeb3624fa771ad9af080c134fc427d6c85ddc3951"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "11e2d2257d15509f1acffb9945c0a85f35ddffbf6877b8ab8ff21414f0f3caff"
+hash = "6f3622bd4a52be2851d1e90e9c4a352a7cdb54fae8acb069aa0dd54e3704a324"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "8876d40c26a95e28a925c2e9339bbda9e1a21843ecec39abf4737cbc264a4147"
+hash = "09a9057a7e7a899e27fc96a34a5d69d7803b86142ddd7199456e93d803b0b196"
 metafile = true
 
 [[files]]
@@ -668,7 +668,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "ac13f7c9bc5f99ce85c6104f0aff4d36117c98bd7e6b8c124c7ecb21b94604de"
+hash = "8f3093e175ab439cdf381c7f038510e73a07698cc9e9c7c370cb327bd8bbd3cd"
 metafile = true
 
 [[files]]
@@ -797,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "da9845d48c790f4944cc93ed79a5c420bed0445989d547c071be1347c2895b73"
+hash = "48bab1371678e19e665b9d8de1c21fbfd4e4390cd00f60b4aadb8826bf45a05e"
 metafile = true
 
 [[files]]
