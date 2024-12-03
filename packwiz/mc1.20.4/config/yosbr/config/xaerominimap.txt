@@ -1,0 +1,2 @@
+updateNotification:false
+minimapShape:1
