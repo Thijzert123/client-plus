@@ -54,11 +54,12 @@ This is all the content in the modpack, including mods, resource packs and shade
 |    [Complementary Shaders - Unbound](https://modrinth.com/project/R6NEzAwj)    |   ✅  |   ✅  |   ✅  |   ✅  |
 |               [Continuity](https://modrinth.com/project/1IjD5062)              |   ✅  |   ✅  |   ✅  |   ❌  |
 |               [Controlify](https://modrinth.com/project/DOUdJVEm)              |   ✅  |   ✅  |   ✅  |   ✅  |
-|              [Controlling](https://modrinth.com/project/xv94TkTM)              |   ✅  |   ✅  |   ✅  |   ❌  |
+|              [Controlling](https://modrinth.com/project/xv94TkTM)              |   ✅  |   ✅  |   ✅  |   ✅  |
 |             [CraftPresence](https://modrinth.com/project/DFqQfIBR)             |   ✅  |   ✅  |   ✅  |   ✅  |
 |         [Cubes Without Borders](https://modrinth.com/project/ETlrkaYF)         |   ✅  |   ✅  |   ✅  |   ✅  |
 |            [Cubic Sun & Moon](https://modrinth.com/project/g4bSYbrU)           |   ✅  |   ✅  |   ✅  |   ❌  |
 |             [Custom Credits](https://modrinth.com/project/GhWh8CAU)            |   ✅  |   ✅  |   ✅  |   ✅  |
+|                [Debugify](https://modrinth.com/project/QwxR6Gcd)               |   ✅  |   ✅  |   ✅  |   ✅  |
 |            [Default Splashes](https://modrinth.com/project/RMESe7qr)           |   ✅  |   ✅  |   ✅  |   ✅  |
 |            [Detail Armor Bar](https://modrinth.com/project/hAt6ty93)           |   ✅  |   ✅  |   ✅  |   ✅  |
 |             [Dramatic Skys](https://modrinth.com/project/2YyNMled)             |   ✅  |   ✅  |   ✅  |   ✅  |
@@ -75,14 +76,14 @@ This is all the content in the modpack, including mods, resource packs and shade
 |         [Fabric Language Kotlin](https://modrinth.com/project/Ha28R6CL)        |   ✅  |   ✅  |   ✅  |   ✅  |
 |         [FabricSkyBoxes Interop](https://modrinth.com/project/HpdHOPOp)        |   ✅  |   ✅  |   ✅  |   ❌  |
 |             [FabricSkyboxes](https://modrinth.com/project/YBz7DOs8)            |   ✅  |   ✅  |   ✅  |   ❌  |
-|               [Fabrishot](https://modrinth.com/project/3qsfQtE9)               |   ✅  |   ✅  |   ✅  |   ❌  |
+|               [Fabrishot](https://modrinth.com/project/3qsfQtE9)               |   ✅  |   ✅  |   ✅  |   ✅  |
 |             [Falling Leaves](https://modrinth.com/project/WhbRG4iK)            |   ✅  |   ✅  |   ✅  |   ✅  |
 |              [Fancy Crops](https://modrinth.com/project/UGEVQ6t9)              |   ✅  |   ✅  |   ✅  |   ❌  |
 |              [Fast IP Ping](https://modrinth.com/project/9mtu0sUO)             |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [FastQuit](https://modrinth.com/project/x1hIzbuY)               |   ✅  |   ✅  |   ✅  |   ❌  |
 |              [FerriteCore](https://modrinth.com/project/uXXizFIs)              |   ✅  |   ✅  |   ✅  |   ✅  |
 |               [Flashback](https://modrinth.com/project/4das1Fjq)               |   ❌  |   ❌  |   ✅  |   ✅  |
-|         [Forge Config API Port](https://modrinth.com/project/ohNO6lps)         |   ✅  |   ✅  |   ✅  |   ❌  |
+|         [Forge Config API Port](https://modrinth.com/project/ohNO6lps)         |   ✅  |   ✅  |   ✅  |   ✅  |
 |            [Fresh Animations](https://modrinth.com/project/50dA9Sha)           |   ✅  |   ✅  |   ✅  |   ❌  |
 |        [Fresh Player Animations](https://modrinth.com/project/uYE6VsYf)        |   ✅  |   ✅  |   ✅  |   ❌  |
 |             [Fullbright UB](https://modrinth.com/project/ItHr72Fy)             |   ✅  |   ✅  |   ✅  |   ✅  |
@@ -104,7 +105,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |                 [Lighty](https://modrinth.com/project/yjvKidNM)                |   ✅  |   ✅  |   ✅  |   ✅  |
 |               [Litematica](https://modrinth.com/project/bEpr0Arc)              |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [Lithium](https://modrinth.com/project/gvQqBUqZ)                |   ✅  |   ✅  |   ✅  |   ✅  |
-|              [Low On Fire](https://modrinth.com/project/RRxvWKNC)              |   ✅  |   ❌  |   ✅  |   ❌  |
+|              [Low On Fire](https://modrinth.com/project/RRxvWKNC)              |   ✅  |   ❌  |   ✅  |   ✅  |
 |                [MaLiLib](https://modrinth.com/project/GcWjdA9I)                |   ✅  |   ✅  |   ✅  |   ✅  |
 |              [Mace but 3D](https://modrinth.com/project/6LzngQIs)              |   ❌  |   ❌  |   ✅  |   ✅  |
 |            [Make Bubbles Pop](https://modrinth.com/project/gPCdW0Wr)           |   ✅  |   ✅  |   ✅  |   ❌  |
@@ -129,17 +130,17 @@ This is all the content in the modpack, including mods, resource packs and shade
 |                [OptiGUI](https://modrinth.com/project/JuksLGBQ)                |   ✅  |   ✅  |   ✅  |   ✅  |
 | [Paginated Advancements & Custom Frames](https://modrinth.com/project/pJogNFap)|   ✅  |   ✅  |   ✅  |   ✅  |
 |              [Particular ✨](https://modrinth.com/project/B1CcCd9h)             |   ✅  |   ✅  |   ✅  |   ❌  |
-|            [Pick Up Notifier](https://modrinth.com/project/ZX66K16c)           |   ✅  |   ✅  |   ✅  |   ❌  |
+|            [Pick Up Notifier](https://modrinth.com/project/ZX66K16c)           |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [Polytone](https://modrinth.com/project/3qAYkBMB)               |   ✅  |   ✅  |   ✅  |   ✅  |
 |                 [Prism](https://modrinth.com/project/1OE8wbN0)                 |   ✅  |   ✅  |   ✅  |   ❌  |
-|              [Puzzles Lib](https://modrinth.com/project/QAGBst4M)              |   ✅  |   ✅  |   ✅  |   ❌  |
+|              [Puzzles Lib](https://modrinth.com/project/QAGBst4M)              |   ✅  |   ✅  |   ✅  |   ✅  |
 |            [Redstone Tweaks](https://modrinth.com/project/RvfAlf4Z)            |   ✅  |   ✅  |   ✅  |   ✅  |
 |               [Reimagined](https://modrinth.com/project/ta5dy0aA)              |   ✅  |   ✅  |   ✅  |   ❌  |
 |               [Resourcify](https://modrinth.com/project/RLzHAoZe)              |   ✅  |   ✅  |   ✅  |   ✅  |
 |           [Rethinking Voxels](https://modrinth.com/project/kmwfVOoi)           |   ✅  |   ✅  |   ✅  |   ❌  |
 |        [Screenshot to Clipboard](https://modrinth.com/project/1KiJRrTg)        |   ✅  |   ✅  |   ✅  |   ❌  |
 |        [Seamless Loading Screen ](https://modrinth.com/project/TyTPFOiF)       |   ✅  |   ✅  |   ✅  |   ❌  |
-|              [Searchables](https://modrinth.com/project/fuuu3xnx)              |   ✅  |   ✅  |   ✅  |   ❌  |
+|              [Searchables](https://modrinth.com/project/fuuu3xnx)              |   ✅  |   ✅  |   ✅  |   ✅  |
 |           [Show Me Your Skin!](https://modrinth.com/project/bD7YqcA3)          |   ✅  |   ✅  |   ✅  |   ❌  |
 |          [Shulker Box Tooltip](https://modrinth.com/project/2M01OLQq)          |   ✅  |   ✅  |   ✅  |   ✅  |
 |          [Simple Grass Flowers](https://modrinth.com/project/ti9KkMHm)         |   ✅  |   ✅  |   ✅  |   ✅  |
@@ -149,6 +150,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |              [Sodium Extra](https://modrinth.com/project/PtjYWJkn)             |   ✅  |   ✅  |   ✅  |   ✅  |
 |                 [Sodium](https://modrinth.com/project/AANobbMI)                |   ✅  |   ✅  |   ✅  |   ✅  |
 |              [Solas Shader](https://modrinth.com/project/EpQFjzrQ)             |   ✅  |   ✅  |   ✅  |   ✅  |
+|            [Sound Controller](https://modrinth.com/project/uY9zbflw)           |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [Spectral](https://modrinth.com/project/vaaOMowT)               |   ✅  |   ✅  |   ✅  |   ❌  |
 |         [Spryzeen's Healthbars](https://modrinth.com/project/ZMcqgmIV)         |   ❌  |   ❌  |   ✅  |   ❌  |
 |        [Spryzeen's Knight Armor](https://modrinth.com/project/EwJHG2NA)        |   ❌  |   ❌  |   ✅  |   ❌  |
@@ -178,6 +180,3 @@ Apart from that, we also include various Vanilla Tweaks resource packs:
 - [Colored Ping Indicator](https://vanillatweaks.net/share/#lz4EZp)
 - [Lower Shield](https://vanillatweaks.net/share#dczqmI)
 - [Variated Blocks](https://vanillatweaks.net/share#Oz7pBC)
-
-## TODO
-- [ ] Add Vanilla Tweaks and other overrides to 1.20.1 and 1.20.4
