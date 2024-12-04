@@ -13,7 +13,7 @@ PROJECT_LIST_FILENAME = "project_list.md"
 ROOT_DIR = "."
 MC_PREFIX = "mc"
 PACKWIZ_SUFFIX = ".pw.toml"
-SUPPORTED_MC_VERSIONS = ["1.20.1", "1.20.4", "1.21.1", "1.21.3"]
+SUPPORTED_MC_VERSIONS = ["1.20.1", "1.20.4", "1.21.1", "1.21.3", "1.21.4"]
 
 checkmark_icon = "✅"
 x_icon = "❌"
