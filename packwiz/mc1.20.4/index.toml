@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "096c243c4d4ddce2ce503068a4857a52d6c22ff2b550efdf3ef45678326110fb"
+hash = "6dbbc24bc721547dd6ad2784b6f9c6c9d71089f3e45374cc2fee44efe1ce4197"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "b952d8726368d5f10fa1b1da8748fc20fddd4fbe1356f6f217844707e90bc9b3"
+hash = "dded3880e723049a3d26ce915edf37ea1a86b4e45fc8fa47a9ec96b85596f36e"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "f6e0d9906c073276123eaf4e1f2e1adff99f43cbd1d0182987d2796c5bfd8e9d"
+hash = "813dc5240894181ae756c20ee00768b18b4d48c9f6aeef22a308710eb323b229"
 metafile = true
 
 [[files]]
@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2c6553f67c0d60f62afbcdd6c8fd8c48b803fc9bd2e280f3aeefa078414805d6"
+hash = "2e441b5e21e8db1cd9102216ce4b8d1a25d77a026182e00f6324aadda402f715"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "48bab1371678e19e665b9d8de1c21fbfd4e4390cd00f60b4aadb8826bf45a05e"
+hash = "53f5a73bc34cb329a39b520b419d30aa8942e35ea65e232315bdeddc24b2b16e"
 metafile = true
 
 [[files]]
