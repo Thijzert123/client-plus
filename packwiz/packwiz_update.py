@@ -12,14 +12,16 @@ class Colors:
     END = '\033[0m'
 
 # remove and clean all mod/shaders/resources managed by packwiz
-def remove_packwiz_files(debug = False):
+def remove_packwiz_files(mc_dirs, debug = False):
     for root, dirnames, filenames in os.walk("."):
         for filename in filenames:
             if filename.endswith(PACKWIZ_SUFFIX):
                 filepath = os.path.join(root, filename)
-                if debug:
-                    print("Removing " + filepath)
-                os.remove(filepath)
+                mc_version = root.split("/")[1]
+                if mc_version in mc_dirs:
+                    if debug:
+                        print("Removing " + filepath)
+                    os.remove(filepath)
 
 def main(debug = False):
     if len(sys.argv) < 2:
@@ -44,7 +46,7 @@ def main(debug = False):
 
     print("Removing packwiz files...", end="")
     sys.stdout.flush()
-    remove_packwiz_files(debug)
+    remove_packwiz_files(mc_dirs, debug)
     print(" done")
     
     projects = []
