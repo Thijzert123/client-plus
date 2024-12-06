@@ -1,8 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "005f96a74b9b7bc5a8831f488c44616cb4deb00a197602603839b6608c98a633"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "2bb6c29a5574f67ad7f1b60bad7acfb91ec2aa8bbe5455d412dd7abb2542de61"
+hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
 metafile = true
 
 [[files]]
@@ -11,8 +16,18 @@ hash = "7b4d96e6e7ff74d643c322eda1e406d3405d799361be94a4d41de603aa89d437"
 metafile = true
 
 [[files]]
+file = "mods/bindcommands.pw.toml"
+hash = "f9012e127173fad8ca8efd18433fbb086a772d1b34662e7ef9871f995b867a2a"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "f85c908d960ca1baf260bbcfa672b1bf46b633c9d71870c43a14be5b4187904a"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "16505ed059285edd929ecd7ef50ac01200870df78559a62a5663497dba722b69"
 metafile = true
 
 [[files]]
@@ -21,13 +36,38 @@ hash = "8a1404a738f09111bbe5df3c75aa49fa11663455f1bc8112d87dd8afad34ffc8"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "5399a1ed17d95e0e019585a47b7230cf52ebc2a750c249c58dc7324b6b55d03d"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "49349d6789c8d49c469d98f0796b260df8f9534625fddd60c37a0bd197dce225"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "6abf1262f218b24d36b2a6b3a48b28eb5b10ecd86f5a3092fc079d7a92c8a8d7"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "f32c30de1ae7dbeeae00b654eb15ea358c6d26f631dc292bdb88dba9c30a8cc8"
 metafile = true
 
 [[files]]
+file = "mods/custom-credits.pw.toml"
+hash = "f8ecce83752b904ce24f2a2743c39211960a041f8003d996cc4aa18b4e241e17"
+metafile = true
+
+[[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "f40e996859e78555a081ea5578d4f74bb22eccc675d3b2c76c6cdbb51e731bcc"
+metafile = true
+
+[[files]]
+file = "mods/durability-plus.pw.toml"
+hash = "4df86a1620217251fc0c2bd6971a207bd3745db6f729b2175818948f43fc9e6e"
 metafile = true
 
 [[files]]
@@ -46,13 +86,18 @@ hash = "bb09e0a2886a6dbfe8d43b3967381226698e8513653a41d6fac7b95c435e89fc"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "49f8089d53aa0e40f6b9551e7931d4f502faf07f0c72fb7e1d6d8bc471a09482"
+metafile = true
+
+[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "2935ee30239f07c385a6343058108bc761a08c7923f4053908fb238cc3e67c90"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b560ec1ece536f7ad76fc7515798295683b41acf4392ccd1209397de48146496"
+hash = "b855cfb2d682b624943882eae3871a0981b622eeb249d4992a00516e8ff8156d"
 metafile = true
 
 [[files]]
@@ -76,6 +121,11 @@ hash = "f54c8f372e98a3bb4808ae4643ef6c22acedf04d8fb17ef2f22b6d9e6a01310f"
 metafile = true
 
 [[files]]
+file = "mods/improved-sign-editing.pw.toml"
+hash = "01eac2a8210276bd802a605abe87714296a2301d3f14ebfc7d29d7ca273487ff"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "fab5229d04b641be34afd2311065bca94fc8d59f9a78b9401e1dc6e9ac6dff31"
 metafile = true
@@ -83,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "cb0fecdbdc6f0ad5c72181432fecfff479c05e3c5d461b8ffe96a3c3c411cb85"
+metafile = true
+
+[[files]]
+file = "mods/lighty.pw.toml"
+hash = "9238e21004871fa972bdb05e1b39062fb7cbc25ed7bd122e871d051ba1d9f4d6"
 metafile = true
 
 [[files]]
@@ -106,6 +161,16 @@ hash = "e98ab94b7a9717621219a085416783de75c84aecdab6eae5413143bfab874639"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "1aa9d9b8c8af21f542883197014337a3746a5eaee3345639c5ab1c50781ddbe6"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "170af2cc47538de9caf10b714d81402b0e13a6b15a3e1e14d35f483f9cb276bd"
 metafile = true
@@ -113,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/resourcify.pw.toml"
 hash = "8a8811491d33e0164792ad8cd872c307596da9ab15c13ab2720121cef91a6495"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "a62b74c73c0d2d2da641462d462c4ce920829eedc0b3a56caaea171f800ca10c"
 metafile = true
 
 [[files]]
@@ -141,8 +211,28 @@ hash = "82f38a418e9d23011ce3ac428682752b4b3148c5fcf167d79303480cef83babb"
 metafile = true
 
 [[files]]
+file = "mods/unilib.pw.toml"
+hash = "08f780f12fc9a02d9f9f2e310609566a2dbaf3c0d43b8e8773fbd59522cb6fca"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "146dbdc9a45f945693a356510b0ce7ef670ab1bbd73e7fe461cef41f33519c3c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "c392f3cc80b774ea9af3c009a275c54ac148cfc470d591500ec76c1a85b97c9a"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "46258b61a97f047121ad5998d7a8c336eb502acf833498ba232c89766987f66e"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "4b7c266cf6c560aec780394f515cbe880c72fb07286f60694823fde3b926f184"
 metafile = true
 
 [[files]]
@@ -166,6 +256,11 @@ hash = "8f3093e175ab439cdf381c7f038510e73a07698cc9e9c7c370cb327bd8bbd3cd"
 metafile = true
 
 [[files]]
+file = "resourcepacks/dramatic-skys.pw.toml"
+hash = "a2e06d5c2832c0da840710023ab575f0fdda33a7ace029546aa68b07d057167c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/hyper-realistic-sky.pw.toml"
 hash = "b40a494b7e770b40c0f46d089bae58d14ff67ce2c2c4396434a639756c994c72"
 metafile = true
@@ -181,6 +276,11 @@ hash = "53f5a73bc34cb329a39b520b419d30aa8942e35ea65e232315bdeddc24b2b16e"
 metafile = true
 
 [[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "46037f073fefae9557af4e7130777d4fae8f3ee76a1e46ef6cd677d2eb79cda5"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "e6996ecb68a6c690558f589e7194d7df23a186ab8b75f0f67cfed069a280470b"
 metafile = true
@@ -193,4 +293,9 @@ metafile = true
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
 hash = "debfc9032c943c978fb1bd5c1e3eec5f46d3655111bbbd57cae8020e3cea173b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/miniature-shader.pw.toml"
+hash = "f741b6250fba8d1c17bcacd0f620b3bea4cd793099df2aa5f82edb5b45d12137"
 metafile = true

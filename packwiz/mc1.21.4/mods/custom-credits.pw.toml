@@ -1,0 +1,13 @@
+name = "Custom Credits"
+filename = "customcredits-1.21.4-1.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GhWh8CAU/versions/kNQ0o955/customcredits-1.21.4-1.6.jar"
+hash-format = "sha512"
+hash = "ee506137b6340f46465d94bc7d0ee29980912ac9c2c8aa88846a8c9884c71cc85d237b516905586b2e18658b9d8e58ab8377f69e0a0db07168da427388827ef6"
+
+[update]
+[update.modrinth]
+mod-id = "GhWh8CAU"
+version = "kNQ0o955"
