@@ -1,6 +1,46 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/chunksfadein.properties"
+hash = "cef1821cb8f861d3b2345d99667af26a67df083c1422133b437342c723c65ec3"
+
+[[files]]
+file = "config/yosbr/config/customcredits/credits.json"
+hash = "ede4819525725497ac0c9b381105b588f77678307d3a3819a21351c11459f053"
+
+[[files]]
+file = "config/yosbr/config/dynamiccrosshair.json5"
+hash = "09e78e344d0cfea6442b3be31ad65a67623fc4f7ab9266be0707000372d0b62d"
+
+[[files]]
+file = "config/yosbr/config/malilib.json"
+hash = "2fa4328bcb6660e0b25dff4344f0eccb6b2c9acc41b1c1d624c22ef5b2b8d711"
+
+[[files]]
+file = "config/yosbr/config/seamless_loading_screen.json"
+hash = "b7c9d710cb0da0fffe4e71039886e740d9a0deb68ad6a8c23c872fe7888521c6"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "be255ff4587feee964e11feba338d417485c7d26e4e7881f00eea2762fe9b7ca"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "28a9d68f9a8097d8a808ccd2fc3043a5b6989bba3695c83ee5eeaaccc66aae4d"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap_entities.json"
+hash = "2403af18d131d038d9db0a7b76f66997c594166e19db5f63f2e58caa9fc850af"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "7685025f54c815d5a1ddad062835c316fa8391faef701635973ab18ec835d6a6"
+
+[[files]]
+file = "credits.txt"
+hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "005f96a74b9b7bc5a8831f488c44616cb4deb00a197602603839b6608c98a633"
 metafile = true
@@ -246,6 +286,22 @@ hash = "195bf4824a7e475a5ee29acab35cb468272d41bd2413df7441de23f2b0b00288"
 metafile = true
 
 [[files]]
+file = "resourcepacks/VanillaTweaks_3D_r139394_MC1.21.x.zip"
+hash = "8522da8eb02a385144c3d2254a465cb51708132ce490f12f6d26855e409b2c6e"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_Colored_Ping_Indicator_r186221_MC1.21.x.zip"
+hash = "aa1dfd50864cc8e23a4be1bb6ed047e5e89425ddab3cfe60b6e2bb6b2f853112"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_Lower_Shield_r640024_MC1.21.x.zip"
+hash = "4adae284ccd9b2e47744b36fa00e5dc5c73f68581106383b6b543d727bebf47f"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_Variation_r730822_MC1.21.x.zip"
+hash = "785086ff39dc58abacaffa691b543818cacb93e426f446d3cfaea1a3bc89c6b7"
+
+[[files]]
 file = "resourcepacks/better-flame-particles.pw.toml"
 hash = "ff85d06569c47f70c8fdd3ca44d80b3e19dff6e12e854a4bc8fd4ee09ec82940"
 metafile = true
@@ -254,6 +310,10 @@ metafile = true
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "8f3093e175ab439cdf381c7f038510e73a07698cc9e9c7c370cb327bd8bbd3cd"
 metafile = true
+
+[[files]]
+file = "resourcepacks/client-plus-lang.zip"
+hash = "41881f655ec6ab2cdb0f1fc80392a492976fb5c9dafe2733b30ee079261effc8"
 
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
