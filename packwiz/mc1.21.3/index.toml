@@ -42,7 +42,7 @@ hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "e08168148e5a78feb349f0ea5cfea4eec9f28bfbbb508c275b8407e786dd9c49"
+hash = "6c83b14211ce8ac10fb01d64b3bf43ad6e30f43482c6adeec6ef881fa796c7b1"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "2bb6c29a5574f67ad7f1b60bad7acfb91ec2aa8bbe5455d412dd7abb2542de61"
+hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "f6135ea20e3a714a43969ed394fab0291e4e3b8a4bee1f8db5c0d74e6f65d0d3"
+hash = "5ea2c2c5f449648918714594e1d015e7194c3ed7c56c8c13990a48f9ebf309a3"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "fe4a894703704d94bdf7b5cfed82137b5a11f9953852a033d77e57b09614ce5b"
+hash = "d16fadf58ef4bfe7abc9b53e8b97b5bf9125d5378228dad4378a0d935351fa9a"
 metafile = true
 
 [[files]]
@@ -382,12 +382,12 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "6cf5daa00ff062575ae08705c691ee1cefef4ad13591aa1f67474379a5f1d75d"
+hash = "7406e0c93f64db6bf4bf5460fccfe44481d9a07e1584bf5ee1d41a57223945b5"
 metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "56439f8473e6fe53bdca1f5fbc40691ee291ac0315772365632bb40036b20202"
+hash = "0039f71b0a9cb9a8bc31d01e6a3764e3a021ac23999c8e2ff34ce0e62d25a1bc"
 metafile = true
 
 [[files]]
@@ -411,13 +411,18 @@ hash = "96aa05a04c0c9aa185b5db06d367d361931eae8cd2d41757443983c52c94da7c"
 metafile = true
 
 [[files]]
+file = "mods/skinshuffle.pw.toml"
+hash = "6e32e049558bc9930922f1fc8050b83748397c17f3cd241d1273fd2fb0798b14"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "a18faac8593412b5ef8ee28bf49ebf7fcb16197aa4d2396dd0684b7defeb0b59"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c6f6afe0d2c5bb33fe2308469775094432eb33b5e9140c1beaed51f7446002d2"
+hash = "9f996a694aa0158ca74da3ae08fb418753b7391d3d67b28df15e89db7e31e48d"
 metafile = true
 
 [[files]]
@@ -462,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "f7b9e27bd715cb8c0fd9fa52e594571af36ef2abbd9e139d27a4a61b5767eff1"
+hash = "c56da2f5a3c6f6eef3b46a46141c5cb4e85f2e63126e69018f214676343f92b9"
 metafile = true
 
 [[files]]
@@ -533,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "aa4e5a5aba56e4a2deef8b84c9ec9098561d91e2acf1523302c00d5aa180c081"
+hash = "a2e06d5c2832c0da840710023ab575f0fdda33a7ace029546aa68b07d057167c"
 metafile = true
 
 [[files]]
@@ -577,6 +582,11 @@ hash = "df08ba59fb22b90abce8144115d8283e10b891687ac682d9f2b6d3e09775963d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/reimagined.pw.toml"
+hash = "60d6e020ac4a8d548cf9e5b9ff2eba805118f5e4365e80daf9b64b459ded8c7c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/simple-grass-flowers.pw.toml"
 hash = "a52bbbdb204013e36703a7119c6d0ba71bdee1022823f836141f2577df362c00"
 metafile = true
@@ -593,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "95b28fe2091b763d5c4338830af58de79efe17d754bd7e961a3cb9657ac4afdb"
+hash = "46037f073fefae9557af4e7130777d4fae8f3ee76a1e46ef6cd677d2eb79cda5"
 metafile = true
 
 [[files]]
@@ -613,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/miniature-shader.pw.toml"
-hash = "1e8882b19de9bb0ead15453a96f29647aa723e6c49ec49faa99b1e7ef90ccef4"
+hash = "f741b6250fba8d1c17bcacd0f620b3bea4cd793099df2aa5f82edb5b45d12137"
 metafile = true
 
 [[files]]

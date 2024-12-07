@@ -56,6 +56,11 @@ hash = "7b4d96e6e7ff74d643c322eda1e406d3405d799361be94a4d41de603aa89d437"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "cbc0973dadd8e4a191ce8e819f212bcfb58708885b4a46a9de7afa29e71aadad"
+metafile = true
+
+[[files]]
 file = "mods/bindcommands.pw.toml"
 hash = "f9012e127173fad8ca8efd18433fbb086a772d1b34662e7ef9871f995b867a2a"
 metafile = true
@@ -63,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "f85c908d960ca1baf260bbcfa672b1bf46b633c9d71870c43a14be5b4187904a"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "7e01e21989c0b58b0f947238d907839585c3afb1a978d1f2ce22bcf46ef90cfa"
 metafile = true
 
 [[files]]
@@ -143,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "4fed6c6bc367b83050a1e6b6e302721240ed9391b78d749fa9df44d1299b798f"
 metafile = true
 
 [[files]]
@@ -237,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "844a0c4a5001591c8bd14f908f4bb96d11a6892c7384b89909620df1f4689b7c"
+hash = "ce3c7625502d2e0cf4dccf1685006d47a1f59cabf0b33e08fb7623edcd357bde"
 metafile = true
 
 [[files]]
@@ -318,6 +333,11 @@ hash = "41881f655ec6ab2cdb0f1fc80392a492976fb5c9dafe2733b30ee079261effc8"
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
 hash = "a2e06d5c2832c0da840710023ab575f0fdda33a7ace029546aa68b07d057167c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "590d63ddd680c1a9ce96945cec48c1b1dca146090003c850cf7a9cb855452699"
 metafile = true
 
 [[files]]
