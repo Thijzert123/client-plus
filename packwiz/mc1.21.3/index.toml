@@ -42,7 +42,7 @@ hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "6c83b14211ce8ac10fb01d64b3bf43ad6e30f43482c6adeec6ef881fa796c7b1"
+hash = "a32b41dea1b23ec896f2a522af6f0d460c3a9052b1b0c9bac0fccd56c4a0c507"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "386e990c85e864cd14bc4188750c0acb8f221f90b87377e91d122c88d9fac665"
+hash = "7c134a502138136669793c1d61ab1ecdab54f1a8e79d2ba075c1ea4d95eea11d"
 metafile = true
 
 [[files]]
@@ -316,6 +316,11 @@ hash = "c0bccda9dcb2aa9dc6ade6d3586f35dec9b7edbd1325212a3bcf8fc57e4edc61"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "78946e7851174a7462125185cb6306f5bac4fe5b90a3f4396cd8a79d56084661"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "8df15e4c82204449bc611392e13ba20e6586e9be5aedc65260deead2de0b00f6"
 metafile = true
@@ -367,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
-hash = "775f5d085b604e5f436687d5f24609df87ebc6a14dfeced7102e06982238ee64"
+hash = "1baad94f5485a8af16105a04ff20b0705eee2a90523f4c08fbdc7e6fff4b902a"
 metafile = true
 
 [[files]]

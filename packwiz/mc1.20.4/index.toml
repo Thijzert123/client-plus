@@ -46,7 +46,7 @@ hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "123aac7166358954b8255841b8cc5b68e346c1d94cb2bf21c0963286996e1796"
+hash = "37a6cba7f21fb3dd07ba2fc5de7f6c9756d9ae3e2c4bf10bb6c8070ea1519227"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "7497dccf45e24ad35c21f26d43785ff63edc20dac98e4e69f5563fed4fceacaf"
+hash = "69803bcf2762db57d6f900b8e559aab3d7ab880d0205e147a41fdd1cdcaa9fef"
 metafile = true
 
 [[files]]

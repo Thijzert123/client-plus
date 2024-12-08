@@ -42,7 +42,7 @@ hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "df19ceabd2cd9bcdf8a8d49c2cf3b220c5a9f68e37b2ad119da8f59dcaa911ee"
+hash = "81f72955e64568bc01f7a22015c32706badfb52ec7f094b392b0a8722aef837e"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "3aed30044ddce0ddc1b8bd23c5f8da11f784b6848a84a3bb04c9b394cd9d0182"
+hash = "ccde3290b7c187f1604334482954bbb6452509690caaeccc8dda0b08d7320a09"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "7b24565cbfed71b13cb435ef15b237a2a5175eab719310a37e6ca640f248e2d8"
+hash = "dbcabbe5e3788fcdb66a16b5c87ba62ef347e46708ab6c3c073a0f8856fac917"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d795ac4bc7321d5b9defa33eaba9e03b5fa38b8345d827417d9366913567cb67"
+hash = "85549a8527681f0a07ff2835345f022d7293460797da66bc5af1f948ca1e44b3"
 metafile = true
 
 [[files]]

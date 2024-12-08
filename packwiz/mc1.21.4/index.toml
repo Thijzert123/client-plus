@@ -42,7 +42,12 @@ hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "005f96a74b9b7bc5a8831f488c44616cb4deb00a197602603839b6608c98a633"
+hash = "04277af31d7c79fcfa5d134c040fbec38db299875b6ba92db0d184bc1f5d9593"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
 metafile = true
 
 [[files]]
@@ -52,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "7b4d96e6e7ff74d643c322eda1e406d3405d799361be94a4d41de603aa89d437"
+hash = "1fcc771366f6bf06deb079e6ae76fcee6500eedd38955a4959dc138a80a2a3da"
 metafile = true
 
 [[files]]
@@ -63,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/bindcommands.pw.toml"
 hash = "f9012e127173fad8ca8efd18433fbb086a772d1b34662e7ef9871f995b867a2a"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "783f6391e53272943cce060fd820d1c5b7cbdf94df1341f250bf09eaa296171c"
 metafile = true
 
 [[files]]
@@ -157,12 +167,17 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "4fed6c6bc367b83050a1e6b6e302721240ed9391b78d749fa9df44d1299b798f"
+hash = "306a5847d45e5b3909e63b7273503250ef7337232a05d7e1635313a6d9e6f976"
 metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "41504449b69a32068d2db598dfbc8d3690690e16a3a6d5cc1af256fbead1f653"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "bfd0e9e0e3ba950e458caf9687e2ebbf0a3c4e1f2f97259a25242f5649e808a9"
 metafile = true
 
 [[files]]
@@ -198,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8284c53c59f71991c522d190b4bedb7703a86ba27b900c335f1602aecb1510b"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "78946e7851174a7462125185cb6306f5bac4fe5b90a3f4396cd8a79d56084661"
 metafile = true
 
 [[files]]
@@ -348,6 +368,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/new-glowing-ores.pw.toml"
 hash = "0511040326c7649fde9b5784fff73b083f55e4ae7d43bfebc5e494cde0fe49e3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "b4a0e54b7e05e967417adf96aa8a09c18c0877cda18e90e1e90e5fdb6dc039cd"
 metafile = true
 
 [[files]]

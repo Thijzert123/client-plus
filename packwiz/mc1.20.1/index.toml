@@ -46,7 +46,7 @@ hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "ffe30c55494daf2ee46487d43b31fb8dc52b085972e348ef0bb64efaf2f2ac99"
+hash = "6548800a7f3043473a8ea5f0dd07231d890344dd9bf117ef7ea0e98f1057f0fe"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "2bdd30f77cc7ab6f34104f85841de60c60f9d89af665969e5bdcd8a6ae329a2d"
+hash = "fe764a97501bdf3e01430a426128e34d087e65c0e8806bbaacbdcfbc8278a750"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d3ebe8e69a65f1193d969d9ee9994b8c61a8246861063f9663ff5ebe2f33792c"
+hash = "9adb166dcf4d40b81dae783ed5ae90cf46e4f5e251f41c5d58853c4607e5f183"
 metafile = true
 
 [[files]]
