@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "81ad81d5109957c587c35b160eebbb6304218b8a153f1ab9ec6095fc22396d2d"
+hash = "4605b060a4451e17bb75788be82cf1efb0622957278697287baea7e6f17ae6e7"
 metafile = true
 
 [[files]]
@@ -431,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "4f61d4a498c02c3fbdacf5d69bf4f08533ec33857138ac92d77ced97da2daa3f"
+hash = "f03e6e9ed18e510f7ee6671a984cbdda3fabf1f5e037163f76264e8f0cbb5198"
 metafile = true
 
 [[files]]

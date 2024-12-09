@@ -91,6 +91,11 @@ hash = "16505ed059285edd929ecd7ef50ac01200870df78559a62a5663497dba722b69"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "64c483fe6597534270aac57d7cd3f59928641b97de649312a14d392b5343e483"
+metafile = true
+
+[[files]]
 file = "mods/clientsort.pw.toml"
 hash = "8a1404a738f09111bbe5df3c75aa49fa11663455f1bc8112d87dd8afad34ffc8"
 metafile = true
@@ -177,7 +182,12 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "bfd0e9e0e3ba950e458caf9687e2ebbf0a3c4e1f2f97259a25242f5649e808a9"
+hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
+metafile = true
+
+[[files]]
+file = "mods/flashback.pw.toml"
+hash = "dd52277af430e7ed5df5b3c2ca4e1e4cc2aa4875bb58f80fe5ec956373567a8c"
 metafile = true
 
 [[files]]
@@ -201,8 +211,18 @@ hash = "fab5229d04b641be34afd2311065bca94fc8d59f9a78b9401e1dc6e9ac6dff31"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "cb0fecdbdc6f0ad5c72181432fecfff479c05e3c5d461b8ffe96a3c3c411cb85"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "81ea6ca456261caaf5df55f5e5ba0dfbf04e9daf23cd93e00c35cec4d3fb27b3"
 metafile = true
 
 [[files]]
@@ -233,6 +253,16 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "e98ab94b7a9717621219a085416783de75c84aecdab6eae5413143bfab874639"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
+metafile = true
+
+[[files]]
+file = "mods/music-notification.pw.toml"
+hash = "325ac33da45b64f61f461d09ae42e6b582e206063e956c703df5da5a1d0b46c1"
 metafile = true
 
 [[files]]
