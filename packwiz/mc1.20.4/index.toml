@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "b4e1e7904720dfdb30ed224ef1eed14e5bb3aeb5ceb267cab1d63cade6db6065"
+hash = "87433e3ce0bc0d079605e27dcb72e9515151359c10ee2c3ea73c4459be0f2049"
 metafile = true
 
 [[files]]
@@ -501,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "d6317d432c67ac5dcecf12127edcbc386d78a6eb56a97f30db540f6dc587df78"
+hash = "f8250ea7ca7d3a2d360e62c93ad7ed37e6541089e653bef5cd07c532d705df53"
 metafile = true
 
 [[files]]
@@ -797,5 +797,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "f9b7bb3dde8853ec239377288d0bf2b8dcc323aba62d90122b4e33f455b56745"
+hash = "2e52b786e9fb8c2fdb88aecdfbf0a766898a24ffb875c907c14c4aaa0db8a47e"
 metafile = true

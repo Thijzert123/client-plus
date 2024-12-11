@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "2935ee30239f07c385a6343058108bc761a08c7923f4053908fb238cc3e67c90"
+hash = "0f63df0b45aa0c992668d92019caaf050b742b23705c05046ce173697d009eec"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "cb0fecdbdc6f0ad5c72181432fecfff479c05e3c5d461b8ffe96a3c3c411cb85"
+hash = "9752dfb3a2284f00d64d338df2d740e5c55bfcd4eb1aa7819fd9915a007468ef"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "e98ab94b7a9717621219a085416783de75c84aecdab6eae5413143bfab874639"
+hash = "5b1bc48f697f738fbc8c29a2735f5ee415d37c72a50783ce73e11c04087aa08e"
 metafile = true
 
 [[files]]
@@ -271,8 +271,13 @@ hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "e9066859b6107a8587ec888d859da65a68deb706e1b3c183cccef75c267f43d7"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
-hash = "1aa9d9b8c8af21f542883197014337a3746a5eaee3345639c5ab1c50781ddbe6"
+hash = "f59ab3633f781c5b5af3234f694da4c4d5195c9211b1ece7e410b54ec1a183eb"
 metafile = true
 
 [[files]]
@@ -282,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "8a8811491d33e0164792ad8cd872c307596da9ab15c13ab2720121cef91a6495"
+hash = "f97b1947f3524bbdd2a891931864004a79a0a08b746fea35cff42391e1c65686"
 metafile = true
 
 [[files]]
@@ -341,6 +346,11 @@ hash = "4b7c266cf6c560aec780394f515cbe880c72fb07286f60694823fde3b926f184"
 metafile = true
 
 [[files]]
+file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "c9a5dca078d983e94d629ca4bf402fff78e364e5b5365ff43373d77eec268432"
 metafile = true
@@ -369,6 +379,11 @@ hash = "785086ff39dc58abacaffa691b543818cacb93e426f446d3cfaea1a3bc89c6b7"
 [[files]]
 file = "resourcepacks/better-flame-particles.pw.toml"
 hash = "ff85d06569c47f70c8fdd3ca44d80b3e19dff6e12e854a4bc8fd4ee09ec82940"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-lanterns.pw.toml"
+hash = "46f5e3c36a281cfb9c08d2157b8e62441837938e66b433c91ed079246b5c702d"
 metafile = true
 
 [[files]]
@@ -433,4 +448,9 @@ metafile = true
 [[files]]
 file = "shaderpacks/miniature-shader.pw.toml"
 hash = "f741b6250fba8d1c17bcacd0f620b3bea4cd793099df2aa5f82edb5b45d12137"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "2e52b786e9fb8c2fdb88aecdfbf0a766898a24ffb875c907c14c4aaa0db8a47e"
 metafile = true
