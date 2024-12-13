@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/hey-wiki.pw.toml"
-hash = "ace4a388522a0143ee81584f9502e6a75058ad3bc75011e80552c730c815a5b1"
+hash = "5c8a7dabd03c4b6570949e41e74d76a96b9009e136b315bdac2ca701ff8112a8"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "37e1423ca6fff313a3916bbc71b2f2170935e4c520fc91c461999b497f65e4fa"
+hash = "7bf3eeb3aa4a6520153143deaabfd71ee8df80080409ca6787e10d6df2e9a6f6"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/reimagined.pw.toml"
-hash = "60d6e020ac4a8d548cf9e5b9ff2eba805118f5e4365e80daf9b64b459ded8c7c"
+hash = "a062f1b38a84a85f5295b59d8a4aa60ad53e769f3786d06c5bbc3119e11d61ae"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Spryzeen's Knight Armor"
+filename = "!§bKnightArmor.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EwJHG2NA/versions/ohrNHNcU/%21%C2%A7bKnightArmor.zip"
+hash-format = "sha512"
+hash = "79c6580da78e2b92f3f7a5c1bf8cf5ff31c6d35b24f81b69717882e5ca3ad4ab836eef67b6e710abf983517142a421b51a8f147b0c84491482447996dafd2a19"
+
+[update]
+[update.modrinth]
+mod-id = "EwJHG2NA"
+version = "ohrNHNcU"

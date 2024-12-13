@@ -66,6 +66,11 @@ hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
 metafile = true
 
 [[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "385f6606afc7086a39eaceec2df95e0c2c5d7aa3a3b31cb67e2a337eb10a4167"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "7c134a502138136669793c1d61ab1ecdab54f1a8e79d2ba075c1ea4d95eea11d"
 metafile = true
@@ -117,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "6bb5dc7d6fd4a3dcc54144f35ad6aee8d3d4903571931e702df9a83610d69179"
+hash = "4700fcc4fa1f3565cf3ef54dad8673bc940d83652b07dd2461c88b4a5b38aa16"
 metafile = true
 
 [[files]]
@@ -207,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "455caee0f4c53abd8ae4d5f528a8b1fb513b181dffff9e9659cd746571220ee8"
+hash = "129e8e41a2c4da6b61ca3818cd98f0759f40e39fbac367d45a30511e76c2ac37"
 metafile = true
 
 [[files]]
@@ -252,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/hey-wiki.pw.toml"
-hash = "f9ce515d4e3b8fca9f7e2d7e800f89557d12078733f62bf9c87de7eb83004e72"
+hash = "59f63cd47ffcd291be9fc3e9a79487bd36d442a1218bcaa31b4463e8fce017d6"
 metafile = true
 
 [[files]]
@@ -477,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ce89f7e3ab5b053cd3d45c257164c952ac55e7a9fc11d471a4b6799e2397677d"
+hash = "d93b391debdb6399b5e6fb6c4fea23a1c0fafa22efe51d8ab76bc4dbc94b1044"
 metafile = true
 
 [[files]]
@@ -598,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/reimagined.pw.toml"
-hash = "60d6e020ac4a8d548cf9e5b9ff2eba805118f5e4365e80daf9b64b459ded8c7c"
+hash = "a062f1b38a84a85f5295b59d8a4aa60ad53e769f3786d06c5bbc3119e11d61ae"
 metafile = true
 
 [[files]]
