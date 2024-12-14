@@ -191,6 +191,11 @@ hash = "8549f3aaf5b1119e6ea0b1d9b4d5759a7e89ffb33e8069bbaee7a98584f5d337"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "8495685423abe30f79123c6813cbf57df7d8507dd79898d03005cf4ce82ae03b"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "8c30705e816f74aac2899e6ee7ac5e7eb096915e2572f158b1396d99fa40517b"
 metafile = true
@@ -613,7 +618,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "53f5a73bc34cb329a39b520b419d30aa8942e35ea65e232315bdeddc24b2b16e"
+hash = "e35b4f52cd51e28cba488d2010b1225ab354f35dbdb721403cd470586a157043"
 metafile = true
 
 [[files]]

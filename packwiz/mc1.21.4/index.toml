@@ -56,6 +56,11 @@ hash = "126a1b72c154478d7d18d733fcc5e79bae93df7e37ee3f0b6e00db1b1ea66ac5"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "966652d2518ea20b988cdce89f41b8d776c249cdbe2906c7e98e9eda61b2a56f"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
 metafile = true
@@ -286,6 +291,11 @@ hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "85ae542e2ccfb61bcdd3aa55b1a56436782687ba63388e249cb98376737045d4"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "e9066859b6107a8587ec888d859da65a68deb706e1b3c183cccef75c267f43d7"
 metafile = true
@@ -328,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/sound-controller.pw.toml"
 hash = "f92a054fc88f79b1ba0d2c6b4d297c2f87646b117966adfb9a501be27f50cdfb"
+metafile = true
+
+[[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "8ee85cf9163551e114d900f00a24849ea55d915b30143b778f8125baa792d6da"
 metafile = true
 
 [[files]]
@@ -447,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "53f5a73bc34cb329a39b520b419d30aa8942e35ea65e232315bdeddc24b2b16e"
+hash = "e35b4f52cd51e28cba488d2010b1225ab354f35dbdb721403cd470586a157043"
 metafile = true
 
 [[files]]
