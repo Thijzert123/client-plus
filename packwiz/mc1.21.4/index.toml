@@ -126,6 +126,11 @@ hash = "49349d6789c8d49c469d98f0796b260df8f9534625fddd60c37a0bd197dce225"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "3493429b23739b78a4cd28f886aaa3a50a93d0dc3f83a75907e2568f7eec0aa0"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "6abf1262f218b24d36b2a6b3a48b28eb5b10ecd86f5a3092fc079d7a92c8a8d7"
 metafile = true
@@ -138,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/custom-credits.pw.toml"
 hash = "f8ecce83752b904ce24f2a2743c39211960a041f8003d996cc4aa18b4e241e17"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "3e9322e16b6bb4db8237bfbd8e648d514dc17a9e130550c21c39f3e895ce24e9"
 metafile = true
 
 [[files]]
@@ -272,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "5b1bc48f697f738fbc8c29a2735f5ee415d37c72a50783ce73e11c04087aa08e"
+hash = "8cd7ef0e7719d1e7edc6d68a3723ccb13a0b6adcf5fc38346692f725396484b5"
 metafile = true
 
 [[files]]
@@ -482,12 +492,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "debfc9032c943c978fb1bd5c1e3eec5f46d3655111bbbd57cae8020e3cea173b"
+hash = "b6e68a3b1083348cd30685a04535e5a779353b5e94aca5bf0a8749174995d147"
 metafile = true
 
 [[files]]
 file = "shaderpacks/miniature-shader.pw.toml"
-hash = "f741b6250fba8d1c17bcacd0f620b3bea4cd793099df2aa5f82edb5b45d12137"
+hash = "0febdf5819a348089c768f8d8ebecdb0e3359ad81bf715bd0c9985134a8c047d"
 metafile = true
 
 [[files]]

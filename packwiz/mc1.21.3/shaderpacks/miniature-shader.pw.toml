@@ -1,13 +1,13 @@
 name = "Miniature Shader"
-filename = "miniature-shader-2.13.6.zip"
+filename = "miniature-shader-2.14.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UaS8ROxa/versions/sWWhCIN1/miniature-shader-2.13.6.zip"
+url = "https://cdn.modrinth.com/data/UaS8ROxa/versions/oGPTDEGy/miniature-shader-2.14.zip"
 hash-format = "sha512"
-hash = "bed37c309224893377dd36468bfde6fbc67a95c011594114bfee2c9edde4a83b3d27969386ed0f7a516cc5d69064dc5f26b1b4f3093f10756ea56feac8156682"
+hash = "d04847f07d75fda37a8c25f1a062a5d10e0b271d4488bff52ecfad506221a796d615e48182baa0b4eb09f0df7d1efe9f5fff9235e5f802623e26057faf8bd255"
 
 [update]
 [update.modrinth]
 mod-id = "UaS8ROxa"
-version = "sWWhCIN1"
+version = "oGPTDEGy"

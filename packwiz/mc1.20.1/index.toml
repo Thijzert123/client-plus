@@ -772,12 +772,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "debfc9032c943c978fb1bd5c1e3eec5f46d3655111bbbd57cae8020e3cea173b"
+hash = "b6e68a3b1083348cd30685a04535e5a779353b5e94aca5bf0a8749174995d147"
 metafile = true
 
 [[files]]
 file = "shaderpacks/miniature-shader.pw.toml"
-hash = "f741b6250fba8d1c17bcacd0f620b3bea4cd793099df2aa5f82edb5b45d12137"
+hash = "0febdf5819a348089c768f8d8ebecdb0e3359ad81bf715bd0c9985134a8c047d"
 metafile = true
 
 [[files]]
