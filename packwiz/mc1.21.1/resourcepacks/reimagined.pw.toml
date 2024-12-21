@@ -1,13 +1,13 @@
 name = "Reimagined"
-filename = "§aReimagined§0_§8[v1.46-RELEASE]§0.zip"
+filename = "§aReimagined§0_§8[v1.47]§0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ta5dy0aA/versions/ELe1G8CB/%C2%A7aReimagined%C2%A70_%C2%A78%5Bv1.46-RELEASE%5D%C2%A70.zip"
+url = "https://cdn.modrinth.com/data/ta5dy0aA/versions/3CaMiSO2/%C2%A7aReimagined%C2%A70_%C2%A78%5Bv1.47%5D%C2%A70.zip"
 hash-format = "sha512"
-hash = "b10afd4521b614b5db63bca796de418dd2a8ec9a272180f3f027f8316c857871fa50646be17f80a051e50463f7b9d43b75f50b2377cc7954b7761ce06bc1098c"
+hash = "8e682de0822d2518ea1430c0924411073670e828a0b0f5e50c8d31f78c1b5beb839603db4a3da99d7ddd1e797a9d974d178e5687613a9c27122b6090f14eec84"
 
 [update]
 [update.modrinth]
 mod-id = "ta5dy0aA"
-version = "ELe1G8CB"
+version = "3CaMiSO2"

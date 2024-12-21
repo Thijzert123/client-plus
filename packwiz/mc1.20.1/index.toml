@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "7ebdd2dd7925ef3b0032d6e5167cccc34060c6dbaaf6b088ebd50508f3e60832"
+hash = "dc43722171ffaf5b2eb55f9d72079965996e160c6dba5d700fd0bbefdfe6106a"
 metafile = true
 
 [[files]]
@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/reimagined.pw.toml"
-hash = "b76db006da6aaf3ae1fc580a0a10e3d5db30bef45e869527f5d2df9d16a51698"
+hash = "13b7d15e501ac01b930550f2a6e30718352e69169f6194995cb16e894b4476f5"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e35b4f52cd51e28cba488d2010b1225ab354f35dbdb721403cd470586a157043"
+hash = "a73b4b7a889438f774e82d69a2f0f70cf70bb034d5f2640db5c5c66dc1a27801"
 metafile = true
 
 [[files]]

@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "2785e16473083e205a40da712def3813e1be5bdc4a0e0b6292b9d8b97a67aa66"
+hash = "671f8f1773ec9336a86b1bddec2ad2b9c956ef16ac2e026173d43d8058914a25"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-music.pw.toml"
-hash = "f5afb2456a9d6809d335f84882fb8a944c52fa22510866b048f54f9c870fe90e"
+hash = "6e7613d3b9726eaae758e8927e56c5be6bd53f09e8a370b20bc8df3dffab47a2"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/reimagined.pw.toml"
-hash = "a062f1b38a84a85f5295b59d8a4aa60ad53e769f3786d06c5bbc3119e11d61ae"
+hash = "13b7d15e501ac01b930550f2a6e30718352e69169f6194995cb16e894b4476f5"
 metafile = true
 
 [[files]]
@@ -797,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e35b4f52cd51e28cba488d2010b1225ab354f35dbdb721403cd470586a157043"
+hash = "a73b4b7a889438f774e82d69a2f0f70cf70bb034d5f2640db5c5c66dc1a27801"
 metafile = true
 
 [[files]]

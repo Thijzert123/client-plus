@@ -737,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/reimagined.pw.toml"
-hash = "b76db006da6aaf3ae1fc580a0a10e3d5db30bef45e869527f5d2df9d16a51698"
+hash = "13b7d15e501ac01b930550f2a6e30718352e69169f6194995cb16e894b4476f5"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e35b4f52cd51e28cba488d2010b1225ab354f35dbdb721403cd470586a157043"
+hash = "a73b4b7a889438f774e82d69a2f0f70cf70bb034d5f2640db5c5c66dc1a27801"
 metafile = true
 
 [[files]]

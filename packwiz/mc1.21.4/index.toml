@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "dd52277af430e7ed5df5b3c2ca4e1e4cc2aa4875bb58f80fe5ec956373567a8c"
+hash = "d9b6c417b8fff4953a8e3b42c85f49e7d64da2e270688da8710df497a8d750c1"
 metafile = true
 
 [[files]]
@@ -326,13 +326,18 @@ hash = "f59ab3633f781c5b5af3234f694da4c4d5195c9211b1ece7e410b54ec1a183eb"
 metafile = true
 
 [[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "5946527395c7315f3125f410e11c93f00591a9877edd5a5e567785ab9f42ec9e"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "170af2cc47538de9caf10b714d81402b0e13a6b15a3e1e14d35f483f9cb276bd"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "57f5f3d09636f4c25cb5625b19b5c0be972de3c709655acfe4dada83b0714227"
+hash = "3ac1a3edd5883b50c82a58dc18f4f3d1b774a5621443c947ac9d178871182e1c"
 metafile = true
 
 [[files]]
@@ -506,13 +511,18 @@ hash = "b4a0e54b7e05e967417adf96aa8a09c18c0877cda18e90e1e90e5fdb6dc039cd"
 metafile = true
 
 [[files]]
+file = "resourcepacks/reimagined.pw.toml"
+hash = "13b7d15e501ac01b930550f2a6e30718352e69169f6194995cb16e894b4476f5"
+metafile = true
+
+[[files]]
 file = "resourcepacks/spryzeens-knight-armor.pw.toml"
 hash = "2ec7c592f3735a691ef3fa113b35000df76ac8daca5e5286e63e058513e6b2e8"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e35b4f52cd51e28cba488d2010b1225ab354f35dbdb721403cd470586a157043"
+hash = "a73b4b7a889438f774e82d69a2f0f70cf70bb034d5f2640db5c5c66dc1a27801"
 metafile = true
 
 [[files]]

@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-music.pw.toml"
-hash = "bcd273c7ca706f8845aacc6b46a12cece99e34190a194b79bb0b82fb9e83d753"
+hash = "6e7613d3b9726eaae758e8927e56c5be6bd53f09e8a370b20bc8df3dffab47a2"
 metafile = true
 
 [[files]]
@@ -638,7 +638,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/reimagined.pw.toml"
-hash = "a062f1b38a84a85f5295b59d8a4aa60ad53e769f3786d06c5bbc3119e11d61ae"
+hash = "13b7d15e501ac01b930550f2a6e30718352e69169f6194995cb16e894b4476f5"
 metafile = true
 
 [[files]]
@@ -648,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e35b4f52cd51e28cba488d2010b1225ab354f35dbdb721403cd470586a157043"
+hash = "a73b4b7a889438f774e82d69a2f0f70cf70bb034d5f2640db5c5c66dc1a27801"
 metafile = true
 
 [[files]]
