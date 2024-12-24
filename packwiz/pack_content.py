@@ -96,7 +96,8 @@
                            "durability-plus",
                            "hey-wiki",
                            "sound-controller",
-                           "debugify"],
+                           "debugify",
+                           "my-resource-pack"],
     
     "shaderpacks":        ["makeup-ultra-fast-shaders",
                            "miniature-shader",
@@ -139,5 +140,6 @@
                            "spryzeens-healthbars",
                            "colourful-containers-gui",
                            "colourful-containers-dark-mode-gui",
-                           "translations-for-sodium"]
+                           "translations-for-sodium",
+                           "spawned-eggs"]
 }
