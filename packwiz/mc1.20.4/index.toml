@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "69803bcf2762db57d6f900b8e559aab3d7ab880d0205e147a41fdd1cdcaa9fef"
+hash = "b44dda9285bdaffd02ed3a67b10354e65c4b17f5a7756df0004f5d40ce03562d"
 metafile = true
 
 [[files]]
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c64f4961fc6c009db4e3398ba23063cb262c61ed108c8f04dbc254c287bed1cd"
+hash = "377f4fa3b3dc7a2c3de3c62c4c867a89a286e2097d47e64faa73f9eec6222aae"
 metafile = true
 
 [[files]]
@@ -767,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "46037f073fefae9557af4e7130777d4fae8f3ee76a1e46ef6cd677d2eb79cda5"
+hash = "e805a7cb8f79018d7a53b0ab241a5d3d3dd0a1696ca95dbe9a8c373f811df4e5"
 metafile = true
 
 [[files]]

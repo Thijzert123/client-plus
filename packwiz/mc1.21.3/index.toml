@@ -322,12 +322,12 @@ metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "9238e21004871fa972bdb05e1b39062fb7cbc25ed7bd122e871d051ba1d9f4d6"
+hash = "ee99117debca50bbda116d79c59e0bbdb11396ea8927f8faa8277287fe48a34b"
 metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "4bd1afc0d4a5b2a83ef6261bf7ce280a229cd84ca2235e10dd804f3c72d2e7dc"
+hash = "1d293434ee93d400065345fef3d2594cd066d9e1471fadfe05ce8d044347a679"
 metafile = true
 
 [[files]]
@@ -341,8 +341,13 @@ hash = "350f8bd3008d03f16a5554ddf253965b1520bbbe50a5c834649ec8482a59fb3f"
 metafile = true
 
 [[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "1d19237dc3a66d87a018bafb3f69e701bcba8ba1fdef71d9a5f17222c15a3120"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
-hash = "c0bccda9dcb2aa9dc6ade6d3586f35dec9b7edbd1325212a3bcf8fc57e4edc61"
+hash = "dab2ee871cbbe43da75c6a0ec46e43058194cdf8e5929f6e213538429c6827d4"
 metafile = true
 
 [[files]]
@@ -462,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinshuffle.pw.toml"
-hash = "508ddb123e03a263a8771cdfe300f7e559ac65660405f547b03df2a301941826"
+hash = "acacc5767c8883c163fb6f0eb18af40703de9eeaafc0057972325f1799401b01"
 metafile = true
 
 [[files]]
@@ -507,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0f20c51b06c9041e58a88fb30e9a968c50f30f8c87ad7c7f99a0816ca0fad8e2"
+hash = "a247be3fe820e4a260f9e6edead41991932b09f684f35d3e5b949f54344fe348"
 metafile = true
 
 [[files]]
@@ -658,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "46037f073fefae9557af4e7130777d4fae8f3ee76a1e46ef6cd677d2eb79cda5"
+hash = "e805a7cb8f79018d7a53b0ab241a5d3d3dd0a1696ca95dbe9a8c373f811df4e5"
 metafile = true
 
 [[files]]
