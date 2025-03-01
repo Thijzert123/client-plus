@@ -48,7 +48,7 @@ def main(debug = False):
     sys.stdout.flush()
     remove_packwiz_files(mc_dirs, debug)
     print(" done")
-    
+
     projects = []
     for content_type in pack_content:
         for project in pack_content[content_type]:
@@ -57,21 +57,19 @@ def main(debug = False):
     for project in sorted(projects):
         print(f"Adding {project}: ", end="")
         sys.stdout.flush()
-        
+
         for mc_dir in sorted(mc_dirs):
             command = ["packwiz", "modrinth", "install", "--yes", project]
-            if project == "hyper-realistic-sky":
-                command = ["packwiz", "modrinth", "install", "--yes", "--project-id", "hyper-realistic-sky", "--version-id", "Ag95J3hS"]
-                    
+
             returncode = subprocess.run(command, cwd=mc_dir, stdout=packwiz_output_stream, stderr=packwiz_output_stream).returncode
             mc_version = mc_dir.replace("mc", "")
-            
+
             if returncode == 0:
                 print(f"{Colors.GREEN}{mc_version}{Colors.END} ", end="")
             else:
                 print(f"{Colors.RED}{mc_version}{Colors.END} ", end="")
             sys.stdout.flush()
-                    
+
         print("done")
 
 if __name__ == "__main__":
