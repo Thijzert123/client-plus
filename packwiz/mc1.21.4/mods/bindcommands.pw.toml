@@ -1,13 +1,13 @@
 name = "BindCommands"
-filename = "fabric-bind-cmd-1.5.4-1.21.4.jar"
+filename = "fabric-bind-cmd-1.5.5-1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WeytAdLH/versions/xbzeU4J8/fabric-bind-cmd-1.5.4-1.21.4.jar"
+url = "https://cdn.modrinth.com/data/WeytAdLH/versions/CskLrqSk/fabric-bind-cmd-1.5.5-1.21.4.jar"
 hash-format = "sha512"
-hash = "8f012b5dbd44257c85d50411bbedb76888494d3e4b4ceef197c9ab6495e0864502e9317b596dfa04ed897d8c2b57fcb401c600da6f87beb3e8f4c8973ba9f89d"
+hash = "f2d00c529cd7dfe50ef4d677ee2c5edfb79050fc12695d472b0536be41cb17afd2209d130415827681f2357586d0bdb2a8c5c5492f908f1d9f6ae63a5b7c3e3a"
 
 [update]
 [update.modrinth]
 mod-id = "WeytAdLH"
-version = "xbzeU4J8"
+version = "CskLrqSk"

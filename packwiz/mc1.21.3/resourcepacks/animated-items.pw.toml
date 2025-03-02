@@ -1,0 +1,13 @@
+name = "Animated Items"
+filename = "animated-items-1_21_2-3 - 1_4_1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uBBepXuH/versions/VTjPkWey/animated-items-1_21_2-3%20-%201_4_1.zip"
+hash-format = "sha512"
+hash = "7d8aec69ee14606aee3873d32b1b2110aef4035dce2c2143faecf9d74be7be4d6530b5e084d6a36b472b8138419dc677c2ecba32e88b17e40ade3d6ebd95d56d"
+
+[update]
+[update.modrinth]
+mod-id = "uBBepXuH"
+version = "VTjPkWey"

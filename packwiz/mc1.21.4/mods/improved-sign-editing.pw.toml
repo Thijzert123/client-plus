@@ -1,13 +1,13 @@
 name = "Improved Sign Editing"
-filename = "improvedsignediting-1.21.4-1.4.jar"
+filename = "improvedsignediting-1.21.4-1.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/EWQifKYI/versions/aYL32r7e/improvedsignediting-1.21.4-1.4.jar"
+url = "https://cdn.modrinth.com/data/EWQifKYI/versions/aah7uwoh/improvedsignediting-1.21.4-1.5.jar"
 hash-format = "sha512"
-hash = "3bab3cfd8708f870d5f4209511481b71e82c2b3463396f2b5935cecc40b04ddd59ccb02f23ca050bd1e8eaa4f6867d51fb6805446a0be7cbf32b6a7cf76ac7f8"
+hash = "e1142ec65bf7561573c9c6938a6ac71790ace125132c97e7c1dd163e4b8db997984233cdf0cb9156967e14d6f417953e16aba531179b9dd933e0e80ebb0109d4"
 
 [update]
 [update.modrinth]
 mod-id = "EWQifKYI"
-version = "aYL32r7e"
+version = "aah7uwoh"

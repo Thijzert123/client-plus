@@ -1,13 +1,13 @@
 name = "Music Notification"
-filename = "musicnotification-2.0.1+1.20.1.jar"
+filename = "musicnotification-2.0.1c+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/A4YQgwzz/versions/X3vXXIdd/musicnotification-2.0.1%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/A4YQgwzz/versions/lptzXxLU/musicnotification-2.0.1c%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "9cb4fd2c4a01de117a7250e3574c79c09ad2b6c603a4afaa1fd14531b000cef6b1cb774556787dafa62941c948944a980c080482cdf65a6974a76591ad5773f8"
+hash = "66e3eb014557010c1476064f371118a9b46ee38a8c2593663a91e89e45e0e2968ad65346326642bde8a2e8bb96bf44013e2a6461165bc8c138b1fa0dd9ec3d01"
 
 [update]
 [update.modrinth]
 mod-id = "A4YQgwzz"
-version = "X3vXXIdd"
+version = "lptzXxLU"
