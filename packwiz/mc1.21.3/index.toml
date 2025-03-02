@@ -34,7 +34,7 @@ hash = "2403af18d131d038d9db0a7b76f66997c594166e19db5f63f2e58caa9fc850af"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "113186df7da5cb2138efcd948ba94d5275de693fe6b6429dc21a3e3200e8581a"
+hash = "7685025f54c815d5a1ddad062835c316fa8391faef701635973ab18ec835d6a6"
 
 [[files]]
 file = "credits.txt"
@@ -612,6 +612,10 @@ hash = "597855edd33ebccfdf3aea7b3f68092d4c09182a2478807d573dc60ed5ff3109"
 metafile = true
 
 [[files]]
+file = "resourcepacks/client-plus-lang.zip"
+hash = "41881f655ec6ab2cdb0f1fc80392a492976fb5c9dafe2733b30ee079261effc8"
+
+[[files]]
 file = "resourcepacks/colourful-containers-dark-mode-gui.pw.toml"
 hash = "3c81076e7e6b47ed34dba1bd43dd22d17e257076b38e3732b0549e9de1d4ff03"
 metafile = true
@@ -649,11 +653,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fullbright-ub.pw.toml"
 hash = "49f59612c990ff39abe09b4eb1e7508cfe362e9e7b25ca6d90b1a9e811c64914"
-metafile = true
-
-[[files]]
-file = "resourcepacks/hyper-realistic-sky.pw.toml"
-hash = "b40a494b7e770b40c0f46d089bae58d14ff67ce2c2c4396434a639756c994c72"
 metafile = true
 
 [[files]]
