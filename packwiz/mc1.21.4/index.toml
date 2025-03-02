@@ -641,11 +641,6 @@ hash = "8a9f38930714c828285ac7c422302380d939d80384a90ed1148d6d26e8863870"
 metafile = true
 
 [[files]]
-file = "resourcepacks/hyper-realistic-sky.pw.toml"
-hash = "b40a494b7e770b40c0f46d089bae58d14ff67ce2c2c4396434a639756c994c72"
-metafile = true
-
-[[files]]
 file = "resourcepacks/low-on-fire.pw.toml"
 hash = "5bf1e0cdae07c586a852e0cb4068993f39dc62447cbe4560a8a7457dde0331a2"
 metafile = true
