@@ -1,3 +1,22 @@
+# if none are set, everything is included
+# include: ONLY use this project for these versions
+# exclude: use this project for all versions EXCEPT for these
+# include and exclude can't be used at the same time
+#
+# EXAMPLE:
+# {
+#     "mods":               [{"id": "yosbr",
+#                                 "include": ["x.x.x", "x.x.x"]},
+#                             {"id": "moreculling",
+#                                 "exclude": ["x.x.x", "x.x.x"]}],
+
+#     "shaderpacks":        ["makeup-ultra-fast-shaders",
+#                            "bliss-shader"],
+
+#     "resourcepacks":      ["default-splashes",
+#                            "spawned-eggs"]
+# }
+
 {
     "mods": [
         {"id": "yosbr"},
