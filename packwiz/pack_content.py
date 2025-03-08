@@ -161,5 +161,6 @@
         {"id": "colourful-containers-gui"},
         {"id": "colourful-containers-dark-mode-gui"},
         {"id": "translations-for-sodium"},
-        {"id": "spawned-eggs"}]
+        {"id": "spawned-eggs"},
+        {"id": "icons-advertisement-removal"}]
 }
