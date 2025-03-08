@@ -3,18 +3,20 @@
 # exclude: use this project for all versions EXCEPT for these
 # include and exclude can't be used at the same time
 #
+# force-versions: force download this modrinth url version for speicific mc version (see example for sodium)
+#
 # EXAMPLE:
 # {
 #     "mods":               [{"id": "yosbr",
 #                                 "include": ["x.x.x", "x.x.x"]},
 #                             {"id": "moreculling",
-#                                 "exclude": ["x.x.x", "x.x.x"]}],
-
-#     "shaderpacks":        ["makeup-ultra-fast-shaders",
-#                            "bliss-shader"],
-
-#     "resourcepacks":      ["default-splashes",
-#                            "spawned-eggs"]
+#                                 "exclude": ["x.x.x", "x.x.x"]},
+#                             {"id": "sodium",
+#                                 "force-versions": {
+#                                     "1.21.4": "https://modrinth.com/mod/sodium/version/mc1.21.4-0.6.10-fabric", # use url!
+#                                     "1.21.1": "https://modrinth.com/mod/sodium/version/mc1.21.1-0.6.9-fabric"
+#                                 }}
+#                            ]
 # }
 
 {
@@ -132,7 +134,11 @@
         {"id": "fullbright-ub"},
         {"id": "fresh-animations"},
         {"id": "visual-armor-trims"},
-        {"id": "icons"},
+        {"id": "icons",
+            "force-versions": {
+                "1.21.3": "https://modrinth.com/resourcepack/icons/version/1.11.3",
+                "1.21.4": "https://modrinth.com/resourcepack/icons/version/1.11.3"
+            }},
         {"id": "better-flame-particles"},
         {"id": "simple-grass-flowers"},
         {"id": "mob-crates"},
