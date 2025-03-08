@@ -69,9 +69,10 @@ def main(debug = False):
                     continue
 
                 command = ["packwiz", "modrinth", "install", "--yes", project["id"]]
+                if "force-versions" in project and mc_version in project["force-versions"]:
+                    command = ["packwiz", "modrinth", "install", "--yes", project["force-versions"][mc_version]]
 
                 returncode = subprocess.run(command, cwd=mc_dir, stdout=packwiz_output_stream, stderr=packwiz_output_stream).returncode
-
                 if returncode == 0:
                     print(f"{Colors.GREEN}{mc_version}{Colors.END} ", end="")
                 else:
