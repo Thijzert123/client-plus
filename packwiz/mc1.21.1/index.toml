@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "874f578662fd07d02038e7d31e475ed9e1bbda2be31d5067cba21440289e68d8"
+hash = "e94bd41a54a72723e283df0c6a870c7baef0fa38ee9099842470f9fd10fc7e70"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "eb89087b0fc75e9689c94912379c9b9c147186e5c931f0b31e1e930c277f0520"
+hash = "56c0042305fc635e08d9bed8ef3b74071389ce6900a0b4f9e85b2a1067de1369"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "18cb7175c008b0abc8e60875504d800ed3c00893225b25400031e7b52f3138d8"
+hash = "6f4665f1684aed12b53927753b4f7e15e57ed2cd81ace6db227f5dc704841c2d"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "4c8868f5a6e947f48d8d90d8e9a19ee349b3882da09ff0eb8b3b2c39545cfebf"
+hash = "67a8e6384e83bdd773822fa894542f9b1e7373bb2fc10196f739f914702c6243"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "704461376cef8a624cdd810f5e7c60e9dc6dae2b39b0e33e222c5ff5dc740540"
+hash = "37ad8a6ebc1409d9d5c828aaa95ce5438ec56dae7b4d6b51a741464193caf2ec"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "469e0ba453717e228dd304a162441152140ba2ff2a16ca823c976610710f46d2"
+hash = "f5c7dbe3ed5720fc20cb61d3985b070482b6e0e0de52ab04f1c8c69efdaea345"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "c7c237f590d79e2d7c183e18d6eb3301ac61a7f23c366b46ec4d23360ebcb2c9"
+hash = "61a17d918ed7c2ba133a49322c270b63deb890f27e6fe2c65717ea3bce0eab7a"
 metafile = true
 
 [[files]]
@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"
-hash = "a6067de910898e6b132045cea193f30bba6224a0400f5a4c099f82e3b39c9a69"
+hash = "b885ea4b27467a99ca6dd03be554bfdaf48712ef03304a1e2e636ab9c2e6250a"
 metafile = true
 
 [[files]]
@@ -748,6 +748,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/hyper-realistic-sky.pw.toml"
 hash = "8207767a0a9b5f1fcaf36c36ed0ef981043312127865444c698cf92afec2a0f3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icons-advertisement-removal.pw.toml"
+hash = "f45d1f92f952c722bc763144e23bbd4bec932287a25996e97ee11c78f67336e5"
 metafile = true
 
 [[files]]
@@ -812,7 +817,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e6e8807859717ef8894593dc1368719d3cfcab0ee2acd9cb2e0ee647a2b27c0e"
+hash = "c5ecb30262c296e6733e4bd404a895b49083511dc851d9d288e3dec0d3dc5c26"
 metafile = true
 
 [[files]]

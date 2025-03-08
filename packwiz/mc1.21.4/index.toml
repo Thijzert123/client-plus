@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "4340c6660f1700e35edd16569550d42e6b7f9b18e2d0e156275327393e5390b5"
+hash = "88ae050b15aaa9fb5b8ffe5df53e2b8407cb5217dde64241107c11509c2fd657"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "c86dd05c608c904be75edc259627a003738402a0450a7e78fa17292dff70d97a"
+hash = "6f401ef69f355048385146209db2c5eabb8173969f9bddb7955706efa036808f"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "f293bc44a5350f8c10eca8b634e0f2b7f10aa240bad0239a0735a5631cc00091"
+hash = "c29648a250d8b767119dd0526bc1ddbbdba5b1b29d7c82c1578e506682ca495b"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "be1bd0d63844c008fffe131b9912ff54733e20d715ee602947253676af07b3f0"
+hash = "780f22d956d790752ca7bae61c8aa9b32f87457e5fdc305069bdea72d3d37880"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "13f4a38022d7e100dc13b05b0513b6693f2de8a5d8a8ee6d40d8099981c4a929"
+hash = "d0af0219628ebf4ec7b48a66fc88c3c0dc896195b11476c3a86fb5e73c3c705c"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "0350ebc0042d86eb03d1ef9c3615ded0a45e0e75a641fd6077b8d5e2fc3f6164"
+hash = "737690edb9b48e90c66069b77fe0796785f168e8502b3ad0a39bbe366e3b9bf3"
 metafile = true
 
 [[files]]
@@ -457,12 +457,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "3280f2015e3aee3e4fb3b7a345a311fca9b14419c437f5541ae5be7603127653"
+hash = "a114af4839c8e24e6379a4225bc950be2e2a3cb98a8dc2cc709e1ad4de0aede1"
 metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "14948a17a7f41a3d28b049b71f28322c46545c1315cedf5577cba464000469bc"
+hash = "fe56e851eb796c9a20491ddb6034fb3b51baf762f09b9daecfe756df602e7349"
 metafile = true
 
 [[files]]
@@ -616,6 +616,11 @@ hash = "14873e4de0c7669f337304b52c843f9f7da31d7c2f03920480814215de6c7669"
 metafile = true
 
 [[files]]
+file = "resourcepacks/cubic-sun-moon.pw.toml"
+hash = "b885ea4b27467a99ca6dd03be554bfdaf48712ef03304a1e2e636ab9c2e6250a"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-splashes.pw.toml"
 hash = "2dd0a3abc81676163b8fc10db544a7babcc55776f0a69c4b2c044b9e193a68f8"
 metafile = true
@@ -638,6 +643,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "8a9f38930714c828285ac7c422302380d939d80384a90ed1148d6d26e8863870"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icons-advertisement-removal.pw.toml"
+hash = "782fa53c5ef171cc512bf3cf860ed43c51d51ed44335c0d29459feffb15bef69"
 metafile = true
 
 [[files]]
@@ -692,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e6e8807859717ef8894593dc1368719d3cfcab0ee2acd9cb2e0ee647a2b27c0e"
+hash = "c5ecb30262c296e6733e4bd404a895b49083511dc851d9d288e3dec0d3dc5c26"
 metafile = true
 
 [[files]]

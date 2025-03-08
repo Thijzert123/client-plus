@@ -1,0 +1,13 @@
+name = "Icons Advertisement Removal"
+filename = "Icons Branding Remover 1.21.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7Rq0ipFz/versions/BwIGfNVc/Icons%20Branding%20Remover%201.21.4.zip"
+hash-format = "sha512"
+hash = "493968f15e4b98aa1902d5414403ab6715e5d7bce6a375977d25bfceeebf985cb6a002c5b332c0d3ba5b39b619fa69861d05aae58cff7b77f66bd8928f5636dd"
+
+[update]
+[update.modrinth]
+mod-id = "7Rq0ipFz"
+version = "BwIGfNVc"

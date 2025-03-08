@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "595fd01031be460097435c8fed3777e7736b0daf0321f9237dad75b4cd507a84"
+hash = "47bfb455847e99dd0555d3ced5ce3c48b927a93f06103bd8e6299454a03a490e"
 metafile = true
 
 [[files]]
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "362e0fe2f1141bb2fa76d1a135daddf8ad62a122079a10d08553e28b1b05df9a"
+hash = "733f3075781ea22bf1a1a107b03b2bfb49f77d69b6f9be666827361c453eda25"
 metafile = true
 
 [[files]]
@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "956298b1bbab6d8bfb5074b169d8d24d04d688182edf8af885bbefc6cc1d9c27"
+hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
@@ -491,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "fb53720ae88ceae5766d15a3e85da6d9ab4648f09c769cc2c68fa30dd8a120ea"
+hash = "b6db84c2fde960f8c358e510a1c9972a0903ff03ed0d004042b2fdf31ac08210"
 metafile = true
 
 [[files]]
@@ -536,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "11ad5fd79e9295c8855e3be8b3bf9bf4538598863822e4281a6c3a73b10b5159"
+hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"
-hash = "a6067de910898e6b132045cea193f30bba6224a0400f5a4c099f82e3b39c9a69"
+hash = "b885ea4b27467a99ca6dd03be554bfdaf48712ef03304a1e2e636ab9c2e6250a"
 metafile = true
 
 [[files]]
@@ -708,6 +708,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/hyper-realistic-sky.pw.toml"
 hash = "8207767a0a9b5f1fcaf36c36ed0ef981043312127865444c698cf92afec2a0f3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icons-advertisement-removal.pw.toml"
+hash = "17f0318c8e44323cc214221ad074900bcc74d541caaa13082bfc1f65bb9432e5"
 metafile = true
 
 [[files]]
@@ -762,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e6e8807859717ef8894593dc1368719d3cfcab0ee2acd9cb2e0ee647a2b27c0e"
+hash = "c5ecb30262c296e6733e4bd404a895b49083511dc851d9d288e3dec0d3dc5c26"
 metafile = true
 
 [[files]]
