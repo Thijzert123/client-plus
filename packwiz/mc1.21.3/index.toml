@@ -666,6 +666,11 @@ hash = "76e303b1fd802e2979ebc16bd6bc5cad808c9f961e7e58e0ecc8eb19188f26be"
 metafile = true
 
 [[files]]
+file = "resourcepacks/icons.pw.toml"
+hash = "2c30a792eb8c62778b5f60772d16530062a428e52d2767c24e971812aff7ac40"
+metafile = true
+
+[[files]]
 file = "resourcepacks/low-on-fire.pw.toml"
 hash = "347564c7db8830d5595e0c6cc3b7c4bb9d040cfd09272d672a969200cb24d3d0"
 metafile = true
