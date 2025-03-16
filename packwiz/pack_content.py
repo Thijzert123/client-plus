@@ -71,7 +71,10 @@
         {"id": "litematica"},
         {"id": "shulkerboxtooltip"},
         {"id": "betterf3"},
-        {"id": "eating-animation"},
+        {"id": "eating-animation",
+            "include": ["1.20.1", "1.20.4", "1.21.1", "1.21.3"]},
+        {"id": "theones-eating-animation-pack",
+            "exclude": ["1.20.1", "1.20.4", "1.21.1", "1.21.3"]},
         {"id": "pick-up-notifier"},
         {"id": "cherished-worlds"},
         {"id": "polytone"},
@@ -167,6 +170,7 @@
         {"id": "colourful-containers-gui"},
         {"id": "colourful-containers-dark-mode-gui"},
         {"id": "translations-for-sodium"},
-        {"id": "spawned-eggs"},
+        {"id": "spawned-eggs",
+            "include": ["1.20.1", "1.20.4", "1.21.1", "1.21.3", "1.21.4"]},
         {"id": "icons-advertisement-removal"}]
 }
