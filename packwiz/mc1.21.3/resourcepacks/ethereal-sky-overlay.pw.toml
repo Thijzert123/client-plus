@@ -1,0 +1,13 @@
+name = "Ethereal Sky Overlay"
+filename = "Ethereal Sky Overlay.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UPuFnUEB/versions/Qs9FM5il/Ethereal%20Sky%20Overlay.zip"
+hash-format = "sha512"
+hash = "d3f52f3a19ed6741501e11218b908d0bc7da7b84c87d7d07b8c9d3018a0dec7c26cb6dcd3d774f3b3548af173ba9e7c6f9b14d0b04b1db7a8e0edfdf829d14c1"
+
+[update]
+[update.modrinth]
+mod-id = "UPuFnUEB"
+version = "Qs9FM5il"

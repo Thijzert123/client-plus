@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "f85c908d960ca1baf260bbcfa672b1bf46b633c9d71870c43a14be5b4187904a"
+hash = "c764ec528a8f0a0608129136fa35538e174dea6bcd712285db0a15b2ba685d1f"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "71e384f643d16f13d509c543c26e81542baa22599365d6c16d867cd1eeda5acd"
+hash = "8b8abe0b0bfbabe50f9e37c5b165535de5868459b89634db74dcdd1d83babf4d"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "02ddf262b7ad06b71ec6dd15ad1c04d3492519932357028f290809b9ede3736c"
+hash = "e09e5b329fe16fcff90fa01a6199ede4b26d35c48ef17ab1d56d0922c491ca2f"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "9752dfb3a2284f00d64d338df2d740e5c55bfcd4eb1aa7819fd9915a007468ef"
+hash = "dd21c75c6226beb1d2c868b1beb30bf2d1ffd8de510f4a240bd42ff4c43608c8"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "97697e194c4e9742501485140b71b4104b857f27bd34446816fd55e4ec486e2c"
+hash = "58bc826a0b2f0ba422144d35941dd912d349877225e121446180a14d7872040d"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "5ca4c5d71d0e9fbcc9a8561fe3e05fbdad8150d98e5976e9fec8f62c103ebeea"
+hash = "88c6edc1712f4f0cd915cd723b9e0296924d454b3855a719d2962103b2b92bea"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "0c32fe0ba692994312c8934087ea948fb4326cb02412adb646a9f21c37de0ccc"
+hash = "58ac94e31c1aed9dec3fea9c956fb4e9d3f5244d1a5d6521c25781ca08150b34"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "737690edb9b48e90c66069b77fe0796785f168e8502b3ad0a39bbe366e3b9bf3"
+hash = "bb6ec491cb207cc268c4e45d7c89d7ff384ed821576b0ed1b318f254cfa4a5fb"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "a114af4839c8e24e6379a4225bc950be2e2a3cb98a8dc2cc709e1ad4de0aede1"
+hash = "51bd7e107aa83b794b184e71bec88976aeb4ee4c8b6cb101c8c71a24ce23f1c9"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-controller.pw.toml"
-hash = "b70b01c3e6c1a909dfd93c608678d6190cefa6321ee09f7dec846b4de8317187"
+hash = "5100ea2c7f30c5141143d1b88271dc87127cc886d62aa775ca4a24b6cab02e62"
 metafile = true
 
 [[files]]
@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "ad1d2aa1d8270cd771b436b431929b17e0bd88847eb181df7ad355bcb0c86dec"
+hash = "9325b307b5396a19c7cb40298491652770c37c4d52c2993474f7916aee970c55"
 metafile = true
 
 [[files]]
@@ -573,7 +573,7 @@ hash = "785086ff39dc58abacaffa691b543818cacb93e426f446d3cfaea1a3bc89c6b7"
 
 [[files]]
 file = "resourcepacks/animated-items.pw.toml"
-hash = "8359d0766ae803c45b135298f8f0f1a43db151d1f3d1f6410523e05cf7c9f858"
+hash = "d83655e0828b6eb476cd00c2c8a90fffe952e29ffdcca96c9a94d19fc8a2777e"
 metafile = true
 
 [[files]]
@@ -588,7 +588,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
-hash = "fcf82349376d262a92a072501f628782dab401720b1225cf8b3cc9e39ce56413"
+hash = "767a7395ce84c5affc26fcc2cf8266e88c15c12baf9587fa92627ef2d2024a7d"
 metafile = true
 
 [[files]]
@@ -598,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "597855edd33ebccfdf3aea7b3f68092d4c09182a2478807d573dc60ed5ff3109"
+hash = "e439eec55400be4a7d2b7434239a1a04e769c65a8e3749857dbdcb272656a610"
 metafile = true
 
 [[files]]
@@ -607,12 +607,12 @@ hash = "41881f655ec6ab2cdb0f1fc80392a492976fb5c9dafe2733b30ee079261effc8"
 
 [[files]]
 file = "resourcepacks/colourful-containers-dark-mode-gui.pw.toml"
-hash = "3c81076e7e6b47ed34dba1bd43dd22d17e257076b38e3732b0549e9de1d4ff03"
+hash = "45f2672b8518980a256ee731a54ebe86d072aa0e0f688e53462d05e5b1aa793c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/colourful-containers-gui.pw.toml"
-hash = "14873e4de0c7669f337304b52c843f9f7da31d7c2f03920480814215de6c7669"
+hash = "3d2122e5e955340d8b9ee6c0f264ee5648e244192130bc9191457c573d554fc8"
 metafile = true
 
 [[files]]
@@ -628,6 +628,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
 hash = "4e36274c0d1334f7bfe1c2d540a5ee731c0b90fa03c6b77b649773059e606764"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ethereal-sky-overlay.pw.toml"
+hash = "c1872b759bedb42653c635c8351089f32e8b39400472b27ba3dd42f721b69f6b"
 metafile = true
 
 [[files]]
@@ -706,8 +711,13 @@ hash = "2ec7c592f3735a691ef3fa113b35000df76ac8daca5e5286e63e058513e6b2e8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/theones-eating-animation-pack.pw.toml"
+hash = "fdd57898bc0a95edd94cffb22fd9babb3d56a877156c3a2d6887b74404e1b2c7"
+metafile = true
+
+[[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c5ecb30262c296e6733e4bd404a895b49083511dc851d9d288e3dec0d3dc5c26"
+hash = "e39ebed36242a2a7842ef5b189e28df2e3350ad143643407c2435c21234aa42e"
 metafile = true
 
 [[files]]
@@ -747,5 +757,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "33d2101250979713e0c214c608ecc51f8473d322a45e58ca0a6975f7f1f8ba3f"
+hash = "44a21e5965999f71a91d38cadd3cffa0a6501f452455e7dedc1c8d4807197acb"
 metafile = true

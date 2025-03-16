@@ -1,13 +1,13 @@
 name = "Colourful containers Dark Mode GUI"
-filename = "§lcolourful containers darkmode§8.zip"
+filename = "§8§lDarkmode §f§lColourful Containers§8.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PCGR5Y1W/versions/cEoKFeyc/%C2%A7lcolourful%20containers%20darkmode%C2%A78.zip"
+url = "https://cdn.modrinth.com/data/PCGR5Y1W/versions/aSv3SdMO/%C2%A78%C2%A7lDarkmode%20%C2%A7f%C2%A7lColourful%20Containers%C2%A78.zip"
 hash-format = "sha512"
-hash = "91206c4cdab5d8c007040250b0e7080bfff474b7badfd1892f59ede2972775f2d4a11813bf596a4ff97616ee5e5105df73062cf9098cdc7348f45b4504240146"
+hash = "a0dcd1be1cfef9c5a7c74ad3658a4c6fe2307cc9bf6797741686f5faafa537086bc35f9bf89c0384d8bc5d2daaf7a617451e5b9a4e923cfbd011d38da49fbe15"
 
 [update]
 [update.modrinth]
 mod-id = "PCGR5Y1W"
-version = "cEoKFeyc"
+version = "aSv3SdMO"

@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "698d4ef94817abda13fd1b052bec4c5ed51fe7f84fbc218bbe545ed2a23a9622"
+hash = "f70b2cd8301339a432babcb9745b6bbbe3b70a5558520eb698e939df4152ae0b"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "7978a73c48566ece68546ea0ef3a730bdb84af443c934ab0722310473d60f3a7"
+hash = "54412e7eedad61a0cbd59ed48a4d0038fb456de2634ffa7f632447e5a0711821"
 metafile = true
 
 [[files]]
@@ -583,7 +583,7 @@ hash = "785086ff39dc58abacaffa691b543818cacb93e426f446d3cfaea1a3bc89c6b7"
 
 [[files]]
 file = "resourcepacks/animated-items.pw.toml"
-hash = "6c490eaca4cb321a12bed048b7bba2d8279fde03dc48499a63476ea8b4402700"
+hash = "03902e4959f285247d5b117587e6e4f0c7cf104b51aa820316d35682c6f5c655"
 metafile = true
 
 [[files]]
@@ -598,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
-hash = "fcf82349376d262a92a072501f628782dab401720b1225cf8b3cc9e39ce56413"
+hash = "767a7395ce84c5affc26fcc2cf8266e88c15c12baf9587fa92627ef2d2024a7d"
 metafile = true
 
 [[files]]
@@ -608,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "597855edd33ebccfdf3aea7b3f68092d4c09182a2478807d573dc60ed5ff3109"
+hash = "e439eec55400be4a7d2b7434239a1a04e769c65a8e3749857dbdcb272656a610"
 metafile = true
 
 [[files]]
@@ -617,12 +617,12 @@ hash = "41881f655ec6ab2cdb0f1fc80392a492976fb5c9dafe2733b30ee079261effc8"
 
 [[files]]
 file = "resourcepacks/colourful-containers-dark-mode-gui.pw.toml"
-hash = "3c81076e7e6b47ed34dba1bd43dd22d17e257076b38e3732b0549e9de1d4ff03"
+hash = "45f2672b8518980a256ee731a54ebe86d072aa0e0f688e53462d05e5b1aa793c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/colourful-containers-gui.pw.toml"
-hash = "14873e4de0c7669f337304b52c843f9f7da31d7c2f03920480814215de6c7669"
+hash = "3d2122e5e955340d8b9ee6c0f264ee5648e244192130bc9191457c573d554fc8"
 metafile = true
 
 [[files]]
@@ -638,6 +638,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
 hash = "4e36274c0d1334f7bfe1c2d540a5ee731c0b90fa03c6b77b649773059e606764"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ethereal-sky-overlay.pw.toml"
+hash = "c1872b759bedb42653c635c8351089f32e8b39400472b27ba3dd42f721b69f6b"
 metafile = true
 
 [[files]]
@@ -717,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c5ecb30262c296e6733e4bd404a895b49083511dc851d9d288e3dec0d3dc5c26"
+hash = "e39ebed36242a2a7842ef5b189e28df2e3350ad143643407c2435c21234aa42e"
 metafile = true
 
 [[files]]
@@ -752,5 +757,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "33d2101250979713e0c214c608ecc51f8473d322a45e58ca0a6975f7f1f8ba3f"
+hash = "44a21e5965999f71a91d38cadd3cffa0a6501f452455e7dedc1c8d4807197acb"
 metafile = true

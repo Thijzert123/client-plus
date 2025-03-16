@@ -3,11 +3,11 @@ filename = "§lcolourful containers§8.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/L85p0yMA/versions/Sqp9ftJh/%C2%A7lcolourful%20containers%C2%A78.zip"
+url = "https://cdn.modrinth.com/data/L85p0yMA/versions/AnsTNrER/%C2%A7lcolourful%20containers%C2%A78.zip"
 hash-format = "sha512"
-hash = "46ac98be9d937768c40ebf0412130f5c24fb6e87c288a6f5e18463071b59edf26831376d6211130e9bf0ac95c40aba3929f53094276e894361b663c48006e7a5"
+hash = "d495c522266198727077cd48f0a6360750ae00a922654d99893c9d54aa2638f48894882139fee243ff39a88efe282332884c122a1f6a1a9fd4dee8cb516416ea"
 
 [update]
 [update.modrinth]
 mod-id = "L85p0yMA"
-version = "Sqp9ftJh"
+version = "AnsTNrER"

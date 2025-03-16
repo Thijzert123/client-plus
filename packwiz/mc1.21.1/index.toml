@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "02cd7e9c43892ab35d8ce4d92caeaeec0f2b9e6b3206a36603fa32607b5986f3"
+hash = "607c71ad9bc7a2076ec0da7a4b6c8da526e58a82850e891e2b0c0452f8398e30"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "56c0042305fc635e08d9bed8ef3b74071389ce6900a0b4f9e85b2a1067de1369"
+hash = "a8f5d734693741ac07444701c7e93729f5424ed0cf8fc398b2be1062d2c4aeee"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "0802f98909f8ef394056804e4772be187ff3143c9d4038ccb7dc3dcacfe535fc"
+hash = "cec885fcaeede117597c4619de2f122d40e3b633be5d4449d77037e8d290b50e"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "cbf6e68bef5fab8963274c8637e81366e1f1ddf8c59b7cc81181e2928358ee43"
+hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "37ad8a6ebc1409d9d5c828aaa95ce5438ec56dae7b4d6b51a741464193caf2ec"
+hash = "6be43ffc708ac329843aee99ededc692ecf6461ee8e409d373f55fc5494db5af"
 metafile = true
 
 [[files]]
@@ -476,13 +476,23 @@ hash = "42e99ea03a01f933a334dfdfb6babbdcc5d9b38c076e4d3c821a96a9730318b7"
 metafile = true
 
 [[files]]
+file = "mods/nuit-interop.pw.toml"
+hash = "556fddf5f52f49d9acf41e4db737e5431c1b45e60f5e0c04ca1de70b01dd1d15"
+metafile = true
+
+[[files]]
+file = "mods/nuit.pw.toml"
+hash = "c78c2d26feb460adb112cda9ec5073f8968298f1d215eb8679fd67f55f3c3124"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "5501d478ef5237f12cf0a2e4b683954cf1482b43fdf090c6f5d9bec4409f3324"
 metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "22d2bd35f4752e53e7604168881af536589e1a29df882bc0f2431e38912a58ec"
+hash = "de69555290a44328b84aa51aa404de093588ae36ba656a74729453fe66323f2b"
 metafile = true
 
 [[files]]
@@ -507,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "f5c7dbe3ed5720fc20cb61d3985b070482b6e0e0de52ab04f1c8c69efdaea345"
+hash = "4b381e9d62de01b310c0504d0b20bb1371d0859fb9bf4390369619f65dd837fa"
 metafile = true
 
 [[files]]
@@ -517,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "b7e4ce4485ede1049ffdb62a7c6e7213a8903a0d19f6b567e8b4167b0425dced"
+hash = "fb8c82bd41ae3eccb939cc7dae2d805171d7575ccfc6788591e96ab4097655a0"
 metafile = true
 
 [[files]]
@@ -607,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a28eee797fa074ee2a7e056bf24d5dd9c9df2ef20dfca713f167d160a0fad9af"
+hash = "374f0436bbbee517b5fbc976b226aa097b1733551850b8c880bf68e6563b18f9"
 metafile = true
 
 [[files]]
@@ -653,7 +663,7 @@ hash = "785086ff39dc58abacaffa691b543818cacb93e426f446d3cfaea1a3bc89c6b7"
 
 [[files]]
 file = "resourcepacks/animated-items.pw.toml"
-hash = "6860feee22f3967a3d76d8e502ca9fdeafd3b29a2b38d8122c6fd86a8f280c3e"
+hash = "ba5dcd71dd9e075a20e0229edf807bcf14e54b62b7624fd47397dae6b7369787"
 metafile = true
 
 [[files]]
@@ -668,7 +678,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
-hash = "fcf82349376d262a92a072501f628782dab401720b1225cf8b3cc9e39ce56413"
+hash = "767a7395ce84c5affc26fcc2cf8266e88c15c12baf9587fa92627ef2d2024a7d"
 metafile = true
 
 [[files]]
@@ -678,7 +688,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "597855edd33ebccfdf3aea7b3f68092d4c09182a2478807d573dc60ed5ff3109"
+hash = "e439eec55400be4a7d2b7434239a1a04e769c65a8e3749857dbdcb272656a610"
 metafile = true
 
 [[files]]
@@ -687,12 +697,12 @@ hash = "41881f655ec6ab2cdb0f1fc80392a492976fb5c9dafe2733b30ee079261effc8"
 
 [[files]]
 file = "resourcepacks/colourful-containers-dark-mode-gui.pw.toml"
-hash = "3c81076e7e6b47ed34dba1bd43dd22d17e257076b38e3732b0549e9de1d4ff03"
+hash = "45f2672b8518980a256ee731a54ebe86d072aa0e0f688e53462d05e5b1aa793c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/colourful-containers-gui.pw.toml"
-hash = "14873e4de0c7669f337304b52c843f9f7da31d7c2f03920480814215de6c7669"
+hash = "3d2122e5e955340d8b9ee6c0f264ee5648e244192130bc9191457c573d554fc8"
 metafile = true
 
 [[files]]
@@ -752,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/icons-advertisement-removal.pw.toml"
-hash = "f45d1f92f952c722bc763144e23bbd4bec932287a25996e97ee11c78f67336e5"
+hash = "4d57d3ba7d4967ef7b860c20bcb3a450e661317bde9e53bb45a7a283d0f92468"
 metafile = true
 
 [[files]]
@@ -817,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c5ecb30262c296e6733e4bd404a895b49083511dc851d9d288e3dec0d3dc5c26"
+hash = "e39ebed36242a2a7842ef5b189e28df2e3350ad143643407c2435c21234aa42e"
 metafile = true
 
 [[files]]
@@ -862,5 +872,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "33d2101250979713e0c214c608ecc51f8473d322a45e58ca0a6975f7f1f8ba3f"
+hash = "44a21e5965999f71a91d38cadd3cffa0a6501f452455e7dedc1c8d4807197acb"
 metafile = true
