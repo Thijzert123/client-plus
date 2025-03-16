@@ -65,8 +65,8 @@
         {"id": "better-mount-hud"},
         {"id": "ebe"},
         {"id": "continuity"},
-        {"id": "fabricskyboxes"},
-        {"id": "fabricskyboxes-interop"},
+        {"id": "nuit"},          # For some reason the ids fabricskyboxes and fabricskyboxes-interop have changed to nuit and nuit-interop
+        {"id": "nuit-interop"},
         {"id": "noisium"},
         {"id": "litematica"},
         {"id": "shulkerboxtooltip"},
