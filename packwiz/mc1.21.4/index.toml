@@ -34,7 +34,7 @@ hash = "2403af18d131d038d9db0a7b76f66997c594166e19db5f63f2e58caa9fc850af"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "7685025f54c815d5a1ddad062835c316fa8391faef701635973ab18ec835d6a6"
+hash = "95e0cb49a149aee7217c13711ea4426b730beee37683861997761a9e6f441eff"
 
 [[files]]
 file = "credits.txt"
@@ -648,11 +648,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
 hash = "4e36274c0d1334f7bfe1c2d540a5ee731c0b90fa03c6b77b649773059e606764"
-metafile = true
-
-[[files]]
-file = "resourcepacks/ethereal-sky-overlay.pw.toml"
-hash = "c1872b759bedb42653c635c8351089f32e8b39400472b27ba3dd42f721b69f6b"
 metafile = true
 
 [[files]]

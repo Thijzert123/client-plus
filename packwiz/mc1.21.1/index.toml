@@ -34,7 +34,7 @@ hash = "2403af18d131d038d9db0a7b76f66997c594166e19db5f63f2e58caa9fc850af"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "7685025f54c815d5a1ddad062835c316fa8391faef701635973ab18ec835d6a6"
+hash = "8cc61a4e8e506dddfae8e4f501435008f9d0c76b996078b3eafe8a1f34283bce"
 
 [[files]]
 file = "credits.txt"
@@ -268,16 +268,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "556fddf5f52f49d9acf41e4db737e5431c1b45e60f5e0c04ca1de70b01dd1d15"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "c78c2d26feb460adb112cda9ec5073f8968298f1d215eb8679fd67f55f3c3124"
 metafile = true
 
 [[files]]
@@ -838,11 +828,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/spryzeens-healthbars.pw.toml"
 hash = "510e5d115d3d6bb655dc6ed425a853f961693a0d458ec0ebc8cb284e76c56302"
-metafile = true
-
-[[files]]
-file = "resourcepacks/spryzeens-knight-armor.pw.toml"
-hash = "30f61f6b2865ee0a233bdc0b959ab33b567b1a48d89bb289c2d1113e1f9550b1"
 metafile = true
 
 [[files]]
