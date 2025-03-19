@@ -189,3 +189,6 @@ Apart from that, we also include various Vanilla Tweaks resource packs:
 - [Colored Ping Indicator](https://vanillatweaks.net/share/#lz4EZp)
 - [Lower Shield](https://vanillatweaks.net/share#dczqmI)
 - [Variated Blocks](https://vanillatweaks.net/share#Oz7pBC)
+
+## TODO
+- Update default options.txt so that keybinds don't conflict by default
