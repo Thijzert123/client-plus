@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "b44dda9285bdaffd02ed3a67b10354e65c4b17f5a7756df0004f5d40ce03562d"
+hash = "de5edc5664a08b078465c0f9f530b373a94ae45cbf00bcd0224284a6f7521012"
 metafile = true
 
 [[files]]
@@ -315,6 +315,11 @@ hash = "9dc337ffb127f1b1f24c57f8c3fc739e21b2139050d41baf55357fad8b42c83b"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "0e73af2de952dd444428cbcfcff80f91fa04aa93f31483be9145629f90034152"
+metafile = true
+
+[[files]]
 file = "mods/glowing-torchflower.pw.toml"
 hash = "84648db007cf83ed8e75ce50b021d76101a2de7afe3d6c5bec744b2370e65de5"
 metafile = true
@@ -331,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "733f3075781ea22bf1a1a107b03b2bfb49f77d69b6f9be666827361c453eda25"
+hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
 metafile = true
 
 [[files]]
@@ -432,6 +437,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "5819ae4522e53af5e167b4067bfdf304e246c8203b8bcfae3b71e87c17af83e8"
 metafile = true
 
 [[files]]
@@ -575,6 +585,11 @@ hash = "9f25b801b25ee24c565ae952b31e3ca7b305f4ab26464ce9c8ff18f7c2556d0f"
 metafile = true
 
 [[files]]
+file = "mods/sound.pw.toml"
+hash = "609db4f12e7d9f500983a71b74ef3792b7cbd8909884162aefe6885a071b45aa"
+metafile = true
+
+[[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "19c4888cf86b54454998d1fbdd5d5e1c01a08200bc6636f1e6fb3ce654a4676c"
 metafile = true
@@ -616,7 +631,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "0e9f6d6ee0589e3cb28592c340cba6fe020cc6433ec6d9decf67af1eb77f6083"
+hash = "e083102df8b2940671ebdedb5ccbab8c113e4f6c847ce55369c681bf8729cb6e"
 metafile = true
 
 [[files]]

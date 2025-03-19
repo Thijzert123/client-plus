@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "bb3551627861be5fd2d873508992ffa2ca65dbcad3056d6df0cb101b5ad87cba"
+hash = "13d76749ef961e1bf3146923be033dd26714361451bf96869a1ae8066e28ffa6"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c7763ceed9929d3364030c01a4602628ebf46a028d55e7dd06f5aeb6280d36a3"
+hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
 metafile = true
 
 [[files]]
@@ -305,6 +305,11 @@ hash = "d5db994a9bdf835c0bda791ef6a0eed315f77a1dc5bab1ce04003a9ab5a4b01f"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "0f88e46eb7b6487e139e4cf9e75c3b6c2764ffea3a222655798a893399bdfa1a"
+metafile = true
+
+[[files]]
 file = "mods/glowing-torchflower.pw.toml"
 hash = "810662db16279e9ee48eef1e75b7799e887868e0b5d5b287307bc449ced4d741"
 metafile = true
@@ -316,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "733f3075781ea22bf1a1a107b03b2bfb49f77d69b6f9be666827361c453eda25"
+hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
 metafile = true
 
 [[files]]
@@ -346,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "871823f9cddce5616209687d3c2434cefcafd43c30b61c9024da87a3b9b9e9e9"
+hash = "b4f42a6d80526e217e9f0f9fa698f6ef81697b94880803bcd5a14dd284bcb4b6"
 metafile = true
 
 [[files]]
@@ -420,6 +425,11 @@ hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "10430695ad67fd14a9e208c0ebe6efaf073cc78e3292f52159b2d04b75b87214"
+metafile = true
+
+[[files]]
 file = "mods/music-notification.pw.toml"
 hash = "2bf98294d7d536983ec8fb77dd220c8c3a1b2662c39a1221884bf6f6f13f3dfe"
 metafile = true
@@ -486,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "2519c2fa370c3b500615e4c81de0e9e73ac60a72b80e853da35aed2d96065c33"
+hash = "8cb798cc6af447c6dff8ec2a3e1830a235e5abb6ec6b4c3d9e5761b0a41c51db"
 metafile = true
 
 [[files]]
@@ -555,6 +565,11 @@ hash = "2be64036133466dac5480708a54274efe97834b438c0d549d30dabf17459699c"
 metafile = true
 
 [[files]]
+file = "mods/sound.pw.toml"
+hash = "e53888490a33ad3127b09dd98ce001e579cb6c205a99a1e6e0424ab9f5b862c2"
+metafile = true
+
+[[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "e0047e26d3d4a5a290dc150e9a7c5c5f64cde9e6a0538eaa6f6060374349700f"
 metafile = true
@@ -595,8 +610,13 @@ hash = "d5763cae561c3c23d431275e5d930a43bae2cc8e71f39a50a1b3d15b70a5b3f5"
 metafile = true
 
 [[files]]
+file = "mods/xanders-sodium-options.pw.toml"
+hash = "0cc28ae40cd511d464f215d66898d3d72f8c66b378ffb9f72ea9b4412d61a971"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
-hash = "c45d6735a5767c1486000d95dd0d4ed6e2c1227edf6b2ff305d40ad859af1ce0"
+hash = "b12c51b126c3b08ea3b3189b96662dc0c5c7b08cb7ce08261480aa364a2f4477"
 metafile = true
 
 [[files]]

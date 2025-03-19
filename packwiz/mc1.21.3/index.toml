@@ -286,6 +286,11 @@ hash = "b701d9bc04e6854683da1ba6cadc2c07f719c339a505908bf0e1a2baf0fc39e1"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "4f9cd87df11709b2b677a48ce7f76ec69bd82040d773ae139e6396864673e41b"
+metafile = true
+
+[[files]]
 file = "mods/glowing-torchflower.pw.toml"
 hash = "ce2e7fca0845c4f5bc1d0dc336baffba2809a21ac3b48cfb57901687cba88856"
 metafile = true
@@ -302,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c73dad3be569a5f76473054744f81f78241f626eb6331d58fb89f5c9e9581703"
+hash = "81e74c7a0a6b0a140fe2c38c65d04366c4e60b8835b6d2c2541621f2d1a861d1"
 metafile = true
 
 [[files]]
@@ -332,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "f70b2cd8301339a432babcb9745b6bbbe3b70a5558520eb698e939df4152ae0b"
+hash = "8e1836e8fe200775b1da17afafff8adf9e92983a8b19a68bb38dbf5b81e74119"
 metafile = true
 
 [[files]]
@@ -398,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "33769b11cca75bc556f1d4a9a1289f49e88750ded0c9bfb9c371486cd112f5b5"
 metafile = true
 
 [[files]]
@@ -516,6 +526,11 @@ hash = "b32c7533727c3823f41f6d96948728d0dda65028a38f12880c97b25e149cd361"
 metafile = true
 
 [[files]]
+file = "mods/sound.pw.toml"
+hash = "7e227b1439fb954b70c86648016bed8845b47ce7c0b88875766ce1f56afe95e4"
+metafile = true
+
+[[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "8ee85cf9163551e114d900f00a24849ea55d915b30143b778f8125baa792d6da"
 metafile = true
@@ -551,8 +566,13 @@ hash = "3083b225e3548f99a7f7fe04b68aa2474419d4cee8d5600ee3191995f423291c"
 metafile = true
 
 [[files]]
+file = "mods/xanders-sodium-options.pw.toml"
+hash = "228f365a6c84461554c8180cdb8587a06628fddc1e540a140c0438015f2cf48e"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
-hash = "839122d3c84a0c8ee4f2733662e3e5705e30e28646c1a34e1eb79ca22d2189d5"
+hash = "87a6e233bef5eb300019804276fa9be63c36115e0ca3f5117031ebcb87de0ba0"
 metafile = true
 
 [[files]]

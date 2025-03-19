@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8b8abe0b0bfbabe50f9e37c5b165535de5868459b89634db74dcdd1d83babf4d"
+hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
 metafile = true
 
 [[files]]
@@ -276,6 +276,11 @@ hash = "4b257578b2973f4e99ae3192989f7ba4db19e9eca99ea396a1479c8a6cd9ca88"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "4f9cd87df11709b2b677a48ce7f76ec69bd82040d773ae139e6396864673e41b"
+metafile = true
+
+[[files]]
 file = "mods/glowing-torchflower.pw.toml"
 hash = "fb47edbf5101eac0075c70d65eed2c871fb1f858d0519cd3d97fdcf72265c24a"
 metafile = true
@@ -292,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c29648a250d8b767119dd0526bc1ddbbdba5b1b29d7c82c1578e506682ca495b"
+hash = "5b6cadef65019131a6e7d362b81bb25871330db67ef6c6b1d552e1fbd975e3be"
 metafile = true
 
 [[files]]
@@ -317,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "dd21c75c6226beb1d2c868b1beb30bf2d1ffd8de510f4a240bd42ff4c43608c8"
+hash = "c716469739cf0e6c33cd1c71ce67cd942a23395b5ecb3f04b59ddba87e0347f6"
 metafile = true
 
 [[files]]
@@ -383,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "33769b11cca75bc556f1d4a9a1289f49e88750ded0c9bfb9c371486cd112f5b5"
 metafile = true
 
 [[files]]
@@ -501,6 +511,11 @@ hash = "5100ea2c7f30c5141143d1b88271dc87127cc886d62aa775ca4a24b6cab02e62"
 metafile = true
 
 [[files]]
+file = "mods/sound.pw.toml"
+hash = "96f8f48ceaab39aaa4367eb411f4739b4b1b1afae82349cd46ad4182d6bda9fb"
+metafile = true
+
+[[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "8ee85cf9163551e114d900f00a24849ea55d915b30143b778f8125baa792d6da"
 metafile = true
@@ -536,8 +551,13 @@ hash = "2c4a9d332322cfb1234c8b90f474b5b23ae487c706b7e1e00a0dc7dcf53bb306"
 metafile = true
 
 [[files]]
+file = "mods/xanders-sodium-options.pw.toml"
+hash = "24832af2b8d61dae838c71f30edcf2e4ab54af2bf60ba80e14f8844e80684fd5"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
-hash = "e3384cdf4e1bd7f9869278ef734bd28ff942e1cebc18111ecc2004bc2ab15247"
+hash = "396a1fd1cbf063f76fe0a1298cf7eda47f039853034cf5b651b7a662fc0acfd6"
 metafile = true
 
 [[files]]
