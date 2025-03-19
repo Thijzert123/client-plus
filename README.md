@@ -58,7 +58,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |              [Controlling](https://modrinth.com/project/xv94TkTM)              |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |             [CraftPresence](https://modrinth.com/project/DFqQfIBR)             |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |         [Cubes Without Borders](https://modrinth.com/project/ETlrkaYF)         |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
-|            [Cubic Sun & Moon](https://modrinth.com/project/g4bSYbrU)           |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |
+|            [Cubic Sun & Moon](https://modrinth.com/project/g4bSYbrU)           |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |             [Custom Credits](https://modrinth.com/project/GhWh8CAU)            |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [Debugify](https://modrinth.com/project/QwxR6Gcd)               |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |            [Default Splashes](https://modrinth.com/project/RMESe7qr)           |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
@@ -88,12 +88,14 @@ This is all the content in the modpack, including mods, resource packs and shade
 |            [Fresh Animations](https://modrinth.com/project/50dA9Sha)           |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |        [Fresh Player Animations](https://modrinth.com/project/uYE6VsYf)        |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |
 |             [Fullbright UB](https://modrinth.com/project/ItHr72Fy)             |   ❌  |   ✅  |   ✅  |   ✅  |   ✅  |
+|        [Gamma Utils (Fullbright)](https://modrinth.com/project/wdLuzzEP)       |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |          [Glowing Torchflower](https://modrinth.com/project/1S4LxcvL)          |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |           [Grimdark Sky Pack](https://modrinth.com/project/TzZ0IFZH)           |   ❌  |   ❌  |   ✅  |   ❌  |   ✅  |
 |                [Hey Wiki](https://modrinth.com/project/6DnswkCZ)               |   ✅  |   ✅  |   ✅  |   ✅  |   ❌  |
 |          [Hyper Realistic Sky](https://modrinth.com/project/PsMUgCo5)          |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |
 |                [Iceberg](https://modrinth.com/project/5faXoLqX)                |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
-|                 [Icons](https://modrinth.com/project/O7z3QKAG)                 |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |
+|      [Icons Advertisement Removal](https://modrinth.com/project/7Rq0ipFz)      |   ✅  |   ✅  |   ✅  |   ❌  |   ✅  |
+|                 [Icons](https://modrinth.com/project/O7z3QKAG)                 |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |            [ImmediatelyFast](https://modrinth.com/project/5ZwdcRci)            |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |         [Improved Sign Editing](https://modrinth.com/project/EWQifKYI)         |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                 [Indium](https://modrinth.com/project/Orvt0mRa)                |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |
@@ -107,6 +109,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |               [Litematica](https://modrinth.com/project/bEpr0Arc)              |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [Lithium](https://modrinth.com/project/gvQqBUqZ)                |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |              [Low On Fire](https://modrinth.com/project/RRxvWKNC)              |   ✅  |   ✅  |   ✅  |   ❌  |   ✅  |
+|                 [M.R.U](https://modrinth.com/project/SNVQ2c0g)                 |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [MaLiLib](https://modrinth.com/project/GcWjdA9I)                |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |              [Mace but 3D](https://modrinth.com/project/6LzngQIs)              |   ❌  |   ✅  |   ✅  |   ❌  |   ❌  |
 |            [Make Bubbles Pop](https://modrinth.com/project/gPCdW0Wr)           |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
@@ -153,6 +156,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |                 [Sodium](https://modrinth.com/project/AANobbMI)                |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |              [Solas Shader](https://modrinth.com/project/EpQFjzrQ)             |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |            [Sound Controller](https://modrinth.com/project/uY9zbflw)           |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+|                 [Sounds](https://modrinth.com/project/ZouiUX7t)                |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |              [Spawned Eggs](https://modrinth.com/project/yPBwDzHA)             |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [Spectral](https://modrinth.com/project/vaaOMowT)               |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |         [Spryzeen's Healthbars](https://modrinth.com/project/ZMcqgmIV)         |   ❌  |   ❌  |   ✅  |   ❌  |   ❌  |
@@ -161,6 +165,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |               [Sushi Bar](https://modrinth.com/project/tr2Mv6ke)               |   ❌  |   ❌  |   ❌  |   ✅  |   ✅  |
 |             [TCDCommons API](https://modrinth.com/project/Eldc1g37)            |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |          [Text Placeholder API](https://modrinth.com/project/eXts2L7r)         |   ✅  |   ✅  |   ✅  |   ✅  |   ❌  |
+|     [Theone's Eating Animation Pack](https://modrinth.com/project/OhzX8kDf)    |   ✅  |   ❌  |   ❌  |   ❌  |   ❌  |
 |        [Translations for Sodium](https://modrinth.com/project/yfDziwn1)        |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                 [UniLib](https://modrinth.com/project/nT86WUER)                |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |       [Vervada's enhanced plants](https://modrinth.com/project/ghc0v6DT)       |   ✅  |   ❌  |   ✅  |   ❌  |   ❌  |
@@ -169,11 +174,12 @@ This is all the content in the modpack, including mods, resource packs and shade
 |            [World Play Time](https://modrinth.com/project/YkKeggdl)            |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |            [Xaero's Minimap](https://modrinth.com/project/1bokaNcj)            |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |           [Xaero's World Map](https://modrinth.com/project/NcUtCpym)           |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+|        [Xander's Sodium Options](https://modrinth.com/project/sTkQBVyo)        |   ✅  |   ✅  |   ✅  |   ❌  |   ✅  |
 |       [YetAnotherConfigLib (YACL)](https://modrinth.com/project/1eAoo2KR)      |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |[Your Options Shall Be Respected (YOSBR)](https://modrinth.com/project/WwbubTsV)|   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [Zoomify](https://modrinth.com/project/w7ThoJFB)                |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
-|      [\[EMF\] Entity Model Features](https://modrinth.com/project/4I1XuqiY)      |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
-|     [\[ETF\] Entity Texture Features](https://modrinth.com/project/BVzZfTc1)     |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+|      [[EMF] Entity Model Features](https://modrinth.com/project/4I1XuqiY)      |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+|     [[ETF] Entity Texture Features](https://modrinth.com/project/BVzZfTc1)     |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                  [e4mc](https://modrinth.com/project/qANg5Jrr)                 |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |             [oωo (owo-lib)](https://modrinth.com/project/ccKDOlHs)             |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |       [qrafty's Capitalized Font](https://modrinth.com/project/FA4ebMMU)       |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
