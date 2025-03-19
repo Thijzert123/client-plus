@@ -122,7 +122,10 @@
         {"id": "hey-wiki"},
         {"id": "sound-controller"},
         {"id": "debugify"},
-        {"id": "my-resource-pack"}],
+        {"id": "my-resource-pack"},
+        {"id": "gamma-utils"},
+        {"id": "sound"},
+        {"id": "xanders-sodium-options"}],
     "shaderpacks": [
         {"id": "makeup-ultra-fast-shaders"},
         {"id": "miniature-shader"},
