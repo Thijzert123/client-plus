@@ -192,4 +192,4 @@ Apart from that, we also include various Vanilla Tweaks resource packs:
 
 ## TODO
 - Update default options.txt so that keybinds don't conflict by default
-- Fix compatibility issues for 1.1.0+1.21.1
+- Fix compatibility issues for 1.1.0+1.21.1 and 1.1.0+1.21.3
