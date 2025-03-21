@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "878284681036a89d2570806a9d9fd1555b8b6980fa792d85e2b2c90df8444a96"
+hash = "9c6e884f7179ca7652306a36e10cc6f49b62821d3adefef098bd556571ad095c"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
+hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "ae640e475aa1b1d9a2095ea9995ef9630d1a37a8da73e5429681998399681ee7"
+hash = "53ef658c678f7532ea0b18d1043b86c8ae197212dab1264e650d0e6e2b84f7ff"
 metafile = true
 
 [[files]]
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/snapper.pw.toml"
-hash = "37bc655ebb417b6624fbeddeeb3624fa771ad9af080c134fc427d6c85ddc3951"
+hash = "b233111b5f7da33d0364ce71ecd83e728dd28c8e21211bc2a34b097c193225c6"
 metafile = true
 
 [[files]]
@@ -807,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/reimagined.pw.toml"
-hash = "677c4bb32a0ccff79cd2af636aca841ab15b5fb09305c892a3090f2bff0ebd61"
+hash = "4cd1292755a51b55a7789e456950bacf955d3f45816c23b665117f2a156190b5"
 metafile = true
 
 [[files]]
@@ -837,7 +837,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/visual-armor-trims.pw.toml"
-hash = "944576387f4a382ca598e05b67842f7586e27f479015e54545f4b265f21a4281"
+hash = "d88dacad6b166ce9766867b4224aa175e55cfd75caad6a77f698abee8fec9d11"
 metafile = true
 
 [[files]]
