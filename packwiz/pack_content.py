@@ -26,7 +26,10 @@
         {"id": "modmenu"},
         {"id": "iris"},
         {"id": "dynamic-fps"},
-        {"id": "sodium"},
+        {"id": "sodium",
+            "force-versions": {
+                "1.21.3": "LL4puCl1" # 0.6.8+1.21.3 instead of 0.6.9+1.21.3
+        }},
         {"id": "morechathistory"},
         {"id": "capes"},
         {"id": "zoomify"},
@@ -46,7 +49,10 @@
         {"id": "glowing-torchflower"},
         {"id": "detail-armor-bar"},
         {"id": "visuality"},
-        {"id": "simple-voice-chat"},
+        {"id": "simple-voice-chat",
+            "force-versions": {
+                "1.21.3": "Uov7kAax" # 1.21.3-2.5.26 instead of 1.21.3-2.5.28
+        }},
         {"id": "chat-heads"},
         {"id": "mouse-tweaks"},
         {"id": "clientsort"},
@@ -111,7 +117,7 @@
         {"id": "make_bubbles_pop"},
         {"id": "snapper",
             "force-versions": {
-                "1.21.1": "https://modrinth.com/mod/snapper/version/JYWFOAnC" # 1.0.0 instead of 1.0.1
+                "1.21.1": "JYWFOAnC" # 1.0.0 instead of 1.0.1
         }},
         {"id": "seamless-loading-screen"},
         {"id": "screenshot-to-clipboard"},
@@ -122,7 +128,10 @@
         {"id": "show-me-your-skin"},
         {"id": "controlling"},
         {"id": "durability-plus"},
-        {"id": "hey-wiki"},
+        {"id": "hey-wiki",
+            "force-versions": {
+                "1.21.3": "7r51NSUr" # 1.7.2+1.21.3 instead of 1.7.3+1.21.4
+        }},
         {"id": "sound-controller"},
         {"id": "debugify"},
         {"id": "my-resource-pack"},
@@ -145,8 +154,8 @@
         {"id": "visual-armor-trims"},
         {"id": "icons",
             "force-versions": {
-                "1.21.3": "https://modrinth.com/resourcepack/icons/version/1.11.3",
-                "1.21.4": "https://modrinth.com/resourcepack/icons/version/1.11.3"
+                "1.21.3": "iM6mxyAW",
+                "1.21.4": "iM6mxyAW"
             }},
         {"id": "better-flame-particles"},
         {"id": "simple-grass-flowers"},
