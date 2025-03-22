@@ -169,7 +169,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |        [Translations for Sodium](https://modrinth.com/project/yfDziwn1)        |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                 [UniLib](https://modrinth.com/project/nT86WUER)                |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |       [Vervada's enhanced plants](https://modrinth.com/project/ghc0v6DT)       |   ✅  |   ❌  |   ✅  |   ❌  |   ❌  |
-|           [Visual Armor Trims](https://modrinth.com/project/tPtjib62)          |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |
+|          [Visual: Armor Trims](https://modrinth.com/project/tPtjib62)          |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |
 |               [Visuality](https://modrinth.com/project/rI0hvYcd)               |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |            [World Play Time](https://modrinth.com/project/YkKeggdl)            |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |            [Xaero's Minimap](https://modrinth.com/project/1bokaNcj)            |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
@@ -192,4 +192,3 @@ Apart from that, we also include various Vanilla Tweaks resource packs:
 
 ## TODO
 - Update default options.txt so that keybinds don't conflict by default
-- Fix compatibility issues for 1.1.0+1.21.1 and 1.1.0+1.21.3
