@@ -49,6 +49,8 @@ def main(debug = False):
     remove_packwiz_files(mc_dirs, debug)
     print(" done")
 
+    packwiz_instances_refreshed = []
+
     for content_type in pack_content:
         for project in pack_content[content_type]:
             print()
@@ -57,10 +59,15 @@ def main(debug = False):
 
             if "include" in project and "exclude" in project:
                 print()
-                print("Include and exclude specified. Remove one of these to add this project.")
+                print("Include and exclude specified at the same time. Remove one of these to add this project.")
                 continue
 
             for mc_dir in sorted(mc_dirs):
+                # Refresh packwiz
+                if (mc_dir not in packwiz_instances_refreshed):
+                    subprocess.run(["packwiz", "refresh"], cwd=mc_dir, stdout=packwiz_output_stream, stderr=packwiz_output_stream)
+                    packwiz_instances_refreshed.append(mc_dir)
+
                 mc_version = mc_dir.replace("mc", "")
 
                 if "include" in project and mc_version not in project["include"]:
