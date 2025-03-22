@@ -34,7 +34,7 @@ hash = "2403af18d131d038d9db0a7b76f66997c594166e19db5f63f2e58caa9fc850af"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e40cb4de37f818f822571fd32cff69c0d49962da54f42a689f4806f4e391b7a9"
+hash = "3924fcc47d663f5cde11e5283954734f10d97b0962255918fb730918e0380097"
 
 [[files]]
 file = "config/yosbr/options.txt~"
@@ -272,16 +272,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "f22798b1d1ac5620ad19f762f45025b464a4f8327656e7a8df312c93f8a2c35e"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "a3a6fded1aab1d9a6db666b40defa5f71297e23d5abea10c03bff559ac60d5e4"
 metafile = true
 
 [[files]]
@@ -777,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/simple-grass-flowers.pw.toml"
-hash = "8f2b432f241d2bd6c481530eadb32bdd5050b7d57118ffd6e652737e04627cd3"
+hash = "2c4f4c1252a2ad62ac168bc529b9e04a8de3c74a2dd3038254224281557599ad"
 metafile = true
 
 [[files]]
@@ -792,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e39ebed36242a2a7842ef5b189e28df2e3350ad143643407c2435c21234aa42e"
+hash = "d76d51b3d5d7b992b8cd9a70d3badf2f2b3267358da20601c0b3efa9abb62eac"
 metafile = true
 
 [[files]]
