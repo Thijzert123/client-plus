@@ -39,6 +39,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |               [CIT Resewn](https://modrinth.com/project/otVJckYQ)              |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |
 |                [CalcMod](https://modrinth.com/project/XoHTb2Ap)                |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                 [Capes](https://modrinth.com/project/89Wsn8GD)                 |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+|               [Cave Dust](https://modrinth.com/project/jawg7zT1)               |   ✅  |   ✅  |   ✅  |   ❌  |   ✅  |
 |               [Celestial](https://modrinth.com/project/J31lhO5V)               |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |
 |               [Chat Heads](https://modrinth.com/project/Wb5oqrBJ)              |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |         [Chat Reporting Helper](https://modrinth.com/project/tN4E9NfV)         |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
@@ -72,6 +73,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |        [Enhanced Block Entities](https://modrinth.com/project/OVuFYfre)        |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |             [Entity Culling](https://modrinth.com/project/NNAgCjsB)            |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |          [Even Better Enchants](https://modrinth.com/project/6udpuGCH)         |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+|         [Explosive Enhancement](https://modrinth.com/project/OSQ8mw2r)         |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |        [Extended world selection](https://modrinth.com/project/hejbH2cH)       |   ❌  |   ✅  |   ✅  |   ✅  |   ✅  |
 |               [Fabric API](https://modrinth.com/project/P7dR8mSH)              |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |         [Fabric Language Kotlin](https://modrinth.com/project/Ha28R6CL)        |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
@@ -180,6 +182,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |                [Zoomify](https://modrinth.com/project/w7ThoJFB)                |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |      [[EMF] Entity Model Features](https://modrinth.com/project/4I1XuqiY)      |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |     [[ETF] Entity Texture Features](https://modrinth.com/project/BVzZfTc1)     |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+|                [cat_jam](https://modrinth.com/project/x3s69afN)                |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                  [e4mc](https://modrinth.com/project/qANg5Jrr)                 |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |             [oωo (owo-lib)](https://modrinth.com/project/ccKDOlHs)             |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |       [qrafty's Capitalized Font](https://modrinth.com/project/FA4ebMMU)       |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
