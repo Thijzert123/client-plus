@@ -116,6 +116,16 @@ hash = "c764ec528a8f0a0608129136fa35538e174dea6bcd712285db0a15b2ba685d1f"
 metafile = true
 
 [[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "46886c1a213a1ca7d065c24dc2b553b4d234ec30e473832a0051fd811fc34ae2"
+metafile = true
+
+[[files]]
+file = "mods/cave-dust.pw.toml"
+hash = "a693ae12574e53fa67276c048d8541ab42d046d2517a515ea18e31c697c970c4"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "c22a79e12714a5cbef7623b480bf066cd49e5710286abee69e5fc06484f3234e"
 metafile = true
@@ -228,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "187026fe5d603008a4b30559103487f0ebf08682bf3e470ab743227f5265a422"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "34684bd591ae5703edcbebe92b4066e7ff0365977a2fb804645644151d1b025c"
 metafile = true
 
 [[files]]

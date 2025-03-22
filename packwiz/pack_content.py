@@ -137,7 +137,10 @@
         {"id": "my-resource-pack"},
         {"id": "gamma-utils"},
         {"id": "sound"},
-        {"id": "xanders-sodium-options"}],
+        {"id": "xanders-sodium-options"},
+        {"id": "explosive-enhancement"},
+        {"id": "cat_jam"},
+        {"id": "cave-dust"}],
     "shaderpacks": [
         {"id": "makeup-ultra-fast-shaders"},
         {"id": "miniature-shader"},

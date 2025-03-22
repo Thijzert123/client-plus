@@ -120,6 +120,11 @@ hash = "157b2335b6bd4af70e30c2808bd2e9b3332f8d2c40528aefe7320ebfbba983f8"
 metafile = true
 
 [[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "84f06484c12f1322f6761fcbb43b12a2202ece777157b3025b3e3010016aef05"
+metafile = true
+
+[[files]]
 file = "mods/celestial.pw.toml"
 hash = "230b7ff87ed425843c71bc2d02f25b91a9e3329661d5350e573a39c2abd68554"
 metafile = true
@@ -257,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "87433e3ce0bc0d079605e27dcb72e9515151359c10ee2c3ea73c4459be0f2049"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "85e012f1e3fa929ed32f3ce347c9f26606e80393ed30988553a656fd8003900b"
 metafile = true
 
 [[files]]
