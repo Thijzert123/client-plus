@@ -70,9 +70,8 @@ def main(debug = False):
 
                 mc_version = mc_dir.replace("mc", "")
 
-                if "include" in project and mc_version not in project["include"]:
-                    continue
-                if "exclude" in project and mc_version in project["exclude"]:
+                if ("include" in project and mc_version not in project["include"]) and ("exclude" in project and mc_version in project["exclude"]):
+                    print(f"{Colors.RED}{mc_version}{Colors.END} ", end="")
                     continue
 
                 command = ["packwiz", "modrinth", "install", "--yes", project["id"]]
