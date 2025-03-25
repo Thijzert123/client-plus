@@ -1,0 +1,13 @@
+name = "Controlify"
+filename = "controlify-2.0.3+1.21.5-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/EmuAyNGn/controlify-2.0.3%2B1.21.5-fabric.jar"
+hash-format = "sha512"
+hash = "8d25a3ba16ea6f9628eab85751ed89dac7cc7be9261ce5cadc8cd0e44285f18fb7d93383fd872e93f332e75f7c0e8fbffcb7985ffbf177d41553c8aac4a2f0d4"
+
+[update]
+[update.modrinth]
+mod-id = "DOUdJVEm"
+version = "EmuAyNGn"
