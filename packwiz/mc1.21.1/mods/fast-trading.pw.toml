@@ -1,0 +1,13 @@
+name = "Fast Trading"
+filename = "fasttrading-0.2.0+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ht0RRAt0/versions/7qcTDSTZ/fasttrading-0.2.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "f4f2a552018d722e469140eae321d86a1e958adcafcd1e43cd66c7ea7b3ed98313f70fdca423af4c02e9de8369b8b7e881388087bbbd40eb7fa9d2e5a2492bce"
+
+[update]
+[update.modrinth]
+mod-id = "Ht0RRAt0"
+version = "7qcTDSTZ"

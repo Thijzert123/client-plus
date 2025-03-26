@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "b6f61fda7a139f05534e203546ae45313b01b2e5d060164dde159aaed82224cd"
+hash = "ef887e7e7719106374b49aaed0e865ecbf43598827543cc565caaee1d2c0cd88"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "6c0a8f7c8e833b356f83de4e60952642c669d788ff49be95458b5a50979796f1"
+hash = "e1e59d1712a397e23a3563733fd7f67e102d5241a228befbb782ed0e096d9bfe"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "f22beac0f519580e7ba87d8979ea77b0378ee6e65cdb2a8f153e38ef8b849705"
+hash = "bd7946933f6160fd766ba5a6d85ac7bf0fde6b21eb29054eaf3a9da71c4ed7e8"
 metafile = true
 
 [[files]]
@@ -295,6 +295,11 @@ hash = "4d6ef091895654b3f1516b40a1dee3e201c0013022d4acb268d040d7224475fa"
 metafile = true
 
 [[files]]
+file = "mods/fast-trading.pw.toml"
+hash = "7a2e4bee3e7230825cffdc9551c2aeb81715d42e20c7bcec450abb9e8b2c55c3"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "c9c33bb929d2133e53cd332660d964d2d417396039affddbaf057fb7a9d5b36d"
 metafile = true
@@ -361,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "4605b060a4451e17bb75788be82cf1efb0622957278697287baea7e6f17ae6e7"
+hash = "e2e40b63c7c0aff577b89078a3205cb3ddc773b5c648e2beefe0883efa18e40d"
 metafile = true
 
 [[files]]
@@ -501,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "8cb798cc6af447c6dff8ec2a3e1830a235e5abb6ec6b4c3d9e5761b0a41c51db"
+hash = "28c03bea31f0f95bdfb55d4f6a8ba6be0d2f4a6958de3438a0a3396e2d948712"
 metafile = true
 
 [[files]]
@@ -566,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-controller.pw.toml"
-hash = "2be64036133466dac5480708a54274efe97834b438c0d549d30dabf17459699c"
+hash = "36df519999ffa910a0ab90be4aed71783ebcc8004a67d098de767dc353f48e56"
 metafile = true
 
 [[files]]
@@ -621,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b12c51b126c3b08ea3b3189b96662dc0c5c7b08cb7ce08261480aa364a2f4477"
+hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
 metafile = true
 
 [[files]]
@@ -802,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "d76d51b3d5d7b992b8cd9a70d3badf2f2b3267358da20601c0b3efa9abb62eac"
+hash = "417a03bba15d98195747ce17b50fb6df207d9b11dc9b6882eab4ab0001f0b223"
 metafile = true
 
 [[files]]
@@ -847,5 +852,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "44a21e5965999f71a91d38cadd3cffa0a6501f452455e7dedc1c8d4807197acb"
+hash = "2c851c5442a8c0482422c600fa68ccc808e0cbacf08b832f9a25be4cfdcc56f3"
 metafile = true
