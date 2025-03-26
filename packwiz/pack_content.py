@@ -140,7 +140,8 @@
         {"id": "xanders-sodium-options"},
         {"id": "explosive-enhancement"},
         {"id": "cat_jam"},
-        {"id": "cave-dust"}],
+        {"id": "cave-dust"},
+        {"id": "fast-trading"}],
     "shaderpacks": [
         {"id": "makeup-ultra-fast-shaders"},
         {"id": "miniature-shader"},
