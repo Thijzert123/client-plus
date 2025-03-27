@@ -43,7 +43,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |               [Celestial](https://modrinth.com/project/J31lhO5V)               |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |
 |               [Chat Heads](https://modrinth.com/project/Wb5oqrBJ)              |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |         [Chat Reporting Helper](https://modrinth.com/project/tN4E9NfV)         |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
-|            [Cherished Worlds](https://modrinth.com/project/3azQ6p0W)           |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |
+|            [Cherished Worlds](https://modrinth.com/project/3azQ6p0W)           |   ✅  |   ❌  |   ✅  |   ✅  |   ✅  |
 |             [Chunks fade in](https://modrinth.com/project/JaNmzvA8)            |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                 [Chunky](https://modrinth.com/project/fALzjamp)                |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |              [Client Sort](https://modrinth.com/project/K0AkAin6)              |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
@@ -83,6 +83,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |             [Falling Leaves](https://modrinth.com/project/WhbRG4iK)            |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |              [Fancy Crops](https://modrinth.com/project/UGEVQ6t9)              |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |              [Fast IP Ping](https://modrinth.com/project/9mtu0sUO)             |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+|              [Fast Trading](https://modrinth.com/project/Ht0RRAt0)             |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [FastQuit](https://modrinth.com/project/x1hIzbuY)               |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |              [FerriteCore](https://modrinth.com/project/uXXizFIs)              |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |               [Flashback](https://modrinth.com/project/4das1Fjq)               |   ✅  |   ✅  |   ✅  |   ❌  |   ❌  |
