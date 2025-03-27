@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "6a389420a13ac1efafcd58ee1dddc8fc84eafd84e57539ad06810a48cb1c2817"
+hash = "71a011150569d3831105bb4d82adc6183dc2f324e0d570149d8466f8e9802d97"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "6a022b857795694b2e340f4eb9e2e046f7768774f093e82ed867bcc1390491c9"
+hash = "3183f8e4a51f4dff76eedb7c5ad6fe0f4b3cf62ced8e52e04015c12da7415b01"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "8e7db9eb617e7166ad7e791554bbf307d2f32eef066b5411059e4be9e071b314"
+hash = "ccaff1e2901296ed1c5c6c5dbb88770e3e0de4f6f34911017f423bda2b4dc164"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "4e36274c0d1334f7bfe1c2d540a5ee731c0b90fa03c6b77b649773059e606764"
+hash = "3e05dfcb764800cb504583666934663c4f506ebc39e68fcd99290604ba39c8b5"
 metafile = true
 
 [[files]]

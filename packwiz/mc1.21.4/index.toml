@@ -131,6 +131,11 @@ hash = "c22a79e12714a5cbef7623b480bf066cd49e5710286abee69e5fc06484f3234e"
 metafile = true
 
 [[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "9896c7d7de7401ce0908f50fb848df12a6ac1fcb286449e74b72a79d897cc6f8"
+metafile = true
+
+[[files]]
 file = "mods/chunks-fade-in.pw.toml"
 hash = "16505ed059285edd929ecd7ef50ac01200870df78559a62a5663497dba722b69"
 metafile = true
@@ -167,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "f80e1d742e4a75ccb3846c48fb8b6ef72a32852bfe727d853615416d7e9c267e"
+hash = "853087309c5b08115038d1f349928cd95370926956ae7a293b810f2b2711e7f3"
 metafile = true
 
 [[files]]
@@ -177,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "7dfe328ddd9129a16440b63741dc4fbf6c5b5e709b4dd08845cb41156fe8339b"
+hash = "f5d0d082d4d3064da7dee4ad1881788f4782a804a2e1b034c2a903e2b68b97eb"
 metafile = true
 
 [[files]]
@@ -667,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "4e36274c0d1334f7bfe1c2d540a5ee731c0b90fa03c6b77b649773059e606764"
+hash = "3e05dfcb764800cb504583666934663c4f506ebc39e68fcd99290604ba39c8b5"
 metafile = true
 
 [[files]]

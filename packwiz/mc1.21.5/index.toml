@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "544409002b00cfe520c66f8c84d69b073c8e193ea20493bfacafbf93701c889d"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
 metafile = true
@@ -12,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/bindcommands.pw.toml"
-hash = "b2eb8874a7761fdc269c15a1bff41b0222d64bf3357860429adc397bbe6df895"
+hash = "2af49b28b441014be482ac3321fbe6aac3951e4bf9cbf49e5e669f0be63ceadf"
 metafile = true
 
 [[files]]
@@ -31,6 +36,11 @@ hash = "9fc6f3e67904d607a85528ceb2d4d1ea97a5807df5bb24c1106070e605c78110"
 metafile = true
 
 [[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "d7007a228eae3f5261482569fabece1dcf8ddfd451b63e75c20d1dff51ce814b"
+metafile = true
+
+[[files]]
 file = "mods/chunks-fade-in.pw.toml"
 hash = "bbc6509f03629a79939a610bfcfaa1afc8ce4088d850ca984dee7a0c39bdde2d"
 metafile = true
@@ -41,8 +51,23 @@ hash = "6d99152010979c7e0bab855da1c3cd0c082a19fa3da55e851ad519feb3d23815"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
-hash = "d3cb1c06b20cd56759b971d778959d14b1b4d490fbc58369844d801f08a679f2"
+hash = "31c9ef087418af49a6e3be6824a34a941f8f602482284d1c674a37617e58a27c"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "87fd017cc4f376f9836083a871e353001ecf2de77bcbbb0b20fcda54c2c6c890"
+metafile = true
+
+[[files]]
+file = "mods/durability-plus.pw.toml"
+hash = "4df86a1620217251fc0c2bd6971a207bd3745db6f729b2175818948f43fc9e6e"
 metafile = true
 
 [[files]]
@@ -78,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/fast-trading.pw.toml"
 hash = "02c224d386f6e813fd806dfa26f025a9631f9c6e86dc6b9880e6a65799a82dca"
+metafile = true
+
+[[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "4f9cd87df11709b2b677a48ce7f76ec69bd82040d773ae139e6396864673e41b"
 metafile = true
 
 [[files]]
@@ -176,6 +206,11 @@ hash = "24050805ccbaac24f4fc352200756b903ac7ef473d99169275b3fbb9f1ebe1b0"
 metafile = true
 
 [[files]]
+file = "mods/unilib.pw.toml"
+hash = "b0c303d60ec1422db5fc6556b77a3ecbbfbb389bb9dba2e47edb9bc4aa30bc47"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "146dbdc9a45f945693a356510b0ce7ef670ab1bbd73e7fe461cef41f33519c3c"
 metafile = true
@@ -201,6 +236,11 @@ hash = "f0be9d1190c28d0728ae0c86d3b6446c1e910f830e95517ebb34ff65e24c2624"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "767a7395ce84c5affc26fcc2cf8266e88c15c12baf9587fa92627ef2d2024a7d"
+metafile = true
+
+[[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "40fdb136823164d1039287e7c9c24c003a3f301b4fd144b4585bc9e8065446bb"
 metafile = true
@@ -208,6 +248,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/default-splashes.pw.toml"
 hash = "2dd0a3abc81676163b8fc10db544a7babcc55776f0a69c4b2c044b9e193a68f8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dramatic-skys.pw.toml"
+hash = "3e05dfcb764800cb504583666934663c4f506ebc39e68fcd99290604ba39c8b5"
 metafile = true
 
 [[files]]
@@ -221,8 +266,18 @@ hash = "d8548102a7b0ee5a1e2958a2d51f725baef18892c19b57ddf040bb3fbcf5800e"
 metafile = true
 
 [[files]]
+file = "resourcepacks/spectral.pw.toml"
+hash = "a495baae0cb18fbdb7cb3e2fedd79319d0cbee152ded80b9f6a9516bb4bc3e45"
+metafile = true
+
+[[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "417a03bba15d98195747ce17b50fb6df207d9b11dc9b6882eab4ab0001f0b223"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visual-armor-trims.pw.toml"
+hash = "3dba3a01f013c89fc9322dffaa418fda97715e2dfd45bf99200520b83ff348b9"
 metafile = true
 
 [[files]]

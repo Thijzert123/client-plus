@@ -1,0 +1,13 @@
+name = "Visual: Armor Trims"
+filename = "visual_armor_trims_3.1_1.21.5+.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tPtjib62/versions/DovTdPov/visual_armor_trims_3.1_1.21.5%2B.zip"
+hash-format = "sha512"
+hash = "0e9f8828b44a56226ac03fc278f97f98bff88d44e58a4e47134ffafecf60c71ef0c60778c92165748e6c321b45b0711c76ea454d3641b9dda51deaa9b59301a6"
+
+[update]
+[update.modrinth]
+mod-id = "tPtjib62"
+version = "DovTdPov"

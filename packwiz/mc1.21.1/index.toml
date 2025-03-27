@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
-hash = "e019787865ea432893629a076f69708f61a63fbd7c91c73337197f7373f95a8a"
+hash = "8f534cf725f8fc338c29453a25bbff94c5adba4f4b1815863f5d0f073b8f42e3"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "0028211184586eee56a8453e314b11cee295c94ce54f5d8c23cfae9d38879b37"
+hash = "67829dca26a38138a9358411b30d335a12c058d70a2d5f998b80daab4daca14e"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "d46ad11bc907b007938d7be446c33b5cfe0a3a921c3cf14c81c0a6a0709d3bb3"
+hash = "88410ed50ecb1abd632852b972b4bc14b702d867499b2370174db56c2bbc7bf0"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "b20a663f4a41fd0f21c80b40f8f930a9a986705293d6b7670cee4d19d2d3530d"
+hash = "80470d120e58d78d71d54b563272a06b1c687a8a605bb6d501d7b35eacbc9a23"
 metafile = true
 
 [[files]]
@@ -747,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "4e36274c0d1334f7bfe1c2d540a5ee731c0b90fa03c6b77b649773059e606764"
+hash = "3e05dfcb764800cb504583666934663c4f506ebc39e68fcd99290604ba39c8b5"
 metafile = true
 
 [[files]]
