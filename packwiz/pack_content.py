@@ -99,7 +99,10 @@
         {"id": "xaeros-minimap"},
         {"id": "not-enough-animations"},
         {"id": "fast-ip-ping"},
-        {"id": "extended-world-selection"},
+        {"id": "extended-world-selection",
+            "force-versions": {
+                "1.21.4": "ctbaxlx5" # use 1.21.3 version for 1.21.4, works just fine
+            }},
         {"id": "clumps"},
         {"id": "legendary-tooltips"},
         {"id": "flashback"},
@@ -118,7 +121,7 @@
         {"id": "snapper",
             "force-versions": {
                 "1.21.1": "JYWFOAnC" # 1.0.0 instead of 1.0.1
-        }},
+            }},
         {"id": "seamless-loading-screen"},
         {"id": "screenshot-to-clipboard"},
         {"id": "chunks-fade-in"},
