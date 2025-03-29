@@ -1,13 +1,13 @@
 name = "Status Effect Bars"
-filename = "status-effect-bars-1.0.7.jar"
+filename = "status-effect-bars-1.0.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/x02cBj9Y/versions/iSH5aE6f/status-effect-bars-1.0.7.jar"
+url = "https://cdn.modrinth.com/data/x02cBj9Y/versions/z9zySjgX/status-effect-bars-1.0.8.jar"
 hash-format = "sha512"
-hash = "af101a0fcc4d158653d1104f8d33f6b9e6e2e34a624784bd74cd4c57849a34d6c5702cbd74745ce98fbd19b0f9a277c76d8e0c1987616f5b905ebbf7a83d42e7"
+hash = "c5a652a09a84bf01eec4c1a96f20a43718c2bf804fde98390d935657db017a8b05f43c25f18978e92cc5444177b8741b39474c05e4d9b6ea9102300f48be8c00"
 
 [update]
 [update.modrinth]
 mod-id = "x02cBj9Y"
-version = "iSH5aE6f"
+version = "z9zySjgX"
