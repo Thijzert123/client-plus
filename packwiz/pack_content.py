@@ -144,7 +144,8 @@
         {"id": "explosive-enhancement"},
         {"id": "cat_jam"},
         {"id": "cave-dust"},
-        {"id": "fast-trading"}],
+        {"id": "fast-trading"},
+        {"id": "creative-fly"}],
     "shaderpacks": [
         {"id": "makeup-ultra-fast-shaders"},
         {"id": "miniature-shader"},
