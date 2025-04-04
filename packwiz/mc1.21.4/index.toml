@@ -17,6 +17,10 @@ file = "config/yosbr/config/malilib.json"
 hash = "2fa4328bcb6660e0b25dff4344f0eccb6b2c9acc41b1c1d624c22ef5b2b8d711"
 
 [[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "a977a629ef7e49a5a72170471324893d27c23e0521c551f34ca7cf4632cc95dc"
+
+[[files]]
 file = "config/yosbr/config/seamless_loading_screen.json"
 hash = "b7c9d710cb0da0fffe4e71039886e740d9a0deb68ad6a8c23c872fe7888521c6"
 
@@ -34,7 +38,7 @@ hash = "2403af18d131d038d9db0a7b76f66997c594166e19db5f63f2e58caa9fc850af"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "95e0cb49a149aee7217c13711ea4426b730beee37683861997761a9e6f441eff"
+hash = "1a51d4d3307bfa49e174c9f229266f2f549f1b02ca7cbb775f3f70ec7773f7a3"
 
 [[files]]
 file = "credits.txt"
@@ -162,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "88ae050b15aaa9fb5b8ffe5df53e2b8407cb5217dde64241107c11509c2fd657"
+hash = "a598c30d51764141713c3871c44497bc420d602f9a378c28fc8f49c269fac386"
 metafile = true
 
 [[files]]
@@ -183,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "f5d0d082d4d3064da7dee4ad1881788f4782a804a2e1b034c2a903e2b68b97eb"
+metafile = true
+
+[[files]]
+file = "mods/creative-fly.pw.toml"
+hash = "6a368a03f84ee5442808147450b851df4e666461928441dc4cacc51021742187"
 metafile = true
 
 [[files]]
@@ -297,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "e09e5b329fe16fcff90fa01a6199ede4b26d35c48ef17ab1d56d0922c491ca2f"
+hash = "e4ea7380173819f5c5ac77f5b21306a7628852dfcd9082ed9044578e5881da9f"
 metafile = true
 
 [[files]]
@@ -317,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/hey-wiki.pw.toml"
-hash = "de6352a079f7f20667d6c8458e6a16e6ef3e9ac0d8a0fea57bf4f4f0bc3103c6"
+hash = "87c6b3a7eb7baa94804d2cce4db881af39af47858f1a2ad0b9b90a48626948e7"
 metafile = true
 
 [[files]]
@@ -422,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "33769b11cca75bc556f1d4a9a1289f49e88750ded0c9bfb9c371486cd112f5b5"
+hash = "eaa0d06f31b5cd5bcac139b8b41ddd985831f35f7d633d12355d1d15735c3a84"
 metafile = true
 
 [[files]]
@@ -517,12 +526,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8ff792fd5c8d9225709b317b49cc741233bfa6958f27edd8a2c8da50b4ff34fd"
+hash = "4b8f88d21be88fc7f51be5acad184c2d3a86474a8d8673fc3fc67e0bb2d4fc7b"
 metafile = true
 
 [[files]]
 file = "mods/skinshuffle.pw.toml"
-hash = "f2162862dc65b8d6bc7b381c812282251a050da367f657496adee6368a938688"
+hash = "b25401fdd676592f2334c5e1912f67924877dc33b5aa223e378e5be760b8d0d1"
 metafile = true
 
 [[files]]
@@ -532,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d9c1bcc4b8ab05e309cd5cb88caf280dfd6901bcc679a7b504af1dcdb7b6a8d2"
+hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
 metafile = true
 
 [[files]]
@@ -542,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "96f8f48ceaab39aaa4367eb411f4739b4b1b1afae82349cd46ad4182d6bda9fb"
+hash = "ff6be82e750518609b250a3d15462642ecf49f24c4f6adbef620ac773515fd53"
 metafile = true
 
 [[files]]
@@ -582,7 +591,7 @@ metafile = true
 
 [[files]]
 file = "mods/xanders-sodium-options.pw.toml"
-hash = "24832af2b8d61dae838c71f30edcf2e4ab54af2bf60ba80e14f8844e80684fd5"
+hash = "e2653cb5c9a2b3c776ebc114363c9a7cb2b40c22f457d793dd2a7fcb009574d6"
 metafile = true
 
 [[files]]
@@ -634,11 +643,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
 hash = "46f5e3c36a281cfb9c08d2157b8e62441837938e66b433c91ed079246b5c702d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-leaves.pw.toml"
-hash = "767a7395ce84c5affc26fcc2cf8266e88c15c12baf9587fa92627ef2d2024a7d"
 metafile = true
 
 [[files]]
@@ -711,18 +715,8 @@ hash = "5bf1e0cdae07c586a852e0cb4068993f39dc62447cbe4560a8a7457dde0331a2"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mob-crates.pw.toml"
-hash = "c19fcf8addbbcc4a120337232538156903a8866f0498a0ace992b3a8040b8ef7"
-metafile = true
-
-[[files]]
 file = "resourcepacks/new-glowing-ores.pw.toml"
 hash = "0511040326c7649fde9b5784fff73b083f55e4ae7d43bfebc5e494cde0fe49e3"
-metafile = true
-
-[[files]]
-file = "resourcepacks/qraftys-capitalized-font.pw.toml"
-hash = "519f97a9d1432364010760ea5a942b5d9d8e83be36119315bcef67c003af8719"
 metafile = true
 
 [[files]]
@@ -731,13 +725,8 @@ hash = "b4a0e54b7e05e967417adf96aa8a09c18c0877cda18e90e1e90e5fdb6dc039cd"
 metafile = true
 
 [[files]]
-file = "resourcepacks/reimagined.pw.toml"
-hash = "a0228f274dc43ade29cfb73c532930327cd562743e8b78b9fec20aaec48293a7"
-metafile = true
-
-[[files]]
 file = "resourcepacks/simple-grass-flowers.pw.toml"
-hash = "2c4f4c1252a2ad62ac168bc529b9e04a8de3c74a2dd3038254224281557599ad"
+hash = "96d580c29f3c69c313e54a5e4219a08ee3ebd69f4ab73febf591681de5376464"
 metafile = true
 
 [[files]]
@@ -797,7 +786,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "960463f7d07687c58db843c7fccf14f43cd1ae07d6548cff1f28ae7f7e08badd"
+hash = "3a6895a0ac0fa7e1bbd959804a2dd0dc6bf40987901074e4f7eef85956355896"
 metafile = true
 
 [[files]]

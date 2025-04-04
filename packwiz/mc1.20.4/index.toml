@@ -46,7 +46,7 @@ hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "37a6cba7f21fb3dd07ba2fc5de7f6c9756d9ae3e2c4bf10bb6c8070ea1519227"
+hash = "497500f88c3f2d87cf21bf319090a3c99d2104b01d22a9934007fcecfaf17ede"
 metafile = true
 
 [[files]]
@@ -200,6 +200,11 @@ hash = "ccaff1e2901296ed1c5c6c5dbb88770e3e0de4f6f34911017f423bda2b4dc164"
 metafile = true
 
 [[files]]
+file = "mods/creative-fly.pw.toml"
+hash = "5dae466ba64f73290786a358bff2be4df3c53a01130c53bca5234c9c7ff36d4b"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "5944ed5a779d142aea9ccd8c466a20fa3d9233a29f2be1e5ae54fc15f5edd57e"
 metafile = true
@@ -256,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "f04757ea123fd6992ca60445dc8b9a57763bf07fff7b0e40209ad096d48319e1"
+hash = "fdc91980807783db87a37d95ec27a5392fdfcd6b0bd452e7f99dfd6908b1f2f7"
 metafile = true
 
 [[files]]
@@ -476,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "ddcc9273182f159f1cc92eccc49a87198bfec8962000a537a2a1ea60ed248b07"
+hash = "2eb825d2cbcabe0c6cb95fecaac0a23c6e3ac7b6bb60cfd95a15e57113ec0c02"
 metafile = true
 
 [[files]]
@@ -667,11 +672,6 @@ hash = "dd1f76d29b9bcbb800e3935f2d226981d5582e7b8997a0ed8ff1f9d03675cbef"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better-flame-particles.pw.toml"
-hash = "ff85d06569c47f70c8fdd3ca44d80b3e19dff6e12e854a4bc8fd4ee09ec82940"
-metafile = true
-
-[[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
 hash = "2b8722c9a46f9c6f810eefc32fada047275ae1a7e568c97ab840c1e4742fb32c"
 metafile = true
@@ -721,11 +721,6 @@ hash = "3e05dfcb764800cb504583666934663c4f506ebc39e68fcd99290604ba39c8b5"
 metafile = true
 
 [[files]]
-file = "resourcepacks/enchant-icons-countxd.pw.toml"
-hash = "2989ebe7b9056c33f55857024457c431d0aff5fc0c7f8e45aeeab95b4f00f997"
-metafile = true
-
-[[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
 hash = "c787950c5bdbff78bc2ef218554f1486fc81f747d7abd4a29fba5286229b225a"
 metafile = true
@@ -766,23 +761,18 @@ hash = "1bf292a425e8cd502411b21aac3d9189078ce76329ed5752e13653bb3e3bab34"
 metafile = true
 
 [[files]]
-file = "resourcepacks/qraftys-capitalized-font.pw.toml"
-hash = "4ca26b083d5a1aee9ed098b1dcf8e1972e45f9e14e98c1f0902fc779cbcb70cf"
-metafile = true
-
-[[files]]
 file = "resourcepacks/redstone-tweaks.pw.toml"
 hash = "a2bbab68ce7c62b5002a2c3c0a10b31190a8b44a39efb6d0eb3870bc65532ca8"
 metafile = true
 
 [[files]]
 file = "resourcepacks/reimagined.pw.toml"
-hash = "4cd1292755a51b55a7789e456950bacf955d3f45816c23b665117f2a156190b5"
+hash = "a96fbdd210a53701c0312d8e62dd6e80dfb852d20ecb13503877e499315afa1b"
 metafile = true
 
 [[files]]
 file = "resourcepacks/simple-grass-flowers.pw.toml"
-hash = "2c4f4c1252a2ad62ac168bc529b9e04a8de3c74a2dd3038254224281557599ad"
+hash = "96d580c29f3c69c313e54a5e4219a08ee3ebd69f4ab73febf591681de5376464"
 metafile = true
 
 [[files]]
@@ -791,13 +781,8 @@ hash = "a8393579e7075a9dc89bb563caab5f07741e416cbaebd94649224fb426f629aa"
 metafile = true
 
 [[files]]
-file = "resourcepacks/spectral.pw.toml"
-hash = "a495baae0cb18fbdb7cb3e2fedd79319d0cbee152ded80b9f6a9516bb4bc3e45"
-metafile = true
-
-[[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "417a03bba15d98195747ce17b50fb6df207d9b11dc9b6882eab4ab0001f0b223"
+hash = "53730f97f8aadfa02f11f438e31473c07c37e1ed299b0ba6a2267b958224f079"
 metafile = true
 
 [[files]]
@@ -837,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "960463f7d07687c58db843c7fccf14f43cd1ae07d6548cff1f28ae7f7e08badd"
+hash = "3a6895a0ac0fa7e1bbd959804a2dd0dc6bf40987901074e4f7eef85956355896"
 metafile = true
 
 [[files]]

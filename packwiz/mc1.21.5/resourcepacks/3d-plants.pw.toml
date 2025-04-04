@@ -1,0 +1,13 @@
+name = "Vervada's enhanced plants"
+filename = "Vervada-s-enhanced-plants.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ghc0v6DT/versions/SEuNEXFK/Vervada-s-enhanced-plants.zip"
+hash-format = "sha512"
+hash = "011f494421c0bb782f8317a2c39cd524043c50cf6afd639c465ebaadf4759c8af406045cce525e677d6e724c9f4ec0c8b6fd70d3a46bf1d2fb0280be80538b52"
+
+[update]
+[update.modrinth]
+mod-id = "ghc0v6DT"
+version = "SEuNEXFK"

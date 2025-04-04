@@ -1,0 +1,13 @@
+name = "Creative Fly"
+filename = "CreativeFly-1.6.5-1.21.4-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XrD3Auyv/versions/WBV8bImK/CreativeFly-1.6.5-1.21.4-fabric.jar"
+hash-format = "sha512"
+hash = "57824f192f6f75cc4564a907dbe7169267dba516d618d71ccc69a86282e14e72bb4d1e2902e6d0b4560f095a521cea4026ccc9e422bf495ed168880103d91cd2"
+
+[update]
+[update.modrinth]
+mod-id = "XrD3Auyv"
+version = "WBV8bImK"

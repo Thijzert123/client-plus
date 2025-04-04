@@ -1,13 +1,13 @@
 name = "Skin Shuffle"
-filename = "SkinShuffle-2.7.0+1.21.4.jar"
+filename = "SkinShuffle-2.8.1+1.21.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3s19I5jr/versions/QrivRDWz/SkinShuffle-2.7.0%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/3s19I5jr/versions/CApA7zIQ/SkinShuffle-2.8.1%2B1.21.4.jar"
 hash-format = "sha512"
-hash = "8693f740a7c1a6623795c5c48bf455a875c9c4e315d74ab1d7fd45b6a557c35c0a2a1e75373e17e76dd722beddc2cb2c7b3c849fed373d09c39e16a81e562a38"
+hash = "e3fdab5c845a002d03c7af05c5260b0bed5d8433dcbe4e919ad8934e3cccb7c262de8b1efd725ce1199e7e4230935d955345094eebcb1d466ad134414669d6bb"
 
 [update]
 [update.modrinth]
 mod-id = "3s19I5jr"
-version = "QrivRDWz"
+version = "CApA7zIQ"
