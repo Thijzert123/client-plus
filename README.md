@@ -1,3 +1,8 @@
+# **1.21.5 SUPPORT COMING SOON**
+
+**At the moment, not enough mods in this modpack are compatible with Minecraft 1.21.5. It is missing some critical mods, such as Xaero's Minimap and Xaero's World Map. Please be patient for the first alpha or beta releases of Client+ for 1.21.5.**
+
+---
 ![Banner](https://github.com/Thijzert123/client-plus/blob/main/images/banner.png?raw=true)
 # Client+
 A Minecraft modpack focused on improving vanilla Minecraft on the client-side. Enjoy a better Minecraft anywhere, in singleplayer or multiplayer!
