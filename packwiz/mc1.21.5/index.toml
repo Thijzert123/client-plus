@@ -6,6 +6,11 @@ hash = "9c5ffe0f93aec9ebca86a4e5171ccb51e283849eef1719c995d19c2480e2d07c"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "352fe01e3b8136cf2abf742ddc8e2cab45fd7f25f635df960053b8290e5dc2a4"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a292ee4afb698747e72ee869f7e77c234ec5be3214c945dab24b8101a8ea7742"
 metafile = true
@@ -56,6 +61,11 @@ hash = "46886c1a213a1ca7d065c24dc2b553b4d234ec30e473832a0051fd811fc34ae2"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "9fc6f3e67904d607a85528ceb2d4d1ea97a5807df5bb24c1106070e605c78110"
+metafile = true
+
+[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "d7007a228eae3f5261482569fabece1dcf8ddfd451b63e75c20d1dff51ce814b"
 metafile = true
@@ -87,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "236f72473c6daf9891f8715d38fc00f95777826258afcdd576d8bce3d2a165f3"
+hash = "d811057ae42145c99ddd1a82cf493a398669f80dd2f0f9c204b7bd9f504a402d"
 metafile = true
 
 [[files]]
@@ -152,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "760fa5f6840b4b5a929222cae241fe7d9166caad02caa9d5f67cf033536119e0"
+hash = "c09ef02727d7b388c8ece69dc61457495d3ad888d2b10f756749e926bd4cdaad"
 metafile = true
 
 [[files]]
@@ -181,13 +191,18 @@ hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
+file = "mods/flashback.pw.toml"
+hash = "218ed53f769d5f4f1ab29cb455fe4029e3104f964496ef867d81186e0ca731cc"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "af10334d5cb965e4255f864d8fe2c3bad90e571492bf61fd84fb55c9a9506d59"
 metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "4f9cd87df11709b2b677a48ce7f76ec69bd82040d773ae139e6396864673e41b"
+hash = "a3e7e7b34dce944ad4e24370202bbd7c42335cfca76a156f3925da348eb67f56"
 metafile = true
 
 [[files]]
@@ -337,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinshuffle.pw.toml"
-hash = "4ed4f07023fc989f93704ba5d9549bd14d9cd820d9e3278582364431c57210b1"
+hash = "04b4fc95547418ce659276dbc179665bd2836a4dff9aea619a48778bb923cfc8"
 metafile = true
 
 [[files]]
@@ -357,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "d37b3311c832f912bb45c01b158aca83600bce1d6cba49743022b98dccaa0731"
+hash = "02710c0480cfb7f672d26ef33fa4eda8b075abf76d53e45272505779adfe02b6"
 metafile = true
 
 [[files]]
@@ -401,6 +416,11 @@ hash = "46a8572b7ac1f9ec2b120330a60b7f851a16ea105408e7228f5f9e1184313e85"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-flame-particles.pw.toml"
+hash = "ff85d06569c47f70c8fdd3ca44d80b3e19dff6e12e854a4bc8fd4ee09ec82940"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
 hash = "f0be9d1190c28d0728ae0c86d3b6446c1e910f830e95517ebb34ff65e24c2624"
 metafile = true
@@ -412,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "40fdb136823164d1039287e7c9c24c003a3f301b4fd144b4585bc9e8065446bb"
+hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
 metafile = true
 
 [[files]]
@@ -467,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "53730f97f8aadfa02f11f438e31473c07c37e1ed299b0ba6a2267b958224f079"
+hash = "459c51e286e28ac5bcf7b3840e84f7985f480ca8a2304827f5eafe73a322edea"
 metafile = true
 
 [[files]]
