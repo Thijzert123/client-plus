@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "4f9cd87df11709b2b677a48ce7f76ec69bd82040d773ae139e6396864673e41b"
+hash = "a3e7e7b34dce944ad4e24370202bbd7c42335cfca76a156f3925da348eb67f56"
 metafile = true
 
 [[files]]
@@ -471,6 +471,11 @@ hash = "f59ab3633f781c5b5af3234f694da4c4d5195c9211b1ece7e410b54ec1a183eb"
 metafile = true
 
 [[files]]
+file = "mods/options-profiles.pw.toml"
+hash = "60acc18b747ec6e76e3ef46efa1aa1ae95d2231935c471fde5aacea34bad5cd9"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "4085c62d0de5a7f079cf010bfd9e26406273d35988ea2d5709177aa947068bb1"
 metafile = true
@@ -532,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinshuffle.pw.toml"
-hash = "99dd1088fd226d470b7cc35e85b8b7f0f38b15756820272e09276920b01c9adf"
+hash = "b9708ea6eb497a3b3b4fc5a9db63c2609a71a829da3bc4023bd6bacea454acff"
 metafile = true
 
 [[files]]
@@ -552,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "a90ed8be597ca3735810ef4e80648c18bfdc1d429cb4633a3c93839c614409bd"
+hash = "8fab1ac2e60c195380b5b0dcb15e785c67ef36fbdac121e7491d1e0fd9f613e4"
 metafile = true
 
 [[files]]
@@ -578,6 +583,11 @@ metafile = true
 [[files]]
 file = "mods/world-play-time.pw.toml"
 hash = "d381e862b3f1a29cabe97e64c96024ac2e8d9071969e91ae0390024488f9e7fb"
+metafile = true
+
+[[files]]
+file = "mods/xaero-zoomout.pw.toml"
+hash = "896dc18c8839f179aca6e9a7891de85898a4f5814a35249781d3efda33d29091"
 metafile = true
 
 [[files]]
@@ -632,6 +642,11 @@ hash = "03902e4959f285247d5b117587e6e4f0c7cf104b51aa820316d35682c6f5c655"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-flame-particles.pw.toml"
+hash = "ff85d06569c47f70c8fdd3ca44d80b3e19dff6e12e854a4bc8fd4ee09ec82940"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
 hash = "3f768cdc601eaf28d5ae1a25e61033efa67e006857c974bce9b265ed5e180f8a"
 metafile = true
@@ -648,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "40fdb136823164d1039287e7c9c24c003a3f301b4fd144b4585bc9e8065446bb"
+hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
 metafile = true
 
 [[files]]
@@ -711,6 +726,11 @@ hash = "2c30a792eb8c62778b5f60772d16530062a428e52d2767c24e971812aff7ac40"
 metafile = true
 
 [[files]]
+file = "resourcepacks/low-on-fire.pw.toml"
+hash = "347564c7db8830d5595e0c6cc3b7c4bb9d040cfd09272d672a969200cb24d3d0"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mob-crates.pw.toml"
 hash = "b7dcc09736cc40dd812348a2591eb200ad23d6f9159de952ae2e89c8620790c3"
 metafile = true
@@ -723,6 +743,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/qraftys-capitalized-font.pw.toml"
 hash = "3103712be0d72dc90efb78c0cf766841fb7edd1aebf42747d5e51f608d22c8fa"
+metafile = true
+
+[[files]]
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "df08ba59fb22b90abce8144115d8283e10b891687ac682d9f2b6d3e09775963d"
 metafile = true
 
 [[files]]
@@ -747,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "53730f97f8aadfa02f11f438e31473c07c37e1ed299b0ba6a2267b958224f079"
+hash = "459c51e286e28ac5bcf7b3840e84f7985f480ca8a2304827f5eafe73a322edea"
 metafile = true
 
 [[files]]

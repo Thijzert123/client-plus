@@ -1,6 +1,50 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/chunksfadein.properties"
+hash = "cef1821cb8f861d3b2345d99667af26a67df083c1422133b437342c723c65ec3"
+
+[[files]]
+file = "config/yosbr/config/customcredits/credits.json"
+hash = "ede4819525725497ac0c9b381105b588f77678307d3a3819a21351c11459f053"
+
+[[files]]
+file = "config/yosbr/config/dynamiccrosshair.json5"
+hash = "09e78e344d0cfea6442b3be31ad65a67623fc4f7ab9266be0707000372d0b62d"
+
+[[files]]
+file = "config/yosbr/config/malilib.json"
+hash = "2fa4328bcb6660e0b25dff4344f0eccb6b2c9acc41b1c1d624c22ef5b2b8d711"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "a977a629ef7e49a5a72170471324893d27c23e0521c551f34ca7cf4632cc95dc"
+
+[[files]]
+file = "config/yosbr/config/seamless_loading_screen.json"
+hash = "b7c9d710cb0da0fffe4e71039886e740d9a0deb68ad6a8c23c872fe7888521c6"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "be255ff4587feee964e11feba338d417485c7d26e4e7881f00eea2762fe9b7ca"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "28a9d68f9a8097d8a808ccd2fc3043a5b6989bba3695c83ee5eeaaccc66aae4d"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap_entities.json"
+hash = "2403af18d131d038d9db0a7b76f66997c594166e19db5f63f2e58caa9fc850af"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "1a51d4d3307bfa49e174c9f229266f2f549f1b02ca7cbb775f3f70ec7773f7a3"
+
+[[files]]
+file = "credits.txt"
+hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "9c5ffe0f93aec9ebca86a4e5171ccb51e283849eef1719c995d19c2480e2d07c"
 metafile = true
@@ -126,6 +170,11 @@ hash = "782a6829b6df5c268d47b8b06094187d3d42bdad7c0896c4e19aa28a3058e1b9"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "847dce2251028733f139692907e89466896dc6ca35cfcc1bdaa0ec1f02aebefb"
+metafile = true
+
+[[files]]
 file = "mods/durability-plus.pw.toml"
 hash = "4df86a1620217251fc0c2bd6971a207bd3745db6f729b2175818948f43fc9e6e"
 metafile = true
@@ -138,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "91c0fcd0a32565f0ad1e38d67b0db1cb5fbef2ea3ae018f2e323155997d9074a"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "95f4e8ece33d072afbaa8740c8fff9b7cfaf3e99428a7498f8c53dafb20300ec"
 metafile = true
 
 [[files]]
@@ -192,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "218ed53f769d5f4f1ab29cb455fe4029e3104f964496ef867d81186e0ca731cc"
+hash = "380065e8106510570327723958c9327d56bc3cd4d4261537e60d18ce4b2ce2a0"
 metafile = true
 
 [[files]]
@@ -217,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2e06b604a52b4de2cd14a3debe656a75abbb876b769e116abb91f31de32cb4dc"
+hash = "e6d4d558cb61b4aec327bc3dd5eb1f1166678b84478649086aa837f5b9bb22e9"
 metafile = true
 
 [[files]]
@@ -252,12 +306,17 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7f02f413a157cf69274d6e035096b84bc937bec49909a21010c79906eb90d632"
+hash = "5c9683d8cfd28ef39e4153dfb560b79ed287baa2a5b7d9fadaeeedcaa566bb74"
 metafile = true
 
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "1d19237dc3a66d87a018bafb3f69e701bcba8ba1fdef71d9a5f17222c15a3120"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
 metafile = true
 
 [[files]]
@@ -313,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "9445550cf3fcfaaa145d60528e01c55d2fa798bcfc1232c141ddf3b94b6e0022"
+metafile = true
+
+[[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "c9f156a56c3647f8003cc76e36accacf12406be6febeb35341e6f7df7a8dcaaa"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Legendary Tooltips"
-filename = "LegendaryTooltips-1.21.1-fabric-1.5.3.jar"
+filename = "LegendaryTooltips-1.21.1-fabric-1.5.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/atHH8NyV/versions/7UStbU3R/LegendaryTooltips-1.21.1-fabric-1.5.3.jar"
+url = "https://cdn.modrinth.com/data/atHH8NyV/versions/8mxTz3UT/LegendaryTooltips-1.21.1-fabric-1.5.4.jar"
 hash-format = "sha512"
-hash = "7e356a25a72aa811545e52e5fc6316ddb43101eb95f5c1b8eef344cff7bd579840bc2f70c14d6ad8b51440413bed0887758087f89a5c43aa05226385d986e9f9"
+hash = "78aef395b42e21fe79f218f261ca1a51625a5f743bbf082423380be7cff7ee80a9122fa1264a860e97625db5b3ac885b5e51985282a14314382a656472d71423"
 
 [update]
 [update.modrinth]
 mod-id = "atHH8NyV"
-version = "7UStbU3R"
+version = "8mxTz3UT"

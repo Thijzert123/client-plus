@@ -255,6 +255,11 @@ hash = "21d41d6e5b14a067287e52f2f0caed27ee6c72efedf74b1261ce175823affb86"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "5bae543da587a8fc28064e77b1307cc30c85bcf18c2deb22a181f84591a55ae1"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "36b6e7ccfd78dfd6309d9dd4a13fd6e132e6a6c348ea42509725da2a5acd63b1"
 metafile = true
@@ -495,8 +500,18 @@ hash = "a3a6fded1aab1d9a6db666b40defa5f71297e23d5abea10c03bff559ac60d5e4"
 metafile = true
 
 [[files]]
+file = "mods/online-emotes.pw.toml"
+hash = "803e22ea084d253b3f2361c480c8369b179b4996dac6999cc990e5d8a1d5bdf9"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "fe43b2d8ec4bc4a44246996e3a99342a09b8e134168f5c32795e1b1054222531"
+metafile = true
+
+[[files]]
+file = "mods/options-profiles.pw.toml"
+hash = "440db0ca29571be01f943faedfb08be7f970ac44d29d0efa2a2472ef6726d159"
 metafile = true
 
 [[files]]
@@ -630,6 +645,11 @@ hash = "4d88184fe1e1f67e30902cdde560cc3a84dfee1a015e9944ac0d7187d2cd96e4"
 metafile = true
 
 [[files]]
+file = "mods/xaero-zoomout.pw.toml"
+hash = "c2245de8394ba365e9b188242f2219a31aa1f3360a87f18793181a82a3ca4d00"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "2bb686caf5369b231ca09fdf21fe88186bdb369112fc7407f29d908c653b9d4b"
 metafile = true
@@ -672,6 +692,11 @@ hash = "dd1f76d29b9bcbb800e3935f2d226981d5582e7b8997a0ed8ff1f9d03675cbef"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-flame-particles.pw.toml"
+hash = "ff85d06569c47f70c8fdd3ca44d80b3e19dff6e12e854a4bc8fd4ee09ec82940"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
 hash = "2b8722c9a46f9c6f810eefc32fada047275ae1a7e568c97ab840c1e4742fb32c"
 metafile = true
@@ -688,7 +713,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "40fdb136823164d1039287e7c9c24c003a3f301b4fd144b4585bc9e8065446bb"
+hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
 metafile = true
 
 [[files]]
@@ -718,6 +743,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
 hash = "3e05dfcb764800cb504583666934663c4f506ebc39e68fcd99290604ba39c8b5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "2989ebe7b9056c33f55857024457c431d0aff5fc0c7f8e45aeeab95b4f00f997"
 metafile = true
 
 [[files]]
@@ -761,6 +791,11 @@ hash = "1bf292a425e8cd502411b21aac3d9189078ce76329ed5752e13653bb3e3bab34"
 metafile = true
 
 [[files]]
+file = "resourcepacks/qraftys-capitalized-font.pw.toml"
+hash = "4ca26b083d5a1aee9ed098b1dcf8e1972e45f9e14e98c1f0902fc779cbcb70cf"
+metafile = true
+
+[[files]]
 file = "resourcepacks/redstone-tweaks.pw.toml"
 hash = "a2bbab68ce7c62b5002a2c3c0a10b31190a8b44a39efb6d0eb3870bc65532ca8"
 metafile = true
@@ -781,8 +816,13 @@ hash = "a8393579e7075a9dc89bb563caab5f07741e416cbaebd94649224fb426f629aa"
 metafile = true
 
 [[files]]
+file = "resourcepacks/spectral.pw.toml"
+hash = "a495baae0cb18fbdb7cb3e2fedd79319d0cbee152ded80b9f6a9516bb4bc3e45"
+metafile = true
+
+[[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "53730f97f8aadfa02f11f438e31473c07c37e1ed299b0ba6a2267b958224f079"
+hash = "459c51e286e28ac5bcf7b3840e84f7985f480ca8a2304827f5eafe73a322edea"
 metafile = true
 
 [[files]]

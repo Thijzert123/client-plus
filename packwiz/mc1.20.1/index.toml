@@ -250,6 +250,11 @@ hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "bd53dcb193060715c659e96aedafd08dedd193ebb1f0a79fe15f6786a315a6c0"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "724f38446c3830230388cec99fed286ff1e8580f0a82c1466c7d59bde4450c71"
 metafile = true
@@ -416,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "fac1ce75868b8cea1e0f09388444adb81ee8bedb3dc86d3206e49182905acff7"
+hash = "10d0880665a5abd65af746a8c473048a8ac0b3803631b3bcf18cee2eba0a1f28"
 metafile = true
 
 [[files]]
@@ -485,8 +490,18 @@ hash = "d38f50aad915b4c2f6ee7dfe1a480970def9dd312932504c4f008cbe17988306"
 metafile = true
 
 [[files]]
+file = "mods/online-emotes.pw.toml"
+hash = "75a8ac14043ed4ece6e406c5bc52c04eba36fff36e44381e38abb80c1eee6737"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "6c61882bbd734f1260d930c860ecd183e089e3d878c4faccee0f73acf65c18b1"
+metafile = true
+
+[[files]]
+file = "mods/options-profiles.pw.toml"
+hash = "a56ba235b7cff79900d142a1907e77bda008ac9d5c409502bf2d4960baabdc1d"
 metafile = true
 
 [[files]]
@@ -521,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "3e2a1448933199b681df01a7dbf50fb13bbd95e7d79d3e7f49dcc13f739ceaab"
+hash = "e7aaef7215f2419177f1b1d3240d2d61d17ca2b2e03127d92941874ad5594d6f"
 metafile = true
 
 [[files]]
@@ -612,6 +627,11 @@ metafile = true
 [[files]]
 file = "mods/world-play-time.pw.toml"
 hash = "f4014a2c6a6195890ab5e4828be0ac1ac2eb9443a71ce8229a21122fe4fe3965"
+metafile = true
+
+[[files]]
+file = "mods/xaero-zoomout.pw.toml"
+hash = "c2245de8394ba365e9b188242f2219a31aa1f3360a87f18793181a82a3ca4d00"
 metafile = true
 
 [[files]]
@@ -726,6 +746,11 @@ hash = "c787950c5bdbff78bc2ef218554f1486fc81f747d7abd4a29fba5286229b225a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "f954ad393353fdce97158688024daafc9c718083932a49faf982501412816293"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
@@ -761,6 +786,11 @@ hash = "29a7b3eb5b9bfd6ddaa5efd808dcbe4c0eb1428b57f03cd700fcadd1c552edfb"
 metafile = true
 
 [[files]]
+file = "resourcepacks/low-on-fire.pw.toml"
+hash = "98520d370f14406836b850e9ca58debe0b5e25475279d7f2a46b1c3151b222a8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mob-crates.pw.toml"
 hash = "c7067eb5f3e00ee07a10f43d40d9f8f8efd50b10f498d73169557ff30d7874b8"
 metafile = true
@@ -773,6 +803,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/qraftys-capitalized-font.pw.toml"
 hash = "d99bd9042558fb357349145f26e1b10f9c9830525b47e9281dcc8eae4f38f13c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "ea6aca4502021cf77920c2fe853a50a6e875ead0df19bbdd3cc152ae7ff005c2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/reimagined.pw.toml"
+hash = "a96fbdd210a53701c0312d8e62dd6e80dfb852d20ecb13503877e499315afa1b"
 metafile = true
 
 [[files]]
@@ -792,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "53730f97f8aadfa02f11f438e31473c07c37e1ed299b0ba6a2267b958224f079"
+hash = "459c51e286e28ac5bcf7b3840e84f7985f480ca8a2304827f5eafe73a322edea"
 metafile = true
 
 [[files]]

@@ -240,6 +240,11 @@ hash = "6c94f2d5e791983e7cd4d7f2deb3e0abe1d8531ff42843aab1f7e4d8505a44d4"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "1d537dc58d3dae0aea82cc739657bc23c53c5e789d566408d6f19a13c8b407f5"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "cde649248ca5d9b791fcf10bb45cc1cfbed6b626963839377dcf8ea6c14fd01d"
 metafile = true
@@ -306,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "e4ea7380173819f5c5ac77f5b21306a7628852dfcd9082ed9044578e5881da9f"
+hash = "8281a87d31212c12de57ce3cd0de5f9342ce53114a26bd3eedd3a9c48d75c39a"
 metafile = true
 
 [[files]]
@@ -316,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "4f9cd87df11709b2b677a48ce7f76ec69bd82040d773ae139e6396864673e41b"
+hash = "a3e7e7b34dce944ad4e24370202bbd7c42335cfca76a156f3925da348eb67f56"
 metafile = true
 
 [[files]]
@@ -386,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "974a2f4fd6bff1195c326696fa9e246c3b6820ae0fefe96a011bef4e6912e43f"
+hash = "18677747bc547d16bed5542b30691c6c7cdfa203e88c156ab367accd01273b93"
 metafile = true
 
 [[files]]
@@ -465,8 +470,18 @@ hash = "5d2e07cd857d24d53067a6909b01c078e542dd9b372204c974449ba416713d4e"
 metafile = true
 
 [[files]]
+file = "mods/online-emotes.pw.toml"
+hash = "51d56f1beb2cce02e7025598d737eb1e44a0183140f1688c3059e12b6bf8fe7d"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "f59ab3633f781c5b5af3234f694da4c4d5195c9211b1ece7e410b54ec1a183eb"
+metafile = true
+
+[[files]]
+file = "mods/options-profiles.pw.toml"
+hash = "f3b375757e41ecac6a4b18df7ded757a387da39edce975a9b970cb2cd29cab1d"
 metafile = true
 
 [[files]]
@@ -496,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "71961578135f5043c71d9e50efd68195fbbd53f2d00346d3a66e2eff83971b69"
+hash = "72ae143a29339b05237519f59d23f3bae5b4adf672ce5195b07a4da8833c8eb6"
 metafile = true
 
 [[files]]
@@ -531,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinshuffle.pw.toml"
-hash = "b25401fdd676592f2334c5e1912f67924877dc33b5aa223e378e5be760b8d0d1"
+hash = "d139cda3b3613eddd03536addeb8b1e687dd5cf2f761f79f71c2bef32cbe2260"
 metafile = true
 
 [[files]]
@@ -551,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "ff6be82e750518609b250a3d15462642ecf49f24c4f6adbef620ac773515fd53"
+hash = "2d5c16d100dec774152df70606675386b2b6be03a482f5776477531d30803dd9"
 metafile = true
 
 [[files]]
@@ -577,6 +592,11 @@ metafile = true
 [[files]]
 file = "mods/world-play-time.pw.toml"
 hash = "67c7380ca43fc7f9690c19006120febbaec29e611f743deb43de43eae25d93f4"
+metafile = true
+
+[[files]]
+file = "mods/xaero-zoomout.pw.toml"
+hash = "896dc18c8839f179aca6e9a7891de85898a4f5814a35249781d3efda33d29091"
 metafile = true
 
 [[files]]
@@ -646,13 +666,18 @@ hash = "46f5e3c36a281cfb9c08d2157b8e62441837938e66b433c91ed079246b5c702d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "767a7395ce84c5affc26fcc2cf8266e88c15c12baf9587fa92627ef2d2024a7d"
+metafile = true
+
+[[files]]
 file = "resourcepacks/bow-load-indicator.pw.toml"
 hash = "dd40bfc9208307961ccd608a7f14fb33143bf09312cd2a558492cb1122fc5a47"
 metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "40fdb136823164d1039287e7c9c24c003a3f301b4fd144b4585bc9e8065446bb"
+hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
 metafile = true
 
 [[files]]
@@ -715,13 +740,28 @@ hash = "5bf1e0cdae07c586a852e0cb4068993f39dc62447cbe4560a8a7457dde0331a2"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mob-crates.pw.toml"
+hash = "c19fcf8addbbcc4a120337232538156903a8866f0498a0ace992b3a8040b8ef7"
+metafile = true
+
+[[files]]
 file = "resourcepacks/new-glowing-ores.pw.toml"
 hash = "0511040326c7649fde9b5784fff73b083f55e4ae7d43bfebc5e494cde0fe49e3"
 metafile = true
 
 [[files]]
+file = "resourcepacks/qraftys-capitalized-font.pw.toml"
+hash = "519f97a9d1432364010760ea5a942b5d9d8e83be36119315bcef67c003af8719"
+metafile = true
+
+[[files]]
 file = "resourcepacks/redstone-tweaks.pw.toml"
 hash = "b4a0e54b7e05e967417adf96aa8a09c18c0877cda18e90e1e90e5fdb6dc039cd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/reimagined.pw.toml"
+hash = "a96fbdd210a53701c0312d8e62dd6e80dfb852d20ecb13503877e499315afa1b"
 metafile = true
 
 [[files]]
@@ -751,7 +791,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "53730f97f8aadfa02f11f438e31473c07c37e1ed299b0ba6a2267b958224f079"
+hash = "459c51e286e28ac5bcf7b3840e84f7985f480ca8a2304827f5eafe73a322edea"
 metafile = true
 
 [[files]]

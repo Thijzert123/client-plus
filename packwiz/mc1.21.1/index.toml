@@ -156,6 +156,11 @@ hash = "67829dca26a38138a9358411b30d335a12c058d70a2d5f998b80daab4daca14e"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
+metafile = true
+
+[[files]]
 file = "mods/clientsort.pw.toml"
 hash = "0e237a9d698dd3d738c37cc6f85f50f5cb62b9ce05f6546c85b18a4f555c697a"
 metafile = true
@@ -251,6 +256,11 @@ hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "0949a917770f3bfc48896c56db6ca1809c194b2f4d7a6004e93597ea7d4eec26"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "6e046a0ced37b978d8bf74aa48653822489348c2e65d33e40b93be55763c983f"
 metafile = true
@@ -317,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "607c71ad9bc7a2076ec0da7a4b6c8da526e58a82850e891e2b0c0452f8398e30"
+hash = "435a117e3de1db3346997a825752758834bdd0bb031711c76a464c091f0c6c50"
 metafile = true
 
 [[files]]
@@ -392,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "17ed874a23cd9b35162ea7f2011318fd69505f37f4995f04b6e668a0275484f4"
+hash = "2af5c113e0108a901f893e9f33026c88d13492569700466c6969fe67cde757f5"
 metafile = true
 
 [[files]]
@@ -437,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6be9bf8af4c867d6cc7c680df870e2b878fbec4090160f3df3a8426c61216472"
+hash = "d2eef785df399c7b45f20ecc3d07e1749b4bff2b2f87dc1c47d3a339996569c2"
 metafile = true
 
 [[files]]
@@ -506,8 +516,18 @@ hash = "c78c2d26feb460adb112cda9ec5073f8968298f1d215eb8679fd67f55f3c3124"
 metafile = true
 
 [[files]]
+file = "mods/online-emotes.pw.toml"
+hash = "f4d4e2bbeceb318b892c821ec40af6e0e625c9511ccc4a643fd9471411540aa1"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "5501d478ef5237f12cf0a2e4b683954cf1482b43fdf090c6f5d9bec4409f3324"
+metafile = true
+
+[[files]]
+file = "mods/options-profiles.pw.toml"
+hash = "63547653ab4d8d55b2284bebbffa2193d2f5992409e949bef7951a3476ceae72"
 metafile = true
 
 [[files]]
@@ -587,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinshuffle.pw.toml"
-hash = "3745d00a8a5a834140d925e8e5d69a4aeac8e74804530f3ae170986dcc12359b"
+hash = "82238906d4274d2a185af64a1848f7c66e3608e3210f29c45fc5dc00ff7717bd"
 metafile = true
 
 [[files]]
@@ -612,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "7adbb7ec9be24b72e6737a8cb8cc8d687f27e870aa63692b11d9b9124869e85f"
+hash = "b00523d678d2b022a44b37d10c3bd487649502641c3aaefe64912c31b76b1143"
 metafile = true
 
 [[files]]
@@ -638,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/world-play-time.pw.toml"
 hash = "2dc8224c90ea8cc20d8d497a16c679b0928d870c58ffe84100d8f4092184f4e4"
+metafile = true
+
+[[files]]
+file = "mods/xaero-zoomout.pw.toml"
+hash = "896dc18c8839f179aca6e9a7891de85898a4f5814a35249781d3efda33d29091"
 metafile = true
 
 [[files]]
@@ -718,7 +743,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "40fdb136823164d1039287e7c9c24c003a3f301b4fd144b4585bc9e8065446bb"
+hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
 metafile = true
 
 [[files]]
@@ -736,6 +761,11 @@ hash = "3d2122e5e955340d8b9ee6c0f264ee5648e244192130bc9191457c573d554fc8"
 metafile = true
 
 [[files]]
+file = "resourcepacks/cubic-sun-moon.pw.toml"
+hash = "b885ea4b27467a99ca6dd03be554bfdaf48712ef03304a1e2e636ab9c2e6250a"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-splashes.pw.toml"
 hash = "2dd0a3abc81676163b8fc10db544a7babcc55776f0a69c4b2c044b9e193a68f8"
 metafile = true
@@ -746,8 +776,23 @@ hash = "3e05dfcb764800cb504583666934663c4f506ebc39e68fcd99290604ba39c8b5"
 metafile = true
 
 [[files]]
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "bb2b6a511327bc8782c7c12c6be81c11fa3fcb7fa4fd10d4093a5170862e1ad5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "590d63ddd680c1a9ce96945cec48c1b1dca146090003c850cf7a9cb855452699"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
 hash = "f954ad393353fdce97158688024daafc9c718083932a49faf982501412816293"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
 
 [[files]]
@@ -806,6 +851,16 @@ hash = "9360f16158d014416971036ff6c090f840db44321413012523c938b9756c8d41"
 metafile = true
 
 [[files]]
+file = "resourcepacks/reimagined.pw.toml"
+hash = "a96fbdd210a53701c0312d8e62dd6e80dfb852d20ecb13503877e499315afa1b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/simple-grass-flowers.pw.toml"
+hash = "96d580c29f3c69c313e54a5e4219a08ee3ebd69f4ab73febf591681de5376464"
+metafile = true
+
+[[files]]
 file = "resourcepacks/spawned-eggs.pw.toml"
 hash = "a8393579e7075a9dc89bb563caab5f07741e416cbaebd94649224fb426f629aa"
 metafile = true
@@ -822,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "53730f97f8aadfa02f11f438e31473c07c37e1ed299b0ba6a2267b958224f079"
+hash = "459c51e286e28ac5bcf7b3840e84f7985f480ca8a2304827f5eafe73a322edea"
 metafile = true
 
 [[files]]

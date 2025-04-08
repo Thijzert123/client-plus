@@ -1,0 +1,13 @@
+name = "Options Profiles"
+filename = "optionsprofiles-1.21.1-fabric-v1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DnyS3EEW/versions/SmK3KomM/optionsprofiles-1.21.1-fabric-v1.4.jar"
+hash-format = "sha512"
+hash = "ba70d7d0f7b8a6af281d659d9366c3a9ee2cd9f8261c7949b90d2a841f49563cce4cb700aa4cd214034ec70be4ff71ab41ac648dc843756d405effd459698923"
+
+[update]
+[update.modrinth]
+mod-id = "DnyS3EEW"
+version = "SmK3KomM"
