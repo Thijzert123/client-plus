@@ -97,6 +97,7 @@
         {"id": "better-f1-reborn"},
         {"id": "xaeros-world-map"},
         {"id": "xaeros-minimap"},
+        {"id": "xaero-zoomout"},
         {"id": "not-enough-animations"},
         {"id": "fast-ip-ping"},
         {"id": "extended-world-selection",
@@ -195,5 +196,8 @@
         {"id": "translations-for-sodium"},
         {"id": "spawned-eggs",
             "include": ["1.20.1", "1.20.4", "1.21.1", "1.21.3", "1.21.4"]},
-        {"id": "icons-advertisement-removal"}]
+        {"id": "icons-advertisement-removal"},
+        {"id": "options-profiles"},
+        {"id": "emotecraft"},
+        {"id": "online-emotes"}]
 }
