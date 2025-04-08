@@ -6,7 +6,9 @@
 
 import os
 import tomllib # python >= 3.11
-from py_markdown_table.markdown_table import markdown_table # pip install py-markdown-table
+from py_markdown_table.markdown_table import markdown_table
+
+from packwiz import pack_content # pip install py-markdown-table
 
 
 PROJECT_LIST_FILENAME = "project_list.md"
@@ -16,6 +18,7 @@ PACKWIZ_SUFFIX = ".pw.toml"
 SUPPORTED_MC_VERSIONS = ["1.21.5", "1.21.4", "1.21.3", "1.21.1", "1.20.4", "1.20.1"]
 
 checkmark_icon = "✅"
+question_mark_icon = "?"
 x_icon = "❌"
 project_dict = {}
 project_list = []
@@ -34,7 +37,7 @@ def update_toml_data(root, category, mc_version):
 
                     if project_name not in project_dict:
                         project_dict[project_name] = {}
-                    
+
                     project_dict[project_name]["Name"] = project_name_formatted
 
                     for supported_mc_version in SUPPORTED_MC_VERSIONS:
@@ -46,17 +49,29 @@ def update_toml_data(root, category, mc_version):
 
 def convert_dict_to_list():
     global project_list
+    project_list = []
     for i in project_dict:
         project_list.append(project_dict[i])
-    
+
     project_list = sorted(project_list, key=lambda d: d["Name"])
 
 def generate_project_list():
+    # This section prepares a dictonary so it can be checked whether or not
+    # projects are supposed to be for Minecraft versions (when 'includes' and 'excludes' are specified).
+    pack_content = eval(open("pack_content.py").read())
+    global all_projects_in_pack_content
+    all_projects_in_pack_content = []
+    for content_type in pack_content:
+        for project in pack_content[content_type]:
+            all_projects_in_pack_content.append(project)
+    print(all_projects_in_pack_content)
+    exit(0)
+
     for currentdir, rootdirs, rootfiles in os.walk("."):
         for rootdir in rootdirs:
             if rootdir.startswith(MC_PREFIX):
                 mc_version = rootdir.removeprefix(MC_PREFIX).strip()
-            
+
                 for minecraftroot, minecraftdirs, minecraftfiles in os.walk(os.path.join(currentdir, rootdir)):
                     for minecraftdir in minecraftdirs:
                         if minecraftdir in ["mods", "resourcepacks", "shaderpacks"]:
@@ -70,5 +85,5 @@ if __name__ == "__main__":
     project_list = generate_project_list()
     with open(PROJECT_LIST_FILENAME, "w") as project_list_file:
         project_list_file.write(project_list)
-        
+
     print("Wrote project list to " + PROJECT_LIST_FILENAME)
