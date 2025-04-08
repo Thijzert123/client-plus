@@ -6,9 +6,7 @@
 
 import os
 import tomllib # python >= 3.11
-from py_markdown_table.markdown_table import markdown_table
-
-from packwiz import pack_content # pip install py-markdown-table
+from py_markdown_table.markdown_table import markdown_table # pip install py-markdown-table
 
 
 PROJECT_LIST_FILENAME = "project_list.md"
