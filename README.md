@@ -200,4 +200,5 @@ Apart from that, we also include various Vanilla Tweaks resource packs:
 - [Variated Blocks](https://vanillatweaks.net/share#Oz7pBC)
 
 ## TODO
-- Update default options.txt so that keybinds don't conflict by default
+- ~~Update default options.txt so that keybinds don't conflict by default~~
+- Update packwiz_update.py to update Vanilla Tweaks resource packs by downloading using the links
