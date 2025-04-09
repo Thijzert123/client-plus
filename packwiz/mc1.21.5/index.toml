@@ -1,50 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/config/chunksfadein.properties"
-hash = "cef1821cb8f861d3b2345d99667af26a67df083c1422133b437342c723c65ec3"
-
-[[files]]
-file = "config/yosbr/config/customcredits/credits.json"
-hash = "ede4819525725497ac0c9b381105b588f77678307d3a3819a21351c11459f053"
-
-[[files]]
-file = "config/yosbr/config/dynamiccrosshair.json5"
-hash = "09e78e344d0cfea6442b3be31ad65a67623fc4f7ab9266be0707000372d0b62d"
-
-[[files]]
-file = "config/yosbr/config/malilib.json"
-hash = "2fa4328bcb6660e0b25dff4344f0eccb6b2c9acc41b1c1d624c22ef5b2b8d711"
-
-[[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "a977a629ef7e49a5a72170471324893d27c23e0521c551f34ca7cf4632cc95dc"
-
-[[files]]
-file = "config/yosbr/config/seamless_loading_screen.json"
-hash = "b7c9d710cb0da0fffe4e71039886e740d9a0deb68ad6a8c23c872fe7888521c6"
-
-[[files]]
-file = "config/yosbr/config/sodium-options.json"
-hash = "be255ff4587feee964e11feba338d417485c7d26e4e7881f00eea2762fe9b7ca"
-
-[[files]]
-file = "config/yosbr/config/xaerominimap.txt"
-hash = "28a9d68f9a8097d8a808ccd2fc3043a5b6989bba3695c83ee5eeaaccc66aae4d"
-
-[[files]]
-file = "config/yosbr/config/xaerominimap_entities.json"
-hash = "2403af18d131d038d9db0a7b76f66997c594166e19db5f63f2e58caa9fc850af"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "1a51d4d3307bfa49e174c9f229266f2f549f1b02ca7cbb775f3f70ec7773f7a3"
-
-[[files]]
-file = "credits.txt"
-hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "9c5ffe0f93aec9ebca86a4e5171ccb51e283849eef1719c995d19c2480e2d07c"
 metafile = true
@@ -126,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "6d99152010979c7e0bab855da1c3cd0c082a19fa3da55e851ad519feb3d23815"
+hash = "9a72c87a6b567c259644c0f2e600976ec9d72520b598519635d665731e716454"
 metafile = true
 
 [[files]]
@@ -146,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "31c9ef087418af49a6e3be6824a34a941f8f602482284d1c674a37617e58a27c"
+hash = "ef32434536a29994b5aa33cf6d53efa8d430aaed4192a3d07bc1f044bc4dcf67"
 metafile = true
 
 [[files]]
@@ -271,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e6d4d558cb61b4aec327bc3dd5eb1f1166678b84478649086aa837f5b9bb22e9"
+hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
 metafile = true
 
 [[files]]
@@ -306,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "5c9683d8cfd28ef39e4153dfb560b79ed287baa2a5b7d9fadaeeedcaa566bb74"
+hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
 metafile = true
 
 [[files]]
@@ -457,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "d1de6d3e889db21acd36afb754f20b6ccc8c850cb7ef839047eb440e6114d652"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "4d57ceb87aa43fb6e35d006f42834976ddb4acedf33e5c46b66685bb4b7f6d7e"
 metafile = true
 
 [[files]]
