@@ -148,7 +148,8 @@
         {"id": "creative-fly"},
         {"id": "options-profiles"},
         {"id": "emotecraft"},
-        {"id": "online-emotes"}],
+        {"id": "online-emotes"},
+        {"id": "armor-trim-item-fix"}],
     "shaderpacks": [
         {"id": "makeup-ultra-fast-shaders"},
         {"id": "miniature-shader"},
