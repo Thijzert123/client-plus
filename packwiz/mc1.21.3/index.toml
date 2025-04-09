@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "89773e8040bd6a168e067704859e3403a376779d5e2462c15c5d5be78380077e"
+hash = "b41d2ade6b956992792d776a08c5a3ed1f8c305f52cdf6029e4335f36d88329d"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "79b01361b2b4ef1b3b6ff7016c9f421e1c78ea8dc40bfce2accb2a077e07cc33"
+hash = "54a0a935d8c2d8291852843dca2a87b20c0698228579c6dfd473af6dd834e19b"
 metafile = true
 
 [[files]]

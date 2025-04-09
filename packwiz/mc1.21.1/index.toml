@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "67829dca26a38138a9358411b30d335a12c058d70a2d5f998b80daab4daca14e"
+hash = "002de2b9eff96a6389e262e666daf9801eccbafb606217420647d566d4f8ade5"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "0e237a9d698dd3d738c37cc6f85f50f5cb62b9ce05f6546c85b18a4f555c697a"
+hash = "7c010af0bd284d97909079d047c4536d4db91710f6cd87b94e1af51c90df4edf"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "88410ed50ecb1abd632852b972b4bc14b702d867499b2370174db56c2bbc7bf0"
+hash = "6bfadc8f3fcd873e30ef11e7741ff815588042293d233695c2e6eafdccf4c78b"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "2af5c113e0108a901f893e9f33026c88d13492569700466c6969fe67cde757f5"
+hash = "bf1904c233ebafbe5bb2a70390b0f94457d4f953d9168219f8048b83a76c8ead"
 metafile = true
 
 [[files]]

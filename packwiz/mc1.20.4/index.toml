@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "71a011150569d3831105bb4d82adc6183dc2f324e0d570149d8466f8e9802d97"
+hash = "5eb52a4a6874385914ffb2504a1eff59fba21fa4f523fa0c9077674aa4766b1a"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "3183f8e4a51f4dff76eedb7c5ad6fe0f4b3cf62ced8e52e04015c12da7415b01"
+hash = "d67d2322aea6be6c753ecb98445f83dc323de0b5b7ccefa8a2eb3e171189a18e"
 metafile = true
 
 [[files]]

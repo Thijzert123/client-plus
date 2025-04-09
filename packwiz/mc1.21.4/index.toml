@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "89773e8040bd6a168e067704859e3403a376779d5e2462c15c5d5be78380077e"
+hash = "b41d2ade6b956992792d776a08c5a3ed1f8c305f52cdf6029e4335f36d88329d"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "853087309c5b08115038d1f349928cd95370926956ae7a293b810f2b2711e7f3"
+hash = "70736e594e6023d68367510f699f99aa8b26c84fa6ad0d656fbf08c70539d991"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "18677747bc547d16bed5542b30691c6c7cdfa203e88c156ab367accd01273b93"
+hash = "df9d69dc784ef61e99064407952d34c294f62fe1155b5260f825bd9a82e2f3a2"
 metafile = true
 
 [[files]]
