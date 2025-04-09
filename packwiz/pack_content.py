@@ -79,8 +79,6 @@
         {"id": "betterf3"},
         {"id": "eating-animation",
             "include": ["1.20.1", "1.20.4", "1.21.1", "1.21.3"]},
-        {"id": "theones-eating-animation-pack",
-            "exclude": ["1.20.1", "1.20.4", "1.21.1", "1.21.3"]},
         {"id": "pick-up-notifier"},
         {"id": "cherished-worlds"},
         {"id": "polytone"},
@@ -140,13 +138,17 @@
         {"id": "debugify"},
         {"id": "my-resource-pack"},
         {"id": "gamma-utils"},
-        {"id": "sound"},
+        {"id": "sound",
+            "exclude": ["1.21.5"]}, # causes a crash on startup. remove line when fixed
         {"id": "xanders-sodium-options"},
         {"id": "explosive-enhancement"},
         {"id": "cat_jam"},
         {"id": "cave-dust"},
         {"id": "fast-trading"},
-        {"id": "creative-fly"}],
+        {"id": "creative-fly"},
+        {"id": "options-profiles"},
+        {"id": "emotecraft"},
+        {"id": "online-emotes"}],
     "shaderpacks": [
         {"id": "makeup-ultra-fast-shaders"},
         {"id": "miniature-shader"},
@@ -197,7 +199,7 @@
         {"id": "spawned-eggs",
             "include": ["1.20.1", "1.20.4", "1.21.1", "1.21.3", "1.21.4"]},
         {"id": "icons-advertisement-removal"},
-        {"id": "options-profiles"},
-        {"id": "emotecraft"},
-        {"id": "online-emotes"}]
+        {"id": "theones-eating-animation-pack",
+            "exclude": ["1.20.1", "1.20.4", "1.21.1", "1.21.3"]}
+    ]
 }
