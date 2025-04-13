@@ -65,6 +65,11 @@ hash = "9caa254bdbb9dbafd1cc29616cd6aa26f4972eb583961225cf8a8b4836071bfb"
 metafile = true
 
 [[files]]
+file = "mods/armor-trim-item-fix.pw.toml"
+hash = "71d3858d592f498d0821af9aad4c8a43f25e9b6f996da83dd10f8c4401002056"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "2f32611ee02b8170b5680f6913403f51e4cf87b344acee82690a7b3110caa4b7"
 metafile = true
@@ -231,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "81d5e5449ee86bb31e18c6245e54c61cf4a6430a83238b9aad665a6319ea2547"
+hash = "e70c6c06e68b31ef659b06bb05e9c8e0abc0a72e7c3cb6eeb1a8b648b41fcb0e"
 metafile = true
 
 [[files]]
@@ -241,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "b7fdfb5fd43a75faa5a84bc9307b1e5dd31620e33b0636de7c4b04a4ed5ca8b7"
+hash = "d1f561a89e7a4c5d98b6cbb25088ea2ad56ca1cff60118f2076912f49f8cfed3"
 metafile = true
 
 [[files]]
@@ -262,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "36b6e7ccfd78dfd6309d9dd4a13fd6e132e6a6c348ea42509725da2a5acd63b1"
+metafile = true
+
+[[files]]
+file = "mods/entity-view-distance.pw.toml"
+hash = "7da6c1629ad74592b1c4ebaf261d1bb88955547313c91207ebd6382de3e74a7e"
 metafile = true
 
 [[files]]
@@ -372,6 +382,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "96cafb1b451ce577f0a74045704c2f51c3ab34d63fbba81df669c21646d33bff"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "94108745bb1ded58ea0f338c2c4a0dbdfe29703275c5047b4ca06b80569a451c"
 metafile = true
 
 [[files]]
@@ -555,6 +570,11 @@ hash = "e6bb21a1c251acd4a44d64dfbdf26f68c7649ff63b49b9dc5067343738f0e2fc"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "eb0b5e525ecf3a48eee88656bccaef149197407a8a208c18bb4ddac981734db9"
+metafile = true
+
+[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "0ef42bb08a27404875467f94c1a6ed717314a6b3a77d9897f7a3e9c7d43aeb94"
 metafile = true
@@ -587,6 +607,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "ac864c3d643a5dd028abbd6a417109ecc3219220cc8e1e3ab7badb04e0450277"
+metafile = true
+
+[[files]]
+file = "mods/simplefog.pw.toml"
+hash = "ff271be1f80ef13e24f9df277f93d96345d8cd0bb02ca61fe23a2178abaeac87"
 metafile = true
 
 [[files]]
@@ -645,8 +670,8 @@ hash = "4d88184fe1e1f67e30902cdde560cc3a84dfee1a015e9944ac0d7187d2cd96e4"
 metafile = true
 
 [[files]]
-file = "mods/xaero-zoomout.pw.toml"
-hash = "c2245de8394ba365e9b188242f2219a31aa1f3360a87f18793181a82a3ca4d00"
+file = "mods/xaeroplus.pw.toml"
+hash = "53e6acd425b4c6cb78ad0312a359075f0fe467d8855ac7be43e6b63d533dd1b6"
 metafile = true
 
 [[files]]
@@ -822,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "459c51e286e28ac5bcf7b3840e84f7985f480ca8a2304827f5eafe73a322edea"
+hash = "c7fba5f4fcf669b23a37865cf687bce857f1f7295c8ec1fb7620583dee9625d3"
 metafile = true
 
 [[files]]
@@ -862,7 +887,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "3a6895a0ac0fa7e1bbd959804a2dd0dc6bf40987901074e4f7eef85956355896"
+hash = "499c4f322326004a3fdf592775bd835c684ce3eb802baf7f11d6c40a796cabf9"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Armor Trim Item Fix"
+filename = "ArmorTrimItemFix-fabric-1.21.4-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kIhxG5zE/versions/gMtS1I0z/ArmorTrimItemFix-fabric-1.21.4-2.0.0.jar"
+hash-format = "sha512"
+hash = "3f78501483e23bfce0860bf1be507598356dec59c83f8178c1c626b0f238103040e1da86af4ca895f90f9ea3d66b94c415a0f2a7224b35cfa6c7309cd85819c6"
+
+[update]
+[update.modrinth]
+mod-id = "kIhxG5zE"
+version = "gMtS1I0z"

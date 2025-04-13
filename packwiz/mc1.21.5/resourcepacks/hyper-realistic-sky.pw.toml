@@ -3,11 +3,11 @@ filename = "Hyper_Realistic_Sky_[Vanilla].zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PsMUgCo5/versions/VSCF4nD8/Hyper_Realistic_Sky_%5BVanilla%5D.zip"
+url = "https://cdn.modrinth.com/data/PsMUgCo5/versions/T3RRkhir/Hyper_Realistic_Sky_%5BVanilla%5D.zip"
 hash-format = "sha512"
-hash = "afd526ba140fd0f11a33b037e4c46064b84cea9bdde99d3a56777ae054bda53e4325b0065f725eb27477ce91d9a10b3a6f5d59730257bda175f271f664885651"
+hash = "5324a03b052a71c7dcca7be6c19a2811b084de73673057c8614f48ac9bfc9f44784ac295745a4c2e80f71a85ce8bf6d6f436de1df17cb4cc3d8607de5de5a842"
 
 [update]
 [update.modrinth]
 mod-id = "PsMUgCo5"
-version = "VSCF4nD8"
+version = "T3RRkhir"
