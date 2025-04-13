@@ -205,3 +205,6 @@ Apart from that, we also include various Vanilla Tweaks resource packs:
 ## TODO
 - ~~Update default options.txt so that keybinds don't conflict by default~~
 - Update packwiz_update.py to update Vanilla Tweaks resource packs by downloading using the links
+- Add Recolourful UI Dark Mode when it comes to Modrinth
+- Disable Xaero's Minimap Entity Radar by default in the config
+- Disable analog movement of Controlify by default 
