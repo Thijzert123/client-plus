@@ -154,7 +154,8 @@
         {"id": "rei"},
         {"id": "entity-view-distance"},
         {"id": "simplefog"},
-        {"id": "swd-panorama"}],
+        {"id": "swd-panorama"},
+        {"id": "better-suggestions"}],
     "shaderpacks": [
         {"id": "makeup-ultra-fast-shaders"},
         {"id": "miniature-shader"},
