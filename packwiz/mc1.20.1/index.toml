@@ -80,6 +80,16 @@ hash = "e0cf59ae504142b4c4e6e702cc3209e0d6c37ca428d6d0b15a40d430c0b4364d"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "036bd1f08a582f2a38809e3ab65720d5e04d84fcc1c7b8558d6888c319e18527"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "a8d31e43c8f82882cc4c2b7bdacd76d968d739e157cdae2c80efb58c1990e1c9"
+metafile = true
+
+[[files]]
 file = "mods/better-f1-reborn.pw.toml"
 hash = "4ed283068896cace20a016a72c72c292cb796d755f17ce478a8589f3917f7d67"
 metafile = true
@@ -92,6 +102,11 @@ metafile = true
 [[files]]
 file = "mods/better-stats.pw.toml"
 hash = "c4c11bc748458978b676b2a5cef87b5b8548c2289e9c199f225f941fb1593c9d"
+metafile = true
+
+[[files]]
+file = "mods/better-suggestions.pw.toml"
+hash = "96cfc41ba0d17623fdfa403592331861cfca0011a6b835160fbf679fd9120636"
 metafile = true
 
 [[files]]
@@ -156,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "f2bff97992e0f211f22b2739a2c5a615ec4d408df92f07e2bf25e9bb6e309a8d"
+hash = "77603230f3f6cd056c28676af9769609653e547c271b47373cf1d036b6457f3d"
 metafile = true
 
 [[files]]
@@ -340,6 +355,11 @@ hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "6ef4d5626e258509b479220129ccc987b3f9e8ac33a6a5e227772f3cde1dbb9f"
+metafile = true
+
+[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "0f88e46eb7b6487e139e4cf9e75c3b6c2764ffea3a222655798a893399bdfa1a"
 metafile = true
@@ -377,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "80264d11a93ffb63f1592be06f8dcdf276bc5a6d2b666dfa9a5d2d10dfb29282"
 metafile = true
 
 [[files]]
@@ -530,11 +555,6 @@ hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]
-file = "mods/paginatedadvancements.pw.toml"
-hash = "1dbd3b2969118cf3bf47efd9eac2838abb815efce4d33ea47091f20b42ebfd24"
-metafile = true
-
-[[files]]
 file = "mods/particular.pw.toml"
 hash = "63a2011c75cdaf07c0a537c1f5c0661b7e5e0471c81625273634f88fed05b9c4"
 metafile = true
@@ -572,6 +592,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "964da9ed4bdd490258a05d249e13b8d90d82f71591c793bc93e29840e4e9fe1b"
+metafile = true
+
+[[files]]
+file = "mods/scribble.pw.toml"
+hash = "f4d3fd279c80231cfa832ad1fb58307849fbb6da495863005411d1c2606239e9"
 metafile = true
 
 [[files]]
@@ -635,8 +660,18 @@ hash = "e0047e26d3d4a5a290dc150e9a7c5c5f64cde9e6a0538eaa6f6060374349700f"
 metafile = true
 
 [[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "0354673aae26e7a07b8d9cd71d7fb5e923ae2865dbafc1f6c222fe314ac397d6"
+metafile = true
+
+[[files]]
 file = "mods/sushi-bar.pw.toml"
 hash = "6bfb09a5bf731cd8d347b8e77b0379c254b2e2dd2763c8051b6bfe122a22b7fb"
+metafile = true
+
+[[files]]
+file = "mods/symbol-chat.pw.toml"
+hash = "554cf9b66823e7681394b23933e3d1659b6e7ae35cdc7721e402a762d7e332c6"
 metafile = true
 
 [[files]]
@@ -722,33 +757,8 @@ hash = "120a936d5345b58a613ce793b0ce4bd6527aec7125eed4b6177f45d6e8602fb5"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better-leaves.pw.toml"
-hash = "767a7395ce84c5affc26fcc2cf8266e88c15c12baf9587fa92627ef2d2024a7d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/bow-load-indicator.pw.toml"
-hash = "dd40bfc9208307961ccd608a7f14fb33143bf09312cd2a558492cb1122fc5a47"
-metafile = true
-
-[[files]]
-file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "421b267f441e7be3feefa686191e5b363929ecb39ddd5f2ff5b515db4b169891"
-metafile = true
-
-[[files]]
 file = "resourcepacks/client-plus-lang.zip"
 hash = "41881f655ec6ab2cdb0f1fc80392a492976fb5c9dafe2733b30ee079261effc8"
-
-[[files]]
-file = "resourcepacks/colourful-containers-dark-mode-gui.pw.toml"
-hash = "45f2672b8518980a256ee731a54ebe86d072aa0e0f688e53462d05e5b1aa793c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/colourful-containers-gui.pw.toml"
-hash = "3d2122e5e955340d8b9ee6c0f264ee5648e244192130bc9191457c573d554fc8"
-metafile = true
 
 [[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"
@@ -761,23 +771,8 @@ hash = "2dd0a3abc81676163b8fc10db544a7babcc55776f0a69c4b2c044b9e193a68f8"
 metafile = true
 
 [[files]]
-file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "3e05dfcb764800cb504583666934663c4f506ebc39e68fcd99290604ba39c8b5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/enchant-icons-countxd.pw.toml"
-hash = "d9e7e86ddb96102cedc1173006459c1cb4338698087bf16258abb23dd7889219"
-metafile = true
-
-[[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
 hash = "c787950c5bdbff78bc2ef218554f1486fc81f747d7abd4a29fba5286229b225a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fancy-crops.pw.toml"
-hash = "f954ad393353fdce97158688024daafc9c718083932a49faf982501412816293"
 metafile = true
 
 [[files]]
@@ -796,18 +791,8 @@ hash = "fa1a2ee3e7695b8ab45f839b49c32db00bc424c130305660d0055889b6e7f29d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/grimdark-sky.pw.toml"
-hash = "a12b8d93f06c14fd56d3f920803e09e3b839ddde50e772f56954031f4eb33344"
-metafile = true
-
-[[files]]
 file = "resourcepacks/hyper-realistic-sky.pw.toml"
 hash = "8207767a0a9b5f1fcaf36c36ed0ef981043312127865444c698cf92afec2a0f3"
-metafile = true
-
-[[files]]
-file = "resourcepacks/icons-advertisement-removal.pw.toml"
-hash = "17f0318c8e44323cc214221ad074900bcc74d541caaa13082bfc1f65bb9432e5"
 metafile = true
 
 [[files]]
@@ -836,23 +821,8 @@ hash = "d99bd9042558fb357349145f26e1b10f9c9830525b47e9281dcc8eae4f38f13c"
 metafile = true
 
 [[files]]
-file = "resourcepacks/redstone-tweaks.pw.toml"
-hash = "ea6aca4502021cf77920c2fe853a50a6e875ead0df19bbdd3cc152ae7ff005c2"
-metafile = true
-
-[[files]]
 file = "resourcepacks/reimagined.pw.toml"
 hash = "a96fbdd210a53701c0312d8e62dd6e80dfb852d20ecb13503877e499315afa1b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/simple-grass-flowers.pw.toml"
-hash = "96d580c29f3c69c313e54a5e4219a08ee3ebd69f4ab73febf591681de5376464"
-metafile = true
-
-[[files]]
-file = "resourcepacks/spawned-eggs.pw.toml"
-hash = "a8393579e7075a9dc89bb563caab5f07741e416cbaebd94649224fb426f629aa"
 metafile = true
 
 [[files]]

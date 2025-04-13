@@ -1,0 +1,13 @@
+name = "Better Suggestions"
+filename = "better-suggestions-1.20.4-1.2.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HfZKWsjM/versions/pUfaqiB8/better-suggestions-1.20.4-1.2.5.jar"
+hash-format = "sha512"
+hash = "179bc59bc39c59e9e30f24cfa2622093259d1aaad86ff5cbeb43c21005aea479b2dd0de5dad868fda1114bfe2fbe4a79f81ccedb7974775ed296a30d03958088"
+
+[update]
+[update.modrinth]
+mod-id = "HfZKWsjM"
+version = "pUfaqiB8"
