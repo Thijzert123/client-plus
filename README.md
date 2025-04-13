@@ -207,4 +207,5 @@ Apart from that, we also include various Vanilla Tweaks resource packs:
 - Update packwiz_update.py to update Vanilla Tweaks resource packs by downloading using the links
 - Add Recolourful UI Dark Mode when it comes to Modrinth
 - Disable Xaero's Minimap Entity Radar by default in the config
-- Disable analog movement of Controlify by default 
+- Disable analog movement of Controlify by default
+- Replace YOSBR with [Default Options](https://modrinth.com/mod/default-options), as YOSBR isn't supported for 1.21.5
