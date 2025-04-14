@@ -161,7 +161,8 @@
         {"id": "subtle-effects"},
         {"id": "item-highlighter"},
         {"id": "scribble"},
-        {"id": "symbol-chat"}],
+        {"id": "symbol-chat"},
+        {"id": "autorun"}],
     "shaderpacks": [
         {"id": "makeup-ultra-fast-shaders"},
         {"id": "miniature-shader"},
@@ -191,7 +192,7 @@
         {"id": "cubic-sun-moon"},
         {"id": "redstone-tweaks"},
         {"id": "low-on-fire"},
-        {"id": "fresh-player-animations"},
+        {"id": "tras-fresh-player"},
         {"id": "better-leaves"},
         {"id": "3d-plants"},
         {"id": "spectral"},
@@ -212,6 +213,13 @@
             "include": ["1.20.1", "1.20.4", "1.21.1", "1.21.3", "1.21.4"]},
         {"id": "icons-advertisement-removal"},
         {"id": "theones-eating-animation-pack",
-            "exclude": ["1.20.1", "1.20.4", "1.21.1", "1.21.3"]}
+            "exclude": ["1.20.1", "1.20.4", "1.21.1", "1.21.3"]},
+        {"id": "default-dark-mode",
+            "force-versions": {
+                "1.21.3": "KW0bu9nm",
+                "1.21.4": "KW0bu9nm",
+                "1.21.5": "KW0bu9nm"
+            }},
+        {"id": "bare-bones"}
     ]
 }
