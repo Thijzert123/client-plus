@@ -1,0 +1,13 @@
+name = "Wider Tab"
+filename = "widertab-1.0.0+1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IA3kkkhV/versions/JyeT0S7N/widertab-1.0.0%2B1.20.4.jar"
+hash-format = "sha512"
+hash = "4937deccd291cf638d0d466a6b3257b6865b3941332f9c5ab459d1cb045f7bbc779f99ce1cfb4a5a26f0c9b3a8ff422f5b25277ab2826d2b7c0e9d335f4f079b"
+
+[update]
+[update.modrinth]
+mod-id = "IA3kkkhV"
+version = "JyeT0S7N"

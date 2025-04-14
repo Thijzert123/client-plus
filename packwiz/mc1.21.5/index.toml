@@ -461,6 +461,11 @@ hash = "b0c303d60ec1422db5fc6556b77a3ecbbfbb389bb9dba2e47edb9bc4aa30bc47"
 metafile = true
 
 [[files]]
+file = "mods/viewboboptions.pw.toml"
+hash = "349b4eb7cf148cfb17e719e86c944e75996371b2a34f36d6db1a5463272de5a3"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "d1de6d3e889db21acd36afb754f20b6ccc8c850cb7ef839047eb440e6114d652"
 metafile = true
@@ -468,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/waxedicons.pw.toml"
 hash = "b07e9d75cbd8337c73732b12c537c41b34f80e636210ad4f1152efa2a07a466c"
+metafile = true
+
+[[files]]
+file = "mods/wider-tab.pw.toml"
+hash = "d2139074755e1df7f31892ef20c30a834f8e04eb3c26d738847acf8606491fe2"
 metafile = true
 
 [[files]]

@@ -591,6 +591,11 @@ hash = "dd45387737131c6010095b3fa6eab41748c8b030236d9b505a00bca4aab4b9df"
 metafile = true
 
 [[files]]
+file = "mods/skin-grabber.pw.toml"
+hash = "141acf76ac84e2c3f6de8681bfc88fd35aa16205bad93bb0aad6fdd2522b35bc"
+metafile = true
+
+[[files]]
 file = "mods/skinshuffle.pw.toml"
 hash = "b9708ea6eb497a3b3b4fc5a9db63c2609a71a829da3bc4023bd6bacea454acff"
 metafile = true
@@ -641,6 +646,11 @@ hash = "019dc2e005b6d28efe0a597736d1faad0c3905c8e15b38b39fbe4c4b955efe98"
 metafile = true
 
 [[files]]
+file = "mods/viewboboptions.pw.toml"
+hash = "d17c46c8994e212347504511d8e75aee6a3d821254548c8ec9dbe69a317e3b20"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "146dbdc9a45f945693a356510b0ce7ef670ab1bbd73e7fe461cef41f33519c3c"
 metafile = true
@@ -648,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/waxedicons.pw.toml"
 hash = "9bdb076d703087cff5b6333570b25e444159738f7b6bc08b559ad7cd880112d7"
+metafile = true
+
+[[files]]
+file = "mods/wider-tab.pw.toml"
+hash = "8e8c4d3b51341b4db4fa2c7ea70fa740858e3fa856693dec6fcfd811b391cbec"
 metafile = true
 
 [[files]]

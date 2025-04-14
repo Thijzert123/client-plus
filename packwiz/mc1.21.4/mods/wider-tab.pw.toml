@@ -1,0 +1,13 @@
+name = "Wider Tab"
+filename = "widertab-1.0.0+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IA3kkkhV/versions/pAFXLoix/widertab-1.0.0%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "ff89ab2dc33ea14c63c922b6a1145802bc7f5f4f75504b8338b6d3678913fe16068ed673ce4cc3eb9c1fb5f03c3efdf97474a2a0a72a6864eeb763dd2fdc63c4"
+
+[update]
+[update.modrinth]
+mod-id = "IA3kkkhV"
+version = "pAFXLoix"

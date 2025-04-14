@@ -635,6 +635,11 @@ hash = "ff271be1f80ef13e24f9df277f93d96345d8cd0bb02ca61fe23a2178abaeac87"
 metafile = true
 
 [[files]]
+file = "mods/skin-grabber.pw.toml"
+hash = "141acf76ac84e2c3f6de8681bfc88fd35aa16205bad93bb0aad6fdd2522b35bc"
+metafile = true
+
+[[files]]
 file = "mods/skinshuffle.pw.toml"
 hash = "b1dd6ac8ea2df432d01c0c2f93634f96d5e7b15439c41f0d8b050bca8714bace"
 metafile = true
@@ -690,8 +695,23 @@ hash = "14a9049672f2c5c220d8021ad227d7a38f35cfb05260663011f9a65f1d5973f5"
 metafile = true
 
 [[files]]
+file = "mods/viewboboptions.pw.toml"
+hash = "b49a5c120ae4da50a6a665dc66e7c6ebee3f01a518a053d1227996c482911075"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "407b6a954f9c3aee145dfa649eaa0b336a6b31d7660476c81cba1da1f6ff54e3"
+metafile = true
+
+[[files]]
+file = "mods/voicechat-soundboard.pw.toml"
+hash = "c1e01b65d381fa60598e0ee26e3b9d97a369c4c860d8e47629070d15097e0678"
+metafile = true
+
+[[files]]
+file = "mods/wider-tab.pw.toml"
+hash = "427a69e1c27f80beec730cf94c0904177cadd2fd87a7b160724eb06434f8c2e8"
 metafile = true
 
 [[files]]
