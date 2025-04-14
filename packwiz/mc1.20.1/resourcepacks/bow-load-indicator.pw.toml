@@ -1,0 +1,13 @@
+name = "Bow Load Indicator"
+filename = "BowLoad_V3.1.2r.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dj5wVJsq/versions/V4GIhKGC/BowLoad_V3.1.2r.zip"
+hash-format = "sha512"
+hash = "786beb805eaf2c2c0a7dbd6581e6f39e8beeeddf18fef190a9ade7c9007cbaa6e19647a8aa3ad83622e6093417f7eab021612292cdc3bdbc5c875be5c24ea500"
+
+[update]
+[update.modrinth]
+mod-id = "dj5wVJsq"
+version = "V4GIhKGC"

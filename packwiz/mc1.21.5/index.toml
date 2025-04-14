@@ -21,6 +21,11 @@ hash = "544409002b00cfe520c66f8c84d69b073c8e193ea20493bfacafbf93701c889d"
 metafile = true
 
 [[files]]
+file = "mods/autorun.pw.toml"
+hash = "150a0082ca5fc4168ab70d3ac7dd28b2bcb7b084814413c944c4c45737389295"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
 metafile = true
@@ -367,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "b45ba9a5251976387968799c9dd48115526ca94b505acb1c228671c00a2b530d"
+hash = "5542dc5390db537e095bb4089cd28cb8ef008eb60212cc28a5886961292344f3"
 metafile = true
 
 [[files]]
@@ -496,6 +501,11 @@ hash = "46a8572b7ac1f9ec2b120330a60b7f851a16ea105408e7228f5f9e1184313e85"
 metafile = true
 
 [[files]]
+file = "resourcepacks/bare-bones.pw.toml"
+hash = "3ae0d66321c4515459122227c8efd69b00e4e5c682a6ad990ab27fa4fd5dc4f6"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-flame-particles.pw.toml"
 hash = "ff85d06569c47f70c8fdd3ca44d80b3e19dff6e12e854a4bc8fd4ee09ec82940"
 metafile = true
@@ -508,6 +518,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "767a7395ce84c5affc26fcc2cf8266e88c15c12baf9587fa92627ef2d2024a7d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "f6061454884efd0938f9fcf21965a2bdc21720217d153af6cc4efa86f055c0aa"
 metafile = true
 
 [[files]]
@@ -568,6 +588,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/simple-grass-flowers.pw.toml"
 hash = "96d580c29f3c69c313e54a5e4219a08ee3ebd69f4ab73febf591681de5376464"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spawned-eggs.pw.toml"
+hash = "ff55b02e38b4027937d4470bed534e6126963d86e0be3e3938f7a36c0a25ef94"
 metafile = true
 
 [[files]]

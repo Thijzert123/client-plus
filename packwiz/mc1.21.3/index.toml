@@ -71,6 +71,11 @@ hash = "09373bc3530be645cfce70a7db728f2d419995f290b0c9d1a559b08409ef24e9"
 metafile = true
 
 [[files]]
+file = "mods/autorun.pw.toml"
+hash = "e7add40fa9f7239956beac0a6ce09fff2121ead2c320368d1d79200a67f05e65"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
 metafile = true
@@ -707,6 +712,11 @@ hash = "03902e4959f285247d5b117587e6e4f0c7cf104b51aa820316d35682c6f5c655"
 metafile = true
 
 [[files]]
+file = "resourcepacks/bare-bones.pw.toml"
+hash = "3ae0d66321c4515459122227c8efd69b00e4e5c682a6ad990ab27fa4fd5dc4f6"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-flame-particles.pw.toml"
 hash = "ff85d06569c47f70c8fdd3ca44d80b3e19dff6e12e854a4bc8fd4ee09ec82940"
 metafile = true
@@ -722,12 +732,37 @@ hash = "767a7395ce84c5affc26fcc2cf8266e88c15c12baf9587fa92627ef2d2024a7d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/bow-load-indicator.pw.toml"
+hash = "dd40bfc9208307961ccd608a7f14fb33143bf09312cd2a558492cb1122fc5a47"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
+metafile = true
+
+[[files]]
 file = "resourcepacks/client-plus-lang.zip"
 hash = "41881f655ec6ab2cdb0f1fc80392a492976fb5c9dafe2733b30ee079261effc8"
 
 [[files]]
+file = "resourcepacks/cubic-sun-moon.pw.toml"
+hash = "b885ea4b27467a99ca6dd03be554bfdaf48712ef03304a1e2e636ab9c2e6250a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "f6061454884efd0938f9fcf21965a2bdc21720217d153af6cc4efa86f055c0aa"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-splashes.pw.toml"
 hash = "2dd0a3abc81676163b8fc10db544a7babcc55776f0a69c4b2c044b9e193a68f8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dramatic-skys.pw.toml"
+hash = "3e05dfcb764800cb504583666934663c4f506ebc39e68fcd99290604ba39c8b5"
 metafile = true
 
 [[files]]
@@ -751,13 +786,33 @@ hash = "49f59612c990ff39abe09b4eb1e7508cfe362e9e7b25ca6d90b1a9e811c64914"
 metafile = true
 
 [[files]]
+file = "resourcepacks/icons-advertisement-removal.pw.toml"
+hash = "76e303b1fd802e2979ebc16bd6bc5cad808c9f961e7e58e0ecc8eb19188f26be"
+metafile = true
+
+[[files]]
 file = "resourcepacks/icons.pw.toml"
 hash = "2c30a792eb8c62778b5f60772d16530062a428e52d2767c24e971812aff7ac40"
 metafile = true
 
 [[files]]
+file = "resourcepacks/low-on-fire.pw.toml"
+hash = "347564c7db8830d5595e0c6cc3b7c4bb9d040cfd09272d672a969200cb24d3d0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mob-crates.pw.toml"
+hash = "b7dcc09736cc40dd812348a2591eb200ad23d6f9159de952ae2e89c8620790c3"
+metafile = true
+
+[[files]]
 file = "resourcepacks/new-glowing-ores.pw.toml"
 hash = "0511040326c7649fde9b5784fff73b083f55e4ae7d43bfebc5e494cde0fe49e3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/qraftys-capitalized-font.pw.toml"
+hash = "3103712be0d72dc90efb78c0cf766841fb7edd1aebf42747d5e51f608d22c8fa"
 metafile = true
 
 [[files]]
@@ -781,6 +836,11 @@ hash = "96d580c29f3c69c313e54a5e4219a08ee3ebd69f4ab73febf591681de5376464"
 metafile = true
 
 [[files]]
+file = "resourcepacks/spawned-eggs.pw.toml"
+hash = "ff55b02e38b4027937d4470bed534e6126963d86e0be3e3938f7a36c0a25ef94"
+metafile = true
+
+[[files]]
 file = "resourcepacks/spectral.pw.toml"
 hash = "a495baae0cb18fbdb7cb3e2fedd79319d0cbee152ded80b9f6a9516bb4bc3e45"
 metafile = true
@@ -788,6 +848,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "c7fba5f4fcf669b23a37865cf687bce857f1f7295c8ec1fb7620583dee9625d3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tras-fresh-player.pw.toml"
+hash = "bf825aff575d42c7b992d0e6b39cd92c28ea62fc1910007528779ea86711c33a"
 metafile = true
 
 [[files]]

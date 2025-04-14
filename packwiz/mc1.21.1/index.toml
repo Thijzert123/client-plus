@@ -71,6 +71,11 @@ hash = "043b2b94a775368afe4db8c66f5414dbabf55bb7630b4b8859d33ccb32d1d23a"
 metafile = true
 
 [[files]]
+file = "mods/autorun.pw.toml"
+hash = "36f24132f7c70baf32a7213ee4f82c6948a1caaef95d2dff6779781d381408c9"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "b21ef031c6ad139361352529cb63f4799ffa91008895e1c7a9a5102ea007ae2d"
 metafile = true
@@ -787,8 +792,18 @@ hash = "ba5dcd71dd9e075a20e0229edf807bcf14e54b62b7624fd47397dae6b7369787"
 metafile = true
 
 [[files]]
+file = "resourcepacks/bare-bones.pw.toml"
+hash = "3ae0d66321c4515459122227c8efd69b00e4e5c682a6ad990ab27fa4fd5dc4f6"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-flame-particles.pw.toml"
 hash = "ff85d06569c47f70c8fdd3ca44d80b3e19dff6e12e854a4bc8fd4ee09ec82940"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-lanterns.pw.toml"
+hash = "17ea105b98d79a0be6ce20da3304f9ed1398c5d9d3ad24cea2c914a109ede78e"
 metafile = true
 
 [[files]]
@@ -816,6 +831,11 @@ hash = "b885ea4b27467a99ca6dd03be554bfdaf48712ef03304a1e2e636ab9c2e6250a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "f6061454884efd0938f9fcf21965a2bdc21720217d153af6cc4efa86f055c0aa"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-splashes.pw.toml"
 hash = "2dd0a3abc81676163b8fc10db544a7babcc55776f0a69c4b2c044b9e193a68f8"
 metafile = true
@@ -826,8 +846,18 @@ hash = "3e05dfcb764800cb504583666934663c4f506ebc39e68fcd99290604ba39c8b5"
 metafile = true
 
 [[files]]
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "bb2b6a511327bc8782c7c12c6be81c11fa3fcb7fa4fd10d4093a5170862e1ad5"
+metafile = true
+
+[[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
 hash = "590d63ddd680c1a9ce96945cec48c1b1dca146090003c850cf7a9cb855452699"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "f954ad393353fdce97158688024daafc9c718083932a49faf982501412816293"
 metafile = true
 
 [[files]]
@@ -836,13 +866,13 @@ hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-player-animations.pw.toml"
-hash = "6dd55a9a2ff049f458e509c18d7ffe579b2fe32d7aa0631bd7418a9a6eeab39f"
+file = "resourcepacks/fullbright-ub.pw.toml"
+hash = "49f59612c990ff39abe09b4eb1e7508cfe362e9e7b25ca6d90b1a9e811c64914"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fullbright-ub.pw.toml"
-hash = "49f59612c990ff39abe09b4eb1e7508cfe362e9e7b25ca6d90b1a9e811c64914"
+file = "resourcepacks/grimdark-sky.pw.toml"
+hash = "40d3b7b1523188cf3ac7bfc117a8497332e44efa9bca0e92275663f88bb3d98f"
 metafile = true
 
 [[files]]
@@ -871,8 +901,18 @@ hash = "8e09d4d7c0b6d94ca896c826234f15daeaf00716fca5a8f549b492fe8c312ad0"
 metafile = true
 
 [[files]]
+file = "resourcepacks/new-glowing-ores.pw.toml"
+hash = "0511040326c7649fde9b5784fff73b083f55e4ae7d43bfebc5e494cde0fe49e3"
+metafile = true
+
+[[files]]
 file = "resourcepacks/qraftys-capitalized-font.pw.toml"
 hash = "ac2bc5615bccc671e9f21374c365a760bb8dcd40c20ac4a0976cfb3e9f4b21cd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/recolourful-containers-gui.pw.toml"
+hash = "098464f9d1e3b3291e33758c87e700365dc849c5769bc581750d93be919e0f3e"
 metafile = true
 
 [[files]]
@@ -886,8 +926,13 @@ hash = "a96fbdd210a53701c0312d8e62dd6e80dfb852d20ecb13503877e499315afa1b"
 metafile = true
 
 [[files]]
+file = "resourcepacks/simple-grass-flowers.pw.toml"
+hash = "96d580c29f3c69c313e54a5e4219a08ee3ebd69f4ab73febf591681de5376464"
+metafile = true
+
+[[files]]
 file = "resourcepacks/spawned-eggs.pw.toml"
-hash = "a8393579e7075a9dc89bb563caab5f07741e416cbaebd94649224fb426f629aa"
+hash = "ff55b02e38b4027937d4470bed534e6126963d86e0be3e3938f7a36c0a25ef94"
 metafile = true
 
 [[files]]
@@ -896,8 +941,18 @@ hash = "a495baae0cb18fbdb7cb3e2fedd79319d0cbee152ded80b9f6a9516bb4bc3e45"
 metafile = true
 
 [[files]]
+file = "resourcepacks/spryzeens-healthbars.pw.toml"
+hash = "510e5d115d3d6bb655dc6ed425a853f961693a0d458ec0ebc8cb284e76c56302"
+metafile = true
+
+[[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "c7fba5f4fcf669b23a37865cf687bce857f1f7295c8ec1fb7620583dee9625d3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tras-fresh-player.pw.toml"
+hash = "32fe0fe8941110f8fba07ce7768faa1797de6b28e961ab65b483c380fc0a365a"
 metafile = true
 
 [[files]]

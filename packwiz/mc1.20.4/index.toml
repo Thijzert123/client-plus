@@ -75,6 +75,11 @@ hash = "2f32611ee02b8170b5680f6913403f51e4cf87b344acee82690a7b3110caa4b7"
 metafile = true
 
 [[files]]
+file = "mods/autorun.pw.toml"
+hash = "a5f0a9a0d54db9cfd7c768a9d6df150404ccc9b1e8e5bc38736dd03a54fffc75"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "6dbbc24bc721547dd6ad2784b6f9c6c9d71089f3e45374cc2fee44efe1ce4197"
 metafile = true
@@ -737,6 +742,21 @@ file = "resourcepacks/VanillaTweaks_Variated_r861045_MC1.20.x.zip"
 hash = "cd82e53b4a587e3e72169d6926b2a9b70d033a7fec0d115d71ddee68965576b9"
 
 [[files]]
+file = "resourcepacks/animated-items.pw.toml"
+hash = "dd1f76d29b9bcbb800e3935f2d226981d5582e7b8997a0ed8ff1f9d03675cbef"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bare-bones.pw.toml"
+hash = "55d27c7c01c5e3db6fa2ff5f797be2c1f9574f29f675651ca7c1b26dfae78581"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-flame-particles.pw.toml"
+hash = "ff85d06569c47f70c8fdd3ca44d80b3e19dff6e12e854a4bc8fd4ee09ec82940"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
 hash = "2b8722c9a46f9c6f810eefc32fada047275ae1a7e568c97ab840c1e4742fb32c"
 metafile = true
@@ -759,6 +779,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/client-plus-lang.zip"
 hash = "41881f655ec6ab2cdb0f1fc80392a492976fb5c9dafe2733b30ee079261effc8"
+
+[[files]]
+file = "resourcepacks/cubic-sun-moon.pw.toml"
+hash = "b885ea4b27467a99ca6dd03be554bfdaf48712ef03304a1e2e636ab9c2e6250a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "f6061454884efd0938f9fcf21965a2bdc21720217d153af6cc4efa86f055c0aa"
+metafile = true
 
 [[files]]
 file = "resourcepacks/default-splashes.pw.toml"
@@ -837,7 +867,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/spawned-eggs.pw.toml"
-hash = "a8393579e7075a9dc89bb563caab5f07741e416cbaebd94649224fb426f629aa"
+hash = "ff55b02e38b4027937d4470bed534e6126963d86e0be3e3938f7a36c0a25ef94"
 metafile = true
 
 [[files]]
@@ -848,6 +878,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "c7fba5f4fcf669b23a37865cf687bce857f1f7295c8ec1fb7620583dee9625d3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tras-fresh-player.pw.toml"
+hash = "32fe0fe8941110f8fba07ce7768faa1797de6b28e961ab65b483c380fc0a365a"
 metafile = true
 
 [[files]]

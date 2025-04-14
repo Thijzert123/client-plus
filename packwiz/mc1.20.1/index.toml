@@ -75,6 +75,11 @@ hash = "6a2a015e93678892c69d5f0893e7e658090c9ac7e843a3373f8ad8f62fee741a"
 metafile = true
 
 [[files]]
+file = "mods/autorun.pw.toml"
+hash = "a5f0a9a0d54db9cfd7c768a9d6df150404ccc9b1e8e5bc38736dd03a54fffc75"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "e0cf59ae504142b4c4e6e702cc3209e0d6c37ca428d6d0b15a40d430c0b4364d"
 metafile = true
@@ -747,6 +752,11 @@ hash = "cbd839262e44bd1a39296186d1fbee321e00142775e909f56efd28251c288277"
 metafile = true
 
 [[files]]
+file = "resourcepacks/bare-bones.pw.toml"
+hash = "55d27c7c01c5e3db6fa2ff5f797be2c1f9574f29f675651ca7c1b26dfae78581"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-flame-particles.pw.toml"
 hash = "ff85d06569c47f70c8fdd3ca44d80b3e19dff6e12e854a4bc8fd4ee09ec82940"
 metafile = true
@@ -754,6 +764,21 @@ metafile = true
 [[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
 hash = "120a936d5345b58a613ce793b0ce4bd6527aec7125eed4b6177f45d6e8602fb5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "767a7395ce84c5affc26fcc2cf8266e88c15c12baf9587fa92627ef2d2024a7d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bow-load-indicator.pw.toml"
+hash = "dd40bfc9208307961ccd608a7f14fb33143bf09312cd2a558492cb1122fc5a47"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "421b267f441e7be3feefa686191e5b363929ecb39ddd5f2ff5b515db4b169891"
 metafile = true
 
 [[files]]
@@ -766,8 +791,23 @@ hash = "b885ea4b27467a99ca6dd03be554bfdaf48712ef03304a1e2e636ab9c2e6250a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "9ccdca7ead50871101f8cf380df89a160261859c7e640c3477170f95f1a515c3"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-splashes.pw.toml"
 hash = "2dd0a3abc81676163b8fc10db544a7babcc55776f0a69c4b2c044b9e193a68f8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dramatic-skys.pw.toml"
+hash = "3e05dfcb764800cb504583666934663c4f506ebc39e68fcd99290604ba39c8b5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "d9e7e86ddb96102cedc1173006459c1cb4338698087bf16258abb23dd7889219"
 metafile = true
 
 [[files]]
@@ -776,13 +816,13 @@ hash = "c787950c5bdbff78bc2ef218554f1486fc81f747d7abd4a29fba5286229b225a"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "f954ad393353fdce97158688024daafc9c718083932a49faf982501412816293"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-player-animations.pw.toml"
-hash = "6dd55a9a2ff049f458e509c18d7ffe579b2fe32d7aa0631bd7418a9a6eeab39f"
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
 
 [[files]]
@@ -791,8 +831,18 @@ hash = "fa1a2ee3e7695b8ab45f839b49c32db00bc424c130305660d0055889b6e7f29d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/grimdark-sky.pw.toml"
+hash = "a12b8d93f06c14fd56d3f920803e09e3b839ddde50e772f56954031f4eb33344"
+metafile = true
+
+[[files]]
 file = "resourcepacks/hyper-realistic-sky.pw.toml"
 hash = "8207767a0a9b5f1fcaf36c36ed0ef981043312127865444c698cf92afec2a0f3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icons-advertisement-removal.pw.toml"
+hash = "17f0318c8e44323cc214221ad074900bcc74d541caaa13082bfc1f65bb9432e5"
 metafile = true
 
 [[files]]
@@ -821,8 +871,28 @@ hash = "d99bd9042558fb357349145f26e1b10f9c9830525b47e9281dcc8eae4f38f13c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/recolourful-containers-gui.pw.toml"
+hash = "098464f9d1e3b3291e33758c87e700365dc849c5769bc581750d93be919e0f3e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "ea6aca4502021cf77920c2fe853a50a6e875ead0df19bbdd3cc152ae7ff005c2"
+metafile = true
+
+[[files]]
 file = "resourcepacks/reimagined.pw.toml"
 hash = "a96fbdd210a53701c0312d8e62dd6e80dfb852d20ecb13503877e499315afa1b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/simple-grass-flowers.pw.toml"
+hash = "96d580c29f3c69c313e54a5e4219a08ee3ebd69f4ab73febf591681de5376464"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spawned-eggs.pw.toml"
+hash = "ff55b02e38b4027937d4470bed534e6126963d86e0be3e3938f7a36c0a25ef94"
 metafile = true
 
 [[files]]
@@ -833,6 +903,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "c7fba5f4fcf669b23a37865cf687bce857f1f7295c8ec1fb7620583dee9625d3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tras-fresh-player.pw.toml"
+hash = "32fe0fe8941110f8fba07ce7768faa1797de6b28e961ab65b483c380fc0a365a"
 metafile = true
 
 [[files]]
