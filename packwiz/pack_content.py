@@ -162,7 +162,11 @@
         {"id": "item-highlighter"},
         {"id": "scribble"},
         {"id": "symbol-chat"},
-        {"id": "autorun"}],
+        {"id": "autorun"},
+        {"id": "skin-grabber"},
+        {"id": "voicechat-soundboard"},
+        {"id": "wider-tab"},
+        {"id": "viewboboptions"}],
     "shaderpacks": [
         {"id": "makeup-ultra-fast-shaders"},
         {"id": "miniature-shader"},
