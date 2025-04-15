@@ -21,7 +21,7 @@
 
 {
     "mods": [
-        {"id": "yosbr"},
+        {"id": "default-options"},
         {"id": "moreculling"},
         {"id": "modmenu"},
         {"id": "iris"},
