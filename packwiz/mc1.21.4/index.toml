@@ -85,6 +85,11 @@ hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "08a4039bac6efd14b5257ac3df87680568d1372d4ab693e03a8aab88361580b9"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "d6137fabcdc6232b5286bf7ead13b51f56d5bb70bc23c28c04666c01dfe8e592"
 metafile = true
@@ -166,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "16505ed059285edd929ecd7ef50ac01200870df78559a62a5663497dba722b69"
+hash = "54e208f8a69376c8fe7f8901369def9a177ce98d1e04a456c7a7bea2ea5dda01"
 metafile = true
 
 [[files]]
@@ -235,8 +240,18 @@ hash = "f605331d864b266407b9d4486a4355febbc80b5e2e6ef75e4d92d45d2b29bc8f"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "b5758663f4a01658d7849601cfc18bb216e749aeccc6f3e1f72ff549e98fc560"
+metafile = true
+
+[[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "f40e996859e78555a081ea5578d4f74bb22eccc675d3b2c76c6cdbb51e731bcc"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "2ad8cd5745efd0bd0f7f32f060bec092a7b2ef8ac3c6163033193a8277012e43"
 metafile = true
 
 [[files]]
@@ -361,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/glowing-torchflower.pw.toml"
-hash = "fb47edbf5101eac0075c70d65eed2c871fb1f858d0519cd3d97fdcf72265c24a"
+hash = "ce2e7fca0845c4f5bc1d0dc336baffba2809a21ac3b48cfb57901687cba88856"
 metafile = true
 
 [[files]]
@@ -712,11 +727,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "75b191c621b271734901f012011f22e0c8f5c21ee5de1bfa369ace9540fd1e76"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
