@@ -1,6 +1,186 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/extra/config/betterf3.json"
+hash = "a28a88c3350d4fbdd3a4e7a6358fd420103ec7ed64c24b86f718317b7209f8f8"
+
+[[files]]
+file = "config/defaultoptions/extra/config/chunksfadein.properties"
+hash = "15b34ec1084ed48570504270b26135e684bb48a72b95d956c3e9350a67b03a83"
+
+[[files]]
+file = "config/defaultoptions/extra/config/controlify.json"
+hash = "f39e1e4150ebf989b26f1339d4fb590e2b92cfc3329017a2854a941ac061ebc7"
+
+[[files]]
+file = "config/defaultoptions/extra/config/customcredits/credits.json"
+hash = "65e1d8a566fcba2fd7a2b09380afd084bc9f2c9012631db301e57fecc8e9ae69"
+
+[[files]]
+file = "config/defaultoptions/extra/config/customcredits/poem.txt"
+hash = "672f9e20c6d0067b3b8ae8828c64b1007204f6ea2a653cd50b96da0a2a5d6e7d"
+
+[[files]]
+file = "config/defaultoptions/extra/config/customcredits/postcredits.txt"
+hash = "7263145a94588055a9f8d2c8b72d418bbf345f766cb51fa440195f6f821a11aa"
+
+[[files]]
+file = "config/defaultoptions/extra/config/dynamiccrosshair.json5"
+hash = "3594f3a665a585dff57c5fa52bb33e3f1f7cbd6f29b23b564b6c083323e9bede"
+
+[[files]]
+file = "config/defaultoptions/extra/config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/defaultoptions/extra/config/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "config/defaultoptions/extra/config/fancymenu/customization/title_screen_layout.txt"
+hash = "89da8a38931221afef9a584e32b5f5c1d54ee48ee23799efe6fd17cf6fb87e42"
+
+[[files]]
+file = "config/defaultoptions/extra/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/defaultoptions/extra/config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/defaultoptions/extra/config/fancymenu/options.txt"
+hash = "3107be76ea4f10760f3b86d38f30179be75fa6ed40d0c9953bb0762518e01966"
+
+[[files]]
+file = "config/defaultoptions/extra/config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "config/defaultoptions/extra/config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/defaultoptions/extra/config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/defaultoptions/extra/config/modmenu.json"
+hash = "a977a629ef7e49a5a72170471324893d27c23e0521c551f34ca7cf4632cc95dc"
+
+[[files]]
+file = "config/defaultoptions/extra/config/roughlyenoughitems/collapsible.json5"
+hash = "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919"
+
+[[files]]
+file = "config/defaultoptions/extra/config/roughlyenoughitems/config.json5"
+hash = "db4c769d684bd3ea5664f3a8ba7fc0c03c4d7cb3ed98d2aa457d9e664356ff34"
+
+[[files]]
+file = "config/defaultoptions/extra/config/roughlyenoughitems/favorites.json5"
+hash = "d557ab34386f957e06a5c64fc682134d39e67de734cee809c747f02ab39fbbad"
+
+[[files]]
+file = "config/defaultoptions/extra/config/roughlyenoughitems/hints.json"
+hash = "bbe6e13f7001030b596ab1dade973f0a458c206b46a232ca208478167197b426"
+
+[[files]]
+file = "config/defaultoptions/extra/config/roughlyenoughitems/pinyin.properties"
+hash = "a86df243da3b77fa9c802d3e4cce83068df9a52a9122ab93c4af1e7ebae02028"
+
+[[files]]
+file = "config/defaultoptions/extra/config/roughlyenoughitems/pinyin_double.properties"
+hash = "422869e297fd4410d34f565efa5013c5b6edc0d9b2e5f2a3e945c2306d748d21"
+
+[[files]]
+file = "config/defaultoptions/extra/config/sodium-extra-options.json"
+hash = "9e647260a300013940ea4bcff155d9ea3eaa5206fea8b88330e29b2b4cc2de6d"
+
+[[files]]
+file = "config/defaultoptions/extra/config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/defaultoptions/extra/config/sodium-fingerprint.json"
+hash = "607eeb5a6ee30f830a1e196c7c835a780d6089bc8e1486449697b5c2454adaa3"
+
+[[files]]
+file = "config/defaultoptions/extra/config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/defaultoptions/extra/config/sodium-options.json"
+hash = "cd173e558e965b88fb03bcc0de3468c10ff04fe78979777564ec0066c9911b9e"
+
+[[files]]
+file = "config/defaultoptions/extra/config/subtle_effects/biomes.toml"
+hash = "bedcefaff71b4f73b5f09968bea7e43cd0cac652aa4f826dfeeb6e468d0b4eed"
+
+[[files]]
+file = "config/defaultoptions/extra/config/subtle_effects/blocks.toml"
+hash = "7377cc6dec4598a713ec59329f8bffa38e90f8bb45de9d587691fcb2edf7fc40"
+
+[[files]]
+file = "config/defaultoptions/extra/config/subtle_effects/entities.toml"
+hash = "a8b8f1cf3d49fd4f837fefb73839dda1d5765ab039397f6965ba4e61f5458b68"
+
+[[files]]
+file = "config/defaultoptions/extra/config/subtle_effects/general.toml"
+hash = "40eb90445a6f29f4caacb4c5adc2730ca57d9c1506b6ec91ecff9f7d1ec94490"
+
+[[files]]
+file = "config/defaultoptions/extra/config/subtle_effects/items.toml"
+hash = "83819dbe17151dae77f70c6f0c1e4d2e64d5bc9c8beee5adca98fd01ac4e2145"
+
+[[files]]
+file = "config/defaultoptions/extra/config/xaerominimap-common.txt"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
+
+[[files]]
+file = "config/defaultoptions/extra/config/xaerominimap.txt"
+hash = "49eb37f7b96dc705bb4746e27778e52644cba9bb784b85232f3b977792ba82da"
+
+[[files]]
+file = "config/defaultoptions/extra/config/xaerominimap_entities.json"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+
+[[files]]
+file = "config/defaultoptions/extra/config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/defaultoptions/extra/config/xaeroplus.txt"
+hash = "be9d2aeb08b9822a84bf48f380fd7a73c154895be88921c5f7ed330eeaded548"
+
+[[files]]
+file = "config/defaultoptions/extra/config/xaeroworldmap-common.txt"
+hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
+
+[[files]]
+file = "config/defaultoptions/extra/config/xaeroworldmap.txt"
+hash = "06b9cf0dd377568f0779de80b3f28262a4dfa728556e2a7d93d1fa1aa4b3fa58"
+
+[[files]]
+file = "config/defaultoptions/extra/config/xanders-sodium-options.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/defaultoptions/extra/credits.txt"
+hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "94ce6563d77fdc0e04a9d9f2497fbc06d644f1ad2222a4792b9e5e60cd3aac37"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "b954704cfd9122d2299efcfcb0dedca301ef2af6a73cb66db58f6d7f1963be44"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "bbb0654974890e6b07b00af4055be8153514a606353f12d243020751efc8a3b3"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "f535691eee4ea23eefb9e606b1fe2085f6dad8dab4c6bd3581ba9106a608ad8b"
 metafile = true
@@ -48,11 +228,6 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "d6137fabcdc6232b5286bf7ead13b51f56d5bb70bc23c28c04666c01dfe8e592"
-metafile = true
-
-[[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "25e3fecb8180893095cc52585cc77ae943e2ea9e7382936e00c78a893d46d455"
 metafile = true
 
 [[files]]
@@ -152,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a598c30d51764141713c3871c44497bc420d602f9a378c28fc8f49c269fac386"
+hash = "c650281609691743f9171291b526e0cae14b5019c0836b4bb60371fc1026e45d"
 metafile = true
 
 [[files]]
@@ -203,11 +378,6 @@ metafile = true
 [[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "f40e996859e78555a081ea5578d4f74bb22eccc675d3b2c76c6cdbb51e731bcc"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "2ad8cd5745efd0bd0f7f32f060bec092a7b2ef8ac3c6163033193a8277012e43"
 metafile = true
 
 [[files]]
@@ -288,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "937e9c66908ede3a91ffce2196385789575527324973b75ab10a35f4e4524651"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "4d9afe066ad40c88d21e5d8bbe840c7486f2ec97773b67b4c0fbfd523161b0a5"
 metafile = true
 
 [[files]]
@@ -376,6 +551,11 @@ hash = "114968e70a3e2c2f7a33db6ed305256585353361a28210a0b872df52fc5542aa"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "dafb84b20ceb9f80a2f98170a05b90a7225bc476f64593af2a51d332055b2e8b"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
@@ -418,6 +598,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "d0af0219628ebf4ec7b48a66fc88c3c0dc896195b11476c3a86fb5e73c3c705c"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "2e26dd4ebd07b97d68a9775b84fae707d8824c926e086bb3bcad11687b3fb204"
 metafile = true
 
 [[files]]
@@ -577,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinshuffle.pw.toml"
-hash = "d139cda3b3613eddd03536addeb8b1e687dd5cf2f761f79f71c2bef32cbe2260"
+hash = "f2162862dc65b8d6bc7b381c812282251a050da367f657496adee6368a938688"
 metafile = true
 
 [[files]]
