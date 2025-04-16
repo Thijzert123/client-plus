@@ -210,3 +210,4 @@ Apart from that, we also include various Vanilla Tweaks resource packs:
 - Disable analog movement of Controlify by default
 - ~~Replace YOSBR with [Default Options](https://modrinth.com/mod/default-options), as YOSBR isn't supported for 1.21.5~~
 - Add default options for Default Options
+- Re-evaluate the need of the client-plus-lang.zip resource pack
