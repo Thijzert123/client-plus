@@ -211,3 +211,5 @@ Apart from that, we also include various Vanilla Tweaks resource packs:
 - ~~Replace YOSBR with [Default Options](https://modrinth.com/mod/default-options), as YOSBR isn't supported for 1.21.5~~
 - Add default options for Default Options
 - Re-evaluate the need of the client-plus-lang.zip resource pack
+- Eventually remove force version for SkinShuffle, when https://github.com/IMB11/SkinShuffle/issues/145 gets fixed.
+- Possibly also add force version for SkinShuffle for 1.21.5 to avoid FancyMenu incompatibility
