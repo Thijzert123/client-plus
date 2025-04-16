@@ -159,7 +159,6 @@
         {"id": "simplefog"},
         {"id": "swd-panorama"},
         {"id": "better-suggestions"},
-        {"id": "better-clouds"},
         {"id": "waxedicons"},
         {"id": "subtle-effects"},
         {"id": "item-highlighter"},
