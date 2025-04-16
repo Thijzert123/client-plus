@@ -166,8 +166,7 @@
         {"id": "skin-grabber"},
         {"id": "voicechat-soundboard"},
         {"id": "wider-tab"},
-        {"id": "viewboboptions"},
-        {"id": "distanthorizons"}],
+        {"id": "viewboboptions"}],
     "shaderpacks": [
         {"id": "makeup-ultra-fast-shaders"},
         {"id": "miniature-shader"},
