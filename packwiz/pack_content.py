@@ -83,7 +83,10 @@
         {"id": "cherished-worlds"},
         {"id": "polytone"},
         {"id": "world-play-time"},
-        {"id": "skinshuffle"},
+        {"id": "skinshuffle",
+            "force-versions": {
+                "1.21.4": "QrivRDWz" # to avoid launch crash, see https://github.com/IMB11/SkinShuffle/issues/145
+        }},
         {"id": "no-resource-pack-warnings"},
         {"id": "infinite-music"},
         {"id": "particular"},
