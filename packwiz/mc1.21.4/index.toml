@@ -38,7 +38,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/defaultoptions/extra/config/fancymenu/customization/title_screen_layout.txt"
-hash = "89da8a38931221afef9a584e32b5f5c1d54ee48ee23799efe6fd17cf6fb87e42"
+hash = "a178edaa72a675e49078953da261c81e18b10bfb56578226da148c57243adadc"
 
 [[files]]
 file = "config/defaultoptions/extra/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -50,7 +50,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/defaultoptions/extra/config/fancymenu/options.txt"
-hash = "3107be76ea4f10760f3b86d38f30179be75fa6ed40d0c9953bb0762518e01966"
+hash = "2dffaf4b17e900969d01b218d38ef4b42c105c1dd0ddf63810bb53a0833da758"
 
 [[files]]
 file = "config/defaultoptions/extra/config/fancymenu/ui_themes/dark.json"
@@ -174,11 +174,183 @@ hash = "94ce6563d77fdc0e04a9d9f2497fbc06d644f1ad2222a4792b9e5e60cd3aac37"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "b954704cfd9122d2299efcfcb0dedca301ef2af6a73cb66db58f6d7f1963be44"
+hash = "5d39b50df53a658860768a33cf754b4d7887c7b72de90f9244d78e86c0d7aec7"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
 hash = "bbb0654974890e6b07b00af4055be8153514a606353f12d243020751efc8a3b3"
+
+[[files]]
+file = "config/yosbr/config/betterf3.json"
+hash = "a28a88c3350d4fbdd3a4e7a6358fd420103ec7ed64c24b86f718317b7209f8f8"
+
+[[files]]
+file = "config/yosbr/config/chunksfadein.properties"
+hash = "15b34ec1084ed48570504270b26135e684bb48a72b95d956c3e9350a67b03a83"
+
+[[files]]
+file = "config/yosbr/config/controlify.json"
+hash = "f39e1e4150ebf989b26f1339d4fb590e2b92cfc3329017a2854a941ac061ebc7"
+
+[[files]]
+file = "config/yosbr/config/customcredits/credits.json"
+hash = "65e1d8a566fcba2fd7a2b09380afd084bc9f2c9012631db301e57fecc8e9ae69"
+
+[[files]]
+file = "config/yosbr/config/customcredits/poem.txt"
+hash = "672f9e20c6d0067b3b8ae8828c64b1007204f6ea2a653cd50b96da0a2a5d6e7d"
+
+[[files]]
+file = "config/yosbr/config/customcredits/postcredits.txt"
+hash = "7263145a94588055a9f8d2c8b72d418bbf345f766cb51fa440195f6f821a11aa"
+
+[[files]]
+file = "config/yosbr/config/dynamiccrosshair.json5"
+hash = "3594f3a665a585dff57c5fa52bb33e3f1f7cbd6f29b23b564b6c083323e9bede"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/title_screen_layout.txt"
+hash = "a178edaa72a675e49078953da261c81e18b10bfb56578226da148c57243adadc"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/options.txt"
+hash = "2dffaf4b17e900969d01b218d38ef4b42c105c1dd0ddf63810bb53a0833da758"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "a977a629ef7e49a5a72170471324893d27c23e0521c551f34ca7cf4632cc95dc"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/collapsible.json5"
+hash = "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/config.json5"
+hash = "db4c769d684bd3ea5664f3a8ba7fc0c03c4d7cb3ed98d2aa457d9e664356ff34"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/favorites.json5"
+hash = "d557ab34386f957e06a5c64fc682134d39e67de734cee809c747f02ab39fbbad"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/hints.json"
+hash = "bbe6e13f7001030b596ab1dade973f0a458c206b46a232ca208478167197b426"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/pinyin.properties"
+hash = "a86df243da3b77fa9c802d3e4cce83068df9a52a9122ab93c4af1e7ebae02028"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/pinyin_double.properties"
+hash = "422869e297fd4410d34f565efa5013c5b6edc0d9b2e5f2a3e945c2306d748d21"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "9e647260a300013940ea4bcff155d9ea3eaa5206fea8b88330e29b2b4cc2de6d"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/yosbr/config/sodium-fingerprint.json"
+hash = "607eeb5a6ee30f830a1e196c7c835a780d6089bc8e1486449697b5c2454adaa3"
+
+[[files]]
+file = "config/yosbr/config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "cd173e558e965b88fb03bcc0de3468c10ff04fe78979777564ec0066c9911b9e"
+
+[[files]]
+file = "config/yosbr/config/subtle_effects/biomes.toml"
+hash = "bedcefaff71b4f73b5f09968bea7e43cd0cac652aa4f826dfeeb6e468d0b4eed"
+
+[[files]]
+file = "config/yosbr/config/subtle_effects/blocks.toml"
+hash = "7377cc6dec4598a713ec59329f8bffa38e90f8bb45de9d587691fcb2edf7fc40"
+
+[[files]]
+file = "config/yosbr/config/subtle_effects/entities.toml"
+hash = "a8b8f1cf3d49fd4f837fefb73839dda1d5765ab039397f6965ba4e61f5458b68"
+
+[[files]]
+file = "config/yosbr/config/subtle_effects/general.toml"
+hash = "40eb90445a6f29f4caacb4c5adc2730ca57d9c1506b6ec91ecff9f7d1ec94490"
+
+[[files]]
+file = "config/yosbr/config/subtle_effects/items.toml"
+hash = "83819dbe17151dae77f70c6f0c1e4d2e64d5bc9c8beee5adca98fd01ac4e2145"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap-common.txt"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "49eb37f7b96dc705bb4746e27778e52644cba9bb784b85232f3b977792ba82da"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap_entities.json"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+
+[[files]]
+file = "config/yosbr/config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yosbr/config/xaeroplus.txt"
+hash = "be9d2aeb08b9822a84bf48f380fd7a73c154895be88921c5f7ed330eeaded548"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap-common.txt"
+hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "06b9cf0dd377568f0779de80b3f28262a4dfa728556e2a7d93d1fa1aa4b3fa58"
+
+[[files]]
+file = "config/yosbr/config/xanders-sodium-options.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/yosbr/credits.txt"
+hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "5d39b50df53a658860768a33cf754b4d7887c7b72de90f9244d78e86c0d7aec7"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
