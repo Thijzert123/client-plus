@@ -169,7 +169,8 @@
         {"id": "voicechat-soundboard"},
         {"id": "wider-tab"},
         {"id": "viewboboptions"},
-        {"id": "fancymenu"}],
+        {"id": "fancymenu"},
+        {"id": "rsls"}],
     "shaderpacks": [
         {"id": "makeup-ultra-fast-shaders"},
         {"id": "miniature-shader"},
