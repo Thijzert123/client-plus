@@ -10,7 +10,7 @@
     "out_of_focus_input": false,
     "load_vibration_natives": true,
     "custom_vibration_natives_path": "",
-    "vibration_onboarded": true,
+    "vibration_onboarded": false,
     "reach_around": "OFF",
     "allow_server_rumble": true,
     "ui_sounds": false,
