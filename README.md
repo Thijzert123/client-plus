@@ -206,10 +206,11 @@ Apart from that, we also include various Vanilla Tweaks resource packs:
 - ~~Update default options.txt so that keybinds don't conflict by default~~
 - Update packwiz_update.py to update Vanilla Tweaks resource packs by downloading using the links
 - Add Recolourful UI Dark Mode when it comes to Modrinth
-- Disable Xaero's Minimap Entity Radar by default in the config
-- Disable analog movement of Controlify by default
-- ~~Replace YOSBR with [Default Options](https://modrinth.com/mod/default-options), as YOSBR isn't supported for 1.21.5~~
-- Add default options for Default Options
-- Re-evaluate the need of the client-plus-lang.zip resource pack
+- ~~Disable Xaero's Minimap Entity Radar by default in the config~~
+- ~~Disable analog movement of Controlify by default~~
+- ~~Replace YOSBR with [Default Options](https://modrinth.com/mod/default-options), as YOSBR isn't supported for 1.21.5~~ (changed it back, as YOSBR does apparantly work on 1.21.5)
+- Add force version for 1.21.5 for YOSBR
+- ~~Add default options for YOSBR~~
+- Re-evaluate the need of the client-plus-lang.zip resource pack (now testing without it)
 - Eventually remove force version for SkinShuffle, when https://github.com/IMB11/SkinShuffle/issues/145 gets fixed.
 - Possibly also add force version for SkinShuffle for 1.21.5 to avoid FancyMenu incompatibility
