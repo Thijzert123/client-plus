@@ -120,10 +120,7 @@
         {"id": "advancement-plaques"},
         {"id": "krypton"},
         {"id": "make_bubbles_pop"},
-        {"id": "snapper",
-            "force-versions": {
-                "1.21.1": "JYWFOAnC" # 1.0.0 instead of 1.0.1
-            }},
+        {"id": "screenshot-viewer"},
         {"id": "seamless-loading-screen"},
         {"id": "screenshot-to-clipboard"},
         {"id": "chunks-fade-in"},
