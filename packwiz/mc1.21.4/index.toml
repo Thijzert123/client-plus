@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "02cf46dfed1234d8fb2260a76c3187af89cf49704544fecd307126a4459be79b"
+hash = "06ac499572af46f7e4d51a89e5dfcf7926e498feae86fb15e36b97fcb270deab"
 metafile = true
 
 [[files]]
@@ -718,6 +718,11 @@ hash = "d38432c1742c9180ce57283349f47f2cfccb2cabde9d5acc77929f6ca114658a"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "3ffd98bad6bf131ed40e07b51da46f8b5692982de63ad05cc8c4738e1d7a88ec"
+metafile = true
+
+[[files]]
 file = "mods/scribble.pw.toml"
 hash = "1243fc875f9d32b65b5f5862139b2e686cdf8f912d860ff8ee639498865f6398"
 metafile = true
@@ -922,10 +927,6 @@ metafile = true
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
 metafile = true
-
-[[files]]
-file = "resourcepacks/client-plus-lang.zip"
-hash = "41881f655ec6ab2cdb0f1fc80392a492976fb5c9dafe2733b30ee079261effc8"
 
 [[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"
