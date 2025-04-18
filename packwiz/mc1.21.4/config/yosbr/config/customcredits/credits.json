@@ -1,5 +1,50 @@
 [
     {
+	"section": "Client+",
+        "disciplines": [
+            {
+                "discipline": "Author",
+                "titles": [
+                    {
+                        "title": "Name",
+                        "names": [
+                            "Thijzert"
+                        ]
+		    },
+		    {
+			"title": "Modrinth",
+                        "names": [
+                            "https://modrinth.com/user/Thijzert"
+                        ]
+		    },
+		    {
+			"title": "Github",
+                        "names": [
+                            "https://github.com/Thijzert123"
+                        ]
+                    }
+		]
+	    },
+	    {
+		"discipline": "Availible at",
+		"titles": [
+		    {
+			"title": "Modrinth",
+			"names": [
+			    "https://modrinth.com/modpack/client-plus"
+			],
+			"title": "GitHub",
+			"names": [
+			    "https://github.com/Thijzert123/client-plus"
+			]
+		    }
+		]
+	    }
+	]
+    },
+
+    {
+	
         "section": "Mojang Studios",
         "disciplines": [
             {
