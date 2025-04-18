@@ -1,37 +1,28 @@
 #!/usr/bin/python3
 
+import functools
 import sys
 import os
 import subprocess
+import requests
 
 PACKWIZ_SUFFIX = ".pw.toml" # files that are managed by packwiz
+VANILLA_TWEAKS_PREFIX = "Vanilla_Tweaks_" # Vanilla Tweaks resourcepacks that are managed by this script
+VANILLA_TWEAKS_LINKS = {
+    "1.21": {
+        "3D_Blocks": "https://vanillatweaks.net/download/VanillaTweaks_r301796_MC1.21.x.zip",
+        "Colored_Ping_Indicator": "https://vanillatweaks.net/download/VanillaTweaks_r131538_MC1.21.x.zip",
+        "Lower_Shield": "https://vanillatweaks.net/download/VanillaTweaks_r678227_MC1.21.x.zip",
+        "Variated_Blocks": "https://vanillatweaks.net/download/VanillaTweaks_r725652_MC1.21.x.zip"
+    }
+}
 
 class Colors:
     GREEN = '\033[92m'
     RED = '\033[91m'
     END = '\033[0m'
 
-# remove and clean all mod/shaders/resources managed by packwiz
-def remove_packwiz_files(mc_dirs, debug = False):
-    for root, dirnames, filenames in os.walk("."):
-        for filename in filenames:
-            if filename.endswith(PACKWIZ_SUFFIX):
-                filepath = os.path.join(root, filename)
-                mc_version = root.split("/")[1]
-                if mc_version in mc_dirs:
-                    if debug:
-                        print("Removing " + filepath)
-                    os.remove(filepath)
-
-def main(debug = False):
-    if len(sys.argv) < 2:
-        print("Please specify Minecraft version (e.g. 1.21.1) or update all instances with 'all'.")
-        exit(1)
-
-    packwiz_output_stream = subprocess.DEVNULL
-    if debug:
-        packwiz_output_stream = None
-
+def get_mc_dirs():
     mc_dirs = [] # such as mc1.20.4 or mc1.21.1
     if sys.argv[1] == "all":
         for root, dirnames, filenames in os.walk("."):
@@ -41,13 +32,61 @@ def main(debug = False):
     else:
         for arg in sys.argv[1:]: # skip first entry
             mc_dirs.append("mc" + arg)
+    return sorted(mc_dirs)
 
+# remove and clean all mod/shaders/resources managed by packwiz
+def remove_managed_files(mc_dirs, debug = False):
+    for root, dirnames, filenames in os.walk("."):
+        for filename in filenames:
+            if filename.endswith(PACKWIZ_SUFFIX) or filename.startswith(VANILLA_TWEAKS_PREFIX):
+                filepath = os.path.join(root, filename)
+                mc_version = root.split("/")[1]
+                if mc_version in mc_dirs:
+                    if debug:
+                        print("Removing " + filepath)
+                    os.remove(filepath)
+
+@functools.cache
+def download_vanilla_tweaks_pack(url):
+    return requests.get(url).content
+
+def update_packwiz_instances(debug = False):
+    if len(sys.argv) < 2:
+        print("Please specify Minecraft version (e.g. 1.21.1) or update all instances with 'all'.")
+        exit(1)
+
+    packwiz_output_stream = subprocess.DEVNULL
+    if debug:
+        packwiz_output_stream = None
+
+    mc_dirs = get_mc_dirs()
     pack_content = eval(open("pack_content.py").read())
 
-    print("Removing packwiz files...", end="")
+    print("Removing files managed by this script...", end="")
     sys.stdout.flush()
-    remove_packwiz_files(mc_dirs, debug)
+    remove_managed_files(mc_dirs, debug)
     print(" done")
+
+    print()
+    print(f"Adding Vanilla Tweaks: ", end="")
+    sys.stdout.flush()
+    for mc_dir in mc_dirs:
+        mc_version = mc_dir.replace("mc", "")
+        global vanilla_tweaks_links
+        if mc_version.startswith("1.21"):
+            vanilla_tweaks_links = VANILLA_TWEAKS_LINKS["1.21"]
+        else:
+            print(f"{Colors.RED}{mc_version}{Colors.END} ", end="")
+            sys.stdout.flush()
+            continue
+
+        for pack_name in vanilla_tweaks_links:
+            filepath = os.path.join(mc_dir, "resourcepacks", VANILLA_TWEAKS_PREFIX + pack_name + ".zip")
+            open(filepath, "wb").write(download_vanilla_tweaks_pack(vanilla_tweaks_links[pack_name]))
+
+        print(f"{Colors.GREEN}{mc_version}{Colors.END} ", end="")
+        sys.stdout.flush()
+    print()
 
     packwiz_instances_refreshed = []
 
@@ -62,7 +101,7 @@ def main(debug = False):
                 print("Include and exclude specified at the same time. Remove one of these to add this project.")
                 continue
 
-            for mc_dir in sorted(mc_dirs):
+            for mc_dir in mc_dirs:
                 # Refresh packwiz
                 if (mc_dir not in packwiz_instances_refreshed):
                     subprocess.run(["packwiz", "refresh"], cwd=mc_dir, stdout=packwiz_output_stream, stderr=packwiz_output_stream)
@@ -85,7 +124,7 @@ def main(debug = False):
                     print(f"{Colors.RED}{mc_version}{Colors.END} ", end="")
                 sys.stdout.flush()
 
-        print("done")
+        print()
 
 if __name__ == "__main__":
-    main()
+    update_packwiz_instances()
