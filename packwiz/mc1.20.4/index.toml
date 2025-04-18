@@ -90,11 +90,6 @@ hash = "66cde3e4aa96bac7f9d2c4dc653c2cca6406e9d358617974b336c7e443a838b8"
 metafile = true
 
 [[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "369c2a8c2f02c6c42fbdf763c09b4ce063e4c490e07fce91304fc61c21c0d66f"
-metafile = true
-
-[[files]]
 file = "mods/better-f1-reborn.pw.toml"
 hash = "4ed283068896cace20a016a72c72c292cb796d755f17ce478a8589f3917f7d67"
 metafile = true
@@ -335,6 +330,11 @@ hash = "fff1e00559f13c092b17fa83804279cf70191d7a99a4a98a4eb6bb30ac9a78db"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "4e966e2901534b9b29d9e6f246143763ede82ddee8ddfdda53394c37a9cfd973"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "4d6ef091895654b3f1516b40a1dee3e201c0013022d4acb268d040d7224475fa"
 metafile = true
@@ -415,6 +415,11 @@ hash = "94108745bb1ded58ea0f338c2c4a0dbdfe29703275c5047b4ca06b80569a451c"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "92ddcddc9a81a371e005a7b90617d93493ba4549d02ff9f5c98bc5979a6b3ff6"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "954646f4ee1509ca05e3d8ea9401d92c182db472fdd9936aa81dd2146a237eeb"
 metafile = true
@@ -457,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "ccbe89a0a3607c18b4651d50f858317aa5e09c718d94cc9ca6c4e56b9bfac92a"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "a387dcfe8d66bcde451407d5608af67e95720dea13d94a20e13ad5340f6bec6e"
 metafile = true
 
 [[files]]
@@ -600,8 +610,18 @@ hash = "0ef42bb08a27404875467f94c1a6ed717314a6b3a77d9897f7a3e9c7d43aeb94"
 metafile = true
 
 [[files]]
+file = "mods/rsls.pw.toml"
+hash = "d38432c1742c9180ce57283349f47f2cfccb2cabde9d5acc77929f6ca114658a"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "964da9ed4bdd490258a05d249e13b8d90d82f71591c793bc93e29840e4e9fe1b"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "1fb139673937b312a357b2fbdececdf3964f88a08919497c950bf00bfd3ad4e6"
 metafile = true
 
 [[files]]
@@ -750,18 +770,6 @@ hash = "eb8666e1ea5fb68d226b89f683a473e60d0299efad7eb17d60e094c8f3537ab3"
 metafile = true
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_3D_r456054_MC1.20.x.zip"
-hash = "0c6cde1fb1f1f45cce6f1e91e3dc324057acc918f376d36ad6867bc42d3d43b7"
-
-[[files]]
-file = "resourcepacks/VanillaTweaks_Lower_Shield_r857185_MC1.20.x.zip"
-hash = "9782bfcf754094e759701d7ab83ae2012d3dacb64f2f72e1ed03b12bde5e113d"
-
-[[files]]
-file = "resourcepacks/VanillaTweaks_Variated_r861045_MC1.20.x.zip"
-hash = "cd82e53b4a587e3e72169d6926b2a9b70d033a7fec0d115d71ddee68965576b9"
-
-[[files]]
 file = "resourcepacks/animated-items.pw.toml"
 hash = "dd1f76d29b9bcbb800e3935f2d226981d5582e7b8997a0ed8ff1f9d03675cbef"
 metafile = true
@@ -795,10 +803,6 @@ metafile = true
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
 metafile = true
-
-[[files]]
-file = "resourcepacks/client-plus-lang.zip"
-hash = "41881f655ec6ab2cdb0f1fc80392a492976fb5c9dafe2733b30ee079261effc8"
 
 [[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"

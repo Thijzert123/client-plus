@@ -31,11 +31,6 @@ hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
 metafile = true
 
 [[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "b6b1943d8f42eec18067e411a5a4ee8575f1ad51339c24c6371765d9f37609e4"
-metafile = true
-
-[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "7eec1f23021757cffb4d9cbb954da4e543cecfc5739a2b5f6d78b1ed6ea10ee6"
 metafile = true
@@ -82,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "bbc6509f03629a79939a610bfcfaa1afc8ce4088d850ca984dee7a0c39bdde2d"
+hash = "1f58316226caad59870e18dcd93562abbf7b1e04bfe88342dd324e9a1ef01851"
 metafile = true
 
 [[files]]
@@ -92,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "57bac6df0d9c9aba99d880691c979c55d61b444fc264fbb6df8937c1dc26db11"
+hash = "2b8cb4a9891f848a15f7d06e02e26e4f472cff414261422c9777a5bcadb415c8"
 metafile = true
 
 [[files]]
@@ -107,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d811057ae42145c99ddd1a82cf493a398669f80dd2f0f9c204b7bd9f504a402d"
+hash = "a0d08473c0bd4d3873307800a8527edff2d10c7eccc8535ead68596dea2f1e19"
 metafile = true
 
 [[files]]
@@ -117,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "29d7fd038a05dea99cccce69c2141862ef0cfd430cc09bba4a2e90a1898435cf"
+hash = "b37d9f4fb121ed3f9e766cebf90007f9ed73cd082571772364deb6a05f8d2123"
 metafile = true
 
 [[files]]
@@ -291,6 +286,11 @@ hash = "9ec22a69da98cef889829ee289c8c08bff2b26c181eebd1303cd35a7ecc102f4"
 metafile = true
 
 [[files]]
+file = "mods/lighty.pw.toml"
+hash = "8977ef4284b22494a5217802443c05a5d38205751978aa10e60f45da1a5040ee"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
 metafile = true
@@ -383,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/resourcify.pw.toml"
 hash = "2d77d2aa6a018790d81e93d8b211e03d5a620392592fa739be39b840a01ef471"
+metafile = true
+
+[[files]]
+file = "mods/rsls.pw.toml"
+hash = "d38432c1742c9180ce57283349f47f2cfccb2cabde9d5acc77929f6ca114658a"
 metafile = true
 
 [[files]]
@@ -509,6 +514,22 @@ metafile = true
 file = "resourcepacks/3d-plants.pw.toml"
 hash = "46a8572b7ac1f9ec2b120330a60b7f851a16ea105408e7228f5f9e1184313e85"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Vanilla_Tweaks_3D_Blocks.zip"
+hash = "84cbbd8dca7d45669bc62b2008219f20907ec80f34f45cf61a70c4f4baf9f4dd"
+
+[[files]]
+file = "resourcepacks/Vanilla_Tweaks_Colored_Ping_Indicator.zip"
+hash = "d4c4fba5ebaec887d43f81c12716fe24fbb6292fb040ccd9754f14186f201850"
+
+[[files]]
+file = "resourcepacks/Vanilla_Tweaks_Lower_Shield.zip"
+hash = "548b42a29c4a8c002cb9cce2cfadf6e21bb9ab0df1abecc2e408ed57c96da994"
+
+[[files]]
+file = "resourcepacks/Vanilla_Tweaks_Variated_Blocks.zip"
+hash = "c17f2783524496b57070688929f305a7b615f6aa4b28adbc210afde59b758b40"
 
 [[files]]
 file = "resourcepacks/bare-bones.pw.toml"
@@ -638,6 +659,11 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "fd18eb54847fd18feba9db1e9960c741cdaa6083c984773f8f79ae22182fad76"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "e21049e1505b849d2996e1390a6e91e3030a44277b873242cadfc074b576662d"
 metafile = true
 
 [[files]]

@@ -90,11 +90,6 @@ hash = "036bd1f08a582f2a38809e3ab65720d5e04d84fcc1c7b8558d6888c319e18527"
 metafile = true
 
 [[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "a8d31e43c8f82882cc4c2b7bdacd76d968d739e157cdae2c80efb58c1990e1c9"
-metafile = true
-
-[[files]]
 file = "mods/better-f1-reborn.pw.toml"
 hash = "4ed283068896cace20a016a72c72c292cb796d755f17ce478a8589f3917f7d67"
 metafile = true
@@ -186,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "533b5ccc5383c97b4982db23d7ede1aea34612b9832200e38bc4522017604d0f"
+hash = "bb6eee7f799e96eb7b4a43f6598f3b1784c4b5a90b7ecd0c5da757a2cc8b6a0c"
 metafile = true
 
 [[files]]
@@ -201,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "1e2f635d773d5761ede9b3372ed221f654f8ec8cdcd06ec7e23608505d880946"
+hash = "a26cea970dd7ffc20aeb983912e72ba57e83f6e1a42a661a5b4250f77de25650"
 metafile = true
 
 [[files]]
@@ -335,6 +330,11 @@ hash = "fff1e00559f13c092b17fa83804279cf70191d7a99a4a98a4eb6bb30ac9a78db"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "37d6e7a35e1db2a38cd456304ad28fcf41a968ea79a7fa2b284c6f2cd58b5c9c"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "4d6ef091895654b3f1516b40a1dee3e201c0013022d4acb268d040d7224475fa"
 metafile = true
@@ -415,6 +415,11 @@ hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "d6be91dc0a2aca23ee640818d8a8295c85ddb2db6e0413669ecac9600b01eef0"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
 metafile = true
@@ -457,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "6bfb82960a27af2c360036e01c0131c3ad9c778b4ba5e3df51bafe4f175317db"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "a387dcfe8d66bcde451407d5608af67e95720dea13d94a20e13ad5340f6bec6e"
 metafile = true
 
 [[files]]
@@ -595,8 +605,18 @@ hash = "b6db84c2fde960f8c358e510a1c9972a0903ff03ed0d004042b2fdf31ac08210"
 metafile = true
 
 [[files]]
+file = "mods/rsls.pw.toml"
+hash = "d38432c1742c9180ce57283349f47f2cfccb2cabde9d5acc77929f6ca114658a"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "964da9ed4bdd490258a05d249e13b8d90d82f71591c793bc93e29840e4e9fe1b"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "7e64d3e87b78d072f992941580a2dddfc4684a7143371a5e394bc42452160441"
 metafile = true
 
 [[files]]
@@ -755,18 +775,6 @@ hash = "5df1b8ef822fe9987a65d412936909b4d700872db2ed107d0092e28452999101"
 metafile = true
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_3D_r456054_MC1.20.x.zip"
-hash = "0c6cde1fb1f1f45cce6f1e91e3dc324057acc918f376d36ad6867bc42d3d43b7"
-
-[[files]]
-file = "resourcepacks/VanillaTweaks_Lower_Shield_r857185_MC1.20.x.zip"
-hash = "9782bfcf754094e759701d7ab83ae2012d3dacb64f2f72e1ed03b12bde5e113d"
-
-[[files]]
-file = "resourcepacks/VanillaTweaks_Variated_r861045_MC1.20.x.zip"
-hash = "cd82e53b4a587e3e72169d6926b2a9b70d033a7fec0d115d71ddee68965576b9"
-
-[[files]]
 file = "resourcepacks/animated-items.pw.toml"
 hash = "cbd839262e44bd1a39296186d1fbee321e00142775e909f56efd28251c288277"
 metafile = true
@@ -800,10 +808,6 @@ metafile = true
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "421b267f441e7be3feefa686191e5b363929ecb39ddd5f2ff5b515db4b169891"
 metafile = true
-
-[[files]]
-file = "resourcepacks/client-plus-lang.zip"
-hash = "41881f655ec6ab2cdb0f1fc80392a492976fb5c9dafe2733b30ee079261effc8"
 
 [[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"

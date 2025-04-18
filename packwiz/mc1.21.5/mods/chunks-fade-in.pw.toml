@@ -1,13 +1,13 @@
 name = "Chunks fade in"
-filename = "chunksfadein-fabric-2.0.4-1.21.5.jar"
+filename = "chunksfadein-fabric-2.0.6-1.21.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/JaNmzvA8/versions/KhJCRAX3/chunksfadein-fabric-2.0.4-1.21.5.jar"
+url = "https://cdn.modrinth.com/data/JaNmzvA8/versions/5PuccGoO/chunksfadein-fabric-2.0.6-1.21.5.jar"
 hash-format = "sha512"
-hash = "8fbc88f60cb4f048affb9658b4ac7bb056428907f5bf87bbff961aa46a142289c85524829fd3c5242c8a2ea64c0eec385567a101b559d5d86077d3942e5bb055"
+hash = "a49a1c40c1ad8e80f2e81dc855c755867fdf2895c68985cc4ab7e5192278b48254a9e4d28c05226c62c2596395926557bed23c6489d2f080af2b5bc17a0a95d2"
 
 [update]
 [update.modrinth]
 mod-id = "JaNmzvA8"
-version = "KhJCRAX3"
+version = "5PuccGoO"

@@ -86,11 +86,6 @@ hash = "fdc20be525e45c23abab955fa3bc03a89e905447d5a7c281e500fffbe3b1343d"
 metafile = true
 
 [[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "c3dace795f661588f7bdde6afd616dff6d3e72462f6cb81de27924c8a5653863"
-metafile = true
-
-[[files]]
 file = "mods/better-f1-reborn.pw.toml"
 hash = "8cfabc93bfc51735a04e6d1c55b265d521fe74910eb8842f8da75e804124decf"
 metafile = true
@@ -167,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "02cf46dfed1234d8fb2260a76c3187af89cf49704544fecd307126a4459be79b"
+hash = "06ac499572af46f7e4d51a89e5dfcf7926e498feae86fb15e36b97fcb270deab"
 metafile = true
 
 [[files]]
@@ -566,6 +561,16 @@ hash = "fe56e851eb796c9a20491ddb6034fb3b51baf762f09b9daecfe756df602e7349"
 metafile = true
 
 [[files]]
+file = "mods/rsls.pw.toml"
+hash = "d38432c1742c9180ce57283349f47f2cfccb2cabde9d5acc77929f6ca114658a"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "e40e0ea5855a99e605ffaa6c5bbeb52bf692cb48d71921b0d520805ca69af51f"
+metafile = true
+
+[[files]]
 file = "mods/scribble.pw.toml"
 hash = "a0a985cb498f152cd03f7b3d609edc95f181b1068080618295a786ee7ca35108"
 metafile = true
@@ -706,20 +711,20 @@ hash = "c9a5dca078d983e94d629ca4bf402fff78e364e5b5365ff43373d77eec268432"
 metafile = true
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_3D_r139394_MC1.21.x.zip"
-hash = "8522da8eb02a385144c3d2254a465cb51708132ce490f12f6d26855e409b2c6e"
+file = "resourcepacks/Vanilla_Tweaks_3D_Blocks.zip"
+hash = "84cbbd8dca7d45669bc62b2008219f20907ec80f34f45cf61a70c4f4baf9f4dd"
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_Colored_Ping_Indicator_r186221_MC1.21.x.zip"
-hash = "aa1dfd50864cc8e23a4be1bb6ed047e5e89425ddab3cfe60b6e2bb6b2f853112"
+file = "resourcepacks/Vanilla_Tweaks_Colored_Ping_Indicator.zip"
+hash = "d4c4fba5ebaec887d43f81c12716fe24fbb6292fb040ccd9754f14186f201850"
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_Lower_Shield_r640024_MC1.21.x.zip"
-hash = "4adae284ccd9b2e47744b36fa00e5dc5c73f68581106383b6b543d727bebf47f"
+file = "resourcepacks/Vanilla_Tweaks_Lower_Shield.zip"
+hash = "548b42a29c4a8c002cb9cce2cfadf6e21bb9ab0df1abecc2e408ed57c96da994"
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_Variation_r730822_MC1.21.x.zip"
-hash = "785086ff39dc58abacaffa691b543818cacb93e426f446d3cfaea1a3bc89c6b7"
+file = "resourcepacks/Vanilla_Tweaks_Variated_Blocks.zip"
+hash = "c17f2783524496b57070688929f305a7b615f6aa4b28adbc210afde59b758b40"
 
 [[files]]
 file = "resourcepacks/animated-items.pw.toml"
@@ -755,10 +760,6 @@ metafile = true
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
 metafile = true
-
-[[files]]
-file = "resourcepacks/client-plus-lang.zip"
-hash = "41881f655ec6ab2cdb0f1fc80392a492976fb5c9dafe2733b30ee079261effc8"
 
 [[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"
