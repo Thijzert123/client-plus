@@ -14,15 +14,7 @@ hash = "8d81ed294152fba75cde490548cddc0124f83066e6a8773cf412c4edc2f26c96"
 
 [[files]]
 file = "config/yosbr/config/customcredits/credits.json"
-hash = "65e1d8a566fcba2fd7a2b09380afd084bc9f2c9012631db301e57fecc8e9ae69"
-
-[[files]]
-file = "config/yosbr/config/customcredits/poem.txt"
-hash = "672f9e20c6d0067b3b8ae8828c64b1007204f6ea2a653cd50b96da0a2a5d6e7d"
-
-[[files]]
-file = "config/yosbr/config/customcredits/postcredits.txt"
-hash = "7263145a94588055a9f8d2c8b72d418bbf345f766cb51fa440195f6f821a11aa"
+hash = "58899476a81ab8e4e4aebca26f6edc05aa883834e7c14101a9288157348668e5"
 
 [[files]]
 file = "config/yosbr/config/dynamiccrosshair.json5"
@@ -38,7 +30,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/title_screen_layout.txt"
-hash = "a178edaa72a675e49078953da261c81e18b10bfb56578226da148c57243adadc"
+hash = "e664119ba898fab8f4f787f135f4b91c3bb284c81ce84c981831f208799925de"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -50,7 +42,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/options.txt"
-hash = "3f54bc0a6534aa7437483ec29ea07324026cdcaae758595b6e9c5ee652ac4ba3"
+hash = "eddfcec61caeec59fa72ddbcced3cf3334a8017dff4845411dff40a46b1bc2ef"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/ui_themes/dark.json"
@@ -927,19 +919,19 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Vanilla_Tweaks_3D_Blocks.zip"
-hash = "84cbbd8dca7d45669bc62b2008219f20907ec80f34f45cf61a70c4f4baf9f4dd"
+hash = "60a136f0be4d3fa21cd7c7a352c28a4f6a54f9df40562b235bbe087b783a8a49"
 
 [[files]]
 file = "resourcepacks/Vanilla_Tweaks_Colored_Ping_Indicator.zip"
-hash = "d4c4fba5ebaec887d43f81c12716fe24fbb6292fb040ccd9754f14186f201850"
+hash = "1b44a1d5993eb98d61dd7cf949046fbe53e285926afbc851c03a35312a3b3980"
 
 [[files]]
 file = "resourcepacks/Vanilla_Tweaks_Lower_Shield.zip"
-hash = "548b42a29c4a8c002cb9cce2cfadf6e21bb9ab0df1abecc2e408ed57c96da994"
+hash = "dc375da7f5a663d66434c5764269121c922ad32fe0cd2f226e421f9157bee460"
 
 [[files]]
 file = "resourcepacks/Vanilla_Tweaks_Variated_Blocks.zip"
-hash = "c17f2783524496b57070688929f305a7b615f6aa4b28adbc210afde59b758b40"
+hash = "7eb321d425ffb44ffd6a716a23a293dd31c26cfbbea4daf91deff132a85db288"
 
 [[files]]
 file = "resourcepacks/animated-items.pw.toml"

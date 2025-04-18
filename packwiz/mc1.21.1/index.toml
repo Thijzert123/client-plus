@@ -807,19 +807,19 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Vanilla_Tweaks_3D_Blocks.zip"
-hash = "84cbbd8dca7d45669bc62b2008219f20907ec80f34f45cf61a70c4f4baf9f4dd"
+hash = "c25648eb7e0aa5ba13533d88bd0d5a0239497af3bdc7a04cdeefe2db21b78edb"
 
 [[files]]
 file = "resourcepacks/Vanilla_Tweaks_Colored_Ping_Indicator.zip"
-hash = "d4c4fba5ebaec887d43f81c12716fe24fbb6292fb040ccd9754f14186f201850"
+hash = "1b1ccb6937005361159a71b1beac15669b6feb943e99a37de22ae54e2edc3634"
 
 [[files]]
 file = "resourcepacks/Vanilla_Tweaks_Lower_Shield.zip"
-hash = "548b42a29c4a8c002cb9cce2cfadf6e21bb9ab0df1abecc2e408ed57c96da994"
+hash = "03296e8f9f9141ba1439561dcb2bc26734e0938adbb7463b493b0dc079bb5ab1"
 
 [[files]]
 file = "resourcepacks/Vanilla_Tweaks_Variated_Blocks.zip"
-hash = "c17f2783524496b57070688929f305a7b615f6aa4b28adbc210afde59b758b40"
+hash = "a5d2ce6174666f1820c000aec28ae1e44940ac1f21b8cc54a52926d1ca3929e4"
 
 [[files]]
 file = "resourcepacks/animated-items.pw.toml"

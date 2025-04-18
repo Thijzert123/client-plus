@@ -517,19 +517,19 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Vanilla_Tweaks_3D_Blocks.zip"
-hash = "84cbbd8dca7d45669bc62b2008219f20907ec80f34f45cf61a70c4f4baf9f4dd"
+hash = "b9ca876b2c43cd42b19a73a523afdfd6cb2d675efdc40c8d10a972bde2f1d0ec"
 
 [[files]]
 file = "resourcepacks/Vanilla_Tweaks_Colored_Ping_Indicator.zip"
-hash = "d4c4fba5ebaec887d43f81c12716fe24fbb6292fb040ccd9754f14186f201850"
+hash = "5435ac3439775df7cc37dbe455266188983bdcb548bc42a6f782573eb7c375d1"
 
 [[files]]
 file = "resourcepacks/Vanilla_Tweaks_Lower_Shield.zip"
-hash = "548b42a29c4a8c002cb9cce2cfadf6e21bb9ab0df1abecc2e408ed57c96da994"
+hash = "7a636bec369036d2f4b545370720e916c9e588232c4b659b3add49da6cc40594"
 
 [[files]]
 file = "resourcepacks/Vanilla_Tweaks_Variated_Blocks.zip"
-hash = "c17f2783524496b57070688929f305a7b615f6aa4b28adbc210afde59b758b40"
+hash = "f74dd04862178aa0902130457eef7604cabf917cd2926ced8945b71296db263f"
 
 [[files]]
 file = "resourcepacks/bare-bones.pw.toml"
