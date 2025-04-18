@@ -214,3 +214,4 @@ Apart from that, we also include various Vanilla Tweaks resource packs:
 - Re-evaluate the need of the client-plus-lang.zip resource pack (now testing without it)
 - Eventually remove force version for SkinShuffle, when https://github.com/IMB11/SkinShuffle/issues/145 gets fixed.
 - Possibly also add force version for SkinShuffle for 1.21.5 to avoid FancyMenu incompatibility
+- Use meme-soundboard resource pack instead of including it in the pack itself
