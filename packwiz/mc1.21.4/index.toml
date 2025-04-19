@@ -5,8 +5,12 @@ file = "config/yosbr/config/betterf3.json"
 hash = "a28a88c3350d4fbdd3a4e7a6358fd420103ec7ed64c24b86f718317b7209f8f8"
 
 [[files]]
+file = "config/yosbr/config/bind_cmd.ini"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
 file = "config/yosbr/config/chunksfadein.properties"
-hash = "15b34ec1084ed48570504270b26135e684bb48a72b95d956c3e9350a67b03a83"
+hash = "a3e737ba63889f85d012d614e60f19de0acbd7df518ce21230888d794faa7234"
 
 [[files]]
 file = "config/yosbr/config/controlify.json"
@@ -70,7 +74,7 @@ hash = "db4c769d684bd3ea5664f3a8ba7fc0c03c4d7cb3ed98d2aa457d9e664356ff34"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/favorites.json5"
-hash = "d557ab34386f957e06a5c64fc682134d39e67de734cee809c747f02ab39fbbad"
+hash = "08d0b54339490e6037f02a43c9b03193d218d2cd8fb81c6d8a1bda0b86eb46d3"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/hints.json"
@@ -210,7 +214,7 @@ hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "686a6bbf75b11b835b464296d2f6497e23065031c77e123eb3ffc6dfa004cf8a"
+hash = "2d6a90597a09cef20b1fa367564f04dd7ae79e325dbba5f57217333de6819814"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -323,13 +327,18 @@ hash = "c22a79e12714a5cbef7623b480bf066cd49e5710286abee69e5fc06484f3234e"
 metafile = true
 
 [[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "a59ce679862d915b6a8bdfe207af78012214fb5a6952e0663eb07c98d7c88793"
+metafile = true
+
+[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "9896c7d7de7401ce0908f50fb848df12a6ac1fcb286449e74b72a79d897cc6f8"
 metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "54e208f8a69376c8fe7f8901369def9a177ce98d1e04a456c7a7bea2ea5dda01"
+hash = "d7da904becf96e068b6929529a7821dd03b9e0017593ea407fb54c1671b9e13e"
 metafile = true
 
 [[files]]
@@ -779,7 +788,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4b8f88d21be88fc7f51be5acad184c2d3a86474a8d8673fc3fc67e0bb2d4fc7b"
+hash = "fdc2b264bfae9dbef68222edc1c220708df9ecc9bb8fa74b79ce1ebab6fe5355"
 metafile = true
 
 [[files]]
@@ -969,6 +978,16 @@ hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/colourful-containers-dark-mode-gui.pw.toml"
+hash = "45f2672b8518980a256ee731a54ebe86d072aa0e0f688e53462d05e5b1aa793c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/colourful-containers-gui.pw.toml"
+hash = "3d2122e5e955340d8b9ee6c0f264ee5648e244192130bc9191457c573d554fc8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"
 hash = "b885ea4b27467a99ca6dd03be554bfdaf48712ef03304a1e2e636ab9c2e6250a"
 metafile = true
@@ -1034,11 +1053,6 @@ hash = "519f97a9d1432364010760ea5a942b5d9d8e83be36119315bcef67c003af8719"
 metafile = true
 
 [[files]]
-file = "resourcepacks/recolourful-containers-gui.pw.toml"
-hash = "098464f9d1e3b3291e33758c87e700365dc849c5769bc581750d93be919e0f3e"
-metafile = true
-
-[[files]]
 file = "resourcepacks/redstone-tweaks.pw.toml"
 hash = "b4a0e54b7e05e967417adf96aa8a09c18c0877cda18e90e1e90e5fdb6dc039cd"
 metafile = true
@@ -1075,7 +1089,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c7fba5f4fcf669b23a37865cf687bce857f1f7295c8ec1fb7620583dee9625d3"
+hash = "6fed808df2d693d4e2b5e75e5080e3b1e3dbf0c644cacaf46b8ea3cc919a522b"
 metafile = true
 
 [[files]]
@@ -1121,4 +1135,9 @@ metafile = true
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
 hash = "2c851c5442a8c0482422c600fa68ccc808e0cbacf08b832f9a25be4cfdcc56f3"
+metafile = true
+
+[[files]]
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "0c768f542dd2d7422360aa590fb6345864e9382a292550425396629f25bc110e"
 metafile = true
