@@ -167,7 +167,8 @@
         {"id": "wider-tab"},
         {"id": "viewboboptions"},
         {"id": "fancymenu"},
-        {"id": "rsls"}],
+        {"id": "rsls"},
+        {"id": "chatanimation"}],
     "shaderpacks": [
         {"id": "makeup-ultra-fast-shaders"},
         {"id": "miniature-shader"},
@@ -176,7 +177,8 @@
         {"id": "complementary-unbound"},
         {"id": "bsl-shaders"},
         {"id": "complementary-reimagined"},
-        {"id": "bliss-shader"}],
+        {"id": "bliss-shader"},
+        {"id": "super-duper-vanilla"}],
     "resourcepacks": [
         {"id": "default-splashes"},
         {"id": "fullbright-ub"},
