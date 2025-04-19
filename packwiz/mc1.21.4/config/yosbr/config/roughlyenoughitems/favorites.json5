@@ -2,7 +2,6 @@
 	"favorites": [
 		"{mode:\"MORN\",type:\"roughlyenoughitems:time\"}",
 		"{type:\"roughlyenoughitems:weather\",weather:\"CLEAR\"}",
-		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:jungle_wood\"}},type:\"roughlyenoughitems:entry_stack\"}"
 	],
 	"hiddenFavorites": [],
 	"displays": []
