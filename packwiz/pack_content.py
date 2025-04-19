@@ -125,6 +125,7 @@
         {"id": "screenshot-to-clipboard"},
         {"id": "chunks-fade-in"},
         {"id": "optigui"},
+        {"id": "animatica"},
         {"id": "custom-credits"},
         {"id": "dynamiccrosshair"},
         {"id": "show-me-your-skin"},
