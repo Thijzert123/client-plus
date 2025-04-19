@@ -205,7 +205,7 @@ Apart from that, we also include various Vanilla Tweaks resource packs:
 ## TODO
 - ~~Update default options.txt so that keybinds don't conflict by default~~
 - ~~Update packwiz_update.py to update Vanilla Tweaks resource packs by downloading using the links -  Done, but now make it work for the 1.20.x versions~~ Doesn't work. Maybe later?
-- Add Recolourful UI Dark Mode when it comes to Modrinth
+- ~~Add Recolourful UI Dark Mode when it comes to Modrinth - Now using Colourful with dark mode~~
 - ~~Disable Xaero's Minimap Entity Radar by default in the config~~
 - ~~Disable analog movement of Controlify by default~~
 - ~~Replace YOSBR with [Default Options](https://modrinth.com/mod/default-options), as YOSBR isn't supported for 1.21.5~~ (changed it back, as YOSBR does apparantly work on 1.21.5)
