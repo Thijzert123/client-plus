@@ -1,15 +1,15 @@
 name = "Client+"
 author = "Thijzert"
-version = "1.0.0+1.21.5-alpha.1"
+version = "1.0.0+1.21.5-beta.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "09f3c74821b99450513df384ea578b58631ff039e4b8096508e3c04058941ff8"
+hash = "3fca800f49e98b24dc6f2bc582fbe2b339f2ac9d891986cd189ed50d17521230"
 
 [versions]
-fabric = "0.16.13"
+fabric = "0.16.14"
 minecraft = "1.21.5"
 
 [options]

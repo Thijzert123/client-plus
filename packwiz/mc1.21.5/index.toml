@@ -1,6 +1,222 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/betterf3.json"
+hash = "a28a88c3350d4fbdd3a4e7a6358fd420103ec7ed64c24b86f718317b7209f8f8"
+
+[[files]]
+file = "config/yosbr/config/bind_cmd.ini"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/yosbr/config/chunksfadein.properties"
+hash = "a3e737ba63889f85d012d614e60f19de0acbd7df518ce21230888d794faa7234"
+
+[[files]]
+file = "config/yosbr/config/controlify.json"
+hash = "8d81ed294152fba75cde490548cddc0124f83066e6a8773cf412c4edc2f26c96"
+
+[[files]]
+file = "config/yosbr/config/customcredits/credits.json"
+hash = "58899476a81ab8e4e4aebca26f6edc05aa883834e7c14101a9288157348668e5"
+
+[[files]]
+file = "config/yosbr/config/dynamiccrosshair.json5"
+hash = "3594f3a665a585dff57c5fa52bb33e3f1f7cbd6f29b23b564b6c083323e9bede"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/title_screen_layout.txt"
+hash = "e664119ba898fab8f4f787f135f4b91c3bb284c81ce84c981831f208799925de"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/options.txt"
+hash = "eddfcec61caeec59fa72ddbcced3cf3334a8017dff4845411dff40a46b1bc2ef"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "a977a629ef7e49a5a72170471324893d27c23e0521c551f34ca7cf4632cc95dc"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/collapsible.json5"
+hash = "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/config.json5"
+hash = "db4c769d684bd3ea5664f3a8ba7fc0c03c4d7cb3ed98d2aa457d9e664356ff34"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/favorites.json5"
+hash = "08d0b54339490e6037f02a43c9b03193d218d2cd8fb81c6d8a1bda0b86eb46d3"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/hints.json"
+hash = "bbe6e13f7001030b596ab1dade973f0a458c206b46a232ca208478167197b426"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/pinyin.properties"
+hash = "a86df243da3b77fa9c802d3e4cce83068df9a52a9122ab93c4af1e7ebae02028"
+
+[[files]]
+file = "config/yosbr/config/roughlyenoughitems/pinyin_double.properties"
+hash = "422869e297fd4410d34f565efa5013c5b6edc0d9b2e5f2a3e945c2306d748d21"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "9e647260a300013940ea4bcff155d9ea3eaa5206fea8b88330e29b2b4cc2de6d"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/yosbr/config/sodium-fingerprint.json"
+hash = "607eeb5a6ee30f830a1e196c7c835a780d6089bc8e1486449697b5c2454adaa3"
+
+[[files]]
+file = "config/yosbr/config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "cd173e558e965b88fb03bcc0de3468c10ff04fe78979777564ec0066c9911b9e"
+
+[[files]]
+file = "config/yosbr/config/soundboard/airhorn.wav"
+hash = "006af702254da089a9581dcf8e75c6cf66e643d64ecb55515675c1a4a9356b03"
+
+[[files]]
+file = "config/yosbr/config/soundboard/ba_dum_tss.wav"
+hash = "095a5d2e070d6a3e08660c0047f34f225c9d07b89b37c6d4d7b82f422b711b0d"
+
+[[files]]
+file = "config/yosbr/config/soundboard/crickets.wav"
+hash = "591c2cafcdf44812d614c179bdcc97d0b3e8bcae1dec1f90e843c050c0dca6e4"
+
+[[files]]
+file = "config/yosbr/config/soundboard/fortnite_death.wav"
+hash = "adec598b6b6429e39556706345e97714aad7ba2f49a684e970aa02a4cfd3ace7"
+
+[[files]]
+file = "config/yosbr/config/soundboard/get_out.wav"
+hash = "a39d97a221347324a6f7a795e3ea770d01ea3a6a19dba506899acc5941d02cc7"
+
+[[files]]
+file = "config/yosbr/config/soundboard/hog_rider.wav"
+hash = "1b4ca9200ae26f28ec906ab9987b086938962ca04da5250e7118e3d6c96d8d24"
+
+[[files]]
+file = "config/yosbr/config/soundboard/indian_music.wav"
+hash = "e53c00f6919d9b11eed423ea1b81537bddee977f4de9957f79ed9f70039882c8"
+
+[[files]]
+file = "config/yosbr/config/soundboard/metal_pipe.wav"
+hash = "0d07a51ba826f3c00988fc41d0e6d07e053af74c4466cec15f6fdaee8f1424e0"
+
+[[files]]
+file = "config/yosbr/config/soundboard/sad_violin.wav"
+hash = "ff5794633f64c792b7096beb8619f83ed9882d3799b4c8350a7e4e8bb5a62b54"
+
+[[files]]
+file = "config/yosbr/config/soundboard/scream.wav"
+hash = "543e75e923ae5c76bedc3972ecdcb2048b9cfd1e45441d7db9c213944f5fcb7c"
+
+[[files]]
+file = "config/yosbr/config/soundboard/vine_boom.wav"
+hash = "c076037bf6aa66f4f078e24467305f98bf52786a258cf6f41ae79006d3bf8f7f"
+
+[[files]]
+file = "config/yosbr/config/soundboard/your_phone_ringing.wav"
+hash = "651dfe2c9d7837d635c4ac9369b2023b6cbd5faa19103f5c3ade0ce2cf052649"
+
+[[files]]
+file = "config/yosbr/config/subtle_effects/biomes.toml"
+hash = "bedcefaff71b4f73b5f09968bea7e43cd0cac652aa4f826dfeeb6e468d0b4eed"
+
+[[files]]
+file = "config/yosbr/config/subtle_effects/blocks.toml"
+hash = "7377cc6dec4598a713ec59329f8bffa38e90f8bb45de9d587691fcb2edf7fc40"
+
+[[files]]
+file = "config/yosbr/config/subtle_effects/entities.toml"
+hash = "a8b8f1cf3d49fd4f837fefb73839dda1d5765ab039397f6965ba4e61f5458b68"
+
+[[files]]
+file = "config/yosbr/config/subtle_effects/general.toml"
+hash = "40eb90445a6f29f4caacb4c5adc2730ca57d9c1506b6ec91ecff9f7d1ec94490"
+
+[[files]]
+file = "config/yosbr/config/subtle_effects/items.toml"
+hash = "83819dbe17151dae77f70c6f0c1e4d2e64d5bc9c8beee5adca98fd01ac4e2145"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap-common.txt"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "49eb37f7b96dc705bb4746e27778e52644cba9bb784b85232f3b977792ba82da"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap_entities.json"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+
+[[files]]
+file = "config/yosbr/config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yosbr/config/xaeroplus.txt"
+hash = "be9d2aeb08b9822a84bf48f380fd7a73c154895be88921c5f7ed330eeaded548"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap-common.txt"
+hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "06b9cf0dd377568f0779de80b3f28262a4dfa728556e2a7d93d1fa1aa4b3fa58"
+
+[[files]]
+file = "config/yosbr/config/xanders-sodium-options.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/yosbr/credits.txt"
+hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "2d6a90597a09cef20b1fa367564f04dd7ae79e325dbba5f57217333de6819814"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "9c5ffe0f93aec9ebca86a4e5171ccb51e283849eef1719c995d19c2480e2d07c"
 metafile = true
@@ -71,13 +287,18 @@ hash = "9fc6f3e67904d607a85528ceb2d4d1ea97a5807df5bb24c1106070e605c78110"
 metafile = true
 
 [[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "a59ce679862d915b6a8bdfe207af78012214fb5a6952e0663eb07c98d7c88793"
+metafile = true
+
+[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "d7007a228eae3f5261482569fabece1dcf8ddfd451b63e75c20d1dff51ce814b"
 metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "1f58316226caad59870e18dcd93562abbf7b1e04bfe88342dd324e9a1ef01851"
+hash = "4883e166ff1858744ec26d058786167cdce88f389d67a20516a29c644acfad4c"
 metafile = true
 
 [[files]]
@@ -187,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9fb9f5a25c9ac4fd320b743148c049768bffeb38678194c1ab31a1946604ee9c"
+hash = "12d88ff814663555fb216d47884a166374a76210ea7c75814daa6e897203abbf"
 metafile = true
 
 [[files]]
@@ -277,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "c3fda5f4bda7791d585772f6164efa57e78c70308f3f3beb32ae49271fc084a9"
+hash = "4847958325b3120f07c26395f42a2710154b73105a1d3dc89ad7553404f60014"
 metafile = true
 
 [[files]]
@@ -407,7 +628,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f57e369906e6b2686fcd6e6da61c326ac99fbcf35427facf18d815afcb6dee2d"
+hash = "8ff84533e8fe06943d7d72e25e9b4393837e574a5c7c9e358206294b2cb0939c"
 metafile = true
 
 [[files]]
@@ -492,7 +713,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4d57ceb87aa43fb6e35d006f42834976ddb4acedf33e5c46b66685bb4b7f6d7e"
+hash = "f1523a7f11b8a894313062ff7b4cf6d856c10acbbc62a55cd22152eab51976a5"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "926ed5de25641c4b2e7335be89fff5c116fc9330dd131f6c62ed8a8cb0ff36f0"
 metafile = true
 
 [[files]]
@@ -503,6 +729,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "07d2a07067af1330cda2f153bf753dd2dea151062be830acb74b6a39a308fe60"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
@@ -517,19 +748,19 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Vanilla_Tweaks_3D_Blocks.zip"
-hash = "b9ca876b2c43cd42b19a73a523afdfd6cb2d675efdc40c8d10a972bde2f1d0ec"
+hash = "60a136f0be4d3fa21cd7c7a352c28a4f6a54f9df40562b235bbe087b783a8a49"
 
 [[files]]
 file = "resourcepacks/Vanilla_Tweaks_Colored_Ping_Indicator.zip"
-hash = "5435ac3439775df7cc37dbe455266188983bdcb548bc42a6f782573eb7c375d1"
+hash = "1b44a1d5993eb98d61dd7cf949046fbe53e285926afbc851c03a35312a3b3980"
 
 [[files]]
 file = "resourcepacks/Vanilla_Tweaks_Lower_Shield.zip"
-hash = "7a636bec369036d2f4b545370720e916c9e588232c4b659b3add49da6cc40594"
+hash = "dc375da7f5a663d66434c5764269121c922ad32fe0cd2f226e421f9157bee460"
 
 [[files]]
 file = "resourcepacks/Vanilla_Tweaks_Variated_Blocks.zip"
-hash = "f74dd04862178aa0902130457eef7604cabf917cd2926ced8945b71296db263f"
+hash = "7eb321d425ffb44ffd6a716a23a293dd31c26cfbbea4daf91deff132a85db288"
 
 [[files]]
 file = "resourcepacks/bare-bones.pw.toml"
@@ -607,11 +838,6 @@ hash = "18c86656605bdb533e1febedfca680b2383e4919be59cb5312d7457c78e2ef46"
 metafile = true
 
 [[files]]
-file = "resourcepacks/recolourful-containers-gui.pw.toml"
-hash = "098464f9d1e3b3291e33758c87e700365dc849c5769bc581750d93be919e0f3e"
-metafile = true
-
-[[files]]
 file = "resourcepacks/reimagined.pw.toml"
 hash = "a96fbdd210a53701c0312d8e62dd6e80dfb852d20ecb13503877e499315afa1b"
 metafile = true
@@ -633,7 +859,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c7fba5f4fcf669b23a37865cf687bce857f1f7295c8ec1fb7620583dee9625d3"
+hash = "6fed808df2d693d4e2b5e75e5080e3b1e3dbf0c644cacaf46b8ea3cc919a522b"
 metafile = true
 
 [[files]]
@@ -663,7 +889,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "e21049e1505b849d2996e1390a6e91e3030a44277b873242cadfc074b576662d"
+hash = "8bf0e8313ec1a14958e26d47d8bcece9a5d74e26c37b8c8a095a22217c9a850a"
 metafile = true
 
 [[files]]
