@@ -89,12 +89,10 @@ def add_crossmarks_to_project_dict(project_dict):
         for game_version in newest_version_for_each_game_version:
             if game_version not in project_dict[project_id]:
                 project_dict[project_id][game_version] = CROSSMARK_ICON
-    print(project_dict)
     return project_dict
 
 def project_dict_to_project_list(project_dict):
     project_list = []
-    print(project_dict)
     for i in project_dict:
         project_list.append(project_dict[i])
     return project_list
