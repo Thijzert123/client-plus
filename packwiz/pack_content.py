@@ -21,7 +21,10 @@
 
 {
     "mods": [
-        {"id": "yosbr"},
+        {"id": "yosbr",
+            "force-versions": {
+                "1.21.5": "KMOzdYko"
+        }},
         {"id": "moreculling"},
         {"id": "modmenu"},
         {"id": "iris"},

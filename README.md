@@ -209,7 +209,7 @@ Apart from that, we also include various Vanilla Tweaks resource packs:
 - ~~Disable Xaero's Minimap Entity Radar by default in the config~~
 - ~~Disable analog movement of Controlify by default~~
 - ~~Replace YOSBR with [Default Options](https://modrinth.com/mod/default-options), as YOSBR isn't supported for 1.21.5~~ (changed it back, as YOSBR does apparantly work on 1.21.5)
-- Add force version for 1.21.5 for YOSBR
+- ~~Add force version for 1.21.5 for YOSBR~~
 - ~~Add default options for YOSBR~~
 - Re-evaluate the need of the client-plus-lang.zip resource pack (now testing without it)
 - Eventually remove force version for SkinShuffle, when https://github.com/IMB11/SkinShuffle/issues/145 gets fixed.
