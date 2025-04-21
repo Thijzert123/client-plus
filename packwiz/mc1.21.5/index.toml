@@ -109,54 +109,6 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "cd173e558e965b88fb03bcc0de3468c10ff04fe78979777564ec0066c9911b9e"
 
 [[files]]
-file = "config/yosbr/config/soundboard/airhorn.wav"
-hash = "006af702254da089a9581dcf8e75c6cf66e643d64ecb55515675c1a4a9356b03"
-
-[[files]]
-file = "config/yosbr/config/soundboard/ba_dum_tss.wav"
-hash = "095a5d2e070d6a3e08660c0047f34f225c9d07b89b37c6d4d7b82f422b711b0d"
-
-[[files]]
-file = "config/yosbr/config/soundboard/crickets.wav"
-hash = "591c2cafcdf44812d614c179bdcc97d0b3e8bcae1dec1f90e843c050c0dca6e4"
-
-[[files]]
-file = "config/yosbr/config/soundboard/fortnite_death.wav"
-hash = "adec598b6b6429e39556706345e97714aad7ba2f49a684e970aa02a4cfd3ace7"
-
-[[files]]
-file = "config/yosbr/config/soundboard/get_out.wav"
-hash = "a39d97a221347324a6f7a795e3ea770d01ea3a6a19dba506899acc5941d02cc7"
-
-[[files]]
-file = "config/yosbr/config/soundboard/hog_rider.wav"
-hash = "1b4ca9200ae26f28ec906ab9987b086938962ca04da5250e7118e3d6c96d8d24"
-
-[[files]]
-file = "config/yosbr/config/soundboard/indian_music.wav"
-hash = "e53c00f6919d9b11eed423ea1b81537bddee977f4de9957f79ed9f70039882c8"
-
-[[files]]
-file = "config/yosbr/config/soundboard/metal_pipe.wav"
-hash = "0d07a51ba826f3c00988fc41d0e6d07e053af74c4466cec15f6fdaee8f1424e0"
-
-[[files]]
-file = "config/yosbr/config/soundboard/sad_violin.wav"
-hash = "ff5794633f64c792b7096beb8619f83ed9882d3799b4c8350a7e4e8bb5a62b54"
-
-[[files]]
-file = "config/yosbr/config/soundboard/scream.wav"
-hash = "543e75e923ae5c76bedc3972ecdcb2048b9cfd1e45441d7db9c213944f5fcb7c"
-
-[[files]]
-file = "config/yosbr/config/soundboard/vine_boom.wav"
-hash = "c076037bf6aa66f4f078e24467305f98bf52786a258cf6f41ae79006d3bf8f7f"
-
-[[files]]
-file = "config/yosbr/config/soundboard/your_phone_ringing.wav"
-hash = "651dfe2c9d7837d635c4ac9369b2023b6cbd5faa19103f5c3ade0ce2cf052649"
-
-[[files]]
 file = "config/yosbr/config/subtle_effects/biomes.toml"
 hash = "bedcefaff71b4f73b5f09968bea7e43cd0cac652aa4f826dfeeb6e468d0b4eed"
 
@@ -214,7 +166,7 @@ hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "2d6a90597a09cef20b1fa367564f04dd7ae79e325dbba5f57217333de6819814"
+hash = "df94834c7db6cc28cb81cbbda855880c8098fecaa5fbefa9228331705472219e"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

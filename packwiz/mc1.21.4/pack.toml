@@ -1,12 +1,12 @@
 name = "Client+"
 author = "Thijzert"
-version = "2.0.0+1.21.4"
+version = "2.0.1+1.21.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c10fd19e566e97c33d2ae1f831e1f050644dd87984fee8b3107c4db40cd1388d"
+hash = "f2cbe185f82fff9f85b5db8f8453bbc893f1cdb9faa5a0c6536c582c6e2dcdc6"
 
 [versions]
 fabric = "0.16.14"
