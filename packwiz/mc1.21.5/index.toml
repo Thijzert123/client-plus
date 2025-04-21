@@ -498,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "4847958325b3120f07c26395f42a2710154b73105a1d3dc89ad7553404f60014"
+hash = "4f91b0b457fcd875c378c1ab161ac57fbbfb06f5a99ca97c606addb6d6daa6c4"
 metafile = true
 
 [[files]]
@@ -779,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
-hash = "767a7395ce84c5affc26fcc2cf8266e88c15c12baf9587fa92627ef2d2024a7d"
+hash = "5507b242a9db7237f92f75009d0036fc606ccbde30de9ad520dac873812126ab"
 metafile = true
 
 [[files]]
@@ -820,6 +820,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/low-on-fire.pw.toml"
 hash = "387fc5bb6d1c183e58e6efc77742406394096d40f18c042f7a3209d608a50c4b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/meme-soundboard.pw.toml"
+hash = "65905d529d096e5dabb00ce208ff801025d62e94bcf348f00683f7e72f86ecac"
 metafile = true
 
 [[files]]

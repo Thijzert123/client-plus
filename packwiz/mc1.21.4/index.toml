@@ -593,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "c716469739cf0e6c33cd1c71ce67cd942a23395b5ecb3f04b59ddba87e0347f6"
+hash = "72028ee2d4464eb37fcdfafb39bab016e265f6f761bfd67dab103d2cb7b18e11"
 metafile = true
 
 [[files]]
@@ -964,7 +964,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
-hash = "767a7395ce84c5affc26fcc2cf8266e88c15c12baf9587fa92627ef2d2024a7d"
+hash = "5507b242a9db7237f92f75009d0036fc606ccbde30de9ad520dac873812126ab"
 metafile = true
 
 [[files]]
@@ -1035,6 +1035,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/low-on-fire.pw.toml"
 hash = "5bf1e0cdae07c586a852e0cb4068993f39dc62447cbe4560a8a7457dde0331a2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/meme-soundboard.pw.toml"
+hash = "65905d529d096e5dabb00ce208ff801025d62e94bcf348f00683f7e72f86ecac"
 metafile = true
 
 [[files]]
@@ -1119,7 +1124,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "e21049e1505b849d2996e1390a6e91e3030a44277b873242cadfc074b576662d"
+hash = "8bf0e8313ec1a14958e26d47d8bcece9a5d74e26c37b8c8a095a22217c9a850a"
 metafile = true
 
 [[files]]
