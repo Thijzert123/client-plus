@@ -232,6 +232,7 @@
                 "1.21.4": "KW0bu9nm",
                 "1.21.5": "KW0bu9nm"
             }},
-        {"id": "bare-bones"}
+        {"id": "bare-bones"},
+        {"id": "meme-soundboard"}
     ]
 }
