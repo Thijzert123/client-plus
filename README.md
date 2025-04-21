@@ -134,6 +134,7 @@ This is all the content in the modpack, including mods, resource packs and shade
 |            [Make Bubbles Pop](https://modrinth.com/project/gPCdW0Wr)           |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |          [MakeUp - Ultra Fast](https://modrinth.com/project/izsIPI7a)          |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                 [Melody](https://modrinth.com/project/CVT4pFB2)                |   ❌  |   ✅  |   ❌  |   ❌  |   ❌  |   ❌  |
+|            [Meme Soundboard](https://modrinth.com/project/FQKl8Yll)            |   ✅  |   ✅  |   ❌  |   ❌  |   ❌  |   ❌  |
 |            [Miniature Shader](https://modrinth.com/project/UaS8ROxa)           |   ❌  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |               [MixinTrace](https://modrinth.com/project/sGmHWmeL)              |   ❌  |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |
 |               [Mob Crates](https://modrinth.com/project/bYcjtBki)              |   ✅  |   ✅  |   ✅  |   ✅  |   ❌  |   ✅  |
