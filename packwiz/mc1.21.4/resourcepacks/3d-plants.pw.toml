@@ -1,13 +1,13 @@
 name = "Vervada's enhanced plants"
-filename = "Vervada's enhanced plants.zip"
+filename = "Vervada-s-enhanced-plants.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ghc0v6DT/versions/4wkNaqMn/Vervada%27s%20enhanced%20plants.zip"
+url = "https://cdn.modrinth.com/data/ghc0v6DT/versions/SEuNEXFK/Vervada-s-enhanced-plants.zip"
 hash-format = "sha512"
-hash = "8f684266673d57ca9e49ef8c186fa7f22dd6530821af1e271cdd98f46be4fa88c9f48561b87a6f6903909dacc067144e7a933e10e86b755919fd2e1a0d0d613a"
+hash = "011f494421c0bb782f8317a2c39cd524043c50cf6afd639c465ebaadf4759c8af406045cce525e677d6e724c9f4ec0c8b6fd70d3a46bf1d2fb0280be80538b52"
 
 [update]
 [update.modrinth]
 mod-id = "ghc0v6DT"
-version = "4wkNaqMn"
+version = "SEuNEXFK"

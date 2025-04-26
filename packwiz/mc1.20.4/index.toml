@@ -55,6 +55,11 @@ hash = "c4875223d9818b5290ad3a539a98443e8b9befb9d3769a9edc172c59cb42ea47"
 metafile = true
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "e94fd2f80b6029f19fb0c68d5bbf443a21645af0d668c5a544e3b3f23508fb61"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "76e15da6281121b0ad76cfa0dac2fa72b12e050e4cfbf44debbd819b7dac1f69"
 metafile = true
@@ -155,6 +160,11 @@ hash = "a6cecd85a3346765b6826122297823fcedbc807bb1fd01afdcf87e8185e90eb2"
 metafile = true
 
 [[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "ae09f4be75a77d041ef0752e9791b0287859543f502fc901bab276faee759678"
+metafile = true
+
+[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "0356bd3927102fa635e5537656294e4bec80e39ed0a51354659cd796e8a4cd13"
 metafile = true
@@ -216,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "ccaff1e2901296ed1c5c6c5dbb88770e3e0de4f6f34911017f423bda2b4dc164"
+hash = "9ec9cadec7382c41b611f1fbc2391cc53e0ed24ceccf7b228a2bc56c750776da"
 metafile = true
 
 [[files]]
@@ -711,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "3c34d74168d1d20effcaa9abd119534870009b6c478267787d78151eea05a67e"
+hash = "0dc89df7d502de288a564fd6c68b058b63cb92a7d17ccbb7e4762b11c3d402bf"
 metafile = true
 
 [[files]]
@@ -741,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "53e6acd425b4c6cb78ad0312a359075f0fe467d8855ac7be43e6b63d533dd1b6"
+hash = "8afd57aec2483a2dc0e90c67017e035af951dbe63ddf4850b56c4aa843113fbf"
 metafile = true
 
 [[files]]
@@ -791,7 +801,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
-hash = "767a7395ce84c5affc26fcc2cf8266e88c15c12baf9587fa92627ef2d2024a7d"
+hash = "5507b242a9db7237f92f75009d0036fc606ccbde30de9ad520dac873812126ab"
 metafile = true
 
 [[files]]
@@ -802,6 +812,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/colourful-containers-dark-mode-gui.pw.toml"
+hash = "45f2672b8518980a256ee731a54ebe86d072aa0e0f688e53462d05e5b1aa793c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/colourful-containers-gui.pw.toml"
+hash = "3d2122e5e955340d8b9ee6c0f264ee5648e244192130bc9191457c573d554fc8"
 metafile = true
 
 [[files]]
@@ -851,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/hyper-realistic-sky.pw.toml"
-hash = "8207767a0a9b5f1fcaf36c36ed0ef981043312127865444c698cf92afec2a0f3"
+hash = "fd2b9c30ecda7a8ad7dcabb0b1056a4322327115af8c52ef3d526118f11c9308"
 metafile = true
 
 [[files]]
@@ -867,11 +887,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/qraftys-capitalized-font.pw.toml"
 hash = "4ca26b083d5a1aee9ed098b1dcf8e1972e45f9e14e98c1f0902fc779cbcb70cf"
-metafile = true
-
-[[files]]
-file = "resourcepacks/recolourful-containers-gui.pw.toml"
-hash = "098464f9d1e3b3291e33758c87e700365dc849c5769bc581750d93be919e0f3e"
 metafile = true
 
 [[files]]
@@ -901,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c7fba5f4fcf669b23a37865cf687bce857f1f7295c8ec1fb7620583dee9625d3"
+hash = "6fed808df2d693d4e2b5e75e5080e3b1e3dbf0c644cacaf46b8ea3cc919a522b"
 metafile = true
 
 [[files]]
@@ -936,7 +951,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "e21049e1505b849d2996e1390a6e91e3030a44277b873242cadfc074b576662d"
+hash = "8bf0e8313ec1a14958e26d47d8bcece9a5d74e26c37b8c8a095a22217c9a850a"
 metafile = true
 
 [[files]]
@@ -952,4 +967,9 @@ metafile = true
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
 hash = "2c851c5442a8c0482422c600fa68ccc808e0cbacf08b832f9a25be4cfdcc56f3"
+metafile = true
+
+[[files]]
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "0c768f542dd2d7422360aa590fb6345864e9382a292550425396629f25bc110e"
 metafile = true

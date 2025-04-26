@@ -1,0 +1,13 @@
+name = "Meme Soundboard"
+filename = "meme-soundboard.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FQKl8Yll/versions/5BxyePOO/meme-soundboard.zip"
+hash-format = "sha512"
+hash = "698b086471e1ce43e9b3bc187eb119b8be63ada4453d1945b71fdba0eef2919b325280d7015470b91f532ec3e537d0634f6ab65d941ac90cfabeb0aef0b517f5"
+
+[update]
+[update.modrinth]
+mod-id = "FQKl8Yll"
+version = "5BxyePOO"

@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "f5d0d082d4d3064da7dee4ad1881788f4782a804a2e1b034c2a903e2b68b97eb"
+hash = "8422a1f100214c4e7589c563e8a09addc10c9c0c1c2f3ab6f6c9ba7cadd37b98"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "1d537dc58d3dae0aea82cc739657bc23c53c5e789d566408d6f19a13c8b407f5"
+hash = "619af1b215c4eb59a620220833363a9998ab5150bb307efc96627ba532c71f22"
 metafile = true
 
 [[files]]
@@ -690,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "72ae143a29339b05237519f59d23f3bae5b4adf672ce5195b07a4da8833c8eb6"
+hash = "1caa2814a90844bdd1d43f1a8bcbf9ee0a96b70d2f65fa14e193def4cc756536"
 metafile = true
 
 [[files]]
@@ -805,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "a5f9299d97fa94f981726417671569eea366d283720cd08e7e4e20c07de0bb60"
+hash = "056202946961c2e466355305003cbfdbdb9048b7356c71d37f31b1a4c2b570aa"
 metafile = true
 
 [[files]]
@@ -840,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "e4230f82fe4ff42d43d48b12def09ebc4064b9039170ca1fb75ee34ea80c7444"
+hash = "539c5cd2832799a5c5df937ce9711d3eb5408fc96dc4043e46ab079d7444643b"
 metafile = true
 
 [[files]]
@@ -875,7 +875,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/3d-plants.pw.toml"
-hash = "36fc091ff23250a973b8f3f9e0ffd656e0f358f6623fe401c5ed80bd7136f105"
+hash = "46a8572b7ac1f9ec2b120330a60b7f851a16ea105408e7228f5f9e1184313e85"
 metafile = true
 
 [[files]]
@@ -976,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/icons-advertisement-removal.pw.toml"
-hash = "782fa53c5ef171cc512bf3cf860ed43c51d51ed44335c0d29459feffb15bef69"
+hash = "8d336a34a93700e8ff872f3a43a3c05beb6a83e29d775538dda1993363eed27d"
 metafile = true
 
 [[files]]
@@ -1036,7 +1036,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/spryzeens-knight-armor.pw.toml"
-hash = "2ec7c592f3735a691ef3fa113b35000df76ac8daca5e5286e63e058513e6b2e8"
+hash = "613fe3895f7ff6c8e9d735bdd501814c4b9ee30deb2a73c7f29aaa4c658e241a"
 metafile = true
 
 [[files]]
