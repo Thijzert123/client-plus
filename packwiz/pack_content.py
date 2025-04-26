@@ -191,7 +191,8 @@
         {"id": "icons",
             "force-versions": {
                 "1.21.3": "iM6mxyAW",
-                "1.21.4": "iM6mxyAW"
+                "1.21.4": "iM6mxyAW",
+                "1.21.5": "iM6mxyAW"
             }},
         {"id": "better-flame-particles"},
         {"id": "simple-grass-flowers"},
