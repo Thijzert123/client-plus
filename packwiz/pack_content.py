@@ -188,7 +188,7 @@
         {"id": "default-splashes"},
         {"id": "fullbright-ub"},
         {"id": "fresh-animations"},
-        {"id": "visual-armor-trims",
+        {"id": "visuals",
             "exclude": ["1.20.1", "1.20.4", "1.21.1", "1.21.3", "1.21.4"]},
         {"id": "icons",
             "force-versions": {
