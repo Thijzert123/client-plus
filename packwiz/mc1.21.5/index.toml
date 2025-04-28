@@ -224,6 +224,11 @@ hash = "5dccb53650c19b933db206e676ef00f1d1d0129f6d072a53e5111421ea461cf6"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "6df3e228c8d79cd14de683a5de571cf0f0fbcd412d48db463240e47b893b9a81"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "20d7b9a3333ef86d70c3b3becaeccc9ef5961c41e8cd936bb1df9cf0b946c546"
 metafile = true
@@ -231,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/cat_jam.pw.toml"
 hash = "46886c1a213a1ca7d065c24dc2b553b4d234ec30e473832a0051fd811fc34ae2"
+metafile = true
+
+[[files]]
+file = "mods/cave-dust.pw.toml"
+hash = "a3ec5f966eef5e3e7d5311327f630dc4f387ab8d4313756b90147e83ee8a061f"
 metafile = true
 
 [[files]]
@@ -330,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "7ae941113f07cb7c0bbc94480a4ac89bae19c13586d676eb5fd40a32f61060ee"
+hash = "016ac85fe6fe1a2ef2ffe564642b035d374cf76d695f486c35fea6aaeba2dbe5"
 metafile = true
 
 [[files]]
@@ -680,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "dcadeab45df698720477f5f5a095ffa7e574f1d3c675914a3f29148d9be08ed1"
+hash = "6f0bbf28bc150d4813656c15a8f5451e0d8b15616fdd6a0d79737f19674de435"
 metafile = true
 
 [[files]]
@@ -881,7 +891,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "8bf0e8313ec1a14958e26d47d8bcece9a5d74e26c37b8c8a095a22217c9a850a"
+hash = "db3eac9aaadd5d732180a0dd7ae8a322c07386259a971b177f4f2fef50a29c6f"
 metafile = true
 
 [[files]]

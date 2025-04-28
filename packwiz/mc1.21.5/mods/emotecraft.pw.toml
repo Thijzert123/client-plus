@@ -1,13 +1,13 @@
 name = "Emotecraft"
-filename = "emotecraft-fabric-for-MC1.21.5-2.6.0-b.build.93.jar"
+filename = "emotecraft-fabric-for-MC1.21.5-2.6.0-b.build.95.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/mEHoMDCP/emotecraft-fabric-for-MC1.21.5-2.6.0-b.build.93.jar"
+url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/2CjwmOzZ/emotecraft-fabric-for-MC1.21.5-2.6.0-b.build.95.jar"
 hash-format = "sha512"
-hash = "05a3d7a620c078671b6d896bc131c3fb04c5b68cf7e77060ebda2db14e4cfcd3345f66fa5210f2f657c1dc9a28bb05dc506cc9a57f10763eef929ca3d275f5c9"
+hash = "a131c3e08792ec93e6c9cb3580abfc1f114d7ff21004c7681030d3504ed6219f742184f93ae80e3d4d84015b3971701ac946361684676125a0d099bda280bd83"
 
 [update]
 [update.modrinth]
 mod-id = "pZ2wrerK"
-version = "mEHoMDCP"
+version = "2CjwmOzZ"
