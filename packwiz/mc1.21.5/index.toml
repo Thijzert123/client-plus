@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "ef32434536a29994b5aa33cf6d53efa8d430aaed4192a3d07bc1f044bc4dcf67"
+hash = "d3b90bf089e63af8545bfb795a4d20dc4bb52ceec87e5b632cdbfaad730bb8f6"
 metafile = true
 
 [[files]]
@@ -891,12 +891,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "25c104410410fdfd5e0dde43cfc2f6ddf473cf74b530ee5af1528a69951e5c4d"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "cb06f81e885d580e2f6a864e31036e921cd2bfd5a04fbb472c86a7bc33bc6e44"
+hash = "9025311f42fe8ab581987962c9c6b3ec5a50f5afc803e9d867dc580cb0b66190"
 metafile = true
 
 [[files]]

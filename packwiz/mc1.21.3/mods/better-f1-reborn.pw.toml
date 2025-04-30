@@ -1,13 +1,13 @@
 name = "Better F1 Reborn"
-filename = "BetterF1-Fabric-1.1-1.21.4.jar"
+filename = "BetterF1-Fabric-1.1-1.21.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2JIeCmxb/versions/O84sz8kz/BetterF1-Fabric-1.1-1.21.4.jar"
+url = "https://cdn.modrinth.com/data/2JIeCmxb/versions/yh4EY0g9/BetterF1-Fabric-1.1-1.21.5.jar"
 hash-format = "sha512"
-hash = "1fec6c3d3f5b0d88ae70e5073da1da7472615c420facc8a6def6464631dda38d96e013c4e1ecd1ddf86d29e8b751c88883d4e188a86c3d43631c4d1fa421f139"
+hash = "8acd18a84d4eaee02f94d7841bab74fbb7097d402de9bea1ddbc12ba50623092b7d86bf02e2320f8a49a91d49fd6529d01240446b7e7c9fec4b17e9d834c93ef"
 
 [update]
 [update.modrinth]
 mod-id = "2JIeCmxb"
-version = "O84sz8kz"
+version = "yh4EY0g9"

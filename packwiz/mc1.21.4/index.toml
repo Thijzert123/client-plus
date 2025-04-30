@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
+hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-f1-reborn.pw.toml"
-hash = "8cfabc93bfc51735a04e6d1c55b265d521fe74910eb8842f8da75e804124decf"
+hash = "f161789f674eef361553d75291e13d837db80b1a64800ec483465ca670c47150"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "70736e594e6023d68367510f699f99aa8b26c84fa6ad0d656fbf08c70539d991"
+hash = "f82e56c338c03436592a3e9746d0383f0d48e51bcbbf820917a1c40008a486b4"
 metafile = true
 
 [[files]]
@@ -690,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "1caa2814a90844bdd1d43f1a8bcbf9ee0a96b70d2f65fa14e193def4cc756536"
+hash = "10efb7e8e9042ad12c42a0078712675295c3298c841fcaa8184fc54c466d646c"
 metafile = true
 
 [[files]]
@@ -795,7 +795,7 @@ metafile = true
 
 [[files]]
 file = "mods/symbol-chat.pw.toml"
-hash = "621ba02385bec8161eb2d90bc8ddfc4d0d3349c03a9387f31e5ba5306f7a6094"
+hash = "0c482689dc02e920dfe6c0bde6bbfe31520bb1376e66d93c2d7b24d4f431001a"
 metafile = true
 
 [[files]]
@@ -960,6 +960,11 @@ hash = "3e05dfcb764800cb504583666934663c4f506ebc39e68fcd99290604ba39c8b5"
 metafile = true
 
 [[files]]
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "7da990eb8ac213fca441ac14c3b3e34aafc8c372e1c4e3f79403b998c842f8da"
+metafile = true
+
+[[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
 hash = "590d63ddd680c1a9ce96945cec48c1b1dca146090003c850cf7a9cb855452699"
 metafile = true
@@ -1016,7 +1021,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/reimagined.pw.toml"
-hash = "a96fbdd210a53701c0312d8e62dd6e80dfb852d20ecb13503877e499315afa1b"
+hash = "da4fe1086c78987d0e5c914647a88a94c9afda2323a0bf44986ab67f06b39283"
 metafile = true
 
 [[files]]
@@ -1066,12 +1071,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "b90b25b61edd0dfe3bb3074e2343351c7a427d24bb1fa42c642a157b0fd887e4"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "fd18eb54847fd18feba9db1e9960c741cdaa6083c984773f8f79ae22182fad76"
+hash = "9025311f42fe8ab581987962c9c6b3ec5a50f5afc803e9d867dc580cb0b66190"
 metafile = true
 
 [[files]]

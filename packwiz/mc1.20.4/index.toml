@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "6dbbc24bc721547dd6ad2784b6f9c6c9d71089f3e45374cc2fee44efe1ce4197"
+hash = "5bbaa879b990b6b241f774ae321efba6dc2871513f27c72cc100e3c4cdb4806f"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "d67d2322aea6be6c753ecb98445f83dc323de0b5b7ccefa8a2eb3e171189a18e"
+hash = "a6881a216949b9ddabe27335f7416626a3f23231773ba401778ff54dd7f73956"
 metafile = true
 
 [[files]]
@@ -896,7 +896,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/reimagined.pw.toml"
-hash = "a96fbdd210a53701c0312d8e62dd6e80dfb852d20ecb13503877e499315afa1b"
+hash = "da4fe1086c78987d0e5c914647a88a94c9afda2323a0bf44986ab67f06b39283"
 metafile = true
 
 [[files]]
@@ -936,12 +936,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "b90b25b61edd0dfe3bb3074e2343351c7a427d24bb1fa42c642a157b0fd887e4"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "fd18eb54847fd18feba9db1e9960c741cdaa6083c984773f8f79ae22182fad76"
+hash = "9025311f42fe8ab581987962c9c6b3ec5a50f5afc803e9d867dc580cb0b66190"
 metafile = true
 
 [[files]]
