@@ -173,7 +173,8 @@
         {"id": "viewboboptions"},
         {"id": "fancymenu"},
         {"id": "rsls"},
-        {"id": "chatanimation"}],
+        {"id": "chatanimation"},
+        {"id": "withered-hearts"}],
     "shaderpacks": [
         {"id": "makeup-ultra-fast-shaders"},
         {"id": "miniature-shader"},
