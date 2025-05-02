@@ -48,7 +48,8 @@
         {"id": "better-stats"},
         {"id": "music-notification"},
         {"id": "status-effect-bars"},
-        {"id": "mace-but-3d"},
+        {"id": "mace-but-3d",
+            "include": ["1.21.1", "1.21.3"]},
         {"id": "glowing-torchflower"},
         {"id": "detail-armor-bar"},
         {"id": "visuality"},
@@ -176,7 +177,8 @@
         {"id": "chatanimation"},
         {"id": "withered-hearts"},
         {"id": "mod-loading-screen"},
-        {"id": "vtdownloader"}],
+        {"id": "vtdownloader"},
+        {"id": "respackopts"}],
     "shaderpacks": [
         {"id": "makeup-ultra-fast-shaders"},
         {"id": "miniature-shader"},
@@ -241,6 +243,8 @@
         {"id": "bare-bones"},
         {"id": "meme-soundboard"},
         {"id": "thfa"},
-        {"id": "torturable-healthbars"}
+        {"id": "torturable-healthbars"},
+        {"id": "mace-but-3d-resourcepack",
+            "exclude": ["1.20.1", "1.20.4", "1.21.1", "1.21.3"]}
     ]
 }
