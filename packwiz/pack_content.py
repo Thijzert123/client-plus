@@ -239,6 +239,8 @@
                 "1.21.5": "KW0bu9nm"
             }},
         {"id": "bare-bones"},
-        {"id": "meme-soundboard"}
+        {"id": "meme-soundboard"},
+        {"id": "thfa"},
+        {"id": "torturable-healthbars"}
     ]
 }
