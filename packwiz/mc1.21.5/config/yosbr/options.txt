@@ -51,7 +51,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/meme-soundboard.zip","file/Chat Reporting Helper.zip","file/EvenBetterEnchants_v2_r1.zip","file/Icons v.1.11.3.zip","file/Vanilla_Tweaks_3D_Blocks.zip","file/Vanilla_Tweaks_Colored_Ping_Indicator.zip","file/Vanilla_Tweaks_Lower_Shield.zip","file/Vanilla_Tweaks_Variated_Blocks.zip","subtle_effects:biome_color_water_particles","file/Default_Splashes.zip","file/SodiumTranslations.zip","file/visuals_1.0.zip","file/enchant icons 1.21.5 v1.3.zip","file/LowOnFire 1.21.5.zip","file/Icons Branding Remover 1.21.5.zip"]
+resourcePacks:["vanilla","fabric","file/meme-soundboard.zip","file/Chat Reporting Helper.zip","file/EvenBetterEnchants_v2_r1.zip","file/Icons v.1.11.3.zip","file/Vanilla_Tweaks_3D_Blocks.zip","file/Vanilla_Tweaks_Colored_Ping_Indicator.zip","file/Vanilla_Tweaks_Lower_Shield.zip","file/Vanilla_Tweaks_Variated_Blocks.zip","subtle_effects:biome_color_water_particles","file/Default_Splashes.zip","file/SodiumTranslations.zip","file/visuals_1.0.zip","file/enchant icons 1.21.5 v1.3.zip","file/LowOnFire 1.21.5.zip","file/Icons Branding Remover 1.21.5.zip","file/macebut3d-1.0.0.zip","file/§bTorturable Healthbars with FA.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
