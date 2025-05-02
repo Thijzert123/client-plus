@@ -243,3 +243,4 @@ Apart from that, we also include various Vanilla Tweaks resource packs:
 - Eventually remove force version for SkinShuffle, when https://github.com/IMB11/SkinShuffle/issues/145 gets fixed.
 - Possibly also add force version for SkinShuffle for 1.21.5 to avoid FancyMenu incompatibility
 - Add force-version for Colourful GUI for 1.21.5
+- Make sure we keep using the full version of the Torturable Healthbars resource packs (`torturable-healthbars` and `thfa`)
