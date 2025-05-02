@@ -175,7 +175,8 @@
         {"id": "rsls"},
         {"id": "chatanimation"},
         {"id": "withered-hearts"},
-        {"id": "mod-loading-screen"}],
+        {"id": "mod-loading-screen"},
+        {"id": "vtdownloader"}],
     "shaderpacks": [
         {"id": "makeup-ultra-fast-shaders"},
         {"id": "miniature-shader"},
