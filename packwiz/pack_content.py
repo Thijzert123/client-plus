@@ -174,7 +174,8 @@
         {"id": "fancymenu"},
         {"id": "rsls"},
         {"id": "chatanimation"},
-        {"id": "withered-hearts"}],
+        {"id": "withered-hearts"},
+        {"id": "mod-loading-screen"}],
     "shaderpacks": [
         {"id": "makeup-ultra-fast-shaders"},
         {"id": "miniature-shader"},
