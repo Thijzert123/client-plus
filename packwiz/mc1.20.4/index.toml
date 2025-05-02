@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "a6cecd85a3346765b6826122297823fcedbc807bb1fd01afdcf87e8185e90eb2"
+hash = "7c293b14a198d5fdbec6810a9e8e51124e98d584d32633d61596926d2be62f7c"
 metafile = true
 
 [[files]]
@@ -450,6 +450,11 @@ hash = "0ad42e479004061ce58f481467e6757c18ec1f92c0e9906839d0cd0ca3a456ab"
 metafile = true
 
 [[files]]
+file = "mods/libjf.pw.toml"
+hash = "fe11c947df53fb88889e7541a6702d230f3b1c10db8faf091bc61fd46651f47b"
+metafile = true
+
+[[files]]
 file = "mods/lighty.pw.toml"
 hash = "c15c5a3ecf23e8b27e9d2d508e251a85d0ff0f51b437bfbac09612461f5c5a13"
 metafile = true
@@ -482,6 +487,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
+metafile = true
+
+[[files]]
+file = "mods/mod-loading-screen.pw.toml"
+hash = "147f3fc9a0fa837fcc2a7fc21fd01cb6b46c6fd842b1f40c20f6066d239d0e72"
 metafile = true
 
 [[files]]
@@ -620,6 +630,11 @@ hash = "0ef42bb08a27404875467f94c1a6ed717314a6b3a77d9897f7a3e9c7d43aeb94"
 metafile = true
 
 [[files]]
+file = "mods/respackopts.pw.toml"
+hash = "a756fd0dc727e857b7c1ee1d54e8dfc304caad8dc67aa65312ba901d41de196f"
+metafile = true
+
+[[files]]
 file = "mods/rsls.pw.toml"
 hash = "d38432c1742c9180ce57283349f47f2cfccb2cabde9d5acc77929f6ca114658a"
 metafile = true
@@ -737,6 +752,11 @@ metafile = true
 [[files]]
 file = "mods/voicechat-soundboard.pw.toml"
 hash = "c1e01b65d381fa60598e0ee26e3b9d97a369c4c860d8e47629070d15097e0678"
+metafile = true
+
+[[files]]
+file = "mods/vtdownloader.pw.toml"
+hash = "ef9de681623c9f54d1bc87b95faf4c538f852dc62205a1063e23eb84d4d4ca0a"
 metafile = true
 
 [[files]]
@@ -915,6 +935,16 @@ hash = "a495baae0cb18fbdb7cb3e2fedd79319d0cbee152ded80b9f6a9516bb4bc3e45"
 metafile = true
 
 [[files]]
+file = "resourcepacks/thfa.pw.toml"
+hash = "cec7e34002239ba7370a180d2395868f55301a9adb49413e1cb316ff6b34569b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/torturable-healthbars.pw.toml"
+hash = "9d607f722beace5f64ce99232cd23bb63a39cfc331cc99ba4f1906d31f2f977b"
+metafile = true
+
+[[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "6fed808df2d693d4e2b5e75e5080e3b1e3dbf0c644cacaf46b8ea3cc919a522b"
 metafile = true
@@ -961,7 +991,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "2c851c5442a8c0482422c600fa68ccc808e0cbacf08b832f9a25be4cfdcc56f3"
+hash = "63e8a79ebf4c2cfa88f9fd12ff6ebb36b7c5c2524ac302f02cf23dbcecd77823"
 metafile = true
 
 [[files]]

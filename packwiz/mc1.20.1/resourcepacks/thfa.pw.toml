@@ -1,0 +1,13 @@
+name = "Torturable Healthbars, but with FA"
+filename = "§b TH for Fresh's Animations 2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mQpUi57Q/versions/iIIUhbnO/%C2%A7b%20TH%20for%20Fresh%27s%20Animations%202.1.zip"
+hash-format = "sha512"
+hash = "0e8707b149dae24eb9e9d27bc518a7d89aefbf502eb19987429f255e899d9e0bb83d315c2569b2d2c34b8c12cd0f2b88f9c38193d6f052ae1e0a425d1e82e731"
+
+[update]
+[update.modrinth]
+mod-id = "mQpUi57Q"
+version = "iIIUhbnO"

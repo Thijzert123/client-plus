@@ -1,0 +1,13 @@
+name = "Torturable Healthbars"
+filename = "TH Addons [Extract this].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WPuyL1eO/versions/uHqR9Y4x/TH%20Addons%20%5BExtract%20this%5D.zip"
+hash-format = "sha512"
+hash = "06713a9f04c1edd38f51c2a24aa59b605e2072e1b2e56e0e83cb16fc204445a9c7edfe6c196dcbe4ad71ed4a3c9975897c43bfa56cda326b984200c772153800"
+
+[update]
+[update.modrinth]
+mod-id = "WPuyL1eO"
+version = "uHqR9Y4x"

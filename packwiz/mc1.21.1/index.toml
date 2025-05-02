@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "24828835695c3e91f506dab3bdd47e54cb31412187ab0670bbb09cfeb710994c"
+hash = "812c45e6d4bb3e7fda349dc1562222b7df1933033665476d11b95e5d65a87a87"
 metafile = true
 
 [[files]]
@@ -466,6 +466,11 @@ hash = "bf1904c233ebafbe5bb2a70390b0f94457d4f953d9168219f8048b83a76c8ead"
 metafile = true
 
 [[files]]
+file = "mods/libjf.pw.toml"
+hash = "10d2cb5f575d0c290549758cafe0e3b15acbca8c5163aa4209cbe4fb8fcb7de5"
+metafile = true
+
+[[files]]
 file = "mods/lighty.pw.toml"
 hash = "237f61291d7f6cbfe8bafd6fc22657000adc2b8de269061eb81b6eb21d3ea5d1"
 metafile = true
@@ -503,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
+metafile = true
+
+[[files]]
+file = "mods/mod-loading-screen.pw.toml"
+hash = "147f3fc9a0fa837fcc2a7fc21fd01cb6b46c6fd842b1f40c20f6066d239d0e72"
 metafile = true
 
 [[files]]
@@ -641,6 +651,11 @@ hash = "61a17d918ed7c2ba133a49322c270b63deb890f27e6fe2c65717ea3bce0eab7a"
 metafile = true
 
 [[files]]
+file = "mods/respackopts.pw.toml"
+hash = "6891f1e1b0b0fd3650023b8e984447f7e0a3e1488a203fec0cdfd201a9a59ee7"
+metafile = true
+
+[[files]]
 file = "mods/rsls.pw.toml"
 hash = "d38432c1742c9180ce57283349f47f2cfccb2cabde9d5acc77929f6ca114658a"
 metafile = true
@@ -761,6 +776,11 @@ hash = "97b7c86366891221e505865b75f71e4ea0e8245c6b79613fc02d5953b203be36"
 metafile = true
 
 [[files]]
+file = "mods/vtdownloader.pw.toml"
+hash = "a2c27c5310e026d34b4ac1123b02c6e7bbfbd8faa9b7e798f4bc758bfb4a6348"
+metafile = true
+
+[[files]]
 file = "mods/waxedicons.pw.toml"
 hash = "67e7227fcd52d903ff38fbbcdb94cc630aa0f870da729b0c262c77925308bebf"
 metafile = true
@@ -768,6 +788,11 @@ metafile = true
 [[files]]
 file = "mods/wider-tab.pw.toml"
 hash = "8e656935ea3efe391a5a60da884dee8d1aa777c31f9dbc0b4fcced73a660803a"
+metafile = true
+
+[[files]]
+file = "mods/withered-hearts.pw.toml"
+hash = "d6cae12f686011c91fcb5f2e692829f2942de36f022a1688a8a0ea829eca33db"
 metafile = true
 
 [[files]]
@@ -1002,6 +1027,16 @@ hash = "613fe3895f7ff6c8e9d735bdd501814c4b9ee30deb2a73c7f29aaa4c658e241a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/thfa.pw.toml"
+hash = "a7d08befda39ed2f424683fde08a5de721d4bad4776f40e7cb36864257008498"
+metafile = true
+
+[[files]]
+file = "resourcepacks/torturable-healthbars.pw.toml"
+hash = "1f8ec5a6a275983f4466ddce80f6682d29b623629392e17896c563532ea97dbf"
+metafile = true
+
+[[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "6fed808df2d693d4e2b5e75e5080e3b1e3dbf0c644cacaf46b8ea3cc919a522b"
 metafile = true
@@ -1048,7 +1083,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "2c851c5442a8c0482422c600fa68ccc808e0cbacf08b832f9a25be4cfdcc56f3"
+hash = "63e8a79ebf4c2cfa88f9fd12ff6ebb36b7c5c2524ac302f02cf23dbcecd77823"
 metafile = true
 
 [[files]]
