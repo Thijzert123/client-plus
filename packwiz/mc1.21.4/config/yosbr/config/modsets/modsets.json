@@ -1,0 +1,86 @@
+{
+  "chatanimation": {
+    "text": "Smooth Chat Animation",
+    "description": "Improves the chat visuals by adding smooth animations. Also removes the message indicator, the line to the left of messages.",
+    "mods": [
+      "chatanimation"
+    ]
+  },
+  "explosiveenhancement": {
+    "text": "Explosive Enhancement",
+    "description": "Makes explosions look better.",
+    "mods": [
+      "explosiveenhancement"
+    ]
+  },
+  "eg-inventory-blur": {
+    "text": "Inventory Blur",
+    "description": "Applies the new menu background blur to Inventories such as chests, the player inventory, etc.",
+    "mods": [
+      "eg-inventory-blur"
+    ]
+  },
+  "cavedust": {
+    "text": "Cave Dust",
+    "description": "Adds the white ash particle from the Basalt Deltas biome to the underground to simulate dust.",
+    "mods": [
+      "cavedust"
+    ]
+  },
+  "sounds": {
+    "text": "Sounds",
+    "description": "Adds a variety of new sound effects and improves existing ones that don't quite fit.",
+    "mods": [
+      "sounds"
+    ]
+  },
+  "visuality": {
+    "text": "Visuality",
+    "description": "Adds a bunch of new particles such as crystal sparkles, particles on mob hitting, custom blob particles for slimes and environmental particles.",
+    "mods": [
+      "visuality"
+    ]
+  },
+  "subtle_effects": {
+    "text": "Subtle Effects",
+    "description": "Adds many new subtle details through particles and a few sounds.",
+    "mods": [
+      "subtle_effects"
+    ]
+  },
+  "particular": {
+    "text": "Particular",
+    "description": "Enhances Minecraft's ambience with visual effects like fireflies, falling leaves, and waterfall cascades.",
+    "mods": [
+      "particular"
+    ]
+  },
+  "make_bubbles_pop": {
+    "text": "Make Bubbles Pop",
+    "description": "Makes bubble particles pop and lets them rise realistically to the water surface.",
+    "mods": [
+      "make_bubbles_pop"
+    ]
+  },
+  "fallingleaves": {
+    "text": "Falling Leaves",
+    "description": "Adds a neat little particle effect to leaf blocks.",
+    "mods": [
+      "fallingleaves"
+    ]
+  },
+  "distanthorizons": {
+    "text": "Distant Horizons",
+    "description": "Add simplified terrain past Minecraft's default view distance to improve performance and allow for longer draw distances. Can cause crashes.",
+    "mods": [
+      "distanthorizons"
+    ]
+  },
+  "betterclouds": {
+    "text": "Better Clouds",
+    "description": "Replaces the default clouds with beautiful clouds in touch with the vanilla style.",
+    "mods": [
+      "betterclouds"
+    ]
+  }
+}

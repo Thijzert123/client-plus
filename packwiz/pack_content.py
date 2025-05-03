@@ -178,7 +178,17 @@
         {"id": "withered-hearts"},
         {"id": "mod-loading-screen"},
         {"id": "vtdownloader"},
-        {"id": "respackopts"}],
+        {"id": "respackopts"},
+        {"id": "mod-sets",
+            "force-versions": {
+                "1.21.4": "dYzIIsk2" # use 1.21.1 version
+        }},
+        {"id": "kinecraft-serialization",
+            "force-versions": {
+                "1.21.4": "ppUfV7UC" # use 1.21 version
+        }},
+        {"id": "better-clouds"},
+        {"id": "distanthorizons"}],
     "shaderpacks": [
         {"id": "makeup-ultra-fast-shaders"},
         {"id": "miniature-shader"},

@@ -30,7 +30,11 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customizablemenus.txt"
-hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+hash = "90a6ec0bce81119012fd729b39f375cb4b54910a598837dfb27d4f9de0cc36db"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/modmenu_layout.txt"
+hash = "6559b05e436719006c0d05a0f26f9d988cab2040478dd2bcc70bedd780228456"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/title_screen_layout.txt"
@@ -63,6 +67,18 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 [[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "a977a629ef7e49a5a72170471324893d27c23e0521c551f34ca7cf4632cc95dc"
+
+[[files]]
+file = "config/yosbr/config/modsets/disabled_mods.json"
+hash = "26eba3dda6eb5cf8fb96d5414cc1cf28ab323c00cc7dee7d5ca9c4e35959be82"
+
+[[files]]
+file = "config/yosbr/config/modsets/modsets.json"
+hash = "dd2351acb4e670aeefacd85fea32340b1f05a0a0eb934db4009a3af9ce9e30a8"
+
+[[files]]
+file = "config/yosbr/config/modsets/rules/rules.json"
+hash = "b9897a82580e49db96dd74ddbbfa2683540c21310a51f697368e25b8d727c34e"
 
 [[files]]
 file = "config/yosbr/config/roughlyenoughitems/collapsible.json5"
@@ -211,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "d6137fabcdc6232b5286bf7ead13b51f56d5bb70bc23c28c04666c01dfe8e592"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "25e3fecb8180893095cc52585cc77ae943e2ea9e7382936e00c78a893d46d455"
 metafile = true
 
 [[files]]
@@ -364,6 +385,11 @@ hash = "f40e996859e78555a081ea5578d4f74bb22eccc675d3b2c76c6cdbb51e731bcc"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "2ad8cd5745efd0bd0f7f32f060bec092a7b2ef8ac3c6163033193a8277012e43"
+metafile = true
+
+[[files]]
 file = "mods/durability-plus.pw.toml"
 hash = "4df86a1620217251fc0c2bd6971a207bd3745db6f729b2175818948f43fc9e6e"
 metafile = true
@@ -390,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "619af1b215c4eb59a620220833363a9998ab5150bb307efc96627ba532c71f22"
+hash = "f075602dd07cf2c9d42b2c92ccc082c410271de30ca1332ec3605a6f5af4a55d"
 metafile = true
 
 [[files]]
@@ -534,6 +560,11 @@ hash = "114968e70a3e2c2f7a33db6ed305256585353361a28210a0b872df52fc5542aa"
 metafile = true
 
 [[files]]
+file = "mods/kinecraft-serialization.pw.toml"
+hash = "5b35c14ae3eb6b97378984b2018dc5355c68f56cd1746383671c367977bfc12d"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "dafb84b20ceb9f80a2f98170a05b90a7225bc476f64593af2a51d332055b2e8b"
 metafile = true
@@ -596,6 +627,11 @@ metafile = true
 [[files]]
 file = "mods/mod-loading-screen.pw.toml"
 hash = "147f3fc9a0fa837fcc2a7fc21fd01cb6b46c6fd842b1f40c20f6066d239d0e72"
+metafile = true
+
+[[files]]
+file = "mods/mod-sets.pw.toml"
+hash = "bc90d7bd4b5e3d6553ac8604f61ab52a0d7d9e3d995ea20781660f8f5dbf65de"
 metafile = true
 
 [[files]]
@@ -1091,7 +1127,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "6fed808df2d693d4e2b5e75e5080e3b1e3dbf0c644cacaf46b8ea3cc919a522b"
+hash = "d89e131bf71f7e2f972086b1f45e39dac4aaec90fa54b75ebb54655513aa5928"
 metafile = true
 
 [[files]]

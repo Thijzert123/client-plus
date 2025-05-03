@@ -1,0 +1,57 @@
+{
+  "$schema": "https://github.com/SettingDust/ModSets/raw/main/rules.schema.json",
+  "text": {
+    "text": "Client+ Mod Customization",
+    "bold": true
+  },
+  "rules": [
+    {
+      "text": "Restart Minecraft to apply all changes!",
+      "controller": {
+        "type": "label"
+      }
+    },
+    {
+      "text": "General Mods",
+      "description": "General client-side mods.",
+      "controller": {
+        "type": "mods_group",
+        "collapsed": false,
+        "ids": [
+          "distanthorizons"
+        ]
+      }
+    },
+    {
+      "text": "UI Mods",
+      "description": "Mods that change the ui.",
+      "controller": {
+        "type": "mods_group",
+        "collapsed": false,
+        "ids": [
+          "chatanimation",
+          "eg-inventory-blur"
+        ]
+      }
+    },
+    {
+      "text": "Ambiance Mods",
+      "description": "Mods that are purely for enhancing the ambiance of your Minecraft world, at the cost of performance.",
+      "controller": {
+        "type": "mods_group",
+        "collapsed": false,
+        "ids": [
+          "cavedust",
+          "visuality",
+          "particular",
+          "sounds",
+          "explosiveenhancement",
+          "subtle_effects",
+          "make_bubbles_pop",
+          "fallingleaves",
+          "betterclouds"
+        ]
+      }
+    }
+  ]
+}
