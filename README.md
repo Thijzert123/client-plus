@@ -13,7 +13,7 @@ _Note: a few mods are (partially) server-side or require a server with the same 
 ## Mod information
 All the mods, resource packs and shaders have been carefully selected. If you have an issue of any kinds, or if you have recommendations or feature requests, feel free to [open an issue on GitHub](https://github.com/Thijzert123/client-plus/issues).
 
-This is all the content in the modpack, including mods, resource packs and shaders and their dependencies:
+Below is all the content in the modpack, including mods, resource packs and shaders and their dependencies. Please note that you need to enable some mods to get their functionality. To do this, open the game, go to `Mods -> Customize Mods` and enable the mods you want.
 |                                        Name                                       |1.21.5|1.21.4|1.21.3|1.21.1|1.20.4|1.20.1|
 |-----------------------------------------------------------------------------------|------|------|------|------|------|------|
 |              [3D Skin Layers](https://modrinth.com/project/zV5r3pPn)              |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
