@@ -244,3 +244,4 @@ Apart from that, we also include various Vanilla Tweaks resource packs:
 - Possibly also add force version for SkinShuffle for 1.21.5 to avoid FancyMenu incompatibility
 - Add force-version for Colourful GUI for 1.21.5
 - Make sure we keep using the full version of the Torturable Healthbars resource packs (`torturable-healthbars` and `thfa`)
+- Add force version for Mod Sets and dependencies for 1.21.5
