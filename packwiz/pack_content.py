@@ -186,9 +186,9 @@
         {"id": "kinecraft-serialization",
             "force-versions": {
                 "1.21.4": "ppUfV7UC" # use 1.21 version
-        }},
-        {"id": "better-clouds"},
-        {"id": "distanthorizons"}],
+        }}],
+#        {"id": "better-clouds"},
+#        {"id": "distanthorizons"}],
     "shaderpacks": [
         {"id": "makeup-ultra-fast-shaders"},
         {"id": "miniature-shader"},
