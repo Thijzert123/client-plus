@@ -199,11 +199,6 @@ hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
 metafile = true
 
 [[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "1a7cea44bad8bd6e27677bfc63733f11f1867b635d8918c722f38e8f5cf552ae"
-metafile = true
-
-[[files]]
 file = "mods/better-f1-reborn.pw.toml"
 hash = "f161789f674eef361553d75291e13d837db80b1a64800ec483465ca670c47150"
 metafile = true
@@ -260,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "9fc6f3e67904d607a85528ceb2d4d1ea97a5807df5bb24c1106070e605c78110"
+hash = "2cf850f2efd53156d011279577f1a749368b990835c193e0e5218b83d43143f6"
 metafile = true
 
 [[files]]
@@ -310,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "d3b90bf089e63af8545bfb795a4d20dc4bb52ceec87e5b632cdbfaad730bb8f6"
+hash = "70860d28f89b84d9e2d4a58812e7227adec7203364064a21b6b2b2871f4e33bb"
 metafile = true
 
 [[files]]
@@ -320,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "f49468d9dbc2958ca937e94a7fb193cca5532281de4930f3133b9dc8cb7a8df1"
+hash = "a569669bf86a00fcea0504f4f79c778228cd65246bb08764a14c1a53de829bbe"
 metafile = true
 
 [[files]]
@@ -336,11 +331,6 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "847dce2251028733f139692907e89466896dc6ca35cfcc1bdaa0ec1f02aebefb"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "d0652639d4b9913a066768cbab92dd09330df5c6558a53a043baf7c541ca4a94"
 metafile = true
 
 [[files]]
@@ -395,12 +385,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a42be0e74df9208d2870a40aa53fcf8bc11f8201973f72259bd0d29185cded91"
+hash = "08d4ccb59b4068787d57a323c46c336a883dccf6a42ea684976a40f2cc9a69f6"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
@@ -435,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "2ae84170b64ff0ef696bacc786b77200902358da2136202bc5a70df4fdd92494"
+hash = "ce80161a930455e0cba7dcdf835a22fec4994dc2a722957cb14dcee3ead31501"
 metafile = true
 
 [[files]]
@@ -485,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "4efb88bbc5474a684e35b75238d66c00caba82befec0b967a08f843d13bcac7f"
+hash = "ced9729e413bbe2bd78889cbd3d3e93ae56b06c9728972a06ff03afe8a0f4eba"
 metafile = true
 
 [[files]]
@@ -580,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "eaa0d06f31b5cd5bcac139b8b41ddd985831f35f7d633d12355d1d15735c3a84"
+hash = "c71075106b0f5ddc29718d90e923c62388e4b17d741ff34a3cfa1cddaa43b86e"
 metafile = true
 
 [[files]]
@@ -634,6 +624,11 @@ hash = "37d94eccb60749412f669a737642a603eb549225c9a49c45320a0ca097dfc513"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "794cc08a62d7b8472efbacc12d38d495f55084fd05a2004d945243167fbaaeea"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "48c6c412644a17079cdbe40dce811d9e513d3e8c1b0dc52c1b07a64662ffa516"
 metafile = true
@@ -650,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/respackopts.pw.toml"
-hash = "bb6fc144334d9b567219d3ec0c25e9854c25735f61ff681d4d4e36a6f0f7b773"
+hash = "47aece2ecbe7c8a7a7b0c68b619713a4a6f9921db9912f061f4d1ed9d2c7f80f"
 metafile = true
 
 [[files]]
@@ -715,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "5cf4719294be230804d7a1bd15d5f291ad4810cc4cd958b1e31a8d319ac3ca04"
+hash = "6c41c02e4d37dd58e8124315ef6bcf52e8183a104903bf72f954f09dd09868f9"
 metafile = true
 
 [[files]]
@@ -730,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "4eec37da02e52b62da4c05d3dd0d1505c407592379634d2f6bb3d2c5c0d07ff3"
+hash = "8e6cc98c22bd80bbc820defcd9443eb74832ac911b75099b0babe64cf07b9b66"
 metafile = true
 
 [[files]]
@@ -770,12 +765,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "6f0bbf28bc150d4813656c15a8f5451e0d8b15616fdd6a0d79737f19674de435"
+hash = "24b851983473108075d2c6e9ccd96e5a1b3357e53b33c56b217ce35a574334eb"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c6882c758dc6cadb98d476f199cad6aaccd1664ea4bd1bcfbf94afd496815a7c"
+hash = "130159e2b3734e4013e2ad5040e6a80b14a004d75a921dc24633d906636500e8"
 metafile = true
 
 [[files]]
@@ -870,13 +865,13 @@ hash = "5720b84ac67aa87c1cc800645f8a3c7574780d901c7f60349ffc99cc3eadf1cc"
 metafile = true
 
 [[files]]
-file = "resourcepacks/even-better-enchants.pw.toml"
-hash = "590d63ddd680c1a9ce96945cec48c1b1dca146090003c850cf7a9cb855452699"
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "f954ad393353fdce97158688024daafc9c718083932a49faf982501412816293"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fancy-crops.pw.toml"
-hash = "f954ad393353fdce97158688024daafc9c718083932a49faf982501412816293"
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "63afe0bdced729726cdeea08c7af847d0e58d51682f093062d253adb8c795422"
 metafile = true
 
 [[files]]
@@ -926,7 +921,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/reimagined.pw.toml"
-hash = "da4fe1086c78987d0e5c914647a88a94c9afda2323a0bf44986ab67f06b39283"
+hash = "7bcc5e3ad3e6ed484bc7f1c309c0c0906b6504c7d4325ff1e48ff20a618997f9"
 metafile = true
 
 [[files]]
@@ -966,7 +961,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "d89e131bf71f7e2f972086b1f45e39dac4aaec90fa54b75ebb54655513aa5928"
+hash = "5da6e73153e45cdb9868fb82c1e1fb8ccbaf88c2f5dd4c06858d6939f07e8ac4"
 metafile = true
 
 [[files]]
@@ -981,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "8e94d616671e51dbba264f8e778618a76bef212f825a66efbebfc4081a65d249"
+hash = "d30923bf5cfb4988a372508cb461d8077609d79a38d0b170785804c7ad15f16e"
 metafile = true
 
 [[files]]
@@ -1000,11 +995,16 @@ hash = "db3eac9aaadd5d732180a0dd7ae8a322c07386259a971b177f4f2fef50a29c6f"
 metafile = true
 
 [[files]]
+file = "shaderpacks/miniature-shader.pw.toml"
+hash = "f96f43f69fb11b5f54e12d468fe7cf279c257aa2a5244265e9750f4efd080d8b"
+metafile = true
+
+[[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "499c4f322326004a3fdf592775bd835c684ce3eb802baf7f11d6c40a796cabf9"
+hash = "6eab1c7b54fe8538afd2e260f44ea46316ad6edf8132f5699deb2b1a4584ebd7"
 metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "63e8a79ebf4c2cfa88f9fd12ff6ebb36b7c5c2524ac302f02cf23dbcecd77823"
+hash = "dc13593289b6ec367c2e41a11662366ce25125e55446a753510db2760235fb2e"
 metafile = true

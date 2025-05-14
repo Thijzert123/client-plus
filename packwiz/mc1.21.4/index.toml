@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "d6137fabcdc6232b5286bf7ead13b51f56d5bb70bc23c28c04666c01dfe8e592"
+hash = "51ab728390a44a09607dd2ff4dd88e23b65972b8e6389acc02e19489a3a254f3"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "19183871606b6b95796af7ca4a16b81aa8cf29f22df8bb2fbd8dd6e9a66b5a63"
+hash = "34ef3b2634e0c8466530e488cc024ea95dfcf70d378599aa8c8b54d901bff0c5"
 metafile = true
 
 [[files]]
@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "0339adf619aeb1812b37d569da7f65f1f23980f7e250abca0bf56940637d7891"
+hash = "874bbf96623cac0bc3f7bedd16e2db5e3cce2d61d20f078ab1c8a0f77b980d69"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "8281a87d31212c12de57ce3cd0de5f9342ce53114a26bd3eedd3a9c48d75c39a"
+hash = "2849b6cc246d4cc571415661dcf0b634dea512996b71dfd6aab37a827b3f23e6"
 metafile = true
 
 [[files]]
@@ -601,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "780f22d956d790752ca7bae61c8aa9b32f87457e5fdc305069bdea72d3d37880"
+hash = "66e84ef483bb2a4d05f477f440f5d11c7500db9178464c00b88eeca7e058bd1f"
 metafile = true
 
 [[files]]
@@ -616,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "d0af0219628ebf4ec7b48a66fc88c3c0dc896195b11476c3a86fb5e73c3c705c"
+hash = "f7e23e7fe8a8a92cebf1012f44ced149c27b7400b67f50d92eb3f095e4f45474"
 metafile = true
 
 [[files]]
@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "eaa0d06f31b5cd5bcac139b8b41ddd985831f35f7d633d12355d1d15735c3a84"
+hash = "c71075106b0f5ddc29718d90e923c62388e4b17d741ff34a3cfa1cddaa43b86e"
 metafile = true
 
 [[files]]
@@ -962,7 +962,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/bare-bones.pw.toml"
-hash = "3ae0d66321c4515459122227c8efd69b00e4e5c682a6ad990ab27fa4fd5dc4f6"
+hash = "65a6a08ed3682f926d09675b80b8ee08cc3170f540166626b94e55354911b241"
 metafile = true
 
 [[files]]
@@ -1142,7 +1142,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "cfb57ffe639b04b5aee53ca280aad97e5c94395059a049a47b24af0660776904"
+hash = "8e94d616671e51dbba264f8e778618a76bef212f825a66efbebfc4081a65d249"
 metafile = true
 
 [[files]]
@@ -1172,7 +1172,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "63e8a79ebf4c2cfa88f9fd12ff6ebb36b7c5c2524ac302f02cf23dbcecd77823"
+hash = "dc13593289b6ec367c2e41a11662366ce25125e55446a753510db2760235fb2e"
 metafile = true
 
 [[files]]

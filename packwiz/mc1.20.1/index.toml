@@ -95,6 +95,11 @@ hash = "036bd1f08a582f2a38809e3ab65720d5e04d84fcc1c7b8558d6888c319e18527"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "a8d31e43c8f82882cc4c2b7bdacd76d968d739e157cdae2c80efb58c1990e1c9"
+metafile = true
+
+[[files]]
 file = "mods/better-f1-reborn.pw.toml"
 hash = "4ed283068896cace20a016a72c72c292cb796d755f17ce478a8589f3917f7d67"
 metafile = true
@@ -255,13 +260,18 @@ hash = "deeaa932ef85c1717f3c0894e99790f763ec478ff84ed3cc3d9b8d5836fcf687"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "8276518c6ba5c30439e6361e115d6b26cd0a96904f7792d1501013aa05c3512f"
+metafile = true
+
+[[files]]
 file = "mods/durability-plus.pw.toml"
 hash = "2c86ea7a8379ab38ced27a2360685273d256016045d39d828ba50844d088b7ab"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "db3fa4102f18a949deabf4260b695a068552ed3f43b40a5dbb9ca7cb71a8bd6c"
+hash = "8697b0c71170d6e9bc4c30726581a63ad0ff9b15dbc810e295169234a6a0849e"
 metafile = true
 
 [[files]]
@@ -425,6 +435,11 @@ hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
 
 [[files]]
+file = "mods/kinecraft-serialization.pw.toml"
+hash = "5b35c14ae3eb6b97378984b2018dc5355c68f56cd1746383671c367977bfc12d"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "d6be91dc0a2aca23ee640818d8a8295c85ddb2db6e0413669ecac9600b01eef0"
 metafile = true
@@ -492,6 +507,11 @@ metafile = true
 [[files]]
 file = "mods/mod-loading-screen.pw.toml"
 hash = "147f3fc9a0fa837fcc2a7fc21fd01cb6b46c6fd842b1f40c20f6066d239d0e72"
+metafile = true
+
+[[files]]
+file = "mods/mod-sets.pw.toml"
+hash = "bc90d7bd4b5e3d6553ac8604f61ab52a0d7d9e3d995ea20781660f8f5dbf65de"
 metafile = true
 
 [[files]]
@@ -731,12 +751,12 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "dd91661737679e7beca29723f2ae3730febb87eba59c905bbad311755749a31c"
+hash = "47634b4eedae148767c2dc94236c8f07054a533139400404d74deaf088348a08"
 metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "5835ba45355b9026676749e7d45d9ce12762f9513444982aebe5c2d74ad525ff"
+hash = "b2cf34d261425b39117c3c258b02add0546ee66e8a9f4e3679a92faea369a06a"
 metafile = true
 
 [[files]]
@@ -971,7 +991,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "6fed808df2d693d4e2b5e75e5080e3b1e3dbf0c644cacaf46b8ea3cc919a522b"
+hash = "d89e131bf71f7e2f972086b1f45e39dac4aaec90fa54b75ebb54655513aa5928"
 metafile = true
 
 [[files]]
@@ -986,7 +1006,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "cfb57ffe639b04b5aee53ca280aad97e5c94395059a049a47b24af0660776904"
+hash = "8e94d616671e51dbba264f8e778618a76bef212f825a66efbebfc4081a65d249"
 metafile = true
 
 [[files]]
@@ -1016,7 +1036,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "63e8a79ebf4c2cfa88f9fd12ff6ebb36b7c5c2524ac302f02cf23dbcecd77823"
+hash = "dc13593289b6ec367c2e41a11662366ce25125e55446a753510db2760235fb2e"
 metafile = true
 
 [[files]]

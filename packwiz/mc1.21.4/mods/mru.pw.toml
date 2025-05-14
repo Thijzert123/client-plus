@@ -1,13 +1,13 @@
 name = "M.R.U"
-filename = "mru-1.0.16+1.21.5+fabric.jar"
+filename = "mru-1.0.17+1.21.5+fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SNVQ2c0g/versions/yhtDVI4D/mru-1.0.16%2B1.21.5%2Bfabric.jar"
+url = "https://cdn.modrinth.com/data/SNVQ2c0g/versions/uXeTJtYs/mru-1.0.17%2B1.21.5%2Bfabric.jar"
 hash-format = "sha512"
-hash = "7da4c1a95e984d563db40b492d003753dd74fdfdf6fb07330fac3d25e398fae9a038713eb74b552a5645536b307361d223d5c930198a15d8a9a7f98aa013351e"
+hash = "c3be50053ebc5419b2dd187e974394367991f8f4b0adf4bceafff6dc24c0efd158b78e089fecfc0305cf34ebea98e8055aa26db705d7e27d091371828ce527f1"
 
 [update]
 [update.modrinth]
 mod-id = "SNVQ2c0g"
-version = "yhtDVI4D"
+version = "uXeTJtYs"

@@ -91,6 +91,11 @@ hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "128d9dfd2156ffa54cea7621d3c3c2ac42d9865b3363996c08c70c5a52af98d0"
+metafile = true
+
+[[files]]
 file = "mods/better-f1-reborn.pw.toml"
 hash = "f161789f674eef361553d75291e13d837db80b1a64800ec483465ca670c47150"
 metafile = true
@@ -256,13 +261,18 @@ hash = "183a686a2e5076c6dbb6c6d8145a5b10d544295cf1a7bbffd8bbceaf072ede4f"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "007ca3fb8a617776705f8f38eab60a286fed6426a0ee1d792af6814f1bc24174"
+metafile = true
+
+[[files]]
 file = "mods/durability-plus.pw.toml"
 hash = "4df86a1620217251fc0c2bd6971a207bd3745db6f729b2175818948f43fc9e6e"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "71314f7a5609378c77f372c31d2c501a330cc901c6e4f6e060d7f3095d362086"
+hash = "4c0e419f24a9568c99e993d917f1c5a80fd5e005ec5205fbef443daf6b2f36e3"
 metafile = true
 
 [[files]]
@@ -322,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7e27ab32357a80c066e6cdfabafc87f31f778a1ebaefe03f82e38d0763de760b"
+hash = "71c1a36f3a6dc674f1b89e3d254a8e67d2a831b70f66c64e37cc998c419ad977"
 metafile = true
 
 [[files]]
@@ -367,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "435a117e3de1db3346997a825752758834bdd0bb031711c76a464c091f0c6c50"
+hash = "ea105b7b441c7f7e50f0a6434252da54b3b8fd4f6ed88f4bb0f086d33f73d339"
 metafile = true
 
 [[files]]
@@ -437,7 +447,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "f81cb55c77a9610109346d67eeaff52d38c459340fd8a8daa9f73096faa094b5"
+hash = "e7f5e2783c982ce541742165d90ea4567e75d4ed9efdca19b92eac7140b84342"
+metafile = true
+
+[[files]]
+file = "mods/kinecraft-serialization.pw.toml"
+hash = "5b35c14ae3eb6b97378984b2018dc5355c68f56cd1746383671c367977bfc12d"
 metafile = true
 
 [[files]]
@@ -477,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "6f4665f1684aed12b53927753b4f7e15e57ed2cd81ace6db227f5dc704841c2d"
+hash = "5161b7b58b9f0765aad3aaa1a365c61491017eca4ae0552d419bd57b1c4d6509"
 metafile = true
 
 [[files]]
@@ -497,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "67a8e6384e83bdd773822fa894542f9b1e7373bb2fc10196f739f914702c6243"
+hash = "358a4ea31ab4385e7ae0b48888adf95b2362cbf5126dcda750063c557e3eb8b1"
 metafile = true
 
 [[files]]
@@ -513,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/mod-loading-screen.pw.toml"
 hash = "147f3fc9a0fa837fcc2a7fc21fd01cb6b46c6fd842b1f40c20f6066d239d0e72"
+metafile = true
+
+[[files]]
+file = "mods/mod-sets.pw.toml"
+hash = "bc90d7bd4b5e3d6553ac8604f61ab52a0d7d9e3d995ea20781660f8f5dbf65de"
 metafile = true
 
 [[files]]
@@ -547,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "0aa27cfe48f3b4a1a485e6fddeb5d806301204130ac51a1352abc10cb05ca1aa"
+hash = "e337058ca8f7d085fac6130de06428a9c57e0bf23a0ef8549078f0f3ae1e780e"
 metafile = true
 
 [[files]]
@@ -627,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "d055718e942dde85b22d4baabdc26e9744e4556304f10c70cc2e434b2806140a"
+hash = "3021718f0eaecaa20f0f255cc70a818bf85791b4a81a6b8b349de546e9b77f47"
 metafile = true
 
 [[files]]
@@ -637,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "f55842e2485d7be3fcd497cf0e5d003a72a859bc0607c3b7d93b600b6eea4a47"
+hash = "c1cf218d3c9dbf16ec9b93ae536831fd17805def799eab72b9f79a9896f5999f"
 metafile = true
 
 [[files]]
@@ -712,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinshuffle.pw.toml"
-hash = "eef43f49d90e0b34ee14e80f2f0072f29f90e07d50fe8d5460e5754364222c91"
+hash = "f0514cffe232d6c2f33b98176f0b61929caa91786547cda99a85dce28d65969f"
 metafile = true
 
 [[files]]
@@ -863,7 +883,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/bare-bones.pw.toml"
-hash = "3ae0d66321c4515459122227c8efd69b00e4e5c682a6ad990ab27fa4fd5dc4f6"
+hash = "65a6a08ed3682f926d09675b80b8ee08cc3170f540166626b94e55354911b241"
 metafile = true
 
 [[files]]
@@ -1038,7 +1058,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "6fed808df2d693d4e2b5e75e5080e3b1e3dbf0c644cacaf46b8ea3cc919a522b"
+hash = "d89e131bf71f7e2f972086b1f45e39dac4aaec90fa54b75ebb54655513aa5928"
 metafile = true
 
 [[files]]
@@ -1053,7 +1073,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "cfb57ffe639b04b5aee53ca280aad97e5c94395059a049a47b24af0660776904"
+hash = "8e94d616671e51dbba264f8e778618a76bef212f825a66efbebfc4081a65d249"
 metafile = true
 
 [[files]]
@@ -1083,7 +1103,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "63e8a79ebf4c2cfa88f9fd12ff6ebb36b7c5c2524ac302f02cf23dbcecd77823"
+hash = "dc13593289b6ec367c2e41a11662366ce25125e55446a753510db2760235fb2e"
 metafile = true
 
 [[files]]
