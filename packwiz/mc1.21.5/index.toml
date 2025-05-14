@@ -845,6 +845,16 @@ hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/colourful-containers-dark-mode-gui.pw.toml"
+hash = "45f2672b8518980a256ee731a54ebe86d072aa0e0f688e53462d05e5b1aa793c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/colourful-containers-gui.pw.toml"
+hash = "3d2122e5e955340d8b9ee6c0f264ee5648e244192130bc9191457c573d554fc8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "f6061454884efd0938f9fcf21965a2bdc21720217d153af6cc4efa86f055c0aa"
 metafile = true

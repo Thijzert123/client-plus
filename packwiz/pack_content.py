@@ -236,8 +236,14 @@
         {"id": "chat-reporting-helper"},
         {"id": "spryzeens-knight-armor"},
         {"id": "spryzeens-healthbars"},
-        {"id": "colourful-containers-gui"},
-        {"id": "colourful-containers-dark-mode-gui"},
+        {"id": "colourful-containers-gui",
+            "force-versions": {
+                "1.21.5": "AnsTNrER"
+        }},
+        {"id": "colourful-containers-dark-mode-gui",
+            "force-versions": {
+                "1.21.5": "aSv3SdMO"
+        }},
         {"id": "translations-for-sodium"},
         {"id": "spawned-eggs",
             "include": ["1.20.1", "1.20.4", "1.21.1", "1.21.3", "1.21.4"]},
