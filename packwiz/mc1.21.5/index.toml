@@ -34,11 +34,11 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/customization/title_screen_layout.txt"
-hash = "e664119ba898fab8f4f787f135f4b91c3bb284c81ce84c981831f208799925de"
+hash = "f1e8f09d573db5c9844587098423ae0a73b646e0d13272d329d63b395c226855"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+hash = "2eaf216db9d5f3c842f17a8a8991702baaa098c4e53247fd9cbf9fea3e809f49"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/legacy_checklist.txt"
@@ -46,7 +46,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/options.txt"
-hash = "eddfcec61caeec59fa72ddbcced3cf3334a8017dff4845411dff40a46b1bc2ef"
+hash = "4cf93619e0b3e4c184b722a7f3412e8caa5334a3c58f7544cd35d20e36f8cffb"
 
 [[files]]
 file = "config/yosbr/config/fancymenu/ui_themes/dark.json"
@@ -625,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "794cc08a62d7b8472efbacc12d38d495f55084fd05a2004d945243167fbaaeea"
+hash = "1e9015af19e1fb358585873d1d02a83d4503927a9386464efe5802ca651e16ce"
 metafile = true
 
 [[files]]
@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "f4ed28d8b0a88eb80a17b3ff6518402973060ce2f802daab5971fc26a79199db"
+hash = "09555e2480bda5f9f3dc3c2636843470491c147cd0bd32a48147af0efe1e607e"
 metafile = true
 
 [[files]]
