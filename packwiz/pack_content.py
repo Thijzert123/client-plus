@@ -186,7 +186,8 @@
         {"id": "kinecraft-serialization",
             "force-versions": {
                 "1.21.4": "ppUfV7UC" # use 1.21 version
-        }}],
+        }},
+        {"id": "worldedit"}],
 #        {"id": "better-clouds"},
 #        {"id": "distanthorizons"}],
     "shaderpacks": [
