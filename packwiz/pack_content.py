@@ -24,15 +24,12 @@
         {"id": "yosbr",
             "force-versions": {
                 "1.21.5": "KMOzdYko"
-        }},
+            }},
         {"id": "moreculling"},
         {"id": "modmenu"},
         {"id": "iris"},
         {"id": "dynamic-fps"},
-        {"id": "sodium",
-            "force-versions": {
-                "1.21.3": "LL4puCl1" # 0.6.8+1.21.3 instead of 0.6.9+1.21.3
-        }},
+        {"id": "sodium"},
         {"id": "morechathistory"},
         {"id": "capes"},
         {"id": "zoomify"},
@@ -53,10 +50,7 @@
         {"id": "glowing-torchflower"},
         {"id": "detail-armor-bar"},
         {"id": "visuality"},
-        {"id": "simple-voice-chat",
-            "force-versions": {
-                "1.21.3": "Uov7kAax" # 1.21.3-2.5.26 instead of 1.21.3-2.5.28
-        }},
+        {"id": "simple-voice-chat"},
         {"id": "chat-heads"},
         {"id": "mouse-tweaks"},
         {"id": "clientsort"},
@@ -90,7 +84,7 @@
         {"id": "skinshuffle",
             "force-versions": {
                 "1.21.4": "QrivRDWz" # to avoid launch crash, see https://github.com/IMB11/SkinShuffle/issues/145
-        }},
+            }},
         {"id": "no-resource-pack-warnings"},
         {"id": "infinite-music"},
         {"id": "particular"},
@@ -107,7 +101,8 @@
         {"id": "fast-ip-ping"},
         {"id": "extended-world-selection",
             "force-versions": {
-                "1.21.4": "ctbaxlx5" # use 1.21.3 version for 1.21.4, works just fine
+                "1.21.4": "ctbaxlx5", # use 1.21.3 version for 1.21.4, works just fine
+                "1.21.5": "ctbaxlx5" # use 1.21.3 version for 1.21.5, works just fine
             }},
         {"id": "clumps"},
         {"id": "legendary-tooltips"},
@@ -135,16 +130,12 @@
         {"id": "show-me-your-skin"},
         {"id": "controlling"},
         {"id": "durability-plus"},
-        {"id": "hey-wiki",
-            "force-versions": {
-                "1.21.3": "7r51NSUr" # 1.7.2+1.21.3 instead of 1.7.3+1.21.4
-        }},
+        {"id": "hey-wiki"},
         {"id": "sound-controller"},
         {"id": "debugify"},
         {"id": "my-resource-pack"},
         {"id": "gamma-utils"},
-        {"id": "sound",
-            "exclude": ["1.21.5"]}, # causes a crash on startup. remove line when fixed
+        {"id": "sound"},
         {"id": "xanders-sodium-options"},
         {"id": "explosive-enhancement"},
         {"id": "cat_jam"},
@@ -220,7 +211,10 @@
         {"id": "enchant-icons-countxd"},
         {"id": "even-better-enchants"},
         {"id": "cubic-sun-moon"},
-        {"id": "redstone-tweaks"},
+        {"id": "redstone-tweaks",
+            "force-versions": {
+                "1.21.5": "G3HClwKQ"
+            }},
         {"id": "low-on-fire"},
         {"id": "tras-fresh-player"},
         {"id": "better-leaves"},
