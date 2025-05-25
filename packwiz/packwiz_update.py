@@ -7,15 +7,6 @@ import subprocess
 import requests
 
 PACKWIZ_SUFFIX = ".pw.toml" # files that are managed by packwiz
-VANILLA_TWEAKS_PREFIX = "Vanilla_Tweaks_" # Vanilla Tweaks resourcepacks that are managed by this script
-ALL_VANILLA_TWEAKS_LINKS = {
-    "1.21": {
-        "3D_Blocks": "https://vanillatweaks.net/download/VanillaTweaks_r301796_MC1.21.x.zip",
-        "Colored_Ping_Indicator": "https://vanillatweaks.net/download/VanillaTweaks_r131538_MC1.21.x.zip",
-        "Lower_Shield": "https://vanillatweaks.net/download/VanillaTweaks_r678227_MC1.21.x.zip",
-        "Variated_Blocks": "https://vanillatweaks.net/download/VanillaTweaks_r725652_MC1.21.x.zip"
-    }
-}
 
 class Colors:
     GREEN = '\033[92m'
@@ -67,28 +58,6 @@ def update_packwiz_instances(debug = False):
     remove_managed_files(mc_dirs, debug)
     print(" done")
 
-    # print()
-    # print(f"Adding Vanilla Tweaks: ", end="")
-    # sys.stdout.flush()
-    # for mc_dir in mc_dirs:
-    #     mc_version = mc_dir.replace("mc", "")
-    #     global vanilla_tweaks_links
-    #     if mc_version.startswith("1.21"):
-    #         vanilla_tweaks_links = ALL_VANILLA_TWEAKS_LINKS["1.21"]
-    #     else:
-    #         print(f"{Colors.RED}{mc_version}{Colors.END} ", end="")
-    #         sys.stdout.flush()
-    #         continue
-
-    #     for pack_name in vanilla_tweaks_links:
-    #         filepath = os.path.join(mc_dir, "resourcepacks", VANILLA_TWEAKS_PREFIX + pack_name + ".zip")
-    #         print(vanilla_tweaks_links[pack_name])
-    #         open(filepath, "wb").write(requests.get(vanilla_tweaks_links[pack_name]).content)#download_vanilla_tweaks_pack(vanilla_tweaks_links[pack_name]))
-
-    #     print(f"{Colors.GREEN}{mc_version}{Colors.END} ", end="")
-    #     sys.stdout.flush()
-    # print()
-
     packwiz_instances_refreshed = []
 
     for content_type in pack_content:
@@ -110,7 +79,7 @@ def update_packwiz_instances(debug = False):
 
                 mc_version = mc_dir.replace("mc", "")
 
-                if ("include" in project and mc_version not in project["include"]) and ("exclude" in project and mc_version in project["exclude"]):
+                if ("include" in project and mc_version not in project["include"]) or ("exclude" in project and mc_version in project["exclude"]):
                     print(f"{Colors.RED}{mc_version}{Colors.END} ", end="")
                     continue
 
