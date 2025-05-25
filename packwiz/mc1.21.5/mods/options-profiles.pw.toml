@@ -1,13 +1,13 @@
 name = "Options Profiles"
-filename = "optionsprofiles-1.21.4-fabric-v1.4.jar"
+filename = "optionsprofiles-1.21.4-fabric-v1.4.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DnyS3EEW/versions/D86OTTGF/optionsprofiles-1.21.4-fabric-v1.4.jar"
+url = "https://cdn.modrinth.com/data/DnyS3EEW/versions/wVU81YHe/optionsprofiles-1.21.4-fabric-v1.4.1.jar"
 hash-format = "sha512"
-hash = "c188c1efafc33b43f817cdc8a4775f88770e12585170cc0180deb9e940646f9c528884c698bb535e0366a0660ca73a33cd8d45c81939a0ff11cfddbec0a499fa"
+hash = "ca78540c6e3359a0314449eac514e19455ef9f4491519fa500be1a8ba9059e479f77fd91b2cc65c7d3170b67a3a913e8de9379d995bd1bfadadb9477b55c5256"
 
 [update]
 [update.modrinth]
 mod-id = "DnyS3EEW"
-version = "D86OTTGF"
+version = "wVU81YHe"

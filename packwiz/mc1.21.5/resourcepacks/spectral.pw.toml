@@ -1,13 +1,13 @@
 name = "Spectral"
-filename = "Spectral_v0.6.0.zip"
+filename = "Spectral_v0.7.0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/vaaOMowT/versions/fmXyxZ1z/Spectral_v0.6.0.zip"
+url = "https://cdn.modrinth.com/data/vaaOMowT/versions/Ar4ROj6c/Spectral_v0.7.0.zip"
 hash-format = "sha512"
-hash = "5d0abe2dba3d237529e30ae30d1d3d5e348db6858bce7dc7fefa7f8fff3910a4c8e205caab058ed0f5cc2d7db65bc752f7304d193eddb89e680b0f695d7cedff"
+hash = "f02197be7beb961d4e85f90ed13c5ae2ad6c6b876497257306b7a36279036014e5edcb41655379c18ec8f027caee2204a3e34702e44fd3b8bb64f667d96136d8"
 
 [update]
 [update.modrinth]
 mod-id = "vaaOMowT"
-version = "fmXyxZ1z"
+version = "Ar4ROj6c"

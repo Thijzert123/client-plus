@@ -384,8 +384,13 @@ hash = "34684bd591ae5703edcbebe92b4066e7ff0365977a2fb804645644151d1b025c"
 metafile = true
 
 [[files]]
+file = "mods/extended-world-selection.pw.toml"
+hash = "b685fdf6be1b2cf573865f35ae1abe5a54093611599d1a1fac66b036b850d728"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "08d4ccb59b4068787d57a323c46c336a883dccf6a42ea684976a40f2cc9a69f6"
+hash = "7a6f0b29e5002753456d2fb78734c2a64a4713f58304df0114cd529091eb5909"
 metafile = true
 
 [[files]]
@@ -425,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "ce80161a930455e0cba7dcdf835a22fec4994dc2a722957cb14dcee3ead31501"
+hash = "fa3aafeb6eb2fd7a7dd591f388857e498a9bb91228f9103de564e8174c41841f"
 metafile = true
 
 [[files]]
@@ -455,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
+hash = "d5e9cba7c6d829f50503cd92834b2224e854b4f1eb6b8b03333f0ba3c1c61d01"
 metafile = true
 
 [[files]]
@@ -610,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/options-profiles.pw.toml"
-hash = "f3b375757e41ecac6a4b18df7ded757a387da39edce975a9b970cb2cd29cab1d"
+hash = "9fb20ddfa4d28dfa83e7e32b93945cba7051a98fee22d80314362d1e56ebe4be"
 metafile = true
 
 [[files]]
@@ -625,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "1e9015af19e1fb358585873d1d02a83d4503927a9386464efe5802ca651e16ce"
+hash = "45473d5027f61ec3fe7c60e4835c6215aa12f48086d237c42bdfd34d22c90905"
 metafile = true
 
 [[files]]
@@ -765,12 +770,12 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "33bf6291ef7d71d83b9c7ff6aa8286f8566adf3f77f78314bbf8021af930a8cb"
+hash = "da71ca05c6223bf889a2b195d0678151b7f4de891baf8a30df6244c886a7a5fc"
 metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "24b851983473108075d2c6e9ccd96e5a1b3357e53b33c56b217ce35a574334eb"
+hash = "78976b0831ccbd9423f573e0987f5d54de9b95055a2f8eb312748be4a172d6e2"
 metafile = true
 
 [[files]]
@@ -780,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "46ab58f542323ab1bc92744d9ddd6ff0ba277a5c6250730bb88ba6ff2e101da7"
+hash = "3556431e076004f61282c316088b95bb99f8c26136c1f2aee4fc1577f33479dc"
 metafile = true
 
 [[files]]
@@ -891,7 +896,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/hyper-realistic-sky.pw.toml"
-hash = "c42bf415194edd71d7045c8ea3602c6daf6cd419c4a0cc4f965cfe6c7ea381ab"
+hash = "9ebf7d93c372ba405cbac2f86f9451f424d2350406cff4655163e3ce39691f2b"
 metafile = true
 
 [[files]]
@@ -935,8 +940,13 @@ hash = "18c86656605bdb533e1febedfca680b2383e4919be59cb5312d7457c78e2ef46"
 metafile = true
 
 [[files]]
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "b4a0e54b7e05e967417adf96aa8a09c18c0877cda18e90e1e90e5fdb6dc039cd"
+metafile = true
+
+[[files]]
 file = "resourcepacks/reimagined.pw.toml"
-hash = "7bcc5e3ad3e6ed484bc7f1c309c0c0906b6504c7d4325ff1e48ff20a618997f9"
+hash = "2a5c2b0197b0992b984e2029ddacbfc642ded9e2d8fc1bd0f74cbafdfec902c5"
 metafile = true
 
 [[files]]
@@ -945,13 +955,8 @@ hash = "96d580c29f3c69c313e54a5e4219a08ee3ebd69f4ab73febf591681de5376464"
 metafile = true
 
 [[files]]
-file = "resourcepacks/spawned-eggs.pw.toml"
-hash = "ff55b02e38b4027937d4470bed534e6126963d86e0be3e3938f7a36c0a25ef94"
-metafile = true
-
-[[files]]
 file = "resourcepacks/spectral.pw.toml"
-hash = "a495baae0cb18fbdb7cb3e2fedd79319d0cbee152ded80b9f6a9516bb4bc3e45"
+hash = "63af0d70b552b450a1940ee326c3bbdc2e4e788475bb1fda0e64c86421393413"
 metafile = true
 
 [[files]]
@@ -976,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "5da6e73153e45cdb9868fb82c1e1fb8ccbaf88c2f5dd4c06858d6939f07e8ac4"
+hash = "a89dd43f376e990c515fe6b6b0875d9bbf51063bf3d1afa02a720039ffa651a6"
 metafile = true
 
 [[files]]
@@ -1011,7 +1016,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/miniature-shader.pw.toml"
-hash = "f96f43f69fb11b5f54e12d468fe7cf279c257aa2a5244265e9750f4efd080d8b"
+hash = "0ef2a83811fe5e96469632f692dbf921e6343acd84d6090c4fda959d569fd3a6"
 metafile = true
 
 [[files]]
