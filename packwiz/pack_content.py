@@ -35,7 +35,10 @@
         {"id": "zoomify"},
         {"id": "ferrite-core"},
         {"id": "sodium-extra"},
-        {"id": "immediatelyfast"},
+        {"id": "immediatelyfast",
+            "force-versions": {
+                "1.21.5": "DjnwJdjY"
+        }},
         {"id": "language-reload"},
         {"id": "lambdynamiclights"},
         {"id": "badoptimizations"},
