@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7a6f0b29e5002753456d2fb78734c2a64a4713f58304df0114cd529091eb5909"
+hash = "fee206a23f1e16df638415ce80292e973b23aaf3883affc826458a32a6797092"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "27a03591c0d4c9f630c23828a3b3506e3d67635e2c7dbed2fe67aa1b03e52351"
+hash = "c3741eb99da1676db710022999844ad608687b2008743403e840b3e9df8c5cba"
 metafile = true
 
 [[files]]
@@ -596,6 +596,11 @@ metafile = true
 [[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "275212f23c7a91b4764b7df11b163aac06a32e87bfe955ad758d04d68cb61eb7"
+metafile = true
+
+[[files]]
+file = "mods/nofortunechest.pw.toml"
+hash = "d647d2ad84bd704109bbd5e03343f976fbae2fe19bd37c29725c7210247b182b"
 metafile = true
 
 [[files]]
@@ -851,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
+hash = "93f7c611597f7291932163a18cbe7787cec376e15d655632b4bdf289dbd937af"
 metafile = true
 
 [[files]]
@@ -882,6 +887,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/enchant-icons-countxd.pw.toml"
 hash = "5720b84ac67aa87c1cc800645f8a3c7574780d901c7f60349ffc99cc3eadf1cc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "3bd80b33acc0cd9392e98bdc0becad357e15895b91b4f15d3ae0c5fde613a500"
 metafile = true
 
 [[files]]

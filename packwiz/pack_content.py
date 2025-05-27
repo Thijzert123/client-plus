@@ -181,7 +181,8 @@
             "force-versions": {
                 "1.21.4": "ppUfV7UC" # use 1.21 version
         }},
-        {"id": "worldedit"}],
+        {"id": "worldedit"},
+        {"id": "nofortunechest"}],
 #        {"id": "better-clouds"},
 #        {"id": "distanthorizons"}],
     "shaderpacks": [
