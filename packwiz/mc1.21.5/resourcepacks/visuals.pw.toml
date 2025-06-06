@@ -1,13 +1,13 @@
 name = "Visuals"
-filename = "visuals_1.0.zip"
+filename = "visuals-2.0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/pWBAsHgt/versions/Eeu6aZgi/visuals_1.0.zip"
+url = "https://cdn.modrinth.com/data/pWBAsHgt/versions/Yfh8km2Y/visuals-2.0.zip"
 hash-format = "sha512"
-hash = "2d31494d7735831a1906aa6fac3ba9820528510ea7c7ffac0dc1132662a6af5c890775403cb2bae41dbcad72372cd69205d16fc2a70f923ed39dbf17fd836ea0"
+hash = "5566cc2bd9d00b41576ec36b5a0d622d11eed26f62d44125c8fde6ca716c956e1786f0ab8e085297a059bc1f6ede7e47967e9e57aa02b2a63d8a37d0a8bb3e85"
 
 [update]
 [update.modrinth]
 mod-id = "pWBAsHgt"
-version = "Eeu6aZgi"
+version = "Yfh8km2Y"

@@ -1,13 +1,13 @@
 name = "WorldEdit"
-filename = "worldedit-mod-7.3.13.jar"
+filename = "worldedit-mod-7.3.14.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/1u6JkXh5/versions/9ACY6L4u/worldedit-mod-7.3.13.jar"
+url = "https://cdn.modrinth.com/data/1u6JkXh5/versions/242z5LFa/worldedit-mod-7.3.14.jar"
 hash-format = "sha512"
-hash = "a38ba02336d2c430c9238b63e6d47a7e1de3a9482798a07cfdb08de2a5cd3e0f9e74c150ac23dfcb2241dfaf8f1c86fcbf57a2a7d807560890b1a8392f167c37"
+hash = "029622ed646e3b23d2b56d372bceba2b23135aca3a647c781eb3b2149dfef087211dc20bb10c8fb273684b0232996a4d892830a84112088d9de6196a0364eebe"
 
 [update]
 [update.modrinth]
 mod-id = "1u6JkXh5"
-version = "9ACY6L4u"
+version = "242z5LFa"
