@@ -27,20 +27,20 @@ Below is all the content in the modpack, including mods, resource packs and shad
 |                [BSL Shaders](https://modrinth.com/project/Q1vvjJYV)               |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |             [BadOptimizations](https://modrinth.com/project/g96Z4WVZ)             |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [Bare Bones](https://modrinth.com/project/rox3U8B6)                |   ✅  |   ✅  |   ❌  |   ❌  |   ❌  |   ❌  |
-|            [Better Advancements](https://modrinth.com/project/Q2OqKxDG)           |   ❌  |   ✅  |   ❌  |   ❌  |   ❌  |   ❌  |
+|            [Better Advancements](https://modrinth.com/project/Q2OqKxDG)           |   ✅  |   ✅  |   ❌  |   ❌  |   ❌  |   ❌  |
 |               [Better Clouds](https://modrinth.com/project/5srFLIaK)              |   ❌  |   ✅  |   ❌  |   ❌  |   ❌  |   ❌  |
 |          [Better Command Block UI](https://modrinth.com/project/8iQcgjQ2)         |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |             [Better F1 Reborn](https://modrinth.com/project/2JIeCmxb)             |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |          [Better Flame Particles](https://modrinth.com/project/ivUZsvzp)          |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |              [Better Lanterns](https://modrinth.com/project/PGGrfcvL)             |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
-|             [Better Mount HUD](https://modrinth.com/project/kqJFAPU9)             |   ❌  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+|             [Better Mount HUD](https://modrinth.com/project/kqJFAPU9)             |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |         [Better Statistics Screen](https://modrinth.com/project/n6PXGAoM)         |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |            [Better Suggestions](https://modrinth.com/project/HfZKWsjM)            |   ✅  |   ✅  |   ❌  |   ❌  |   ❌  |   ❌  |
 |                 [BetterF3](https://modrinth.com/project/8shC1gFX)                 |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |               [BindCommands](https://modrinth.com/project/WeytAdLH)               |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ❌  |
 |               [Bliss Shaders](https://modrinth.com/project/ZvMtQlho)              |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                   [Bobby](https://modrinth.com/project/M08ruV16)                  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
-|            [Bow Load Indicator](https://modrinth.com/project/dj5wVJsq)            |   ❌  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+|            [Bow Load Indicator](https://modrinth.com/project/dj5wVJsq)            |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                  [CICADA](https://modrinth.com/project/IwCkru1D)                  |   ❌  |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |
 |                [CIT Resewn](https://modrinth.com/project/otVJckYQ)                |   ❌  |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |
 |                  [CalcMod](https://modrinth.com/project/XoHTb2Ap)                 |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
@@ -84,9 +84,9 @@ Below is all the content in the modpack, including mods, resource packs and shad
 |          [Enhanced Block Entities](https://modrinth.com/project/OVuFYfre)         |   ❌  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |              [Entity Culling](https://modrinth.com/project/NNAgCjsB)              |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |           [Entity View Distance](https://modrinth.com/project/ihnBJ6on)           |   ✅  |   ✅  |   ❌  |   ❌  |   ❌  |   ❌  |
-|           [Even Better Enchants](https://modrinth.com/project/6udpuGCH)           |   ❌  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+|           [Even Better Enchants](https://modrinth.com/project/6udpuGCH)           |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |           [Explosive Enhancement](https://modrinth.com/project/OSQ8mw2r)          |   ✅  |   ✅  |   ✅  |   ✅  |   ❌  |   ❌  |
-|         [Extended world selection](https://modrinth.com/project/hejbH2cH)         |   ❌  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+|         [Extended world selection](https://modrinth.com/project/hejbH2cH)         |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [Fabric API](https://modrinth.com/project/P7dR8mSH)                |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |          [Fabric Language Kotlin](https://modrinth.com/project/Ha28R6CL)          |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |          [FabricSkyBoxes Interop](https://modrinth.com/project/HpdHOPOp)          |   ❌  |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |
@@ -104,7 +104,7 @@ Below is all the content in the modpack, including mods, resource packs and shad
 |             [Fresh Animations](https://modrinth.com/project/50dA9Sha)             |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [Fresh Moves](https://modrinth.com/project/slufHzC2)               |   ❌  |   ✅  |   ❌  |   ❌  |   ❌  |   ❌  |
 |          [Fresh Player Animations](https://modrinth.com/project/uYE6VsYf)         |   ❌  |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |
-|               [Fullbright UB](https://modrinth.com/project/ItHr72Fy)              |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |   ✅  |
+|               [Fullbright UB](https://modrinth.com/project/ItHr72Fy)              |   ✅  |   ❌  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [Fzzy Config](https://modrinth.com/project/hYykXjDp)               |   ✅  |   ✅  |   ❌  |   ❌  |   ❌  |   ❌  |
 |         [Gamma Utils (Fullbright)](https://modrinth.com/project/wdLuzzEP)         |   ✅  |   ✅  |   ✅  |   ✅  |   ❌  |   ❌  |
 |            [Glowing Torchflower](https://modrinth.com/project/1S4LxcvL)           |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
@@ -157,10 +157,11 @@ Below is all the content in the modpack, including mods, resource packs and shad
 |        [My Resource Pack, My Choice](https://modrinth.com/project/PTj85Anz)       |   ✅  |   ✅  |   ✅  |   ✅  |   ❌  |   ❌  |
 |             [New Glowing Ores](https://modrinth.com/project/oL18adaQ)             |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |              [No Chat Reports](https://modrinth.com/project/qQyHxfxd)             |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+|             [No Fortune Chest](https://modrinth.com/project/4QufRNTv)             |   ✅  |   ❌  |   ❌  |   ❌  |   ❌  |   ❌  |
 |         [No Resource Pack Warnings](https://modrinth.com/project/6xKUDQcB)        |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                  [Noisium](https://modrinth.com/project/KuNKN7d2)                 |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |           [Not Enough Animations](https://modrinth.com/project/MPCX6s5C)          |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
-|               [Online Emotes](https://modrinth.com/project/Dc4g4seU)              |   ❌  |   ✅  |   ❌  |   ❌  |   ❌  |   ❌  |
+|               [Online Emotes](https://modrinth.com/project/Dc4g4seU)              |   ✅  |   ✅  |   ❌  |   ❌  |   ❌  |   ❌  |
 |                  [OptiGUI](https://modrinth.com/project/JuksLGBQ)                 |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |             [Options Profiles](https://modrinth.com/project/DnyS3EEW)             |   ✅  |   ✅  |   ❌  |   ❌  |   ❌  |   ❌  |
 |  [Paginated Advancements & Custom Frames](https://modrinth.com/project/pJogNFap)  |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |   ✅  |
@@ -171,7 +172,7 @@ Below is all the content in the modpack, including mods, resource packs and shad
 |                   [Prism](https://modrinth.com/project/1OE8wbN0)                  |   ❌  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [Puzzles Lib](https://modrinth.com/project/QAGBst4M)               |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |       [Raise Sound Limit Simplified](https://modrinth.com/project/SKW62Pht)       |   ✅  |   ✅  |   ❌  |   ❌  |   ❌  |   ❌  |
-|              [Redstone Tweaks](https://modrinth.com/project/RvfAlf4Z)             |   ❌  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+|              [Redstone Tweaks](https://modrinth.com/project/RvfAlf4Z)             |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [Reimagined](https://modrinth.com/project/ta5dy0aA)                |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [Resourcify](https://modrinth.com/project/RLzHAoZe)                |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                [Respackopts](https://modrinth.com/project/TiF5QWZY)               |   ✅  |   ✅  |   ❌  |   ❌  |   ❌  |   ❌  |
@@ -195,7 +196,7 @@ Below is all the content in the modpack, including mods, resource packs and shad
 |               [Solas Shader](https://modrinth.com/project/EpQFjzrQ)               |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |             [Sound Controller](https://modrinth.com/project/uY9zbflw)             |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |                  [Sounds](https://modrinth.com/project/ZouiUX7t)                  |   ✅  |   ✅  |   ✅  |   ✅  |   ❌  |   ❌  |
-|               [Spawned Eggs](https://modrinth.com/project/yPBwDzHA)               |   ✅  |   ✅  |   ✅  |   ✅  |   ❌  |   ❌  |
+|               [Spawned Eggs](https://modrinth.com/project/yPBwDzHA)               |   ❌  |   ✅  |   ✅  |   ✅  |   ❌  |   ❌  |
 |                 [Spectral](https://modrinth.com/project/vaaOMowT)                 |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
 |           [Spryzeen's Healthbars](https://modrinth.com/project/ZMcqgmIV)          |   ❌  |   ❌  |   ❌  |   ✅  |   ❌  |   ❌  |
 |          [Spryzeen's Knight Armor](https://modrinth.com/project/EwJHG2NA)         |   ✅  |   ✅  |   ❌  |   ❌  |   ❌  |   ❌  |
