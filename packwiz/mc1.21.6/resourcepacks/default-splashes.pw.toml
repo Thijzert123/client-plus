@@ -1,0 +1,13 @@
+name = "Default Splashes"
+filename = "Default_Splashes.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RMESe7qr/versions/NejX2VGC/Default_Splashes.zip"
+hash-format = "sha512"
+hash = "a0146c68a0db96f06a2157098275c3e1f07bf387933fcd6da99131245b87fa9e71e70cdfacdb1cff269d367ca632547288ed730d4ec83f2e51a357202826ffc7"
+
+[update]
+[update.modrinth]
+mod-id = "RMESe7qr"
+version = "NejX2VGC"
