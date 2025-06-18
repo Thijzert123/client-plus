@@ -1,13 +1,13 @@
 name = "My Resource Pack, My Choice"
-filename = "myresourcepack-1.2.6+1.21.4.jar"
+filename = "myresourcepack-1.2.7+1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PTj85Anz/versions/Ue14vJVH/myresourcepack-1.2.6%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/PTj85Anz/versions/HyFzqpTo/myresourcepack-1.2.7%2B1.21.4.jar"
 hash-format = "sha512"
-hash = "cf2901946264be7d4c2b1bb273e16a280d37e98eb24fa2eddc0ca8f8903cefee3837bb12c5e9d0926c74e4e1e42a9cc7183985f77937699b764fc12254c39e44"
+hash = "1fe4644a8b289a636555892cd75432ac31c54460528a1877f017410e0f18322af82d53a9441f31fe7706651333602b4c025e8f5b21f13d8f0d70e0da309fc79f"
 
 [update]
 [update.modrinth]
 mod-id = "PTj85Anz"
-version = "Ue14vJVH"
+version = "HyFzqpTo"
