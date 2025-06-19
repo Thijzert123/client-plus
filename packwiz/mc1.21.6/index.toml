@@ -175,12 +175,17 @@ metafile = true
 
 [[files]]
 file = "mods/bindcommands.pw.toml"
-hash = "e1a89578b61e6cb3922416ddb64499b9c238c391755b41d8dd2d3487d10dd9cb"
+hash = "c828986b37c0d22a40182e8cea8bf96cc5a7fe62edd01a500856f653a76fb9fe"
 metafile = true
 
 [[files]]
 file = "mods/calcmod.pw.toml"
 hash = "e3f48e4cf0b08c8e6d2b91fe79b05a0b6edf2be5de8a6d91f68001a81952a12e"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "21ecdd06d63e862c24703ef6fd496eef5c6dfa72ada035853304619ee9e63122"
 metafile = true
 
 [[files]]
@@ -190,12 +195,27 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "0efceebbfe186ed19db415acd05d403ada42083dc3e9a73dc6810d3e55c4fe76"
+hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "dee4bd18ad41656bd5fe57fe6b89dbcf1a42f5bf5eb628b0e210a478cc7641e1"
 metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "381ae22c1fccbf8361d1c46a290937c2fe3a16a13de8ebf4f934205bc127330f"
+metafile = true
+
+[[files]]
+file = "mods/custom-credits.pw.toml"
+hash = "331ea3fe29c8fda31a8de159a648b875334c233e54a52166d84f9dabf0de02d4"
+metafile = true
+
+[[files]]
+file = "mods/durability-plus.pw.toml"
+hash = "4df86a1620217251fc0c2bd6971a207bd3745db6f729b2175818948f43fc9e6e"
 metafile = true
 
 [[files]]
@@ -225,12 +245,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "24ee27482a8ff2e3de6423144131320e79c65b8ba0c4e52e9931f2e1257bdd41"
+hash = "6e99f9717f8508150669685b02b27016d5d8185415bfba5060d8e8769f60433c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "e27c3f85c52b55934f39a0cf7ff109bf4934570b48246e8a4ebe5462ff6c807c"
 metafile = true
 
 [[files]]
@@ -259,13 +284,18 @@ hash = "a9790b94803106e4a07bbe1e72759ec91a18423f10fbede249a7071986fe79d0"
 metafile = true
 
 [[files]]
+file = "mods/improved-sign-editing.pw.toml"
+hash = "d57cdc50f97a432b9204dce3b4877108e903226cf870f005fe096c918859689c"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "e3ed2c112bfe0abbc4d2c52c7d4c2086fe136e133784775c2f5a43d8f899868c"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "d4bb722a37ed78e43e3ff2dcd358e8b9c0d918f9d349a7c0bdc4cf61b8fc8b4a"
+hash = "42080e6c94475c9a8e7b8a6ee460b46238f190bcc72a91a790847bf6b4ab5bb0"
 metafile = true
 
 [[files]]
@@ -301,6 +331,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6cc7fdbe5cf08f29ec6628c945842eea6efb41e9e82c21f24c135175fcd62132"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "096bce1d87ff7f759d07ae6501043c5d2db1bcdffb5ea566425843f12ff8e348"
 metafile = true
 
 [[files]]
@@ -364,6 +399,11 @@ hash = "d1de6d3e889db21acd36afb754f20b6ccc8c850cb7ef839047eb440e6114d652"
 metafile = true
 
 [[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "268e6334544baa66dd3a7ca585c8d3ead6ae375af25616f634204dd058d7820c"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "9f07a111bb74925e569efadfe6e5d25406aac710d974116d90c9d3450cb3d5b6"
 metafile = true
@@ -381,6 +421,27 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "33a6300bdf82bd4297aeba3c660ebb0f0993121b97f0824a939468e4dcb81d15"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Vanilla_Tweaks_3D_Blocks.zip"
+hash = "60a136f0be4d3fa21cd7c7a352c28a4f6a54f9df40562b235bbe087b783a8a49"
+
+[[files]]
+file = "resourcepacks/Vanilla_Tweaks_Colored_Ping_Indicator.zip"
+hash = "1b44a1d5993eb98d61dd7cf949046fbe53e285926afbc851c03a35312a3b3980"
+
+[[files]]
+file = "resourcepacks/Vanilla_Tweaks_Lower_Shield.zip"
+hash = "dc375da7f5a663d66434c5764269121c922ad32fe0cd2f226e421f9157bee460"
+
+[[files]]
+file = "resourcepacks/Vanilla_Tweaks_Variated_Blocks.zip"
+hash = "7eb321d425ffb44ffd6a716a23a293dd31c26cfbbea4daf91deff132a85db288"
+
+[[files]]
+file = "resourcepacks/bare-bones.pw.toml"
+hash = "b2daa67efbad1b13cebdd750567fb21bcc5169e8c9fbc8d18bf1fce55027662a"
 metafile = true
 
 [[files]]
@@ -409,8 +470,8 @@ hash = "2dd0a3abc81676163b8fc10db544a7babcc55776f0a69c4b2c044b9e193a68f8"
 metafile = true
 
 [[files]]
-file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "27a2ea3200085f3cc4bfc732aac2ed1f51df90af59be9b11dc03f745518cb3b2"
+file = "resourcepacks/reimagined.pw.toml"
+hash = "34cb8df1d56295e9ff6e3285797031032d04f8c64d8bc5e516acc7b485dc49a7"
 metafile = true
 
 [[files]]
