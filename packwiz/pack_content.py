@@ -23,7 +23,8 @@
     "mods": [
         {"id": "yosbr",
             "force-versions": {
-                "1.21.5": "KMOzdYko"
+                "1.21.5": "KMOzdYko",
+                "1.21.6": "KMOzdYko"
             }},
         {"id": "moreculling"},
         {"id": "modmenu"},
@@ -35,10 +36,7 @@
         {"id": "zoomify"},
         {"id": "ferrite-core"},
         {"id": "sodium-extra"},
-        {"id": "immediatelyfast",
-            "force-versions": {
-                "1.21.5": "DjnwJdjY"
-        }},
+        {"id": "immediatelyfast"},
         {"id": "language-reload"},
         {"id": "lambdynamiclights"},
         {"id": "badoptimizations"},
@@ -105,7 +103,8 @@
         {"id": "extended-world-selection",
             "force-versions": {
                 "1.21.4": "ctbaxlx5", # use 1.21.3 version for 1.21.4, works just fine
-                "1.21.5": "ctbaxlx5" # use 1.21.3 version for 1.21.5, works just fine
+                "1.21.5": "ctbaxlx5", # use 1.21.3 version for 1.21.5, works just fine
+                "1.21.6": "ctbaxlx5", # use 1.21.3 version for 1.21.6, works just fine
             }},
         {"id": "clumps"},
         {"id": "legendary-tooltips"},
@@ -205,7 +204,8 @@
             "force-versions": {
                 "1.21.3": "iM6mxyAW",
                 "1.21.4": "iM6mxyAW",
-                "1.21.5": "iM6mxyAW"
+                "1.21.5": "iM6mxyAW",
+                "1.21.6": "iM6mxyAW"
             }},
         {"id": "better-flame-particles"},
         {"id": "simple-grass-flowers"},
@@ -217,7 +217,8 @@
         {"id": "cubic-sun-moon"},
         {"id": "redstone-tweaks",
             "force-versions": {
-                "1.21.5": "G3HClwKQ"
+                "1.21.5": "G3HClwKQ",
+                "1.21.6": "G3HClwKQ"
             }},
         {"id": "low-on-fire"},
         {"id": "tras-fresh-player"},
@@ -249,12 +250,7 @@
         {"id": "icons-advertisement-removal"},
         {"id": "theones-eating-animation-pack",
             "exclude": ["1.20.1", "1.20.4", "1.21.1", "1.21.3"]},
-        {"id": "default-dark-mode",
-            "force-versions": {
-                "1.21.3": "KW0bu9nm",
-                "1.21.4": "KW0bu9nm",
-                "1.21.5": "KW0bu9nm"
-            }},
+        {"id": "default-dark-mode"},
         {"id": "bare-bones"},
         {"id": "meme-soundboard"},
         {"id": "thfa"},
