@@ -1,0 +1,13 @@
+name = "Scribble"
+filename = "Scribble-1.6.1+mc1.21.7-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yXAvIk0x/versions/P2e4dAWA/Scribble-1.6.1%2Bmc1.21.7-fabric.jar"
+hash-format = "sha512"
+hash = "dee90ab42110c8c510adbac239651bca4748d3a4c710eb66c2cf57df47c0ae1b900c758a7099af62aca1982f66a05650c374a13153fecca15290ca29796f3f08"
+
+[update]
+[update.modrinth]
+mod-id = "yXAvIk0x"
+version = "P2e4dAWA"
