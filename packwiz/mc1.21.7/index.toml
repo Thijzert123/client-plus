@@ -199,6 +199,11 @@ hash = "f147a115ed7b2e1d8d28c349178ed58a381e7edd6d719648eff6333cbf40e88c"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "9d6b46943f6ad2518f3acb4598d4afdb74843a069dde3cd7c9fa8dd89723de50"
 metafile = true
@@ -244,6 +249,11 @@ hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
 metafile = true
 
 [[files]]
+file = "mods/unilib.pw.toml"
+hash = "52c57708073e612c13d7e193e4a9ea76298e3590e29ecdf5bd7480ad41caf572"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "ea0eb6ab539b43926503901694913866aa81a9a644cd3469080214a7ca785db2"
 metafile = true
@@ -261,4 +271,14 @@ metafile = true
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "9597f8feb1d046410881995bf1f70bb9c1c1549dfc4dadafcd50ffa39c87a8f3"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "9025311f42fe8ab581987962c9c6b3ec5a50f5afc803e9d867dc580cb0b66190"
 metafile = true
