@@ -1,0 +1,13 @@
+name = "Cubic Sun & Moon"
+filename = "cubic-sun-moon-v1.8.2a.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/g4bSYbrU/versions/SQBD0Iug/cubic-sun-moon-v1.8.2a.zip"
+hash-format = "sha512"
+hash = "8fe1201e23cb771c3cae26bec2377dd8f4edc99b53892f1fb33278c07e5f680bc9eda2dc23792e800cf779a45f538d3447ae9a96d8d73383d4e10d602c2d2956"
+
+[update]
+[update.modrinth]
+mod-id = "g4bSYbrU"
+version = "SQBD0Iug"
