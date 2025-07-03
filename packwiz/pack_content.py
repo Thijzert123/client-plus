@@ -24,7 +24,8 @@
         {"id": "yosbr",
             "force-versions": {
                 "1.21.5": "KMOzdYko",
-                "1.21.6": "KMOzdYko"
+                "1.21.6": "KMOzdYko",
+                "1.21.7": "KMOzdYko"
             }},
         {"id": "moreculling"},
         {"id": "modmenu"},
@@ -44,7 +45,8 @@
         {"id": "entitytexturefeatures"},
         {"id": "lighty"},
         {"id": "better-stats"},
-        {"id": "music-notification"},
+        {"id": "music-notification",
+            "exclude": ["1.21.7"]},
         {"id": "status-effect-bars"},
         {"id": "mace-but-3d",
             "include": ["1.21.1", "1.21.3"]},
@@ -105,8 +107,10 @@
                 "1.21.4": "ctbaxlx5", # use 1.21.3 version for 1.21.4, works just fine
                 "1.21.5": "ctbaxlx5", # use 1.21.3 version for 1.21.5, works just fine
                 "1.21.6": "ctbaxlx5", # use 1.21.3 version for 1.21.6, works just fine
+                "1.21.7": "ctbaxlx5", # use 1.21.3 version for 1.21.7, works just fine
             }},
-        {"id": "clumps"},
+        {"id": "clumps",
+            "exclude": ["1.21.7"]},
         {"id": "legendary-tooltips"},
         {"id": "flashback"},
         {"id": "bettercommandblockui"},
@@ -130,7 +134,8 @@
         {"id": "custom-credits"},
         {"id": "dynamiccrosshair"},
         {"id": "show-me-your-skin"},
-        {"id": "controlling"},
+        {"id": "controlling",
+            "exclude": ["1.21.7"]},
         {"id": "durability-plus"},
         {"id": "hey-wiki"},
         {"id": "sound-controller"},
@@ -159,7 +164,8 @@
         {"id": "subtle-effects"},
         {"id": "item-highlighter"},
         {"id": "scribble"},
-        {"id": "symbol-chat"},
+        {"id": "symbol-chat",
+            "exclude": ["1.21.7"]},
         {"id": "autorun"},
         {"id": "skin-grabber"},
         {"id": "voicechat-soundboard"},
@@ -181,7 +187,8 @@
                 "1.21.4": "ppUfV7UC" # use 1.21 version
         }},
         {"id": "worldedit"},
-        {"id": "nofortunechest"}],
+        {"id": "nofortunechest",
+            "exclude": ["1.21.7"]}],
 #        {"id": "better-clouds"},
 #        {"id": "distanthorizons"}],
     "shaderpacks": [
@@ -205,7 +212,8 @@
                 "1.21.3": "iM6mxyAW",
                 "1.21.4": "iM6mxyAW",
                 "1.21.5": "iM6mxyAW",
-                "1.21.6": "iM6mxyAW"
+                "1.21.6": "iM6mxyAW",
+                "1.21.7": "iM6mxyAW"
             }},
         {"id": "better-flame-particles"},
         {"id": "simple-grass-flowers"},
@@ -215,11 +223,7 @@
         {"id": "enchant-icons-countxd"},
         {"id": "even-better-enchants"},
         {"id": "cubic-sun-moon"},
-        {"id": "redstone-tweaks",
-            "force-versions": {
-                "1.21.5": "G3HClwKQ",
-                "1.21.6": "G3HClwKQ"
-            }},
+        {"id": "redstone-tweaks"},
         {"id": "low-on-fire"},
         {"id": "tras-fresh-player"},
         {"id": "better-leaves"},
@@ -243,7 +247,8 @@
             "include": ["1.20.1", "1.20.4", "1.21.1", "1.21.3", "1.21.4"]},
         {"id": "icons-advertisement-removal",
             "force-versions": {
-                "1.21.6": "dQRt7CG3"
+                "1.21.6": "dQRt7CG3",
+                "1.21.7": "dQRt7CG3"
             }},
         {"id": "theones-eating-animation-pack",
             "exclude": ["1.20.1", "1.20.4", "1.21.1", "1.21.3"]},
