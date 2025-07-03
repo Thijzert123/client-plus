@@ -1,0 +1,13 @@
+name = "BindCommands"
+filename = "fabric-bind-cmd-1.7.1-1.21.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WeytAdLH/versions/vpLCBSPS/fabric-bind-cmd-1.7.1-1.21.7.jar"
+hash-format = "sha512"
+hash = "da643667c82a802f4a293ab7a0bdaee528f1c94ac0cc58604758758f61199a0837bd0fb4ae7fb65e7fb72d3ccc4a5762fe0099a5228c844c99d8855fe124a1d6"
+
+[update]
+[update.modrinth]
+mod-id = "WeytAdLH"
+version = "vpLCBSPS"
