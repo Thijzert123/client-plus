@@ -1,0 +1,13 @@
+name = "No Fortune Chest"
+filename = "NoFortuneChest-1.1+1.21.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4QufRNTv/versions/VPkPDzvX/NoFortuneChest-1.1%2B1.21.7.jar"
+hash-format = "sha512"
+hash = "7618805c916ada15756fa5dbfda013c9f05c21333774590c394a82ab3538efc7e7efbc833522984d9a7ee1ab849679112fb9fa72772565d7eb504846f5f01965"
+
+[update]
+[update.modrinth]
+mod-id = "4QufRNTv"
+version = "VPkPDzvX"
