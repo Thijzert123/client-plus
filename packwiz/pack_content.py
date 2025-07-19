@@ -25,7 +25,8 @@
             "force-versions": {
                 "1.21.5": "KMOzdYko",
                 "1.21.6": "KMOzdYko",
-                "1.21.7": "KMOzdYko"
+                "1.21.7": "KMOzdYko",
+                "1.21.8": "KMOzdYko"
             }},
         {"id": "moreculling"},
         {"id": "modmenu"},
@@ -45,8 +46,7 @@
         {"id": "entitytexturefeatures"},
         {"id": "lighty"},
         {"id": "better-stats"},
-        {"id": "music-notification",
-            "exclude": ["1.21.7"]}, # feature was added 1.21.7
+        {"id": "music-notification"},
         {"id": "status-effect-bars"},
         {"id": "mace-but-3d",
             "include": ["1.21.1", "1.21.3"]},
@@ -105,9 +105,9 @@
                 "1.21.5": "ctbaxlx5", # use 1.21.3 version for 1.21.5, works just fine
                 "1.21.6": "ctbaxlx5", # use 1.21.3 version for 1.21.6, works just fine
                 "1.21.7": "ctbaxlx5", # use 1.21.3 version for 1.21.7, works just fine
+                "1.21.8": "ctbaxlx5", # use 1.21.3 version for 1.21.7, works just fine
             }},
-        {"id": "clumps",
-            "exclude": ["1.21.7"]},
+        {"id": "clumps"},
         {"id": "legendary-tooltips"},
         {"id": "flashback"},
         {"id": "bettercommandblockui"},
@@ -182,8 +182,7 @@
                 "1.21.4": "ppUfV7UC" # use 1.21 version
         }},
         {"id": "worldedit"},
-        {"id": "nofortunechest",
-            "exclude": ["1.21.7"]}],
+        {"id": "nofortunechest"}],
 #        {"id": "better-clouds"},
 #        {"id": "distanthorizons"}],
     "shaderpacks": [
@@ -208,7 +207,8 @@
                 "1.21.4": "iM6mxyAW",
                 "1.21.5": "iM6mxyAW",
                 "1.21.6": "iM6mxyAW",
-                "1.21.7": "iM6mxyAW"
+                "1.21.7": "iM6mxyAW",
+                "1.21.8": "iM6mxyAW"
             }},
         {"id": "better-flame-particles"},
         {"id": "simple-grass-flowers"},
@@ -243,7 +243,8 @@
         {"id": "icons-advertisement-removal",
             "force-versions": {
                 "1.21.6": "dQRt7CG3",
-                "1.21.7": "dQRt7CG3"
+                "1.21.7": "dQRt7CG3",
+                "1.21.8": "dQRt7CG3"
             }},
         {"id": "theones-eating-animation-pack",
             "exclude": ["1.20.1", "1.20.4", "1.21.1", "1.21.3"]},
