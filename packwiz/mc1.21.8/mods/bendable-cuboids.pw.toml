@@ -1,0 +1,13 @@
+name = "Bendable Cuboids"
+filename = "BendableCuboids-1.0.2+mc1.21.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OI3FlFon/versions/NMDzvaGC/BendableCuboids-1.0.2%2Bmc1.21.7.jar"
+hash-format = "sha512"
+hash = "80ef6986de70d531816622a6e348b720708b134ea50ff6c707b996162ca92d43c71c92ba31e58a338ce8228dbe452371479679115b154921dfbef3c8ed219aa3"
+
+[update]
+[update.modrinth]
+mod-id = "OI3FlFon"
+version = "NMDzvaGC"

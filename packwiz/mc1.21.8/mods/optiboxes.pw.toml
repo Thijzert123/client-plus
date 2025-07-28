@@ -1,13 +1,13 @@
 name = "Optiboxes"
-filename = "optiboxes-1.1+mc1.21.7-39bf670.jar"
+filename = "optiboxes-1.2+mc1.21.8-8345b33.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DWuwk8aA/versions/cORUSxDj/optiboxes-1.1%2Bmc1.21.7-39bf670.jar"
+url = "https://cdn.modrinth.com/data/DWuwk8aA/versions/Uu3bU2pm/optiboxes-1.2%2Bmc1.21.8-8345b33.jar"
 hash-format = "sha512"
-hash = "e66924bda8582c041edc02913489fa9098397a5bbd6493dfd2308da000ea32af13de895d40ab23c85c5f43adbf83854d2a5be323e53b3db3961cc5f85cbf3cbc"
+hash = "f33659861a43b1b4ea8b3cbab238ff5d26ef56ecaadf949a9167c61ef6d9e72879c12d4dbc4085dcad0f83f01cc1100545c45d6869d53a9bd91e3064755b0614"
 
 [update]
 [update.modrinth]
 mod-id = "DWuwk8aA"
-version = "cORUSxDj"
+version = "Uu3bU2pm"
