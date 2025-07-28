@@ -239,11 +239,6 @@ hash = "2d1c297c06a8781464a18d28d4a6d5c4807d216e42f6e315215d244ecdcb254b"
 metafile = true
 
 [[files]]
-file = "mods/bindcommands.pw.toml"
-hash = "4237baeeb4877dbfe66fad9d57afd717fea4b981b8e3458d8cd0f9c75db25c25"
-metafile = true
-
-[[files]]
 file = "mods/bobby.pw.toml"
 hash = "65ba148bc2832d78b433e76eccfbdbb1456066a9d14dac621a3b730b109b16cb"
 metafile = true
@@ -589,11 +584,6 @@ hash = "07bc359595230fa1f1a605b11eab4436d63f2921157f5f48884f5d71364d778f"
 metafile = true
 
 [[files]]
-file = "mods/music-notification.pw.toml"
-hash = "3a642f4c3a16e7a6537a52d585b0deb4251c80a75da6a68716668c2310b66964"
-metafile = true
-
-[[files]]
 file = "mods/my-resource-pack.pw.toml"
 hash = "bbbcaa73bc1edc63a3837eb76ef58bf83e815b48fd49a2c67646749e527ade4e"
 metafile = true
@@ -606,11 +596,6 @@ metafile = true
 [[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "da9ac20bdc1caa50ebec291429638780924e8a5060ec39abe085c7e6182b3a6f"
-metafile = true
-
-[[files]]
-file = "mods/nofortunechest.pw.toml"
-hash = "70059f23cc7def59787b1ee8a69408315325a3ac97af3c65d770b7c6504dd230"
 metafile = true
 
 [[files]]
@@ -651,11 +636,6 @@ metafile = true
 [[files]]
 file = "mods/player-animation-library.pw.toml"
 hash = "ef779e2a129d8dcc0587b98215b48cdf183fcbb9f1d9e35bdec6b44be0875d0f"
-metafile = true
-
-[[files]]
-file = "mods/polytone.pw.toml"
-hash = "8b7039febd3fe0ca93e8c4462ba481c7c1ce0294e87d716f7a2a202bf5a83b21"
 metafile = true
 
 [[files]]
