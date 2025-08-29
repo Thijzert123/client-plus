@@ -1,4 +1,5 @@
 # Client+
+Client+ is a Minecraft modpack focused on improving vanilla Minecraft on the client-side. It is available on [Modrinth](https://modrinth.com/modpack/client-plus).
 
 ## TODO
 - ~~Update default options.txt so that keybinds don't conflict by default~~
