@@ -870,7 +870,7 @@
 				"sha512": "b65ccc316a91d9b5db9ebe4b97d4a0414cb44876b7d673c6dbd47eec460a2880272c552cff11622534d58b5c935036787e5b5491139e28f925f84af3b3adc4fb"
 			},
 			"env": {
-				"client": "optional",
+				"client": "required",
 				"server": "optional"
 			},
 			"downloads": [
@@ -1016,17 +1016,17 @@
 		{
 			"path": "resourcepack/SodiumTranslations.zip",
 			"hashes": {
-				"sha1": "353b1122ccac5a79c3e85233803fd3519115fa57",
-				"sha512": "d0207641ff13897c56e6b3afe450873c0c4cc364b0731d44ebb617aacae445694c2c94c8a714afa5f12965f9bd9a7def8153adb85187c02889c7b0d33ec0111b"
+				"sha1": "826a0575d7f6c900e08064b7b2b007949752e5a4",
+				"sha512": "77a07f06ff5172aa5c61fbbe433ac1695c0e78e3e1c030a6616ba6fb3b09b0e4de062c0d7e7e9508418cce8f3c25edd18008f1e670f44f92c874f0bbee78844d"
 			},
 			"env": {
 				"client": "required",
 				"server": "unsupported"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/yfDziwn1/versions/fkEfyeA8/SodiumTranslations.zip"
+				"https://cdn.modrinth.com/data/yfDziwn1/versions/d5RndRwn/SodiumTranslations.zip"
 			],
-			"fileSize": 228674
+			"fileSize": 228740
 		},
 		{
 			"path": "mods/lighty-fabric-2.3.0+1.20.3.jar",
@@ -1636,7 +1636,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "optional"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/K0AkAin6/versions/wxFGhChe/ClientSort-Fabric-1.20.4-0.9.0.jar"
@@ -2394,19 +2394,19 @@
 			"fileSize": 65430
 		},
 		{
-			"path": "resourcepack/FreshAnimations_v1.9.2.zip",
+			"path": "resourcepack/FreshAnimations_v1.10.1.zip",
 			"hashes": {
-				"sha1": "ff18e6a762b87d7e8bad0726ac7d9c153306c6d2",
-				"sha512": "97a387112a5a94b0e7f4d0d2439977a9f28579303ad883ed3d0fcc3277357f8b3ab2418960f698d1a5f435903e0b2f82716fc92f8500cac090f900b2d2135dcf"
+				"sha1": "7747988f7cd47f5e46dbec54474126223ec95a47",
+				"sha512": "f5bf17c74afbe9acda9f0b7ad177fa28218077bec286cf04e465ff83b84d7e21fe53d15e8ceea4d2b358521dda2007417394b33ac8737fdc5c91ffcbcb715994"
 			},
 			"env": {
 				"client": "required",
 				"server": "unsupported"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/50dA9Sha/versions/8vtPih5h/FreshAnimations_v1.9.2.zip"
+				"https://cdn.modrinth.com/data/50dA9Sha/versions/EkWu7smn/FreshAnimations_v1.10.1.zip"
 			],
-			"fileSize": 516256
+			"fileSize": 815824
 		},
 		{
 			"path": "resourcepack/Better+Lanterns+v1.2(mc-1.20.3-4).zip",

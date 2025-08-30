@@ -30,12 +30,20 @@
 			"id": "lithium"
 		},
 		{
+			"name": "Your Options Shall Be Respected (YOSBR)",
+			"id": "yosbr"
+		},
+		{
 			"name": "Dynamic FPS",
 			"id": "dynamic-fps"
 		},
 		{
 			"name": "Falling Leaves",
 			"id": "fallingleaves"
+		},
+		{
+			"name": "Icons Advertisement Removal [1.8 - 1.21.5]",
+			"id": "icons-advertisement-removal"
 		},
 		{
 			"name": "Inventory Blur",
@@ -685,6 +693,21 @@
 			"fileSize": 792413
 		},
 		{
+			"path": "mods/yosbr-0.1.2.jar",
+			"hashes": {
+				"sha1": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9",
+				"sha512": "254f2225f6446523aa8c8274e83b31e27f3b2afc8fe4f490fb1b169dd518e10c7993acda5db0ab597474ddf9d69506b5e794242fada1e2f89ed7bf9d412a8f78"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/WwbubTsV/versions/KMOzdYko/yosbr-0.1.2.jar"
+			],
+			"fileSize": 17373
+		},
+		{
 			"path": "mods/dynamic-fps-3.9.6+minecraft-1.21.6-fabric.jar",
 			"hashes": {
 				"sha1": "e4f593a40029b7d5cbfbc93ce6d8c4fd399ae1ff",
@@ -713,6 +736,21 @@
 				"https://cdn.modrinth.com/data/WhbRG4iK/versions/Fee5709g/fallingleaves-2.0.1%2B1.21.5.jar"
 			],
 			"fileSize": 181669
+		},
+		{
+			"path": "resourcepack/Icons Branding Remover 1.21.5.zip",
+			"hashes": {
+				"sha1": "f183d6ca0c3db6485e5ef997fa95033d5a549824",
+				"sha512": "504242a45bf6284be1654ce9afd221c29ef41cbabe770a5c4df1b560b90fedd420de4cd898fcb6dbf19c1b84424903c2e7f8f24e0c8b428d8eb33a142ce85e6a"
+			},
+			"env": {
+				"client": "required",
+				"server": "unsupported"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/7Rq0ipFz/versions/dQRt7CG3/Icons%20Branding%20Remover%201.21.5.zip"
+			],
+			"fileSize": 4424
 		},
 		{
 			"path": "mods/eg_inventory_blur-v1.2.1-fabric-mc1.21.8.jar",
@@ -766,7 +804,7 @@
 				"sha512": "5a0ec5a1f7b2bf7398c70125d17d34dd5aed8cb85c9f98cca66eb06c83dfa38e8e53af7122ace501b2c4a413e21f30f272fbe4cf2528175669839e9257868859"
 			},
 			"env": {
-				"client": "optional",
+				"client": "required",
 				"server": "optional"
 			},
 			"downloads": [
@@ -790,19 +828,19 @@
 			"fileSize": 169975
 		},
 		{
-			"path": "resourcepack/Icons v.1.11.5 - NoLanguageMenu.zip",
+			"path": "resourcepack/Icons v.1.11.3.zip",
 			"hashes": {
-				"sha1": "f818177c0cbd50d0c2776567cce6585459927207",
-				"sha512": "558d0b5c40a441d0f750a12587f3e0908d00d45671911c9e89d98dfb9f4136768d402c854ee7c14cb55a0d8d72bdf9b3b86d97609f6ca37bda9a5402e5162b1f"
+				"sha1": "6f9130130600e783a9c00346c9832cbb43d33f27",
+				"sha512": "8b369cfb3589c4322c66f99608e0e321eef45358d03f429ae07640771e12bcf15776d2528a39b2cec8603c0bf26babd24a2ef1c76ca87c9c18a2dab4a0bc2051"
 			},
 			"env": {
 				"client": "required",
 				"server": "unsupported"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/O7z3QKAG/versions/K7p2fJDL/Icons%20v.1.11.5%20-%20NoLanguageMenu.zip"
+				"https://cdn.modrinth.com/data/O7z3QKAG/versions/iM6mxyAW/Icons%20v.1.11.3.zip"
 			],
-			"fileSize": 4085718
+			"fileSize": 5772258
 		},
 		{
 			"path": "mods/controlify-2.4.1+1.21.8-fabric.jar",
@@ -882,17 +920,17 @@
 		{
 			"path": "resourcepack/SodiumTranslations.zip",
 			"hashes": {
-				"sha1": "353b1122ccac5a79c3e85233803fd3519115fa57",
-				"sha512": "d0207641ff13897c56e6b3afe450873c0c4cc364b0731d44ebb617aacae445694c2c94c8a714afa5f12965f9bd9a7def8153adb85187c02889c7b0d33ec0111b"
+				"sha1": "826a0575d7f6c900e08064b7b2b007949752e5a4",
+				"sha512": "77a07f06ff5172aa5c61fbbe433ac1695c0e78e3e1c030a6616ba6fb3b09b0e4de062c0d7e7e9508418cce8f3c25edd18008f1e670f44f92c874f0bbee78844d"
 			},
 			"env": {
 				"client": "required",
 				"server": "unsupported"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/yfDziwn1/versions/fkEfyeA8/SodiumTranslations.zip"
+				"https://cdn.modrinth.com/data/yfDziwn1/versions/d5RndRwn/SodiumTranslations.zip"
 			],
-			"fileSize": 228674
+			"fileSize": 228740
 		},
 		{
 			"path": "mods/lighty-fabric-3.0.2+1.21.6.jar",
@@ -1427,7 +1465,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "optional"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/K0AkAin6/versions/R62f0Vu9/clientsort-fabric-2.0.0-beta.14%2B1.21.8.jar"
@@ -2065,19 +2103,19 @@
 			"fileSize": 66419
 		},
 		{
-			"path": "resourcepack/FreshAnimations_v1.10.zip",
+			"path": "resourcepack/FreshAnimations_v1.10.1.zip",
 			"hashes": {
-				"sha1": "e89d70039245a248d702189dbf6d1b7aedcee638",
-				"sha512": "afb101504da975fb96dd2ef99741dd1198a7c643e53801d71b5e662adfd70118d9ff64fab8eb0af2d00e11ec20faefe4dd24379384dcb70cebd757c662c946f0"
+				"sha1": "7747988f7cd47f5e46dbec54474126223ec95a47",
+				"sha512": "f5bf17c74afbe9acda9f0b7ad177fa28218077bec286cf04e465ff83b84d7e21fe53d15e8ceea4d2b358521dda2007417394b33ac8737fdc5c91ffcbcb715994"
 			},
 			"env": {
 				"client": "required",
 				"server": "unsupported"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/50dA9Sha/versions/3s2JmLwU/FreshAnimations_v1.10.zip"
+				"https://cdn.modrinth.com/data/50dA9Sha/versions/EkWu7smn/FreshAnimations_v1.10.1.zip"
 			],
-			"fileSize": 692641
+			"fileSize": 815824
 		},
 		{
 			"path": "resourcepack/Better Lanterns v1.2 - 1.21.6.zip",
