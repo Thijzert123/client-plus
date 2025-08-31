@@ -3,6 +3,7 @@
 	"name": "Client+",
 	"summary": "Modpack focused on improving vanilla Minecraft on the client-side.",
 	"author": "Thijzert (https://github.com/Thijzert123)",
+	"require_all": true,
 	"branches": [
 		"1.21.8",
 		"1.21.7",
