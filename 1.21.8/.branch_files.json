@@ -3,603 +3,687 @@
 	"projects": [
 		{
 			"name": "Better Advancements",
-			"id": "better-advancements"
+			"id": "Q2OqKxDG"
 		},
 		{
 			"name": "Capes",
-			"id": "capes"
+			"id": "89Wsn8GD"
 		},
 		{
 			"name": "Respackopts",
-			"id": "respackopts"
+			"id": "TiF5QWZY"
 		},
 		{
 			"name": "Even Better Enchants",
-			"id": "even-better-enchants"
+			"id": "6udpuGCH"
 		},
 		{
 			"name": "Language Reload",
-			"id": "language-reload"
+			"id": "uLbm7CG6"
 		},
 		{
 			"name": "Sounds",
-			"id": "sound"
+			"id": "ZouiUX7t"
 		},
 		{
 			"name": "Lithium",
-			"id": "lithium"
+			"id": "gvQqBUqZ"
 		},
 		{
 			"name": "Your Options Shall Be Respected (YOSBR)",
-			"id": "yosbr"
+			"id": "WwbubTsV"
 		},
 		{
 			"name": "Dynamic FPS",
-			"id": "dynamic-fps"
+			"id": "LQ3K71Q1"
 		},
 		{
 			"name": "Falling Leaves",
-			"id": "fallingleaves"
+			"id": "WhbRG4iK"
 		},
 		{
 			"name": "Icons Advertisement Removal [1.8 - 1.21.5]",
-			"id": "icons-advertisement-removal"
+			"id": "7Rq0ipFz"
 		},
 		{
 			"name": "Inventory Blur",
-			"id": "inventory-blur"
+			"id": "lTS6nyFs"
 		},
 		{
 			"name": "Visuals",
-			"id": "visuals"
+			"id": "pWBAsHgt"
 		},
 		{
 			"name": "Debugify",
-			"id": "debugify"
+			"id": "QwxR6Gcd"
 		},
 		{
 			"name": "Better Statistics Screen",
-			"id": "better-stats"
+			"id": "n6PXGAoM"
 		},
 		{
 			"name": "Better Command Block UI",
-			"id": "bettercommandblockui"
+			"id": "8iQcgjQ2"
 		},
 		{
 			"name": "Icons",
-			"id": "icons"
+			"id": "O7z3QKAG"
 		},
 		{
 			"name": "Controlify (Controller support)",
-			"id": "controlify"
+			"id": "DOUdJVEm"
 		},
 		{
 			"name": "Litematica",
-			"id": "litematica"
+			"id": "bEpr0Arc"
 		},
 		{
 			"name": "Better Mount HUD",
-			"id": "better-mount-hud"
+			"id": "kqJFAPU9"
 		},
 		{
 			"name": "Roughly Enough Items (REI)",
-			"id": "rei"
+			"id": "nfn13YXA"
 		},
 		{
 			"name": "Emotecraft",
-			"id": "emotecraft"
+			"id": "pZ2wrerK"
 		},
 		{
 			"name": "WorldEdit",
-			"id": "worldedit"
+			"id": "1u6JkXh5"
 		},
 		{
 			"name": "Translations for Sodium",
-			"id": "translations-for-sodium"
+			"id": "yfDziwn1"
 		},
 		{
 			"name": "Lighty",
-			"id": "lighty"
+			"id": "yjvKidNM"
 		},
 		{
 			"name": "BSL Shaders",
-			"id": "bsl-shaders"
+			"id": "Q1vvjJYV"
 		},
 		{
 			"name": "No Fortune Chest",
-			"id": "nofortunechest"
+			"id": "4QufRNTv"
 		},
 		{
 			"name": "Mod Loading Screen",
-			"id": "mod-loading-screen"
+			"id": "xAGJ6rQS"
 		},
 		{
 			"name": "My Resource Pack, My Choice",
-			"id": "my-resource-pack"
+			"id": "PTj85Anz"
 		},
 		{
 			"name": "Chat Reporting Helper",
-			"id": "chat-reporting-helper"
+			"id": "tN4E9NfV"
 		},
 		{
 			"name": "Xaero's World Map",
-			"id": "xaeros-world-map"
+			"id": "NcUtCpym"
 		},
 		{
 			"name": "Resourcify",
-			"id": "resourcify"
+			"id": "RLzHAoZe"
 		},
 		{
 			"name": "Bobby",
-			"id": "bobby"
+			"id": "M08ruV16"
 		},
 		{
 			"name": "Simple Voice Chat",
-			"id": "simple-voice-chat"
+			"id": "9eGKb6K1"
 		},
 		{
 			"name": "ImmediatelyFast",
-			"id": "immediatelyfast"
+			"id": "5ZwdcRci"
 		},
 		{
 			"name": "Auth Me",
-			"id": "auth-me"
+			"id": "yjgIrBjZ"
 		},
 		{
 			"name": "Not Enough Animations",
-			"id": "not-enough-animations"
+			"id": "MPCX6s5C"
 		},
 		{
 			"name": "qrafty's Capitalized Font",
-			"id": "qraftys-capitalized-font"
+			"id": "FA4ebMMU"
 		},
 		{
 			"name": "(Bee's) Fancy Crops",
-			"id": "fancy-crops"
+			"id": "UGEVQ6t9"
 		},
 		{
 			"name": "e4mc",
-			"id": "e4mc"
+			"id": "qANg5Jrr"
 		},
 		{
 			"name": "Scribble",
-			"id": "scribble"
+			"id": "yXAvIk0x"
 		},
 		{
 			"name": "Bow Load Indicator",
-			"id": "bow-load-indicator"
+			"id": "dj5wVJsq"
 		},
 		{
 			"name": "Bare Bones",
-			"id": "bare-bones"
+			"id": "rox3U8B6"
 		},
 		{
 			"name": "Chat Animation [Smooth Chat]",
-			"id": "chatanimation"
+			"id": "DnNYdJsx"
 		},
 		{
 			"name": "LambDynamicLights",
-			"id": "lambdynamiclights"
+			"id": "yBW8D80W"
 		},
 		{
 			"name": "Chunks fade in",
-			"id": "chunks-fade-in"
+			"id": "JaNmzvA8"
 		},
 		{
 			"name": "BadOptimizations",
-			"id": "badoptimizations"
+			"id": "g96Z4WVZ"
 		},
 		{
 			"name": "Xaero's Minimap",
-			"id": "xaeros-minimap"
+			"id": "1bokaNcj"
 		},
 		{
 			"name": "Animated Items",
-			"id": "animated-items"
+			"id": "uBBepXuH"
 		},
 		{
 			"name": "Chunky",
-			"id": "chunky"
+			"id": "fALzjamp"
 		},
 		{
 			"name": "Withered Hearts",
-			"id": "withered-hearts"
+			"id": "LQI4ZTHY"
 		},
 		{
 			"name": "Miniature Shader",
-			"id": "miniature-shader"
+			"id": "UaS8ROxa"
 		},
 		{
 			"name": "Recolourful Containers GUI + HUD (DARK)",
-			"id": "recolourful-containers-gui-hud-dark"
+			"id": "sQCUH0Mr"
 		},
 		{
 			"name": "CraftPresence",
-			"id": "craftpresence"
+			"id": "DFqQfIBR"
 		},
 		{
 			"name": "Continuity",
-			"id": "continuity"
+			"id": "1IjD5062"
 		},
 		{
 			"name": "Motschen's Better Leaves",
-			"id": "better-leaves"
+			"id": "uvpymuxq"
 		},
 		{
 			"name": "Fabrishot",
-			"id": "fabrishot"
+			"id": "3qsfQtE9"
 		},
 		{
 			"name": "Default Dark Mode",
-			"id": "default-dark-mode"
+			"id": "6SLU7tS5"
 		},
 		{
 			"name": "Low On Fire",
-			"id": "low-on-fire"
+			"id": "RRxvWKNC"
 		},
 		{
 			"name": "Client Sort",
-			"id": "clientsort"
+			"id": "K0AkAin6"
 		},
 		{
 			"name": "Simple Fog Control",
-			"id": "simplefog"
+			"id": "Glp1bwYc"
 		},
 		{
 			"name": "Skin Grabber",
-			"id": "skin-grabber"
+			"id": "TtybOAsL"
 		},
 		{
 			"name": "Gamma Utils (Fullbright)",
-			"id": "gamma-utils"
+			"id": "wdLuzzEP"
 		},
 		{
 			"name": "Mod Menu",
-			"id": "modmenu"
+			"id": "mOgUt4GM"
 		},
 		{
 			"name": "Wider Tab",
-			"id": "wider-tab"
+			"id": "IA3kkkhV"
 		},
 		{
 			"name": "OptiGUI",
-			"id": "optigui"
+			"id": "JuksLGBQ"
 		},
 		{
 			"name": "Creative Fly",
-			"id": "creative-fly"
+			"id": "XrD3Auyv"
 		},
 		{
 			"name": "Auto-Run",
-			"id": "autorun"
+			"id": "2i7tg1Wv"
 		},
 		{
 			"name": "Sodium",
-			"id": "sodium"
+			"id": "AANobbMI"
 		},
 		{
 			"name": "More Chat History",
-			"id": "morechathistory"
+			"id": "8qkXwOnk"
 		},
 		{
 			"name": "BetterF3",
-			"id": "betterf3"
+			"id": "8shC1gFX"
 		},
 		{
 			"name": "Status Effect Bars",
-			"id": "status-effect-bars"
+			"id": "x02cBj9Y"
 		},
 		{
 			"name": "New Glowing Ores",
-			"id": "new-glowing-ores"
+			"id": "oL18adaQ"
 		},
 		{
 			"name": "Iris Shaders",
-			"id": "iris"
+			"id": "YL57xq9U"
 		},
 		{
 			"name": "Complementary Shaders - Reimagined",
-			"id": "complementary-reimagined"
+			"id": "HVnmMxH1"
 		},
 		{
 			"name": "Controlling",
-			"id": "controlling"
+			"id": "xv94TkTM"
 		},
 		{
 			"name": "Cherished Worlds",
-			"id": "cherished-worlds"
+			"id": "3azQ6p0W"
 		},
 		{
 			"name": "MakeUp - Ultra Fast",
-			"id": "makeup-ultra-fast-shaders"
+			"id": "izsIPI7a"
 		},
 		{
 			"name": "More Culling",
-			"id": "moreculling"
+			"id": "51shyZVL"
 		},
 		{
 			"name": "AppleSkin",
-			"id": "appleskin"
+			"id": "EsAfCjCV"
 		},
 		{
 			"name": "Subtle Effects",
-			"id": "subtle-effects"
+			"id": "4q8UOK1d"
 		},
 		{
 			"name": "Visuality",
-			"id": "visuality"
+			"id": "rI0hvYcd"
 		},
 		{
 			"name": "Music Notification",
-			"id": "music-notification"
+			"id": "A4YQgwzz"
 		},
 		{
 			"name": "Mouse Tweaks",
-			"id": "mouse-tweaks"
+			"id": "aC3cM3Vq"
 		},
 		{
 			"name": "Symbol Chat",
-			"id": "symbol-chat"
+			"id": "NKvLVQMc"
 		},
 		{
 			"name": "Online Emotes",
-			"id": "online-emotes"
+			"id": "Dc4g4seU"
 		},
 		{
 			"name": "Redstone Tweaks",
-			"id": "redstone-tweaks"
+			"id": "RvfAlf4Z"
 		},
 		{
 			"name": "View Bobbing Options",
-			"id": "viewboboptions"
+			"id": "Yr9J16k6"
 		},
 		{
 			"name": "Options Profiles",
-			"id": "options-profiles"
+			"id": "DnyS3EEW"
 		},
 		{
 			"name": "Chat Heads",
-			"id": "chat-heads"
+			"id": "Wb5oqrBJ"
 		},
 		{
 			"name": "Cubes Without Borders",
-			"id": "cubes-without-borders"
+			"id": "ETlrkaYF"
 		},
 		{
 			"name": "FancyMenu",
-			"id": "fancymenu"
+			"id": "Wq5SjeWM"
 		},
 		{
 			"name": "CalcMod",
-			"id": "calcmod"
+			"id": "XoHTb2Ap"
 		},
 		{
 			"name": "Entity Culling",
-			"id": "entityculling"
+			"id": "NNAgCjsB"
 		},
 		{
 			"name": "Better Flame Particles",
-			"id": "better-flame-particles"
+			"id": "ivUZsvzp"
 		},
 		{
 			"name": "Shulker Box Tooltip",
-			"id": "shulkerboxtooltip"
+			"id": "2M01OLQq"
 		},
 		{
 			"name": "Skin Shuffle",
-			"id": "skinshuffle"
+			"id": "3s19I5jr"
 		},
 		{
 			"name": "WaxedIcons",
-			"id": "waxedicons"
+			"id": "pC9ELBuh"
 		},
 		{
 			"name": "Krypton",
-			"id": "krypton"
+			"id": "fQEb0iXm"
 		},
 		{
 			"name": "Fast Trading",
-			"id": "fast-trading"
+			"id": "Ht0RRAt0"
 		},
 		{
 			"name": "Complementary Shaders - Unbound",
-			"id": "complementary-unbound"
+			"id": "R6NEzAwj"
 		},
 		{
 			"name": "[EMF] Entity Model Features",
-			"id": "entity-model-features"
+			"id": "4I1XuqiY"
 		},
 		{
 			"name": "Model Gap Fix",
-			"id": "modelfix"
+			"id": "QdG47OkI"
 		},
 		{
 			"name": "Fresh Animations",
-			"id": "fresh-animations"
+			"id": "50dA9Sha"
 		},
 		{
 			"name": "Better Lanterns",
-			"id": "better-lanterns"
+			"id": "PGGrfcvL"
 		},
 		{
 			"name": "Noisium",
-			"id": "noisium"
+			"id": "KuNKN7d2"
 		},
 		{
 			"name": "Raise Sound Limit Simplified",
-			"id": "rsls"
+			"id": "SKW62Pht"
 		},
 		{
 			"name": "Sound Controller",
-			"id": "sound-controller"
+			"id": "uY9zbflw"
 		},
 		{
 			"name": "Polytone",
-			"id": "polytone"
+			"id": "3qAYkBMB"
 		},
 		{
 			"name": "Show Me Your Skin!",
-			"id": "show-me-your-skin"
+			"id": "bD7YqcA3"
 		},
 		{
 			"name": "Glowing Torchflower",
-			"id": "glowing-torchflower"
+			"id": "1S4LxcvL"
 		},
 		{
 			"name": "No Resource Pack Warnings",
-			"id": "no-resource-pack-warnings"
+			"id": "6xKUDQcB"
 		},
 		{
 			"name": "Pick Up Notifier",
-			"id": "pick-up-notifier"
+			"id": "ZX66K16c"
 		},
 		{
 			"name": "3D Skin Layers",
-			"id": "3dskinlayers"
+			"id": "zV5r3pPn"
 		},
 		{
 			"name": "VTDownloader",
-			"id": "vtdownloader"
+			"id": "1E2sq1cp"
 		},
 		{
 			"name": "XaeroPlus",
-			"id": "xaeroplus"
+			"id": "EnPUzSTg"
 		},
 		{
 			"name": "Improved Sign Editing",
-			"id": "improved-sign-editing"
+			"id": "EWQifKYI"
 		},
 		{
 			"name": "Make Bubbles Pop",
-			"id": "make_bubbles_pop"
+			"id": "gPCdW0Wr"
 		},
 		{
 			"name": "Cubic Sun & Moon",
-			"id": "cubic-sun-moon"
+			"id": "g4bSYbrU"
 		},
 		{
 			"name": "FastQuit",
-			"id": "fastquit"
+			"id": "x1hIzbuY"
 		},
 		{
 			"name": "Animatica",
-			"id": "animatica"
+			"id": "PRN43VSY"
 		},
 		{
 			"name": "Rethinking Voxels",
-			"id": "rethinking-voxels"
+			"id": "kmwfVOoi"
 		},
 		{
 			"name": "Custom Credits",
-			"id": "custom-credits"
+			"id": "GhWh8CAU"
 		},
 		{
 			"name": "Zoomify",
-			"id": "zoomify"
+			"id": "w7ThoJFB"
 		},
 		{
 			"name": "Recolourful Containers GUI + HUD",
-			"id": "recolourful-containers-gui"
+			"id": "lewweaHO"
 		},
 		{
 			"name": "BindCommands",
-			"id": "bindcommands"
+			"id": "WeytAdLH"
 		},
 		{
 			"name": "Reimagined",
-			"id": "reimagined"
+			"id": "ta5dy0aA"
 		},
 		{
 			"name": "Durability Plus",
-			"id": "durability-plus"
+			"id": "na1dL51S"
 		},
 		{
 			"name": "Theone's Eating Animation Pack",
-			"id": "theones-eating-animation-pack"
+			"id": "OhzX8kDf"
 		},
 		{
 			"name": "Better F1 Reborn",
-			"id": "better-f1-reborn"
+			"id": "2JIeCmxb"
 		},
 		{
 			"name": "Hyper Realistic Sky",
-			"id": "hyper-realistic-sky"
+			"id": "PsMUgCo5"
 		},
 		{
 			"name": "Super Duper Vanilla",
-			"id": "super-duper-vanilla"
+			"id": "LMIZZNxZ"
 		},
 		{
 			"name": "Mace but 3D",
-			"id": "mace-but-3d-resourcepack"
+			"id": "r9aFsDLk"
 		},
 		{
 			"name": "Clumps",
-			"id": "clumps"
+			"id": "Wnxd13zP"
 		},
 		{
 			"name": "Fullbright UB",
-			"id": "fullbright-ub"
+			"id": "ItHr72Fy"
 		},
 		{
 			"name": "Solas Shader",
-			"id": "solas-shader"
+			"id": "EpQFjzrQ"
 		},
 		{
 			"name": "Explosive Enhancement",
-			"id": "explosive-enhancement"
+			"id": "OSQ8mw2r"
 		},
 		{
 			"name": "Dynamic Crosshair",
-			"id": "dynamiccrosshair"
+			"id": "ZcR9weSm"
 		},
 		{
 			"name": "Fast IP Ping",
-			"id": "fast-ip-ping"
+			"id": "9mtu0sUO"
 		},
 		{
 			"name": "FerriteCore",
-			"id": "ferrite-core"
+			"id": "uXXizFIs"
 		},
 		{
 			"name": "Default Splashes",
-			"id": "default-splashes"
+			"id": "RMESe7qr"
 		},
 		{
 			"name": "Entity View Distance",
-			"id": "entity-view-distance"
+			"id": "ihnBJ6on"
 		},
 		{
 			"name": "Dramatic Skys",
-			"id": "dramatic-skys"
+			"id": "2YyNMled"
 		},
 		{
 			"name": "[ETF] Entity Texture Features",
-			"id": "entitytexturefeatures"
+			"id": "BVzZfTc1"
 		},
 		{
 			"name": "No Chat Reports",
-			"id": "no-chat-reports"
+			"id": "qQyHxfxd"
 		},
 		{
 			"name": "Jade 🔍",
-			"id": "jade"
+			"id": "nvQzSEkH"
 		},
 		{
 			"name": "Better Suggestions",
-			"id": "better-suggestions"
+			"id": "HfZKWsjM"
 		},
 		{
 			"name": "Sodium Extra",
-			"id": "sodium-extra"
+			"id": "PtjYWJkn"
 		},
 		{
 			"name": "Hey Wiki",
-			"id": "hey-wiki"
+			"id": "6DnswkCZ"
 		},
 		{
 			"name": "Flashback",
-			"id": "flashback"
+			"id": "4das1Fjq"
+		},
+		{
+			"name": "Fabric API",
+			"id": "P7dR8mSH"
+		},
+		{
+			"name": "Fabric Language Kotlin",
+			"id": "Ha28R6CL"
+		},
+		{
+			"name": "LibJF",
+			"id": "WKwQAwke"
+		},
+		{
+			"name": "M.R.U",
+			"id": "SNVQ2c0g"
+		},
+		{
+			"name": "Cloth Config API",
+			"id": "9s6osm5g"
+		},
+		{
+			"name": "YetAnotherConfigLib (YACL)",
+			"id": "1eAoo2KR"
+		},
+		{
+			"name": "TCDCommons API",
+			"id": "Eldc1g37"
+		},
+		{
+			"name": "MaLiLib",
+			"id": "GcWjdA9I"
+		},
+		{
+			"name": "Architectury API",
+			"id": "lhGA9TYQ"
+		},
+		{
+			"name": "Player Animation Library",
+			"id": "ha1mEyJS"
+		},
+		{
+			"name": "UniLib",
+			"id": "nT86WUER"
+		},
+		{
+			"name": "Text Placeholder API",
+			"id": "eXts2L7r"
+		},
+		{
+			"name": "Searchables",
+			"id": "fuuu3xnx"
+		},
+		{
+			"name": "Fzzy Config",
+			"id": "hYykXjDp"
+		},
+		{
+			"name": "Forge Config API Port",
+			"id": "ohNO6lps"
+		},
+		{
+			"name": "Melody",
+			"id": "CVT4pFB2"
+		},
+		{
+			"name": "Konkrete",
+			"id": "J81TRJWm"
+		},
+		{
+			"name": "CICADA",
+			"id": "IwCkru1D"
+		},
+		{
+			"name": "Puzzles Lib",
+			"id": "QAGBst4M"
+		},
+		{
+			"name": "Collective",
+			"id": "e0M1UDsY"
+		},
+		{
+			"name": "Optiboxes",
+			"id": "DWuwk8aA"
 		}
 	],
 	"files": [
@@ -2852,6 +2936,321 @@
 				"https://cdn.modrinth.com/data/4das1Fjq/versions/LpY32bVc/Flashback-0.37.0-for-MC1.21.8.jar"
 			],
 			"fileSize": 210937747
+		},
+		{
+			"path": "mods/fabric-api-0.133.0+1.21.8.jar",
+			"hashes": {
+				"sha1": "c4db5e258898acb6a1411e317077e7e217b2d4e2",
+				"sha512": "04ab2bd2980ef3aca00763676d1328921e1a8b1531712ea7ca8b74daefc2bb986f78c13a2c821ae6568574e4bdeb3c9a316aecdd4459a2d42646508c7478c26f"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/P7dR8mSH/versions/Q8ssLFZp/fabric-api-0.133.0%2B1.21.8.jar"
+			],
+			"fileSize": 2242937
+		},
+		{
+			"path": "mods/fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar",
+			"hashes": {
+				"sha1": "a519e7a070c3dfe38be17a6a0a4ee23535b5a7e3",
+				"sha512": "bae89ea5e71895f5a760def61359bb90a715832d998aec8141902410c503533fc42631e033109fcc9cdb3f869c58da9b89e9efc3b3ef112cbafe27059de9239e"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/Ha28R6CL/versions/Y91MRWtG/fabric-language-kotlin-1.13.5%2Bkotlin.2.2.10.jar"
+			],
+			"fileSize": 7422276
+		},
+		{
+			"path": "mods/libjf-3.19.2.jar",
+			"hashes": {
+				"sha1": "c70552f09030228b81fe101021b4314f58b436b4",
+				"sha512": "c9f464b5337073df90ff6e68263fed14cb64102022f1563ccb11fa0a3742a699589e54540f28502e7b4a8b8266ba6650cf930a0d91f2d9768e7ffadf10bd0526"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/WKwQAwke/versions/flb44Yhj/libjf-3.19.2.jar"
+			],
+			"fileSize": 1406610
+		},
+		{
+			"path": "mods/mru-1.0.20+edge+1.21.8+fabric.jar",
+			"hashes": {
+				"sha1": "70e953528b0779d9e49f51f0095355a388f48946",
+				"sha512": "b9ff0e15619b0f9cf7ba33a12b6c0c0f293746c6ba1a48215c0cd11196b08af0bbb81c5c3c00c1dda013df4820a23e4e3e0e3c74602d13072a6b0c3946933844"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/SNVQ2c0g/versions/OzJYvgxI/mru-1.0.20%2Bedge%2B1.21.8%2Bfabric.jar"
+			],
+			"fileSize": 244799
+		},
+		{
+			"path": "mods/cloth-config-19.0.147-fabric.jar",
+			"hashes": {
+				"sha1": "d3bd78860580da556990726af3bed1169e69933e",
+				"sha512": "924b7e9bf6da670b936c3eaf3a2ba7904a05eff4fd712acf8ee62e587770c05a225109d3c0bdf015992e870945d2086aa00e738f90b3b109e364b0105c08875a"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/9s6osm5g/versions/cz0b1j8R/cloth-config-19.0.147-fabric.jar"
+			],
+			"fileSize": 1149126
+		},
+		{
+			"path": "mods/yet_another_config_lib_v3-3.7.1+1.21.6-fabric.jar",
+			"hashes": {
+				"sha1": "932e1011a9ddef31fb4f4d7934f16a091aa5004b",
+				"sha512": "838f57724346a295ed82eba0e9e94880273cc20a7b7825f5d17cac711989311aa4040c61964e9c4a18ef56dba5ec066d3537ad540196eed66c6a56940ac9a1fa"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/1eAoo2KR/versions/WxYlHLu6/yet_another_config_lib_v3-3.7.1%2B1.21.6-fabric.jar"
+			],
+			"fileSize": 1122817
+		},
+		{
+			"path": "mods/tcdcommons-4.0.1+fabric-1.21.8.jar",
+			"hashes": {
+				"sha1": "c4e7308dda828ec4fab80d68613ba221ab9458f3",
+				"sha512": "c3ae15e691bdef48a2cac4f876399815661280dc4efe0fc1290e98397801c44a51357b574250fcfc69e15557f9690834e9197d3ec6b7ddbf499e433b6af654e5"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/Eldc1g37/versions/mPtjd8Nu/tcdcommons-4.0.1%2Bfabric-1.21.8.jar"
+			],
+			"fileSize": 887504
+		},
+		{
+			"path": "mods/malilib-fabric-1.21.8-0.25.4.jar",
+			"hashes": {
+				"sha1": "4957656db1b953619c438d8e2df600107d56700c",
+				"sha512": "23e542ff4964b5e1ed74be0aeeaa24da10e1d26b9731b7fb28c5effaca95cc47ca9042ccaa1ec30d4d86456244c7962214ab006393634f2a0ff903309802dc49"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/GcWjdA9I/versions/USRMpjDG/malilib-fabric-1.21.8-0.25.4.jar"
+			],
+			"fileSize": 1358003
+		},
+		{
+			"path": "mods/architectury-17.0.8-fabric.jar",
+			"hashes": {
+				"sha1": "430b9769809ff34076271114f8dbaf5b2badf10e",
+				"sha512": "7965ed7140c9f50cfcf8cf9b415de90497ae44ea4fb6dfe21704c6eba4210d0a34a4a0b0b6baf8b3e9d3b1cb70d0df79ef1ba93d04b5557f09a754959ac9c8b0"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/lhGA9TYQ/versions/XcJm5LH4/architectury-17.0.8-fabric.jar"
+			],
+			"fileSize": 589654
+		},
+		{
+			"path": "mods/PlayerAnimationLib-1.0.8+mc1.21.7.jar",
+			"hashes": {
+				"sha1": "96c08f2942ef9a26d3492c4693778e996a7c1489",
+				"sha512": "4f79e71459ab5be820aa8f017d169566854ab512064e7c7c282dfa8cb103370db16da184c1cceeb76771544b7f82ae001f25ab21721e64d74fb98d514f9cce2f"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/ha1mEyJS/versions/U5ShHw9j/PlayerAnimationLib-1.0.8%2Bmc1.21.7.jar"
+			],
+			"fileSize": 1169031
+		},
+		{
+			"path": "mods/UniLib-1.1.1+1.21.8-fabric.jar",
+			"hashes": {
+				"sha1": "462a6619b1770f0889c54833d455beacf7282cd3",
+				"sha512": "6012572699b4de5e9d9090970c842cb2bcdc076d844fc0d42f1360e8b763f74f0e3c213681e22075fda6809b96a71bc251abdce0cda9357da1347d4de14b6282"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/nT86WUER/versions/r7X2k7PK/UniLib-1.1.1%2B1.21.8-fabric.jar"
+			],
+			"fileSize": 1799902
+		},
+		{
+			"path": "mods/placeholder-api-2.7.2+1.21.8.jar",
+			"hashes": {
+				"sha1": "f538eec8d6ec2e1af3c9e8ee73e4a4787abcd9cc",
+				"sha512": "66c20678e8329b0129407ab045c171e3e22a5ca13544b1fbcf5adb95f70f6bb6cb9fb4d9a2231cac7b95e32b6b26ae732b616dc437f9c927325bb20c20a55ac1"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/eXts2L7r/versions/1S1kjZ9W/placeholder-api-2.7.2%2B1.21.8.jar"
+			],
+			"fileSize": 263060
+		},
+		{
+			"path": "mods/Searchables-fabric-1.21.6-1.0.3.jar",
+			"hashes": {
+				"sha1": "869085ffe07a5da471de186d64e7364a70d172a6",
+				"sha512": "987e9b587cce91d753baf1bdae6763a863fea80b83988896192b88fa4cd8488dc02964b202d07ac5167253c065c6ffae7daa20ddaddf5c254df2ee6db846e9fc"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/fuuu3xnx/versions/shmjV0gp/Searchables-fabric-1.21.6-1.0.3.jar"
+			],
+			"fileSize": 79921
+		},
+		{
+			"path": "mods/fzzy_config-0.7.2+1.21.6.jar",
+			"hashes": {
+				"sha1": "10a461530ddbd8cc5c39aaeda90662deea75abd1",
+				"sha512": "7225908b08c99d6cf982833e288bd27d1627fcfbc1dbbfb3644c7e5bbd459e0db4245b34dfd81ecc85148dfd3da97b929fccac6f4994b9f816e76e158d6f32c4"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/hYykXjDp/versions/d0v9rl51/fzzy_config-0.7.2%2B1.21.6.jar"
+			],
+			"fileSize": 2261921
+		},
+		{
+			"path": "mods/ForgeConfigAPIPort-v21.8.1-1.21.8-Fabric.jar",
+			"hashes": {
+				"sha1": "07d6167870a7f7864b987e07a09229a9370e2701",
+				"sha512": "f7817506655bb52d9a53a1d6e25f0e9c1159e6f4137d363a9f79c5f267bfa96612898369598e29d77157e428296c7b75227e226fef93c6a98820c789c0ed1102"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/ohNO6lps/versions/daREdLQt/ForgeConfigAPIPort-v21.8.1-1.21.8-Fabric.jar"
+			],
+			"fileSize": 635376
+		},
+		{
+			"path": "mods/melody_fabric_1.0.12_MC_1.21.6.jar",
+			"hashes": {
+				"sha1": "99bbb8ac9e86b7861f4cb7a0302f0668a5ff0e45",
+				"sha512": "5dc426663721bbacb9ea90ea559dba4e5a0acbb361978d6984376147cb66d9c229cdf80cd44d7d0989c804b22ceb5ed51410cadd3fbfdd5cba1eb55c0df613a9"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/CVT4pFB2/versions/NsXvHOnn/melody_fabric_1.0.12_MC_1.21.6.jar"
+			],
+			"fileSize": 188047
+		},
+		{
+			"path": "mods/konkrete_fabric_1.9.12_MC_1.21.6.jar",
+			"hashes": {
+				"sha1": "8a4c9076e5f66e3811e52acf344f62125ccea64f",
+				"sha512": "85caefb91d900997ca472269629498b847cd7a3157045d3a6d2a2e17d2ebdecb6c6af159a1119d1981d24fd9c863309310de30cd2dd8ac27c59199551cb362d7"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/J81TRJWm/versions/ua0GnQ25/konkrete_fabric_1.9.12_MC_1.21.6.jar"
+			],
+			"fileSize": 664438
+		},
+		{
+			"path": "mods/cicada-lib-0.14.2+1.21.6-and-above.jar",
+			"hashes": {
+				"sha1": "73b97a0f314766a92c751f23430fe8f9e5f2ad2b",
+				"sha512": "f94a8e4403f5b6d0442545e55726f9a28dc46c6576820fdb276cd3728a781bc092a5877093c0085600414c576c1866805731baf64d6f69582a61dbe22ae29811"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/IwCkru1D/versions/IuhIWrCl/cicada-lib-0.14.2%2B1.21.6-and-above.jar"
+			],
+			"fileSize": 391765
+		},
+		{
+			"path": "mods/PuzzlesLib-v21.8.6-1.21.8-Fabric.jar",
+			"hashes": {
+				"sha1": "aa5155e0ab5cc38eb70a30e2cd61b88ea5f65bdf",
+				"sha512": "dafda0b46f32f23c3b672c134d4d6409643238e703d541ce07717267643e4fe7346393e7d1f3ea583de7c7f4c2c5e55cf8d3af11470a5591f0cac4736ecbfdb0"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/QAGBst4M/versions/sYuwlGfN/PuzzlesLib-v21.8.6-1.21.8-Fabric.jar"
+			],
+			"fileSize": 1121122
+		},
+		{
+			"path": "mods/collective-1.21.8-8.4.jar",
+			"hashes": {
+				"sha1": "afe63956769dcaaddf904ca28a528b117323f977",
+				"sha512": "ef5fc74d45e6528fd3a358bff1ad038ace3cda1a3cd20ac91fe8a5215c39ca51f6d1e2c63f04df4bdb5c44d7798233cf6e71c03737badf677357f0a8f2bddcc9"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/e0M1UDsY/versions/mld0ZPD9/collective-1.21.8-8.4.jar"
+			],
+			"fileSize": 952218
+		},
+		{
+			"path": "mods/optiboxes-1.4+mc1.21.8-cf08861.jar",
+			"hashes": {
+				"sha1": "e1430876bd2f595be0a6fd34a9ec7308503ec696",
+				"sha512": "dd22e0d935935567c781f75a7538a82acc0d30ac52106291edf7dd92707d39a3ed9e297acccc09f50b1932d3512c5d236610b5e9460a00c7ddf54788a9f37b8d"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/DWuwk8aA/versions/KEoDDjdU/optiboxes-1.4%2Bmc1.21.8-cf08861.jar"
+			],
+			"fileSize": 463047
 		}
 	]
 }
