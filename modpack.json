@@ -76,7 +76,9 @@
 		"translations-for-sodium": {},
 		"lighty": {},
 		"bsl-shaders": {},
-		"nofortunechest": {},
+		"nofortunechest": {
+			"exclude": ["1.21.8"]
+		},
 		"mod-loading-screen": {},
 		"my-resource-pack": {},
 		"world-play-time": {},
@@ -192,10 +194,14 @@
 		"xanders-sodium-options": {},
 		"fresh-animations": {},
 		"better-lanterns": {},
-		"noisium": {},
+		"noisium": {
+			"exclude": ["1.21.8"]
+		},
 		"rsls": {},
 		"sound-controller": {},
-		"polytone": {},
+		"polytone": {
+			"exclude": ["1.21.8"]
+		},
 		"show-me-your-skin": {},
 		"glowing-torchflower": {},
 		"no-resource-pack-warnings": {},

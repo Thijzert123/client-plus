@@ -106,10 +106,6 @@
 			"id": "Q1vvjJYV"
 		},
 		{
-			"name": "No Fortune Chest",
-			"id": "4QufRNTv"
-		},
-		{
 			"name": "Mod Loading Screen",
 			"id": "xAGJ6rQS"
 		},
@@ -422,20 +418,12 @@
 			"id": "PGGrfcvL"
 		},
 		{
-			"name": "Noisium",
-			"id": "KuNKN7d2"
-		},
-		{
 			"name": "Raise Sound Limit Simplified",
 			"id": "SKW62Pht"
 		},
 		{
 			"name": "Sound Controller",
 			"id": "uY9zbflw"
-		},
-		{
-			"name": "Polytone",
-			"id": "3qAYkBMB"
 		},
 		{
 			"name": "Show Me Your Skin!",
@@ -662,12 +650,12 @@
 			"id": "ohNO6lps"
 		},
 		{
-			"name": "Melody",
-			"id": "CVT4pFB2"
-		},
-		{
 			"name": "Konkrete",
 			"id": "J81TRJWm"
+		},
+		{
+			"name": "Melody",
+			"id": "CVT4pFB2"
 		},
 		{
 			"name": "CICADA",
@@ -1076,21 +1064,6 @@
 				"https://cdn.modrinth.com/data/Q1vvjJYV/versions/jRn8y2VF/BSL_v10.0.zip"
 			],
 			"fileSize": 1121678
-		},
-		{
-			"path": "mods/NoFortuneChest-1.1+1.21.7.jar",
-			"hashes": {
-				"sha1": "7770ee53eaba3079e178a5af25e8703ffece9092",
-				"sha512": "7618805c916ada15756fa5dbfda013c9f05c21333774590c394a82ab3538efc7e7efbc833522984d9a7ee1ab849679112fb9fa72772565d7eb504846f5f01965"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/4QufRNTv/versions/VPkPDzvX/NoFortuneChest-1.1%2B1.21.7.jar"
-			],
-			"fileSize": 45728
 		},
 		{
 			"path": "mods/mod-loading-screen-1.0.5.jar",
@@ -2053,19 +2026,19 @@
 			"fileSize": 81623
 		},
 		{
-			"path": "mods/fancymenu_fabric_3.7.0_MC_1.21.8.jar",
+			"path": "mods/fancymenu_fabric_3.7.1_MC_1.21.8.jar",
 			"hashes": {
-				"sha1": "1a84e37a5a8f9ea30fc5d3acdc5948ca9c89211a",
-				"sha512": "ffeeb6f36a032530f14d91e7246c838bd88d41e84b377ddd06fae670e7a49d75a348460703945005376ec38039db97c1a058b04197dfb4aa2cfe4b946feabde9"
+				"sha1": "5cc89ba77e619fc299b0665362698552a84e28f7",
+				"sha512": "40f805625818be21e111d46ef9cdc28d651d69d71ae87fc594fab7e821b22fe2c055768ff7aa148c247bf51292dfcf95bb1e048165f1d4292fbc8bf4a10e66c6"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/Wq5SjeWM/versions/39lpXWaO/fancymenu_fabric_3.7.0_MC_1.21.8.jar"
+				"https://cdn.modrinth.com/data/Wq5SjeWM/versions/vikmNv2I/fancymenu_fabric_3.7.1_MC_1.21.8.jar"
 			],
-			"fileSize": 3658833
+			"fileSize": 3658738
 		},
 		{
 			"path": "mods/calcmod-1.4.2+fabric.1.21.6.jar",
@@ -2263,21 +2236,6 @@
 			"fileSize": 51480
 		},
 		{
-			"path": "mods/noisium-fabric-2.7.0+mc1.21.6.jar",
-			"hashes": {
-				"sha1": "e0a53dd0ccd5d1bc13798214e16f9f8a8521a335",
-				"sha512": "80cc286f3a51b2d12304ef6a44f84c11d67cedec1a02fbaf59e2e816d9b5f0abd17cc6b5a0ca5880935e9dadfea3b951b790ee1e54300c009bc419c1c7451785"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/KuNKN7d2/versions/V9mMIy0f/noisium-fabric-2.7.0%2Bmc1.21.6.jar"
-			],
-			"fileSize": 216078
-		},
-		{
 			"path": "mods/rsls-1.1.9.jar",
 			"hashes": {
 				"sha1": "0aadbe2547f8885a755943b52075a4abbd62310f",
@@ -2306,21 +2264,6 @@
 				"https://cdn.modrinth.com/data/uY9zbflw/versions/OhmMfRNt/soundcontroller-1.2.3-mc1.21.6.jar"
 			],
 			"fileSize": 74709
-		},
-		{
-			"path": "mods/polytone-1.21.7-3.5.2-alpha-fabric.jar",
-			"hashes": {
-				"sha1": "f299c3bd6d098de657bf8d8c022d9030fbe59555",
-				"sha512": "cfb57beb173f5e1f94d8bc294026bb29633cb3363b6ebf1dc736c5c904c91b397506e3d73156f3169b7f3c59546a68d2e9d18c4890078f0619e24753f0195e4a"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/3qAYkBMB/versions/FWaGUepG/polytone-1.21.7-3.5.2-alpha-fabric.jar"
-			],
-			"fileSize": 767591
 		},
 		{
 			"path": "mods/show-me-your-skin-1.11.3+1.21.6.jar",
@@ -3118,17 +3061,17 @@
 			"fileSize": 263060
 		},
 		{
-			"path": "mods/Searchables-fabric-1.21.6-1.0.3.jar",
+			"path": "mods/Searchables-fabric-1.21.8-1.0.2.jar",
 			"hashes": {
-				"sha1": "869085ffe07a5da471de186d64e7364a70d172a6",
-				"sha512": "987e9b587cce91d753baf1bdae6763a863fea80b83988896192b88fa4cd8488dc02964b202d07ac5167253c065c6ffae7daa20ddaddf5c254df2ee6db846e9fc"
+				"sha1": "235f5a429e3dc9e26841ec0afe23bb6657d52553",
+				"sha512": "01599b0d43b65813cbb1f2f68c38eb75fe2efd0db07e9cd3be4e233207cd721db917b6026fc5f41756c49d3e39c85c918b798176aee1bc93258f29b7faf769a2"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/fuuu3xnx/versions/shmjV0gp/Searchables-fabric-1.21.6-1.0.3.jar"
+				"https://cdn.modrinth.com/data/fuuu3xnx/versions/LLzPBiwT/Searchables-fabric-1.21.8-1.0.2.jar"
 			],
 			"fileSize": 79921
 		},
@@ -3163,21 +3106,6 @@
 			"fileSize": 635376
 		},
 		{
-			"path": "mods/melody_fabric_1.0.12_MC_1.21.6.jar",
-			"hashes": {
-				"sha1": "99bbb8ac9e86b7861f4cb7a0302f0668a5ff0e45",
-				"sha512": "5dc426663721bbacb9ea90ea559dba4e5a0acbb361978d6984376147cb66d9c229cdf80cd44d7d0989c804b22ceb5ed51410cadd3fbfdd5cba1eb55c0df613a9"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/CVT4pFB2/versions/NsXvHOnn/melody_fabric_1.0.12_MC_1.21.6.jar"
-			],
-			"fileSize": 188047
-		},
-		{
 			"path": "mods/konkrete_fabric_1.9.12_MC_1.21.6.jar",
 			"hashes": {
 				"sha1": "8a4c9076e5f66e3811e52acf344f62125ccea64f",
@@ -3191,6 +3119,21 @@
 				"https://cdn.modrinth.com/data/J81TRJWm/versions/ua0GnQ25/konkrete_fabric_1.9.12_MC_1.21.6.jar"
 			],
 			"fileSize": 664438
+		},
+		{
+			"path": "mods/melody_fabric_1.0.12_MC_1.21.6.jar",
+			"hashes": {
+				"sha1": "99bbb8ac9e86b7861f4cb7a0302f0668a5ff0e45",
+				"sha512": "5dc426663721bbacb9ea90ea559dba4e5a0acbb361978d6984376147cb66d9c229cdf80cd44d7d0989c804b22ceb5ed51410cadd3fbfdd5cba1eb55c0df613a9"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/CVT4pFB2/versions/NsXvHOnn/melody_fabric_1.0.12_MC_1.21.6.jar"
+			],
+			"fileSize": 188047
 		},
 		{
 			"path": "mods/cicada-lib-0.14.2+1.21.6-and-above.jar",
