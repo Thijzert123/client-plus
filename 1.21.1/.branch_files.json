@@ -755,7 +755,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/Q2OqKxDG/versions/j80BmLRo/BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar"
@@ -770,7 +770,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/89Wsn8GD/versions/6SzVPVR4/capes-1.5.4%2B1.21-fabric.jar"
@@ -784,8 +784,8 @@
 				"sha512": "b9e5676d0ad03cf61b0ed30e317e0fa77df9d2192d55b1817d372b226f5472995af6d7b78cd7e800979b7c2a7db9d4867d9392576f44101d0e8782bc44502c3e"
 			},
 			"env": {
-				"client": "optional",
-				"server": "optional"
+				"client": "required",
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/TiF5QWZY/versions/8zp8yqFl/respackopts-4.11.3.jar"
@@ -800,7 +800,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/6udpuGCH/versions/mXaMyhFE/EvenBetterEnchants_v2_r1.zip"
@@ -815,7 +815,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/uLbm7CG6/versions/fJxd1a9i/language-reload-1.7.4%2B1.21.1.jar"
@@ -830,7 +830,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/ZouiUX7t/versions/Q7K8sC4t/sounds-2.4.13.1%2Blts%2B1.21.1%2Bfabric.jar"
@@ -844,8 +844,8 @@
 				"sha512": "fd3215501ebe8f6590cdf1ccc58182873cad8d74ebc4b0b3a2f5724748b9cb04c2b967503c072311dfbca9ba856195dc4662f3395a071b294fa0acfdd2a86bf6"
 			},
 			"env": {
-				"client": "optional",
-				"server": "optional"
+				"client": "required",
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/gvQqBUqZ/versions/MM5BBBOK/lithium-fabric-0.15.0%2Bmc1.21.1.jar"
@@ -875,7 +875,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/LQ3K71Q1/versions/td4DfKSI/dynamic-fps-3.9.5%2Bminecraft-1.21.0-fabric.jar"
@@ -890,7 +890,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/WhbRG4iK/versions/Y0zS16Bk/fallingleaves-1.17.1%2B1.21.1.jar"
@@ -905,7 +905,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/7Rq0ipFz/versions/9NmOMmC6/Icons%20Branding%20Remover%201.21.1.zip"
@@ -920,7 +920,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/lTS6nyFs/versions/qVIg25NN/eg-inventory-blur-1.0.1.jar"
@@ -935,7 +935,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/ghc0v6DT/versions/SEuNEXFK/Vervada-s-enhanced-plants.zip"
@@ -949,8 +949,8 @@
 				"sha512": "079e7bd774abf7e25a916b5d4bb8f08d0176a72881497be80bb48ca89a0c1317f9c347c46911c452ea5f71fe2514d7780b5b8e339a61b07c5c4fc7b5cecdb41d"
 			},
 			"env": {
-				"client": "optional",
-				"server": "optional"
+				"client": "required",
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/QwxR6Gcd/versions/dO7QNiof/Debugify-1.21.1%2B1.0.jar"
@@ -965,7 +965,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/slufHzC2/versions/4uyHvhnf/-1.21.2%20Fresh%20Moves%20v3.1%20%28With%20Animated%20Eyes%29.zip"
@@ -980,7 +980,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "optional"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/n6PXGAoM/versions/YDvjPyKn/betterstats-3.13.9%2Bfabric-1.21.jar"
@@ -995,7 +995,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/8iQcgjQ2/versions/NvyufuVp/bettercommandblockui-0.5.2a-1.21.jar"
@@ -1010,7 +1010,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/O7z3QKAG/versions/iM6mxyAW/Icons%20v.1.11.3.zip"
@@ -1025,7 +1025,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "optional"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/DOUdJVEm/versions/veXUJWGz/controlify-2.4.1%2B1.21.1-fabric.jar"
@@ -1040,7 +1040,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/bEpr0Arc/versions/fLTKEEjY/litematica-fabric-1.21-0.19.59.jar"
@@ -1055,7 +1055,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/kqJFAPU9/versions/yyJushgo/bettermounthud-1.2.4.jar"
@@ -1070,7 +1070,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/nfn13YXA/versions/aWzTESNC/RoughlyEnoughItems-16.0.799-fabric.jar"
@@ -1085,7 +1085,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "optional"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/pZ2wrerK/versions/daqt5qcK/emotecraft-for-MC1.21.1-2.4.12-fabric.jar"
@@ -1099,7 +1099,7 @@
 				"sha512": "e039492df0b486e7ce76d0eaf8cb11eadad2e78220600b8498ab8eef4642a29e310a6bcb4378257553b3639c6d0bc1ebf0f73df3a7a677c6af6baf86716b0bc7"
 			},
 			"env": {
-				"client": "unsupported",
+				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
@@ -1115,7 +1115,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/HpdHOPOp/versions/A3n8pliV/fsb-interop-1.4.0%2Bmc1.21-build.54.jar"
@@ -1130,7 +1130,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/yfDziwn1/versions/d5RndRwn/SodiumTranslations.zip"
@@ -1145,7 +1145,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/yjvKidNM/versions/vsdQU0pB/lighty-fabric-3.0.0-beta.8%2B1.21.1.jar"
@@ -1160,7 +1160,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/Q1vvjJYV/versions/jRn8y2VF/BSL_v10.0.zip"
@@ -1175,7 +1175,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/4QufRNTv/versions/fcmfMLhu/NoFortuneChest-1.0.2%2B1.21.1.jar"
@@ -1189,8 +1189,8 @@
 				"sha512": "e8a5b086fd90a00250dee49bbf3642dce71016712a803d9d13f6c998555091c51317658badcb809d2b6cab30f72d96e268557f50aef73550581ef4917cdb1920"
 			},
 			"env": {
-				"client": "optional",
-				"server": "optional"
+				"client": "required",
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/xAGJ6rQS/versions/dHmCqlFI/mod-loading-screen-1.0.5.jar"
@@ -1205,7 +1205,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/PTj85Anz/versions/yM9JYGcQ/myresourcepack-1.2.4%2B1.21.jar"
@@ -1220,7 +1220,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/YkKeggdl/versions/xmEoikZA/worldplaytime-1.2.2-1.21-FABRIC.jar"
@@ -1235,7 +1235,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/tN4E9NfV/versions/udgN3lcZ/Chat%20Reporting%20Helper.zip"
@@ -1250,7 +1250,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "optional"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/NcUtCpym/versions/HXRzzOuL/XaerosWorldMap_1.39.12_Fabric_1.21.jar"
@@ -1265,7 +1265,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/FQKl8Yll/versions/5BxyePOO/meme-soundboard.zip"
@@ -1280,7 +1280,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/RLzHAoZe/versions/5oqhIQAA/Resourcify%20%281.21.1-fabric%29-1.7.4.jar"
@@ -1295,7 +1295,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/M08ruV16/versions/oeSOphtG/bobby-5.2.4%2Bmc1.21.jar"
@@ -1324,8 +1324,8 @@
 				"sha512": "ea9034b60bc1c64629a9bcad2e619907692fe6e7464026236c55cc5a4892a20d21dd6318ad0380ab2ec245f7077939b6717d2ed58e00708c17470be14f5e0b5f"
 			},
 			"env": {
-				"client": "optional",
-				"server": "optional"
+				"client": "required",
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/sGmHWmeL/versions/1.1.1%2B1.17/mixintrace-1.1.1%2B1.17.jar"
@@ -1340,7 +1340,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/5ZwdcRci/versions/giRXGeHH/ImmediatelyFast-Fabric-1.6.6%2B1.21.1.jar"
@@ -1355,7 +1355,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/mQpUi57Q/versions/5GP4Y6oE/%C2%A7bTorturable%20Healthbars%20with%20FA.zip"
@@ -1370,7 +1370,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/yjgIrBjZ/versions/D0QqKqZn/authme-fabric-9.0.1%2B1.21.1.jar"
@@ -1385,7 +1385,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/MPCX6s5C/versions/Ofh8NbTY/notenoughanimations-fabric-1.10.2-mc1.21.jar"
@@ -1400,7 +1400,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/FA4ebMMU/versions/Qaob100Y/qrafty%27s-capitalized-font-3.zip"
@@ -1415,7 +1415,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/UGEVQ6t9/versions/TQMLlyko/Fancy%20Crops%20v1.2.zip"
@@ -1429,7 +1429,7 @@
 				"sha512": "39436cd5094b22bd0669f08ea0883b910f16873717f6a8e3fbd92e1bf5dc9037aacf5f3d60d338c09a89f498f69cf7472da4dffa38e728961944f517b3ef7e7c"
 			},
 			"env": {
-				"client": "unsupported",
+				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
@@ -1445,7 +1445,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/9NM0dXub/versions/g0SNjiMq/AdvancementPlaques-1.21.1-fabric-1.6.8.jar"
@@ -1460,7 +1460,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/yXAvIk0x/versions/C2cLg27a/Scribble-1.5.1%2Bmc1.21-fabric.jar"
@@ -1475,7 +1475,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/ZvMtQlho/versions/XMIeWOv9/Bliss_v2.0.4_%28Chocapic13_Shaders_edit%29.zip"
@@ -1490,7 +1490,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/EwJHG2NA/versions/FpwpeheO/%21%C2%A7bKnightArmor.zip"
@@ -1505,7 +1505,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/dj5wVJsq/versions/x7s0Lqlp/BowLoad_V3.1.4r.zip"
@@ -1520,7 +1520,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/rox3U8B6/versions/sZROMthE/Bare%20Bones%201.21.7.zip"
@@ -1535,7 +1535,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/DnNYdJsx/versions/O4wSETwq/chatanimation-1.0.6.jar"
@@ -1550,7 +1550,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/yBW8D80W/versions/kHMDe6RH/lambdynamiclights-4.1.6%2B1.21.1.jar"
@@ -1565,7 +1565,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/JaNmzvA8/versions/nlajE0FI/chunksfadein-fabric-2.0.3-1.21.jar"
@@ -1580,7 +1580,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/g96Z4WVZ/versions/AQrpXs3f/BadOptimizations-2.3.0-1.21.1.jar"
@@ -1595,7 +1595,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "optional"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/1bokaNcj/versions/IaH8q5hM/Xaeros_Minimap_25.2.10_Fabric_1.21.jar"
@@ -1610,7 +1610,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/uBBepXuH/versions/DJYfk4Ya/animated-items-1_21-1%20-%201_4_2.zip"
@@ -1624,8 +1624,8 @@
 				"sha512": "02ca6af1ed31e9ebc51af20948a2afb670fe653c80aaeb990947caf6b655d6ab8eda3f1b64ef478633b67ef5d2fd0d1fe67e2107a4a522ef45fd1f183c9a6c9c"
 			},
 			"env": {
-				"client": "optional",
-				"server": "optional"
+				"client": "required",
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/fALzjamp/versions/RVFHfo1D/Chunky-Fabric-1.4.23.jar"
@@ -1640,7 +1640,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/LQI4ZTHY/versions/XbjcGEDA/WitherHearts-0.0.1%2B1.21-1.21.1.jar"
@@ -1655,7 +1655,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/UaS8ROxa/versions/NngviH0C/miniature-shader-2.16.1.zip"
@@ -1670,7 +1670,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/sQCUH0Mr/versions/FYxz84tQ/Recolourful%20Containers%20DARK%202.1.1%20%281.19.4%2B%29.zip"
@@ -1685,7 +1685,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/DFqQfIBR/versions/odRqUfqp/CraftPresence-2.6.2%2B1.21.1-fabric.jar"
@@ -1700,7 +1700,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/1IjD5062/versions/kSPJ4hQv/continuity-3.0.0%2B1.21.jar"
@@ -1715,7 +1715,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/uvpymuxq/versions/q28cOL2T/Better-Leaves-9.3.zip"
@@ -1730,7 +1730,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/3qsfQtE9/versions/HfdXLVRy/fabrishot-1.14.1.jar"
@@ -1745,7 +1745,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/kIhxG5zE/versions/RCcy5FJb/ArmorTrimItemFix-fabric-1.21.1-1.2.0.jar"
@@ -1760,7 +1760,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/6SLU7tS5/versions/S7URnfmp/Default-Dark-Mode-1.20.2%2B-2025.5.0.zip"
@@ -1775,7 +1775,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/YBz7DOs8/versions/yhQrKNAJ/fabricskyboxes-0.7.4%2Bmc1.21.jar"
@@ -1790,7 +1790,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/RRxvWKNC/versions/QL8e10aI/LowOnFire%201.21.3.zip"
@@ -1805,7 +1805,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "optional"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/K0AkAin6/versions/Yp64RITq/clientsort-fabric-2.0.0-beta.14%2B1.21.1.jar"
@@ -1820,7 +1820,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/Glp1bwYc/versions/hJzrTbto/simplefog-fabric-1.21.1-2.0.5.jar"
@@ -1835,7 +1835,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/TtybOAsL/versions/EIL9s8xK/skingrabber-1.2.2.jar"
@@ -1850,7 +1850,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/wdLuzzEP/versions/JlkeMziD/Gamma-Utils-2.1.2-mc1.21.1.jar"
@@ -1865,7 +1865,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/mOgUt4GM/versions/YIfqIJ8q/modmenu-11.0.3.jar"
@@ -1880,7 +1880,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/IA3kkkhV/versions/XfNSoPCg/widertab-1.0.0%2B1.21.1.jar"
@@ -1895,7 +1895,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/JuksLGBQ/versions/Zu9vDPeQ/optigui-2.3.0-beta.6.1-modrinth%2B1.21.jar"
@@ -1910,7 +1910,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/XrD3Auyv/versions/KGSDdNlO/CreativeFly-1.4.6-1.21-fabric.jar"
@@ -1925,7 +1925,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/2i7tg1Wv/versions/qkfDSUlt/autorun-1.21.X-0.6.0.jar"
@@ -1940,7 +1940,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/AANobbMI/versions/u1OEbNKx/sodium-fabric-0.6.13%2Bmc1.21.1.jar"
@@ -1955,7 +1955,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/8qkXwOnk/versions/3siYJiWG/morechathistory-1.3.1.jar"
@@ -1970,7 +1970,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/8shC1gFX/versions/phATjGhF/BetterF3-11.0.3-Fabric-1.21.1.jar"
@@ -1985,7 +1985,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/jawg7zT1/versions/8zG4dQ2R/cave_dust-3.0.1.jar"
@@ -2000,7 +2000,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/x02cBj9Y/versions/ramqgou6/status-effect-bars-1.0.6.jar"
@@ -2015,7 +2015,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/oL18adaQ/versions/BG46xXmQ/NewGlowingOres-%C2%A76%5BBorder%5D%C2%A7r.zip"
@@ -2030,7 +2030,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/YL57xq9U/versions/zsoi0dso/iris-fabric-1.8.8%2Bmc1.21.1.jar"
@@ -2045,7 +2045,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/6vhHOIKw/versions/L6NvKcZN/enchant%20icons%201.21%20v1.3.zip"
@@ -2059,8 +2059,8 @@
 				"sha512": "a73c02036163a686132f228d562cddb5eec1e2aca8e996dc235251614aef60b3e79696a2e52bde6272a89a5ff1412afe9aba42d2c07d3c435d22588a7d8ac67a"
 			},
 			"env": {
-				"client": "optional",
-				"server": "optional"
+				"client": "required",
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/epmEbmF0/versions/ppUfV7UC/kinecraft-serialization-1.16.2.jar"
@@ -2074,8 +2074,8 @@
 				"sha512": "43a81e63638387701edc49aabbde9e293890165e6e3b2df378aeabf56ea41fd666c1841cfac488e8d723ee99a673e09de4cc37a3e2141e04216f4aad5254dae1"
 			},
 			"env": {
-				"client": "optional",
-				"server": "optional"
+				"client": "required",
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/nmDcB62a/versions/xDJFoW9U/modernfix-fabric-5.24.3%2Bmc1.21.1.jar"
@@ -2090,7 +2090,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/HVnmMxH1/versions/sAAjYvFB/ComplementaryReimagined_r5.5.1.zip"
@@ -2105,7 +2105,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/xv94TkTM/versions/hGJDoW2W/Controlling-fabric-1.21.1-19.0.5.jar"
@@ -2120,7 +2120,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/TyTPFOiF/versions/jbi6tWhw/seamless-loading-screen-2.2.1%2B1.21-fabric.jar"
@@ -2135,7 +2135,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/3azQ6p0W/versions/nPgbZ9q1/cherishedworlds-fabric-10.1.1%2B1.21.1.jar"
@@ -2150,7 +2150,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/izsIPI7a/versions/ngr7GJRj/MakeUp-UltraFast-9.3d.zip"
@@ -2165,7 +2165,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/51shyZVL/versions/1V6UtDhN/moreculling-fabric-1.21.1-1.0.6.jar"
@@ -2179,8 +2179,8 @@
 				"sha512": "accbb36b863bdeaaeb001f7552534f3bdf0f27556795cf8e813f9b32e7732450ec5133da5e0ec9b92dc22588c48ffb61577c375f596dc351f15c15ce6a6f4228"
 			},
 			"env": {
-				"client": "optional",
-				"server": "optional"
+				"client": "required",
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/EsAfCjCV/versions/b5ZiCjAr/appleskin-fabric-mc1.21-3.0.6.jar"
@@ -2195,7 +2195,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "optional"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/4q8UOK1d/versions/WJuwpdvZ/SubtleEffects-fabric-1.21.1-1.12.1.jar"
@@ -2210,7 +2210,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/rI0hvYcd/versions/dhKbgdIb/visuality-0.7.7%2B1.21.jar"
@@ -2225,7 +2225,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/B1CcCd9h/versions/3dq7wTCR/particular-1.1.2%2B1.21.jar"
@@ -2240,7 +2240,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/A4YQgwzz/versions/Bmx4tcaK/MusicNotification-fabric-mc1.21-2.1.0.jar"
@@ -2255,7 +2255,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/aC3cM3Vq/versions/ylmBQ38A/MouseTweaks-fabric-mc1.21-2.26.jar"
@@ -2270,7 +2270,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/NKvLVQMc/versions/OXCY0CpU/symbol-chat-1.21.1-1.2.8.jar"
@@ -2285,7 +2285,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/Dc4g4seU/versions/SIMh0Umd/online-emotes-3.3.1%2Bmc1.21.1-fabric.jar"
@@ -2300,7 +2300,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/x3s69afN/versions/TB36Abkj/cat_jam-fabric-mc1.21-1.3.1.jar"
@@ -2315,7 +2315,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/RvfAlf4Z/versions/acYT0fGm/Redstone%20Tweaks%202.4.5.zip"
@@ -2330,7 +2330,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/Yr9J16k6/versions/uPprSsgl/viewboboptions-0.4.0%2B1.21.jar"
@@ -2345,7 +2345,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/DnyS3EEW/versions/SmK3KomM/optionsprofiles-1.21.1-fabric-v1.4.jar"
@@ -2359,8 +2359,8 @@
 				"sha512": "97508ebcdddfd93839f7cfafeafb67c67aedc516c6ebc7552f5d51483b90e69cbba3d9f82304a8706dd70beac271c879039189725022cd8be20b3dae2a573e78"
 			},
 			"env": {
-				"client": "optional",
-				"server": "optional"
+				"client": "required",
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/b313lC4Y/versions/dYzIIsk2/mod_sets-0.11.0.jar"
@@ -2375,7 +2375,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/Wb5oqrBJ/versions/FWt7M9oM/chat_heads-0.13.20-fabric-1.21.jar"
@@ -2390,7 +2390,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/ETlrkaYF/versions/m350hyy8/cwb-fabric-3.0.0%2Bmc1.21.jar"
@@ -2405,7 +2405,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "optional"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/Wq5SjeWM/versions/TkOTdcFq/fancymenu_fabric_3.7.0_MC_1.21.1.jar"
@@ -2419,8 +2419,8 @@
 				"sha512": "cd6e2859661f2020a52d1f61596e1db8156af69cf8879cf297237cb80ea5a955c1cb9eb6ee4fd59c3538411779d121fab0333b9e915f863e9c605a89b6bb74fb"
 			},
 			"env": {
-				"client": "optional",
-				"server": "optional"
+				"client": "required",
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/XoHTb2Ap/versions/LE8aEZ5E/calcmod-1.3.2%2Bfabric.1.21.jar"
@@ -2435,7 +2435,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/NNAgCjsB/versions/ivkfruZP/entityculling-fabric-1.8.2-mc1.21.jar"
@@ -2450,7 +2450,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/ivUZsvzp/versions/AQvH8uLq/better_flame_particles-v2.2-mc1.14x-1.21x-resourcepack.zip"
@@ -2465,7 +2465,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "optional"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/2M01OLQq/versions/JsQSznSp/shulkerboxtooltip-fabric-5.1.6%2B1.21.1.jar"
@@ -2480,7 +2480,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/WPuyL1eO/versions/abkfwCpM/%C2%A7bTorturable%20Healthbars.zip"
@@ -2495,7 +2495,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "optional"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/3s19I5jr/versions/lvj5D7rA/SkinShuffle-2.9.1%2B1.21.jar"
@@ -2510,7 +2510,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/pC9ELBuh/versions/j3QbrNq6/WaxedIcons-1.1%2B1.21.jar"
@@ -2524,8 +2524,8 @@
 				"sha512": "5f8cf96c79bfd4d893f1d70da582e62026bed36af49a7fa7b1e00fb6efb28d9ad6a1eec147020496b4fe38693d33fe6bfcd1eebbd93475612ee44290c2483784"
 			},
 			"env": {
-				"client": "optional",
-				"server": "optional"
+				"client": "required",
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar"
@@ -2540,7 +2540,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/Ht0RRAt0/versions/7qcTDSTZ/fasttrading-0.2.0%2B1.21.jar"
@@ -2555,7 +2555,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/1KiJRrTg/versions/DHUI24N7/screenshot-to-clipboard-fabric-1.0.10.jar"
@@ -2570,7 +2570,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/R6NEzAwj/versions/1ng9gVp7/ComplementaryUnbound_r5.5.1.zip"
@@ -2585,7 +2585,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/4I1XuqiY/versions/7qgqhB3h/entity_model_features_1.21-fabric-3.0.1.jar"
@@ -2600,7 +2600,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/QdG47OkI/versions/FUZo6yCk/modelfix-1.21-1.6-fabric.jar"
@@ -2615,7 +2615,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/sTkQBVyo/versions/b6w842dQ/xanders-sodium-options-2.4.2%2B1.21.1.jar"
@@ -2630,7 +2630,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/50dA9Sha/versions/EkWu7smn/FreshAnimations_v1.10.1.zip"
@@ -2645,7 +2645,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/PGGrfcvL/versions/jRAsb6KQ/Better%2BLanterns%2Bv1.2%28mc-1.21%29.zip"
@@ -2659,7 +2659,7 @@
 				"sha512": "606ba78cf7f30d99e417c96aa042f600c1b626ed9c783919496d139de650013f1434fcf93545782e3889660322837ce6e85530d9e1a5cc20f9ad161357ede43e"
 			},
 			"env": {
-				"client": "unsupported",
+				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
@@ -2675,7 +2675,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/SKW62Pht/versions/8cVCS2lO/rsls-1.1.9.jar"
@@ -2690,7 +2690,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/uY9zbflw/versions/Vej3tvcx/soundcontroller-1.2.3-mc1.20.5.jar"
@@ -2705,7 +2705,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/3qAYkBMB/versions/uDaVOPEu/polytone-1.21-3.5.6-fabric.jar"
@@ -2720,7 +2720,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "optional"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/bD7YqcA3/versions/qnCeuBkc/show-me-your-skin-1.11.3%2B1.21.jar"
@@ -2734,8 +2734,8 @@
 				"sha512": "88fcf2962f419f33dcf06a89a1f5039a34089495cd3ccabcca8f8783055dd816a8542e76ceec2fa0a84b344fde1a4223c0aeb101875e678cc10d6e0b865c10f8"
 			},
 			"env": {
-				"client": "optional",
-				"server": "optional"
+				"client": "required",
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/1S4LxcvL/versions/O1iXNQxr/glowing-torchflower-1.20.3-1.3.0.jar"
@@ -2750,7 +2750,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/6xKUDQcB/versions/73nzTFDd/no-resource-pack-warnings-1.3.1.jar"
@@ -2765,7 +2765,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/rUgZvGzi/versions/KWZCioh0/eating-animation-1.21%2B1.9.72.jar"
@@ -2780,7 +2780,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "optional"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/ZX66K16c/versions/4syRr8dj/PickUpNotifier-v21.1.1-1.21.1-Fabric.jar"
@@ -2795,7 +2795,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/ti9KkMHm/versions/JDKDkDow/Simple%20Grass%20Flowers%20v1.9.5.zip"
@@ -2810,7 +2810,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/zV5r3pPn/versions/s3HQXMAH/skinlayers3d-fabric-1.9.0-mc1.21.jar"
@@ -2825,7 +2825,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/bYcjtBki/versions/2516VXh2/MobCrates_1.21_v1.zip"
@@ -2840,7 +2840,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/OJLdOa8k/versions/cIfcDLaq/infinite-music-0.4.6.jar"
@@ -2855,7 +2855,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/1E2sq1cp/versions/cXYGdmuR/vt-downloader-2.3.1%2B1.21.1.jar"
@@ -2870,7 +2870,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/EnPUzSTg/versions/HcSyJjwZ/XaeroPlus-2.28.1%2Bfabric-1.21.1-WM1.39.12-MM25.2.10.jar"
@@ -2885,7 +2885,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/EWQifKYI/versions/akcZiKPv/improvedsignediting-1.21.1-1.5.jar"
@@ -2900,7 +2900,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/gPCdW0Wr/versions/WyRIJsP5/make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar"
@@ -2915,7 +2915,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/g4bSYbrU/versions/sdYrL5PD/cubic-sun-moon-v1.8.3a.zip"
@@ -2930,7 +2930,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/x1hIzbuY/versions/dIGKewCo/fastquit-3.0.0%2B1.20.6.jar"
@@ -2945,7 +2945,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/PRN43VSY/versions/LHBm6fEV/animatica-0.6.1%2B1.21.jar"
@@ -2960,7 +2960,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/kmwfVOoi/versions/cpD4esk9/rethinking-voxels_r0.1-beta9.zip"
@@ -2975,7 +2975,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/GhWh8CAU/versions/Bf5QnXI2/customcredits-1.21.1-1.7.jar"
@@ -2990,7 +2990,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/w7ThoJFB/versions/BTXkmTHl/Zoomify-2.14.4%2B1.21.1.jar"
@@ -3005,7 +3005,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/lewweaHO/versions/vG2IW0v1/Recolourful%20Containers%202.1.1%20%281.19.4%2B%29.zip"
@@ -3020,7 +3020,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/WeytAdLH/versions/UvJBXG5z/fabric-bind-cmd-1.7.2-1.21.1.jar"
@@ -3035,7 +3035,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/ta5dy0aA/versions/ZikJdLCZ/%C2%A7aReimagined%C2%A70_%C2%A78%5Bv1.52%5D%C2%A70.zip"
@@ -3050,7 +3050,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/6LzngQIs/versions/n59dvosn/macebut3d-1.21.1-1.0.1.jar"
@@ -3065,7 +3065,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/na1dL51S/versions/xoq7hD8B/durabilityplus_1.20.5-1.1.0.jar"
@@ -3080,7 +3080,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/N8s60DWW/versions/S53p3KBG/svc-soundboard-0.7.2%2B1.21.jar"
@@ -3095,7 +3095,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/2JIeCmxb/versions/S81P3LsG/BetterF1-Fabric-1.1%2B1.21.7.jar"
@@ -3110,7 +3110,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/atHH8NyV/versions/f4suO4vX/LegendaryTooltips-1.21.1-fabric-1.5.5.jar"
@@ -3125,7 +3125,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/PsMUgCo5/versions/8xu1rIKC/Hyper_Realistic_Sky_%5Bv3.2%5D.zip"
@@ -3140,7 +3140,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/Orvt0mRa/versions/Z8VpxxGh/indium-1.0.35%2Bmc1.21.jar"
@@ -3155,7 +3155,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/LMIZZNxZ/versions/KB0sOLSc/superDuperVanilla.zip"
@@ -3185,7 +3185,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/ItHr72Fy/versions/HhQ30Ab3/Fullbright-UB-1.21.zip"
@@ -3200,7 +3200,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/EpQFjzrQ/versions/XnmvIKj3/Solas%20Shader%20V2.9b.zip"
@@ -3215,7 +3215,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/OSQ8mw2r/versions/LEeJnb8j/explosive-enhancement-1.3.2-1.21-1.21.1.jar"
@@ -3230,7 +3230,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/ZcR9weSm/versions/k1nO7rw2/dynamiccrosshair-9.8%2B1.21.1-fabric.jar"
@@ -3245,7 +3245,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/9mtu0sUO/versions/vCOimgHn/fast-ip-ping-v1.0.7-mc1.21.1-fabric.jar"
@@ -3260,7 +3260,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/yPBwDzHA/versions/sabB823l/Spawned_Eggs_1.16-1.21.6_r1.zip"
@@ -3274,8 +3274,8 @@
 				"sha512": "ca975bd3708cd96d30cf1447ac8883572113562eb2dd697e60c1cf382d6b70d0b1a511fcbfd042c51b2cf5d5ffc718b847f845e4c8a3e421e8c9ee741119a421"
 			},
 			"env": {
-				"client": "optional",
-				"server": "optional"
+				"client": "required",
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/uXXizFIs/versions/bwKMSBhn/ferritecore-7.0.2-hotfix-fabric.jar"
@@ -3290,7 +3290,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/cVNW5lr6/versions/Pg76zkO0/Highlighter-1.21-fabric-1.1.11.jar"
@@ -3305,7 +3305,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/RMESe7qr/versions/NejX2VGC/Default_Splashes.zip"
@@ -3319,8 +3319,8 @@
 				"sha512": "5bed7a8ba4b34c8029652ecc7a3510291d0b4459a6e581e44aaad1beb5272ed45591a245d7e6b6ca1ef56239984e695a1c13d4e878e35e0287804633cd740611"
 			},
 			"env": {
-				"client": "optional",
-				"server": "optional"
+				"client": "required",
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/ihnBJ6on/versions/2NuH7W1K/entity-view-distance-1.3.0%2B1.21.jar"
@@ -3335,7 +3335,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/laNoi025/versions/OPtoNGCV/screenshot_viewer-1.3.3-fabric-mc1.21.jar"
@@ -3350,7 +3350,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/ZMcqgmIV/versions/6MDAQPaA/%21%C2%A7bHealthBars%C2%A78.zip"
@@ -3365,7 +3365,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/2YyNMled/versions/3kR3A2kE/Dramatic%20Skys%20Demo%201.5.3.35.zip"
@@ -3380,7 +3380,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/BVzZfTc1/versions/etb76zSi/entity_texture_features_1.21-fabric-7.0.1.jar"
@@ -3394,8 +3394,8 @@
 				"sha512": "23bb4a8a6a3f7071281cf97560e12f37e1f5f638a156e3fcb92a50ff0091f1fcfa3e090e7745e4b1175e7c2c784e38d73536a1044db1bf225a182fab758a5a29"
 			},
 			"env": {
-				"client": "optional",
-				"server": "optional"
+				"client": "required",
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/qQyHxfxd/versions/D8K0KJXM/NoChatReports-FABRIC-1.21.1-v2.9.1.jar"
@@ -3410,7 +3410,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/vaaOMowT/versions/Ar4ROj6c/Spectral_v0.7.0.zip"
@@ -3424,8 +3424,8 @@
 				"sha512": "41da113b48d8c5f834a0c36008e65ae13ef8c36563130bb47e2b24cefda8a1f407434f7b32b835f889199dd9a73f66105401561ed9015c997e69239d91c09f9a"
 			},
 			"env": {
-				"client": "optional",
-				"server": "optional"
+				"client": "required",
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/nvQzSEkH/versions/PtcHhnOY/Jade-1.21.1-Fabric-15.10.2.jar"
@@ -3440,7 +3440,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/HfZKWsjM/versions/uwBXANje/better-suggestions-1.21.1-1.2.7.1.jar"
@@ -3455,7 +3455,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/PtjYWJkn/versions/anDafurZ/sodium-extra-fabric-0.6.0%2Bmc1.21.1.jar"
@@ -3470,7 +3470,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/6DnswkCZ/versions/C7VXxjJm/heywiki-fabric-1.7.4%2B1.21.1.jar"
@@ -3485,7 +3485,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/OVuFYfre/versions/HBZAPs3u/enhancedblockentities-0.10.2%2B1.21.jar"
@@ -3500,7 +3500,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/TzZ0IFZH/versions/fkVIGkg1/GrimdarkSky-v11-34.zip"
@@ -3515,7 +3515,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/4das1Fjq/versions/z0SX4zNw/Flashback-0.37.0-for-MC1.21.1.jar"
@@ -3530,7 +3530,7 @@
 			},
 			"env": {
 				"client": "required",
-				"server": "unsupported"
+				"server": "required"
 			},
 			"downloads": [
 				"https://cdn.modrinth.com/data/hAt6ty93/versions/VskXKXjg/DetailArmorBar-2.6.3%2B1.21.1-fabric.jar"
