@@ -2,7 +2,20 @@
 Client+ is a Minecraft modpack focused on improving vanilla Minecraft on the client-side. It is available on [Modrinth](https://modrinth.com/modpack/client-plus).
 
 ## Packrinth
-This modpack is managed by [Packrinth](https://github.com/Thijzert123/packrinth).
+This modpack is managed by [Packrinth](https://github.com/Thijzert123/packrinth). With Packrinth, you can separate a modpack into branches and update them induvidually.
+
+## Modrinth project list
+The project list can be generated from Modrinth. This makes sure the project list matches with what people can download on Modrinth.
+To generate the list, first install the dependencies for the script:
+```
+requests
+py-markdown-table
+```
+Then, run the script:
+```bash
+python3 modrinth_project_list.py
+```
+The project list will be written to `modrinth_project_list.md`.
 
 ## TODO
 - ~~Update default options.txt so that keybinds don't conflict by default~~
