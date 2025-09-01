@@ -3,3 +3,6 @@
 
 # Backup files from Emacs
 *~
+
+# Generated project list
+modrinth_project_list.md
