@@ -1,6 +1,9 @@
 # Client+
 Client+ is a Minecraft modpack focused on improving vanilla Minecraft on the client-side. It is available on [Modrinth](https://modrinth.com/modpack/client-plus).
 
+## Packrinth
+This modpack is managed by [Packrinth](https://github.com/Thijzert123/packrinth).
+
 ## TODO
 - ~~Update default options.txt so that keybinds don't conflict by default~~
 - ~~Update packwiz_update.py to update Vanilla Tweaks resource packs by downloading using the links -  Done, but now make it work for the 1.20.x versions~~ Doesn't work. Maybe later?
