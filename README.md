@@ -1,4 +1,6 @@
 # Client+
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/client-plus?style=for-the-badge&label=modrinth%20downloads)
+
 Client+ is a Minecraft modpack focused on improving vanilla Minecraft on the client-side. It is available on [Modrinth](https://modrinth.com/modpack/client-plus).
 
 ## Packrinth
