@@ -1,5 +1,5 @@
 ![Banner](https://github.com/Thijzert123/client-plus/blob/main/images/banner.resized.png?raw=true)
-# Client+⠀ _made with [Packrinth](https://github.com/Thijzert123/packrinth)_
+# Client+⠀ _made with [Packrinth](https://thijzert123.github.io/packrinth)_
 A Minecraft modpack focused on improving vanilla Minecraft on the client-side. Enjoy a better Minecraft anywhere, in singleplayer or multiplayer!
 
 This modpack provides the best performance mods, allowing you to enjoy Minecraft without worrying about your FPS. These mods include Sodium, Immediately Fast, Lithium and Ferrite Core.
