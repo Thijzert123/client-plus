@@ -598,12 +598,12 @@
 			"id": "4das1Fjq"
 		},
 		{
-			"name": "Fabric API",
-			"id": "P7dR8mSH"
-		},
-		{
 			"name": "Fabric Language Kotlin",
 			"id": "Ha28R6CL"
+		},
+		{
+			"name": "Fabric API",
+			"id": "P7dR8mSH"
 		},
 		{
 			"name": "LibJF",
@@ -658,12 +658,12 @@
 			"id": "ohNO6lps"
 		},
 		{
-			"name": "Konkrete",
-			"id": "J81TRJWm"
-		},
-		{
 			"name": "Melody",
 			"id": "CVT4pFB2"
+		},
+		{
+			"name": "Konkrete",
+			"id": "J81TRJWm"
 		},
 		{
 			"name": "CICADA",
@@ -1164,19 +1164,19 @@
 			"fileSize": 869743
 		},
 		{
-			"path": "mods/voicechat-fabric-1.21.8-2.6.2.jar",
+			"path": "mods/voicechat-fabric-1.21.8-2.6.3.jar",
 			"hashes": {
-				"sha1": "e5aa1a7040c804a893a416e36e0f747b479d3286",
-				"sha512": "026479f855e51cc607c562f0af9ca146013596bdeddb99c9deee9bdaa847a0954d905accc2c131b2a5c9dbffd465f91a841f42a7b8bb3eb61e0b452cf355d3d6"
+				"sha1": "b64c511732f53cd033dda4c3b1c7be43d654345d",
+				"sha512": "5577a029f4728a914d45960a23d93ad8621e8d0ba23a22d569351e8d2de633659433ec94acd85ca62513112c3ec60d05b95936d02e1cc1e20f40b2589f639861"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/9eGKb6K1/versions/Z6KdgoP3/voicechat-fabric-1.21.8-2.6.2.jar"
+				"https://cdn.modrinth.com/data/9eGKb6K1/versions/meaWIBQj/voicechat-fabric-1.21.8-2.6.3.jar"
 			],
-			"fileSize": 5452517
+			"fileSize": 5460257
 		},
 		{
 			"path": "mods/ImmediatelyFast-Fabric-1.12.1+1.21.8.jar",
@@ -1269,19 +1269,19 @@
 			"fileSize": 583322
 		},
 		{
-			"path": "mods/Scribble-1.6.3+mc1.21.8-fabric.jar",
+			"path": "mods/Scribble-1.6.4+mc1.21.8-fabric.jar",
 			"hashes": {
-				"sha1": "c844b73b12fbfaad32298d9a49738077bdbfc804",
-				"sha512": "b82390bf7b178d6dc8f1c31088896b842bc45b5e970f9c0fcceb43aeae08de643e1b90ef872925896849ceefb53edf03c353f7be9e85386142f175cc8e998275"
+				"sha1": "f6fc647a512a088f7a6c59601b1a9f82153bc3fd",
+				"sha512": "ae1102ae273120c6aecc6ec05af2e0213955b602e635dfbc306955949bc965e645b57b2ae2b23e3ff224c4418b16699a1d00c74d1a8f6f61c808e466677a1e46"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/yXAvIk0x/versions/IugLIpVZ/Scribble-1.6.3%2Bmc1.21.8-fabric.jar"
+				"https://cdn.modrinth.com/data/yXAvIk0x/versions/scvJXccj/Scribble-1.6.4%2Bmc1.21.8-fabric.jar"
 			],
-			"fileSize": 192959
+			"fileSize": 198148
 		},
 		{
 			"path": "shader/Bliss_v2.1.1_(Chocapic13_Shaders_edit).zip",
@@ -1314,19 +1314,19 @@
 			"fileSize": 21853
 		},
 		{
-			"path": "resourcepack/Bare Bones 1.21.7.zip",
+			"path": "resourcepack/Bare Bones 1.21.8.zip",
 			"hashes": {
-				"sha1": "ae36e9e5cce8c02197f1f41fa1e4b6a6d01ad7e7",
-				"sha512": "9352d872552f7b6b60f48318322763273c244041e9894ea4dcf76fd84ccc1d29d369dc5237733fefe721fdf49af6030165c5df77d273cb06fe7ecf3555fbae58"
+				"sha1": "29620648a333fe748eca882ff3fa9b00a99f8f32",
+				"sha512": "c6bf3bf0d9574ee8ba64db8eec1dfed73def7fedf5fb56954fc822ba17029f638768325f1b1a6ef4e79f1cdce7039c0c161b0f25c7d3684b9e59a3800842f101"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/rox3U8B6/versions/sZROMthE/Bare%20Bones%201.21.7.zip"
+				"https://cdn.modrinth.com/data/rox3U8B6/versions/rm2O4lrB/Bare%20Bones%201.21.8.zip"
 			],
-			"fileSize": 10266780
+			"fileSize": 10340339
 		},
 		{
 			"path": "mods/chatanimation-1.0.7.jar",
@@ -2919,21 +2919,6 @@
 			"fileSize": 210937747
 		},
 		{
-			"path": "mods/fabric-api-0.133.0+1.21.8.jar",
-			"hashes": {
-				"sha1": "c4db5e258898acb6a1411e317077e7e217b2d4e2",
-				"sha512": "04ab2bd2980ef3aca00763676d1328921e1a8b1531712ea7ca8b74daefc2bb986f78c13a2c821ae6568574e4bdeb3c9a316aecdd4459a2d42646508c7478c26f"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/P7dR8mSH/versions/Q8ssLFZp/fabric-api-0.133.0%2B1.21.8.jar"
-			],
-			"fileSize": 2242937
-		},
-		{
 			"path": "mods/fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar",
 			"hashes": {
 				"sha1": "a519e7a070c3dfe38be17a6a0a4ee23535b5a7e3",
@@ -2947,6 +2932,21 @@
 				"https://cdn.modrinth.com/data/Ha28R6CL/versions/Y91MRWtG/fabric-language-kotlin-1.13.5%2Bkotlin.2.2.10.jar"
 			],
 			"fileSize": 7422276
+		},
+		{
+			"path": "mods/fabric-api-0.133.4+1.21.8.jar",
+			"hashes": {
+				"sha1": "84f003e075b7b7a4b3dbeffdf1796d3668db8f1c",
+				"sha512": "e3cc9f8f60d655c916b2d31ca2a77fc15187e443e3bb8a5977dcff7a704401e8a39d633e12a649207a5923e540b6474e90f08c95655d07ae1c790d5c8aff41a5"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/P7dR8mSH/versions/CF23l2iP/fabric-api-0.133.4%2B1.21.8.jar"
+			],
+			"fileSize": 2244092
 		},
 		{
 			"path": "mods/libjf-3.19.2.jar",
@@ -3054,19 +3054,19 @@
 			"fileSize": 589654
 		},
 		{
-			"path": "mods/PlayerAnimationLib-1.0.9+mc1.21.7.jar",
+			"path": "mods/PlayerAnimationLib-1.0.10+mc1.21.7.jar",
 			"hashes": {
-				"sha1": "7f0462cd19fe66e95bbf9b4e8c3686695b463ad8",
-				"sha512": "9c06d523f2339ddf84c33a89781f17accc0282334ab5b730885de0e98f63756b26d2e669ab1afd5fd998066b76cd8d00ddd5b9b4069e588aaac68558bc9d3189"
+				"sha1": "926430ad4a4f36be31b8d5f6adbeb44692dab638",
+				"sha512": "06d56535fac638305b3716f5614017015bc9a362684a3909fb6e5824721d8a2bc9d8bbdca2bf0b3dfb61631561dbce5bb0134dea02d1fa97fa73d203c8dc2317"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/ha1mEyJS/versions/KFbcu0iY/PlayerAnimationLib-1.0.9%2Bmc1.21.7.jar"
+				"https://cdn.modrinth.com/data/ha1mEyJS/versions/V54UNjt1/PlayerAnimationLib-1.0.10%2Bmc1.21.7.jar"
 			],
-			"fileSize": 1169189
+			"fileSize": 1169136
 		},
 		{
 			"path": "mods/UniLib-1.1.1+1.21.8-fabric.jar",
@@ -3144,21 +3144,6 @@
 			"fileSize": 635376
 		},
 		{
-			"path": "mods/konkrete_fabric_1.9.12_MC_1.21.6.jar",
-			"hashes": {
-				"sha1": "8a4c9076e5f66e3811e52acf344f62125ccea64f",
-				"sha512": "85caefb91d900997ca472269629498b847cd7a3157045d3a6d2a2e17d2ebdecb6c6af159a1119d1981d24fd9c863309310de30cd2dd8ac27c59199551cb362d7"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/J81TRJWm/versions/ua0GnQ25/konkrete_fabric_1.9.12_MC_1.21.6.jar"
-			],
-			"fileSize": 664438
-		},
-		{
 			"path": "mods/melody_fabric_1.0.12_MC_1.21.6.jar",
 			"hashes": {
 				"sha1": "99bbb8ac9e86b7861f4cb7a0302f0668a5ff0e45",
@@ -3172,6 +3157,21 @@
 				"https://cdn.modrinth.com/data/CVT4pFB2/versions/NsXvHOnn/melody_fabric_1.0.12_MC_1.21.6.jar"
 			],
 			"fileSize": 188047
+		},
+		{
+			"path": "mods/konkrete_fabric_1.9.12_MC_1.21.6.jar",
+			"hashes": {
+				"sha1": "8a4c9076e5f66e3811e52acf344f62125ccea64f",
+				"sha512": "85caefb91d900997ca472269629498b847cd7a3157045d3a6d2a2e17d2ebdecb6c6af159a1119d1981d24fd9c863309310de30cd2dd8ac27c59199551cb362d7"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/J81TRJWm/versions/ua0GnQ25/konkrete_fabric_1.9.12_MC_1.21.6.jar"
+			],
+			"fileSize": 664438
 		},
 		{
 			"path": "mods/cicada-lib-0.14.2+1.21.6-and-above.jar",
