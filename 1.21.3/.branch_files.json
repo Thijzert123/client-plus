@@ -738,12 +738,12 @@
 			"id": "ccKDOlHs"
 		},
 		{
-			"name": "Puzzles Lib",
-			"id": "QAGBst4M"
-		},
-		{
 			"name": "Forge Config API Port",
 			"id": "ohNO6lps"
+		},
+		{
+			"name": "Puzzles Lib",
+			"id": "QAGBst4M"
 		},
 		{
 			"name": "Collective",
@@ -1480,19 +1480,19 @@
 			"fileSize": 21853
 		},
 		{
-			"path": "resourcepack/Bare Bones 1.21.7.zip",
+			"path": "resourcepack/Bare Bones 1.21.8.zip",
 			"hashes": {
-				"sha1": "ae36e9e5cce8c02197f1f41fa1e4b6a6d01ad7e7",
-				"sha512": "9352d872552f7b6b60f48318322763273c244041e9894ea4dcf76fd84ccc1d29d369dc5237733fefe721fdf49af6030165c5df77d273cb06fe7ecf3555fbae58"
+				"sha1": "29620648a333fe748eca882ff3fa9b00a99f8f32",
+				"sha512": "c6bf3bf0d9574ee8ba64db8eec1dfed73def7fedf5fb56954fc822ba17029f638768325f1b1a6ef4e79f1cdce7039c0c161b0f25c7d3684b9e59a3800842f101"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/rox3U8B6/versions/sZROMthE/Bare%20Bones%201.21.7.zip"
+				"https://cdn.modrinth.com/data/rox3U8B6/versions/rm2O4lrB/Bare%20Bones%201.21.8.zip"
 			],
-			"fileSize": 10266780
+			"fileSize": 10340339
 		},
 		{
 			"path": "mods/chatanimation-1.0.6.jar",
@@ -1750,19 +1750,19 @@
 			"fileSize": 41582
 		},
 		{
-			"path": "mods/clientsort-fabric-2.0.0-beta.15+1.21.3.jar",
+			"path": "mods/clientsort-fabric-2.0.0-beta.18+1.21.3.jar",
 			"hashes": {
-				"sha1": "4f93d0a27f20fdb9ef55f7ebc734355cbcf2a58d",
-				"sha512": "e265624f84e669fb0761f1bd780ff94a3cdc87b93e3e7e252c564662163b1de4a81283fdce001773f2c3d6c55de135914cf90d65dc44e2472fb7833cf6879e40"
+				"sha1": "db7aa00de95597fdf93bef16af702465a4d65b51",
+				"sha512": "ce1bb8d75a4f1eb700f24df7b7d9cf2e973bff31168272a21d7b0af4714e9b2a087924b910f64b34c42ab341eacc664579fafd92d4fe79fd8df83c61867a0128"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/K0AkAin6/versions/WkBlccNm/clientsort-fabric-2.0.0-beta.15%2B1.21.3.jar"
+				"https://cdn.modrinth.com/data/K0AkAin6/versions/iOJSc7Xk/clientsort-fabric-2.0.0-beta.18%2B1.21.3.jar"
 			],
-			"fileSize": 293692
+			"fileSize": 309472
 		},
 		{
 			"path": "mods/simplefog-1.7.1.jar",
@@ -3310,19 +3310,19 @@
 			"fileSize": 2380714
 		},
 		{
-			"path": "mods/fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar",
+			"path": "mods/fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
 			"hashes": {
-				"sha1": "a519e7a070c3dfe38be17a6a0a4ee23535b5a7e3",
-				"sha512": "bae89ea5e71895f5a760def61359bb90a715832d998aec8141902410c503533fc42631e033109fcc9cdb3f869c58da9b89e9efc3b3ef112cbafe27059de9239e"
+				"sha1": "05e9cc4108da5b50735fa6d8a79a18fcd5310d82",
+				"sha512": "1d1d70bd4662ec1fcba57c9f16c3bceb185e8986119f266594f37d145d6d19772e5d6a50dcfec315e600c9eafd32f2b5f86bab72ae1954891297cde7fce62e9b"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/Ha28R6CL/versions/Y91MRWtG/fabric-language-kotlin-1.13.5%2Bkotlin.2.2.10.jar"
+				"https://cdn.modrinth.com/data/Ha28R6CL/versions/i6MmXDwA/fabric-language-kotlin-1.13.6%2Bkotlin.2.2.20.jar"
 			],
-			"fileSize": 7422276
+			"fileSize": 7479598
 		},
 		{
 			"path": "mods/libjf-3.18.2.jar",
@@ -3520,21 +3520,6 @@
 			"fileSize": 1193247
 		},
 		{
-			"path": "mods/PuzzlesLib-v21.3.21-1.21.3-Fabric.jar",
-			"hashes": {
-				"sha1": "6015cfa4372e3fa491b0006004251ef1ab81043b",
-				"sha512": "1fd4b6e879b17f7d881d51497f43e5bef88876581dbbc82bd741117a29a3ab699ea535f547fa269137630656bb8e91fd9a8c5c221b49f6942e1da232b26a9831"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/QAGBst4M/versions/bmmnUUAE/PuzzlesLib-v21.3.21-1.21.3-Fabric.jar"
-			],
-			"fileSize": 1163392
-		},
-		{
 			"path": "mods/ForgeConfigAPIPort-v21.3.4-1.21.3-Fabric.jar",
 			"hashes": {
 				"sha1": "8936e82cf315802ba5dd31306fa02e5d8ae32377",
@@ -3548,6 +3533,21 @@
 				"https://cdn.modrinth.com/data/ohNO6lps/versions/oOGtBSNs/ForgeConfigAPIPort-v21.3.4-1.21.3-Fabric.jar"
 			],
 			"fileSize": 642027
+		},
+		{
+			"path": "mods/PuzzlesLib-v21.3.21-1.21.3-Fabric.jar",
+			"hashes": {
+				"sha1": "6015cfa4372e3fa491b0006004251ef1ab81043b",
+				"sha512": "1fd4b6e879b17f7d881d51497f43e5bef88876581dbbc82bd741117a29a3ab699ea535f547fa269137630656bb8e91fd9a8c5c221b49f6942e1da232b26a9831"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/QAGBst4M/versions/bmmnUUAE/PuzzlesLib-v21.3.21-1.21.3-Fabric.jar"
+			],
+			"fileSize": 1163392
 		},
 		{
 			"path": "mods/collective-1.21.3-7.89.jar",

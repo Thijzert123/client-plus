@@ -1363,19 +1363,19 @@
 			"fileSize": 867333
 		},
 		{
-			"path": "mods/voicechat-fabric-1.21.4-2.6.2.jar",
+			"path": "mods/voicechat-fabric-1.21.4-2.6.3.jar",
 			"hashes": {
-				"sha1": "c6b0adad8ad74d21186c7afd4f9928af066f847c",
-				"sha512": "78af1afd8ff1037cbacf530173aa67a186af0fe7f1d781270f20b6f7702d8b1f0f28c69470340c11ef7094d3ff7351eec35035394e3bfeb8c240ed8b4844629e"
+				"sha1": "9ac33715d434c74ba5b512c791a61dee87846e35",
+				"sha512": "e7c1671136162f0c2900263d3f8262512c689763bdd7aeeafb428e5bcb3ec3f2b59b3074f8f955a7f8dbf4a22e8bcd9d5ac8de5166e5053a3ed7053c6d27448f"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/9eGKb6K1/versions/HF3nGSOz/voicechat-fabric-1.21.4-2.6.2.jar"
+				"https://cdn.modrinth.com/data/9eGKb6K1/versions/kH00CwZK/voicechat-fabric-1.21.4-2.6.3.jar"
 			],
-			"fileSize": 5337956
+			"fileSize": 5345693
 		},
 		{
 			"path": "mods/ImmediatelyFast-Fabric-1.8.1+1.21.4.jar",
@@ -1558,19 +1558,19 @@
 			"fileSize": 21853
 		},
 		{
-			"path": "resourcepack/Bare Bones 1.21.7.zip",
+			"path": "resourcepack/Bare Bones 1.21.8.zip",
 			"hashes": {
-				"sha1": "ae36e9e5cce8c02197f1f41fa1e4b6a6d01ad7e7",
-				"sha512": "9352d872552f7b6b60f48318322763273c244041e9894ea4dcf76fd84ccc1d29d369dc5237733fefe721fdf49af6030165c5df77d273cb06fe7ecf3555fbae58"
+				"sha1": "29620648a333fe748eca882ff3fa9b00a99f8f32",
+				"sha512": "c6bf3bf0d9574ee8ba64db8eec1dfed73def7fedf5fb56954fc822ba17029f638768325f1b1a6ef4e79f1cdce7039c0c161b0f25c7d3684b9e59a3800842f101"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/rox3U8B6/versions/sZROMthE/Bare%20Bones%201.21.7.zip"
+				"https://cdn.modrinth.com/data/rox3U8B6/versions/rm2O4lrB/Bare%20Bones%201.21.8.zip"
 			],
-			"fileSize": 10266780
+			"fileSize": 10340339
 		},
 		{
 			"path": "mods/chatanimation-1.0.6.jar",
@@ -1843,19 +1843,19 @@
 			"fileSize": 41560
 		},
 		{
-			"path": "mods/clientsort-fabric-2.0.0-beta.15+1.21.3.jar",
+			"path": "mods/clientsort-fabric-2.0.0-beta.18+1.21.3.jar",
 			"hashes": {
-				"sha1": "4f93d0a27f20fdb9ef55f7ebc734355cbcf2a58d",
-				"sha512": "e265624f84e669fb0761f1bd780ff94a3cdc87b93e3e7e252c564662163b1de4a81283fdce001773f2c3d6c55de135914cf90d65dc44e2472fb7833cf6879e40"
+				"sha1": "db7aa00de95597fdf93bef16af702465a4d65b51",
+				"sha512": "ce1bb8d75a4f1eb700f24df7b7d9cf2e973bff31168272a21d7b0af4714e9b2a087924b910f64b34c42ab341eacc664579fafd92d4fe79fd8df83c61867a0128"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/K0AkAin6/versions/WkBlccNm/clientsort-fabric-2.0.0-beta.15%2B1.21.3.jar"
+				"https://cdn.modrinth.com/data/K0AkAin6/versions/iOJSc7Xk/clientsort-fabric-2.0.0-beta.18%2B1.21.3.jar"
 			],
-			"fileSize": 293692
+			"fileSize": 309472
 		},
 		{
 			"path": "mods/simplefog-fabric-1.21.4-2.0.7.jar",
@@ -3493,19 +3493,19 @@
 			"fileSize": 52717
 		},
 		{
-			"path": "mods/fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar",
+			"path": "mods/fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
 			"hashes": {
-				"sha1": "a519e7a070c3dfe38be17a6a0a4ee23535b5a7e3",
-				"sha512": "bae89ea5e71895f5a760def61359bb90a715832d998aec8141902410c503533fc42631e033109fcc9cdb3f869c58da9b89e9efc3b3ef112cbafe27059de9239e"
+				"sha1": "05e9cc4108da5b50735fa6d8a79a18fcd5310d82",
+				"sha512": "1d1d70bd4662ec1fcba57c9f16c3bceb185e8986119f266594f37d145d6d19772e5d6a50dcfec315e600c9eafd32f2b5f86bab72ae1954891297cde7fce62e9b"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/Ha28R6CL/versions/Y91MRWtG/fabric-language-kotlin-1.13.5%2Bkotlin.2.2.10.jar"
+				"https://cdn.modrinth.com/data/Ha28R6CL/versions/i6MmXDwA/fabric-language-kotlin-1.13.6%2Bkotlin.2.2.20.jar"
 			],
-			"fileSize": 7422276
+			"fileSize": 7479598
 		},
 		{
 			"path": "mods/fabric-api-0.119.4+1.21.4.jar",

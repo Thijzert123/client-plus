@@ -602,12 +602,12 @@
 			"id": "4das1Fjq"
 		},
 		{
-			"name": "Fabric API",
-			"id": "P7dR8mSH"
-		},
-		{
 			"name": "Fabric Language Kotlin",
 			"id": "Ha28R6CL"
+		},
+		{
+			"name": "Fabric API",
+			"id": "P7dR8mSH"
 		},
 		{
 			"name": "LibJF",
@@ -1288,19 +1288,19 @@
 			"fileSize": 583322
 		},
 		{
-			"path": "mods/Scribble-1.6.2+mc1.21.7-fabric.jar",
+			"path": "mods/Scribble-1.6.4+mc1.21.7-fabric.jar",
 			"hashes": {
-				"sha1": "8f82cd324cf0fb15986421d22f8f3516317351c4",
-				"sha512": "74e4999499a8b5160012d7307d87e1fcbca4531098818a2bbfcf816fba695edb8e7373701a86e18ea7041b9625d6967737ed3d2cbac7ac62789677aa5ae86817"
+				"sha1": "4c5bee7470c1ceff6f267ec57fad7e5de65e2627",
+				"sha512": "e3570d7fd1aae0250a981b6908eea8af1d96441fc881443c3cb6dcdb4871969ba065efe8d2103e2e568acc2aaf8d32e7c8ba1c8adf2ac29bc9db13898a856549"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/yXAvIk0x/versions/8xgA8E7X/Scribble-1.6.2%2Bmc1.21.7-fabric.jar"
+				"https://cdn.modrinth.com/data/yXAvIk0x/versions/2PzTZn12/Scribble-1.6.4%2Bmc1.21.7-fabric.jar"
 			],
-			"fileSize": 192957
+			"fileSize": 198145
 		},
 		{
 			"path": "shader/Bliss_v2.1.1_(Chocapic13_Shaders_edit).zip",
@@ -1333,19 +1333,19 @@
 			"fileSize": 21853
 		},
 		{
-			"path": "resourcepack/Bare Bones 1.21.7.zip",
+			"path": "resourcepack/Bare Bones 1.21.8.zip",
 			"hashes": {
-				"sha1": "ae36e9e5cce8c02197f1f41fa1e4b6a6d01ad7e7",
-				"sha512": "9352d872552f7b6b60f48318322763273c244041e9894ea4dcf76fd84ccc1d29d369dc5237733fefe721fdf49af6030165c5df77d273cb06fe7ecf3555fbae58"
+				"sha1": "29620648a333fe748eca882ff3fa9b00a99f8f32",
+				"sha512": "c6bf3bf0d9574ee8ba64db8eec1dfed73def7fedf5fb56954fc822ba17029f638768325f1b1a6ef4e79f1cdce7039c0c161b0f25c7d3684b9e59a3800842f101"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/rox3U8B6/versions/sZROMthE/Bare%20Bones%201.21.7.zip"
+				"https://cdn.modrinth.com/data/rox3U8B6/versions/rm2O4lrB/Bare%20Bones%201.21.8.zip"
 			],
-			"fileSize": 10266780
+			"fileSize": 10340339
 		},
 		{
 			"path": "mods/chatanimation-1.0.7.jar",
@@ -1588,19 +1588,19 @@
 			"fileSize": 41720
 		},
 		{
-			"path": "mods/clientsort-fabric-2.0.0-beta.15+1.21.8.jar",
+			"path": "mods/clientsort-fabric-2.0.0-beta.18+1.21.8.jar",
 			"hashes": {
-				"sha1": "9078f7f569fd41ad1a66b475ab0c3c39b2827997",
-				"sha512": "a65d97de1d2a4c798186dc9e2c1fbb686e67d476b312bbdf7e9cb379c0458eb7fe18cdd51de82855416208b35e9f6996b836f24f62e5d70b04dc03fd0f6ebc0f"
+				"sha1": "7c9294988cf283e6565267d4185e6c73e843b409",
+				"sha512": "ff4a40a1ac521a54feacae7627a6b7e69ab4260c93663fc58bfc46e7ef033934992258a289351cc82d42ec33ddc65bd45243a6851dfdeef6aafde037aa090591"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/K0AkAin6/versions/3MfOK3s6/clientsort-fabric-2.0.0-beta.15%2B1.21.8.jar"
+				"https://cdn.modrinth.com/data/K0AkAin6/versions/SFeyhrea/clientsort-fabric-2.0.0-beta.18%2B1.21.8.jar"
 			],
-			"fileSize": 295684
+			"fileSize": 311771
 		},
 		{
 			"path": "mods/simplefog-fabric-1.21.6-2.0.10.jar",
@@ -2323,19 +2323,19 @@
 			"fileSize": 74709
 		},
 		{
-			"path": "mods/polytone-1.21.7-3.5.2-alpha-fabric.jar",
+			"path": "mods/polytone-1.21.7-3.5.3-alpha-fabric.jar",
 			"hashes": {
-				"sha1": "f299c3bd6d098de657bf8d8c022d9030fbe59555",
-				"sha512": "cfb57beb173f5e1f94d8bc294026bb29633cb3363b6ebf1dc736c5c904c91b397506e3d73156f3169b7f3c59546a68d2e9d18c4890078f0619e24753f0195e4a"
+				"sha1": "a2e84f043b316b8d85630a1793d38e0d10960fbe",
+				"sha512": "db52886471576a86377052ea52c7ca0bdba71e3e45d2d9e1ba96abe4bca320cdfd035d33880a00dd5c4db8a6504fba85c29f565a31f5f385b2700d0e51b1a037"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/3qAYkBMB/versions/FWaGUepG/polytone-1.21.7-3.5.2-alpha-fabric.jar"
+				"https://cdn.modrinth.com/data/3qAYkBMB/versions/fIF1Z8tA/polytone-1.21.7-3.5.3-alpha-fabric.jar"
 			],
-			"fileSize": 767591
+			"fileSize": 767662
 		},
 		{
 			"path": "mods/show-me-your-skin-1.11.3+1.21.6.jar",
@@ -2938,6 +2938,21 @@
 			"fileSize": 210937747
 		},
 		{
+			"path": "mods/fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
+			"hashes": {
+				"sha1": "05e9cc4108da5b50735fa6d8a79a18fcd5310d82",
+				"sha512": "1d1d70bd4662ec1fcba57c9f16c3bceb185e8986119f266594f37d145d6d19772e5d6a50dcfec315e600c9eafd32f2b5f86bab72ae1954891297cde7fce62e9b"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/Ha28R6CL/versions/i6MmXDwA/fabric-language-kotlin-1.13.6%2Bkotlin.2.2.20.jar"
+			],
+			"fileSize": 7479598
+		},
+		{
 			"path": "mods/fabric-api-0.129.0+1.21.7.jar",
 			"hashes": {
 				"sha1": "60bb50ad1f7d316be9ba662e84089e1affdd44e6",
@@ -2951,21 +2966,6 @@
 				"https://cdn.modrinth.com/data/P7dR8mSH/versions/JntuF9Ul/fabric-api-0.129.0%2B1.21.7.jar"
 			],
 			"fileSize": 2212353
-		},
-		{
-			"path": "mods/fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar",
-			"hashes": {
-				"sha1": "a519e7a070c3dfe38be17a6a0a4ee23535b5a7e3",
-				"sha512": "bae89ea5e71895f5a760def61359bb90a715832d998aec8141902410c503533fc42631e033109fcc9cdb3f869c58da9b89e9efc3b3ef112cbafe27059de9239e"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/Ha28R6CL/versions/Y91MRWtG/fabric-language-kotlin-1.13.5%2Bkotlin.2.2.10.jar"
-			],
-			"fileSize": 7422276
 		},
 		{
 			"path": "mods/libjf-3.19.0.jar",
@@ -3073,19 +3073,19 @@
 			"fileSize": 589654
 		},
 		{
-			"path": "mods/PlayerAnimationLib-1.0.9+mc1.21.7.jar",
+			"path": "mods/PlayerAnimationLib-1.0.10+mc1.21.7.jar",
 			"hashes": {
-				"sha1": "7f0462cd19fe66e95bbf9b4e8c3686695b463ad8",
-				"sha512": "9c06d523f2339ddf84c33a89781f17accc0282334ab5b730885de0e98f63756b26d2e669ab1afd5fd998066b76cd8d00ddd5b9b4069e588aaac68558bc9d3189"
+				"sha1": "926430ad4a4f36be31b8d5f6adbeb44692dab638",
+				"sha512": "06d56535fac638305b3716f5614017015bc9a362684a3909fb6e5824721d8a2bc9d8bbdca2bf0b3dfb61631561dbce5bb0134dea02d1fa97fa73d203c8dc2317"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/ha1mEyJS/versions/KFbcu0iY/PlayerAnimationLib-1.0.9%2Bmc1.21.7.jar"
+				"https://cdn.modrinth.com/data/ha1mEyJS/versions/V54UNjt1/PlayerAnimationLib-1.0.10%2Bmc1.21.7.jar"
 			],
-			"fileSize": 1169189
+			"fileSize": 1169136
 		},
 		{
 			"path": "mods/UniLib-1.1.1+1.21.8-fabric.jar",

@@ -1272,19 +1272,19 @@
 			"fileSize": 799098
 		},
 		{
-			"path": "mods/voicechat-fabric-1.20.1-2.6.2.jar",
+			"path": "mods/voicechat-fabric-1.20.1-2.6.3.jar",
 			"hashes": {
-				"sha1": "e665a993483b9502754162fc2e198824733d46d9",
-				"sha512": "b359a1a4b67e93f77d721718a906120aa74215431a389e2ac2d60fbec2e573e85125710aa6649805678094310218b0b122dba27137b1f03898b5d27803cdd178"
+				"sha1": "0d0038524c964210bbf0ca7dd63ea274342d0a9b",
+				"sha512": "9bf942008310780fe320898e55b164f85cb827490c8e2b8cc392a41316b56dee25859c44bfb2fa3c17c4a91cb29694a9c45cc65ac62094e5e703e9c748466f0e"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/9eGKb6K1/versions/cPBVejCp/voicechat-fabric-1.20.1-2.6.2.jar"
+				"https://cdn.modrinth.com/data/9eGKb6K1/versions/HBeSn9Pv/voicechat-fabric-1.20.1-2.6.3.jar"
 			],
-			"fileSize": 5241007
+			"fileSize": 5248876
 		},
 		{
 			"path": "mods/mixintrace-1.1.1+1.17.jar",
@@ -1737,19 +1737,19 @@
 			"fileSize": 49395
 		},
 		{
-			"path": "mods/clientsort-fabric-2.0.0-beta.15+1.20.1.jar",
+			"path": "mods/clientsort-fabric-2.0.0-beta.18+1.20.1.jar",
 			"hashes": {
-				"sha1": "be1cb7de7482a84041b542a3294217d3b21beb01",
-				"sha512": "956255c8707e5cab4ce9900d807a4db52864fb955fb498aba5f9e9c7c76c88d98f396319ed9fc7f278c2a20b1b657d9a41ead7341ad95319a6995586d1131689"
+				"sha1": "5ea3398b1d0aed8a6a47f1cc75b16adb2ef7e1fe",
+				"sha512": "4c342d57a812d7826f33ce0c8fbf2c5c1c388e0d831d03d590cd86702ddf9260c8c5fb5331fb82c30b8a3e0be919b024b2457334abdb122decda7cf61f159e2b"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/K0AkAin6/versions/1vDBUPnk/clientsort-fabric-2.0.0-beta.15%2B1.20.1.jar"
+				"https://cdn.modrinth.com/data/K0AkAin6/versions/HH7Cv6i9/clientsort-fabric-2.0.0-beta.18%2B1.20.1.jar"
 			],
-			"fileSize": 280407
+			"fileSize": 281799
 		},
 		{
 			"path": "mods/simplefog-1.4.0.jar",
@@ -2622,19 +2622,19 @@
 			"fileSize": 74839
 		},
 		{
-			"path": "mods/polytone-1.20-3.5.5-fabric.jar",
+			"path": "mods/polytone-1.20-3.5.6-fabric.jar",
 			"hashes": {
-				"sha1": "1948fd6065c57e935ee064c75393e352b7eba890",
-				"sha512": "348fcfb3c1856415b1549e26bdf1c41516d7311b9516309b332a86777f7d11cbc2e777aac49bee48e0e73e2951dd1166263b9ce6621b8ae8e2c155632190aad5"
+				"sha1": "96c8ed21d49ff8590c4072125d44b6b26a11f63d",
+				"sha512": "b8c928a3a9c499419b1b7b1243ffdade5a7083cf2b005e18967afb0d4dbdc89e0c280d82458b2748a2bc31bca25f399a90c3aba96408541c875c74e9fa9eee10"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/3qAYkBMB/versions/EeuXQKXp/polytone-1.20-3.5.5-fabric.jar"
+				"https://cdn.modrinth.com/data/3qAYkBMB/versions/FQMsi9e7/polytone-1.20-3.5.6-fabric.jar"
 			],
-			"fileSize": 930891
+			"fileSize": 932573
 		},
 		{
 			"path": "mods/show-me-your-skin-1.9.0+1.20.jar",
@@ -3387,19 +3387,19 @@
 			"fileSize": 57045
 		},
 		{
-			"path": "mods/fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar",
+			"path": "mods/fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
 			"hashes": {
-				"sha1": "a519e7a070c3dfe38be17a6a0a4ee23535b5a7e3",
-				"sha512": "bae89ea5e71895f5a760def61359bb90a715832d998aec8141902410c503533fc42631e033109fcc9cdb3f869c58da9b89e9efc3b3ef112cbafe27059de9239e"
+				"sha1": "05e9cc4108da5b50735fa6d8a79a18fcd5310d82",
+				"sha512": "1d1d70bd4662ec1fcba57c9f16c3bceb185e8986119f266594f37d145d6d19772e5d6a50dcfec315e600c9eafd32f2b5f86bab72ae1954891297cde7fce62e9b"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/Ha28R6CL/versions/Y91MRWtG/fabric-language-kotlin-1.13.5%2Bkotlin.2.2.10.jar"
+				"https://cdn.modrinth.com/data/Ha28R6CL/versions/i6MmXDwA/fabric-language-kotlin-1.13.6%2Bkotlin.2.2.20.jar"
 			],
-			"fileSize": 7422276
+			"fileSize": 7479598
 		},
 		{
 			"path": "mods/fabric-api-0.92.6+1.20.1.jar",

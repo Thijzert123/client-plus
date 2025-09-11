@@ -682,12 +682,12 @@
 			"id": "hAt6ty93"
 		},
 		{
-			"name": "Fabric API",
-			"id": "P7dR8mSH"
-		},
-		{
 			"name": "Fabric Language Kotlin",
 			"id": "Ha28R6CL"
+		},
+		{
+			"name": "Fabric API",
+			"id": "P7dR8mSH"
 		},
 		{
 			"name": "LibJF",
@@ -3330,6 +3330,21 @@
 			"fileSize": 56531
 		},
 		{
+			"path": "mods/fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
+			"hashes": {
+				"sha1": "05e9cc4108da5b50735fa6d8a79a18fcd5310d82",
+				"sha512": "1d1d70bd4662ec1fcba57c9f16c3bceb185e8986119f266594f37d145d6d19772e5d6a50dcfec315e600c9eafd32f2b5f86bab72ae1954891297cde7fce62e9b"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/Ha28R6CL/versions/i6MmXDwA/fabric-language-kotlin-1.13.6%2Bkotlin.2.2.20.jar"
+			],
+			"fileSize": 7479598
+		},
+		{
 			"path": "mods/fabric-api-0.97.3+1.20.4.jar",
 			"hashes": {
 				"sha1": "a21f3c7e700b9fc3a28e896979a07ec489507143",
@@ -3343,21 +3358,6 @@
 				"https://cdn.modrinth.com/data/P7dR8mSH/versions/BPX6fK06/fabric-api-0.97.3%2B1.20.4.jar"
 			],
 			"fileSize": 2187523
-		},
-		{
-			"path": "mods/fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar",
-			"hashes": {
-				"sha1": "a519e7a070c3dfe38be17a6a0a4ee23535b5a7e3",
-				"sha512": "bae89ea5e71895f5a760def61359bb90a715832d998aec8141902410c503533fc42631e033109fcc9cdb3f869c58da9b89e9efc3b3ef112cbafe27059de9239e"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/Ha28R6CL/versions/Y91MRWtG/fabric-language-kotlin-1.13.5%2Bkotlin.2.2.10.jar"
-			],
-			"fileSize": 7422276
 		},
 		{
 			"path": "mods/libjf-3.14.3.jar",
