@@ -30,7 +30,8 @@
 				"1.21.5": "KMOzdYko",
 				"1.21.6": "KMOzdYko",
 				"1.21.7": "KMOzdYko",
-				"1.21.8": "KMOzdYko"
+				"1.21.8": "KMOzdYko",
+				"1.21.9": "KMOzdYko"
 			}
 		},
 		"dynamic-fps": {},
@@ -39,7 +40,8 @@
 			"version_overrides": {
 				"1.21.6": "dQRt7CG3",
 				"1.21.7": "dQRt7CG3",
-				"1.21.8": "dQRt7CG3"
+				"1.21.8": "dQRt7CG3",
+				"1.21.9": "dQRt7CG3"
 			}
 		},
 		"inventory-blur": {},
@@ -64,7 +66,8 @@
 				"1.21.5": "iM6mxyAW",
 				"1.21.6": "iM6mxyAW",
 				"1.21.7": "iM6mxyAW",
-				"1.21.8": "iM6mxyAW"
+				"1.21.8": "iM6mxyAW",
+				"1.21.9": "iM6mxyAW"
 			}
 		},
 		"controlify": {},
