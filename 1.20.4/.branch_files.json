@@ -42,6 +42,10 @@
 			"id": "WhbRG4iK"
 		},
 		{
+			"name": "Icons Advertisement Removal [1.8 - 1.21.5]",
+			"id": "7Rq0ipFz"
+		},
+		{
 			"name": "Debugify",
 			"id": "QwxR6Gcd"
 		},
@@ -194,7 +198,7 @@
 			"id": "DnNYdJsx"
 		},
 		{
-			"name": "LambDynamicLights",
+			"name": "LambDynamicLights - Dynamic Lights",
 			"id": "yBW8D80W"
 		},
 		{
@@ -930,6 +934,21 @@
 			"fileSize": 156773
 		},
 		{
+			"path": "resourcepack/Icon Branding Remover - For 1.8-1.21.8.zip",
+			"hashes": {
+				"sha1": "35cd9f21d77e54aa2aa05ad61d7431a64a4e2e6d",
+				"sha512": "7ac728ef2d86110b8c75e87bf2a6ac7d9c1dd043349402cc4d0ac22701d4d873ff5d17b402c4a7dfb4057f03b6a5ebedfe9bbac7a8c25206d8deaad3b511285a"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/7Rq0ipFz/versions/OXZb3ihp/Icon%20Branding%20Remover%20-%20For%201.8-1.21.8.zip"
+			],
+			"fileSize": 9353
+		},
+		{
 			"path": "mods/Debugify-1.20.4+1.1.jar",
 			"hashes": {
 				"sha1": "248cd69236eed33faca6a08c4ba535c7249a0528",
@@ -990,19 +1009,19 @@
 			"fileSize": 154310
 		},
 		{
-			"path": "resourcepack/Icons v.1.11.3.zip",
+			"path": "resourcepack/Icons v.1.12 1.20.1-1.21.1.zip",
 			"hashes": {
-				"sha1": "6f9130130600e783a9c00346c9832cbb43d33f27",
-				"sha512": "8b369cfb3589c4322c66f99608e0e321eef45358d03f429ae07640771e12bcf15776d2528a39b2cec8603c0bf26babd24a2ef1c76ca87c9c18a2dab4a0bc2051"
+				"sha1": "0cb9d4db16a848611008a58e40983f47be767a69",
+				"sha512": "5841108d422ef6fad6ebc51df8c14668d9ffec3de174e2200c018b6dd78c625f74eb20a56a68f461b35d04237bf6f35f371b160e5b45ea1f79279818785ecc38"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/O7z3QKAG/versions/iM6mxyAW/Icons%20v.1.11.3.zip"
+				"https://cdn.modrinth.com/data/O7z3QKAG/versions/iRZ2VA2w/Icons%20v.1.12%201.20.1-1.21.1.zip"
 			],
-			"fileSize": 5772258
+			"fileSize": 6447777
 		},
 		{
 			"path": "mods/controlify-2.1.2+1.20.4-fabric.jar",
@@ -1112,17 +1131,17 @@
 		{
 			"path": "resourcepack/SodiumTranslations.zip",
 			"hashes": {
-				"sha1": "7079ef4ada6fe05a0480b0b28464f1cee8a6ba82",
-				"sha512": "0af3d59f1995a2ec20590e819c0720272eb3641cc774dfab60d483f4ac7bc845e83106e22d7cce295181b31f5fa7f91a32a61bd3a3fa40fb08051e7313269803"
+				"sha1": "d3dc0da98220b5d8fd7aa69331b5177bfccbe1f9",
+				"sha512": "e23cb1b86d3568eb24aca0297fb3a954acc272f9839617e4bff3790db9837368605d419ed424d7472b45cdca3db0f723afeb7ef2d4459d0c35b26b945b1ae9a5"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/yfDziwn1/versions/ty2pVO7d/SodiumTranslations.zip"
+				"https://cdn.modrinth.com/data/yfDziwn1/versions/YkHWmHq8/SodiumTranslations.zip"
 			],
-			"fileSize": 228738
+			"fileSize": 230027
 		},
 		{
 			"path": "mods/lighty-fabric-2.3.0+1.20.3.jar",
@@ -1305,19 +1324,19 @@
 			"fileSize": 36039
 		},
 		{
-			"path": "mods/ImmediatelyFast-Fabric-1.5.1+1.20.4.jar",
+			"path": "mods/ImmediatelyFast-Fabric-1.5.2+1.20.4.jar",
 			"hashes": {
-				"sha1": "4050cb966b7211c234494075769bc8baf33e3c31",
-				"sha512": "23ddba94cb88591a9381b16c1e8ac2f59a609407d4e3400c083f85d416c37d5a7c42c67d6908d92a98f84fdf93ad083b9c5e8a041a1d90b0ffcca573ab0d3d92"
+				"sha1": "492698415c738fde85c6e36e2c7265e25c14e2e7",
+				"sha512": "076be155faed4ad977b4df2e8e36176b53cac11ad221fc1b1cf79d14a9b13d7102d0a52c64d1870dd356df5d34f491c1cc3a1ef01e979ddd9b34ccd003cc2119"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/5ZwdcRci/versions/zJD8Yaa3/ImmediatelyFast-Fabric-1.5.1%2B1.20.4.jar"
+				"https://cdn.modrinth.com/data/5ZwdcRci/versions/KIhjQeSw/ImmediatelyFast-Fabric-1.5.2%2B1.20.4.jar"
 			],
-			"fileSize": 242574
+			"fileSize": 242651
 		},
 		{
 			"path": "resourcepack/§b TH for Fresh's Animations 2.1.zip",
@@ -1590,19 +1609,19 @@
 			"fileSize": 344004
 		},
 		{
-			"path": "shader/miniature-shader-2.16.1.zip",
+			"path": "shader/miniature-shader-2.18.zip",
 			"hashes": {
-				"sha1": "de9a068f38b612713e515131d4e41f05280e4830",
-				"sha512": "7e471215d4d1999db38bfd93033e02682862c36abb076bca62b1bc3f0780623a3546f8ca6711c5cd50c97138859c612fbe6f8f8e854fc092159e726ea961c098"
+				"sha1": "d0bf8fc0acf36291c3fa633c2834d618c459b270",
+				"sha512": "5dc2e1be1048b9a36f5f35874fc2f0d71b4ff1f2b73b03ab455d543747eca1007be6d51488105b0d4b9d8266421778e70d2cac807069abadd8b63a792c724da7"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/UaS8ROxa/versions/NngviH0C/miniature-shader-2.16.1.zip"
+				"https://cdn.modrinth.com/data/UaS8ROxa/versions/EaOXeA0L/miniature-shader-2.18.zip"
 			],
-			"fileSize": 31977
+			"fileSize": 37850
 		},
 		{
 			"path": "resourcepack/Recolourful Containers DARK 2.1.1 (1.19.4+).zip",
@@ -1650,19 +1669,19 @@
 			"fileSize": 1016209
 		},
 		{
-			"path": "resourcepack/Better-Leaves-9.3.zip",
+			"path": "resourcepack/Better-Leaves-9.4.zip",
 			"hashes": {
-				"sha1": "79ef77661a5038d0cbcbbaa8a921532fe2935577",
-				"sha512": "d303fbce429f94aa93ed5c5fd634784d11f643b16e67adeb6ee6730923a77d7367b2beaf7a657eafc438c3ba84835731f73570822bf080c7213a075617850efe"
+				"sha1": "4caada00aa07d45c9795079dd78a6c07aa644376",
+				"sha512": "d6969d044a6e48468b3637e29e0d6afa9af4618bf20bf28db7e3c588ea6bbd2f3a4cf9f154524249fe154b4ff8fb7ccc8c59099fd9ccc6d6bec714ae56ea2102"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/uvpymuxq/versions/q28cOL2T/Better-Leaves-9.3.zip"
+				"https://cdn.modrinth.com/data/uvpymuxq/versions/JW14JsXq/Better-Leaves-9.4.zip"
 			],
-			"fileSize": 1335755
+			"fileSize": 1427931
 		},
 		{
 			"path": "mods/fabrishot-1.12.1.jar",
@@ -2265,19 +2284,19 @@
 			"fileSize": 298153
 		},
 		{
-			"path": "mods/chat_heads-0.13.18-fabric-1.20.4.jar",
+			"path": "mods/chat_heads-0.13.22-fabric-1.20.4.jar",
 			"hashes": {
-				"sha1": "a4f176f32b3e3292bbb23141ac29824953d67a9d",
-				"sha512": "c360ce3917d30e02271f313c2f24989b93aa669397c64b48a7f63bcef8460cd7587114b95ece961ba53c184ae59a274d46efec684c902d46b3f6f6213c77a689"
+				"sha1": "374a86912ac5e4d37e2733ccc40ac7d2c4266ff5",
+				"sha512": "e590b8892c94feeb3755e3eac4005711fc7900c3551925fa6ed1e0d51852f365527b866e30f6ca29d7f0d011e713c0a65dea02591bef12ca59784b22aef7a6b8"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/Wb5oqrBJ/versions/SDYmA9xO/chat_heads-0.13.18-fabric-1.20.4.jar"
+				"https://cdn.modrinth.com/data/Wb5oqrBJ/versions/ie0iBC14/chat_heads-0.13.22-fabric-1.20.4.jar"
 			],
-			"fileSize": 78580
+			"fileSize": 79481
 		},
 		{
 			"path": "mods/cubes-without-borders-2.1.1+1.20.jar",
@@ -2535,19 +2554,19 @@
 			"fileSize": 214908
 		},
 		{
-			"path": "mods/rsls-1.1.9.jar",
+			"path": "mods/rsls-1.1.10.jar",
 			"hashes": {
-				"sha1": "0aadbe2547f8885a755943b52075a4abbd62310f",
-				"sha512": "c8c664478e509fa4e6f49ff85389cb0bb3051ab9a3c618fafee521d0028fc5284967af99807b2e9be864c6b79497b9be65b9752cf7330a66bf6c92b5fb3011e4"
+				"sha1": "d945e6cd815e1c5e3a7946e281cec0b3bd42decd",
+				"sha512": "e9b96b2339bd4c2fba823ff78837773518a1186da962e0921814d07cf5bcb55ed5182ee235681a820b27515c4127dca233304ff3cbffab78e708066dd5a14026"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/SKW62Pht/versions/8cVCS2lO/rsls-1.1.9.jar"
+				"https://cdn.modrinth.com/data/SKW62Pht/versions/sxtJHuYa/rsls-1.1.10.jar"
 			],
-			"fileSize": 48141
+			"fileSize": 53332
 		},
 		{
 			"path": "mods/soundcontroller-1.2.3-mc1.20.3.jar",
@@ -2715,19 +2734,19 @@
 			"fileSize": 131413
 		},
 		{
-			"path": "mods/XaeroPlus-2.28.1+fabric-1.20.4-WM1.39.12-MM25.2.10.jar",
+			"path": "mods/XaeroPlus-2.28.2+fabric-1.20.4-WM1.39.12-MM25.2.10.jar",
 			"hashes": {
-				"sha1": "d953ccb7bacea644215c54c2374080cc2735ece0",
-				"sha512": "133ee9c06de51b4782a3be7ab7e0b569c03195c974c571e5baae40ea014fb885e9a21c54731044acb46297c08c64f57460a13e172aaa1742ba8fcd9fe2bbe4e5"
+				"sha1": "9a2ab8888ce8f73efee79207f8ccb7af953893c7",
+				"sha512": "f16cb8a4ebff11d886702cdf998464f49104890bd3efd811cb3d7e514d399935a150617b811547a4c37fa3f5582cf6120baf89ed6c2e1994742193ca9c8f1050"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/EnPUzSTg/versions/VjtFLl45/XaeroPlus-2.28.1%2Bfabric-1.20.4-WM1.39.12-MM25.2.10.jar"
+				"https://cdn.modrinth.com/data/EnPUzSTg/versions/Y7TS8yXy/XaeroPlus-2.28.2%2Bfabric-1.20.4-WM1.39.12-MM25.2.10.jar"
 			],
-			"fileSize": 6467022
+			"fileSize": 7764833
 		},
 		{
 			"path": "mods/improvedsignediting-1.20.4-1.1.jar",
@@ -2880,19 +2899,19 @@
 			"fileSize": 43163
 		},
 		{
-			"path": "resourcepack/§aReimagined§0_§8[v1.52]§0.zip",
+			"path": "resourcepack/§aReimagined§0_§8[1.53.1]§0.zip",
 			"hashes": {
-				"sha1": "946aa8c6e0d5c62674bda903337520ab79895708",
-				"sha512": "1cfacf50afb871e411f889e95f3fa3cfa39ee04fd1a00376a0048afbfb5fbcd7754b19a90c89163ca36d140e115868f0b025d83be91dc35b48c996741768f2a7"
+				"sha1": "93835187042f372aebb47aac0356bbf67da242e9",
+				"sha512": "6a67f97f336b883326e9762b873b269f15911c4f52ef65cdb955f0b09a3b76dc7b07b25abf0fd936130a20f5287f250a34b62905b65ea872f48d27e9149cce0d"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/ta5dy0aA/versions/ZikJdLCZ/%C2%A7aReimagined%C2%A70_%C2%A78%5Bv1.52%5D%C2%A70.zip"
+				"https://cdn.modrinth.com/data/ta5dy0aA/versions/HNZGqSUF/%C2%A7aReimagined%C2%A70_%C2%A78%5B1.53.1%5D%C2%A70.zip"
 			],
-			"fileSize": 74150237
+			"fileSize": 64697743
 		},
 		{
 			"path": "mods/durabilityplus_1.20-1.0.3.jar",
@@ -3030,19 +3049,19 @@
 			"fileSize": 182943
 		},
 		{
-			"path": "shader/Solas Shader V2.9b.zip",
+			"path": "shader/Solas Shader V3.0.zip",
 			"hashes": {
-				"sha1": "90c56056a51215e2b15726419eb2549b12d0b509",
-				"sha512": "ac5ff7b8df0984daca90be7700af4d7ca589e9d3136fdee33fb340087ab69ea9a1d6073ecfa050f9ccfffafdc1cc95316bbfd89bb60ac375870ff0aa5d002827"
+				"sha1": "5c6c3ef7561272c39873f9efc56425526dfb5661",
+				"sha512": "e2d79b03a599dacbbd1a81e189e390bcd2ffda2b1cdad3da5db46ce9d1306fce2652fcd857f065c536ad472d8445c0bbf32f147d91e1df2c0fc8bb12d1e44f86"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/EpQFjzrQ/versions/XnmvIKj3/Solas%20Shader%20V2.9b.zip"
+				"https://cdn.modrinth.com/data/EpQFjzrQ/versions/idWbCGE2/Solas%20Shader%20V3.0.zip"
 			],
-			"fileSize": 1400396
+			"fileSize": 1306582
 		},
 		{
 			"path": "mods/explosive-enhancement-1.3.0-1.20.x.jar",

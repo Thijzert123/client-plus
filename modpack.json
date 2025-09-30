@@ -14,7 +14,8 @@
 		"1.21.3",
 		"1.21.1",
 		"1.20.4",
-		"1.20.1"
+		"1.20.1",
+		"1.21.9"
 	],
 	"projects": {
 		"better-advancements": {},
@@ -77,7 +78,9 @@
 		"lighty": {},
 		"bsl-shaders": {},
 		"nofortunechest": {
-			"exclude": ["1.21.8"]
+			"exclude": [
+				"1.21.8"
+			]
 		},
 		"mod-loading-screen": {},
 		"my-resource-pack": {},
@@ -195,12 +198,16 @@
 		"fresh-animations": {},
 		"better-lanterns": {},
 		"noisium": {
-			"exclude": ["1.21.8"]
+			"exclude": [
+				"1.21.8"
+			]
 		},
 		"rsls": {},
 		"sound-controller": {},
 		"polytone": {
-			"exclude": ["1.21.8"]
+			"exclude": [
+				"1.21.8"
+			]
 		},
 		"show-me-your-skin": {},
 		"glowing-torchflower": {},
