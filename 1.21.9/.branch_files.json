@@ -58,10 +58,6 @@
 			"id": "1bokaNcj"
 		},
 		{
-			"name": "Gamma Utils (Fullbright)",
-			"id": "wdLuzzEP"
-		},
-		{
 			"name": "Sodium",
 			"id": "AANobbMI"
 		},
@@ -316,21 +312,6 @@
 				"https://cdn.modrinth.com/data/1bokaNcj/versions/nKxcS5ke/Xaeros_Minimap_25.2.13_Fabric_1.21.9.jar"
 			],
 			"fileSize": 1694913
-		},
-		{
-			"path": "mods/Gamma-Utils-2.4.6+mc1.21.9.jar",
-			"hashes": {
-				"sha1": "1498a2fdaeeb2016ba0f93d7aeb7c402444bcfd1",
-				"sha512": "1e29831ec70c0c570ff21767b7868134c95364c256d711e348e4a311c9bd170ac7403523132fac31efa25bf53af1e9bcde29d745e4cf1d0607d63b817c18b8fc"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/wdLuzzEP/versions/IvDq6T5Y/Gamma-Utils-2.4.6%2Bmc1.21.9.jar"
-			],
-			"fileSize": 96799
 		},
 		{
 			"path": "mods/sodium-fabric-0.7.0+mc1.21.9.jar",

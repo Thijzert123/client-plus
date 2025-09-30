@@ -137,7 +137,11 @@
 		"clientsort": {},
 		"simplefog": {},
 		"skin-grabber": {},
-		"gamma-utils": {},
+		"gamma-utils": {
+			"exclude": [
+				"1.21.9"
+			]
+		},
 		"modmenu": {},
 		"wider-tab": {},
 		"optigui": {},
