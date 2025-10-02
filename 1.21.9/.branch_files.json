@@ -166,10 +166,6 @@
 			"id": "bYcjtBki"
 		},
 		{
-			"name": "XaeroPlus",
-			"id": "EnPUzSTg"
-		},
-		{
 			"name": "Zoomify",
 			"id": "w7ThoJFB"
 		},
@@ -837,21 +833,6 @@
 				"https://cdn.modrinth.com/data/bYcjtBki/versions/n5SnP1d9/MobCrates_1.21.9_v2.2.zip"
 			],
 			"fileSize": 269053
-		},
-		{
-			"path": "mods/XaeroPlus-2.28.3+fabric-1.21.9-WM1.39.15-MM25.2.13.jar",
-			"hashes": {
-				"sha1": "c7974d9749bf4dfcc69cdd6a7ce5ca396431875f",
-				"sha512": "ed4df6de42641b6250d4217e26704fe1a4cb2a0ff95aacc1f8371701d19fec2ac8df8690f6d977eea98b53138ccb35855cbec3d64737429ac2501b58ffe81a06"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/EnPUzSTg/versions/OVki1KsJ/XaeroPlus-2.28.3%2Bfabric-1.21.9-WM1.39.15-MM25.2.13.jar"
-			],
-			"fileSize": 7758152
 		},
 		{
 			"path": "mods/Zoomify-2.14.6+1.21.9.jar",

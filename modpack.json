@@ -234,7 +234,11 @@
 		"mob-crates": {},
 		"infinite-music": {},
 		"vtdownloader": {},
-		"xaeroplus": {},
+		"xaeroplus": {
+			"exclude": [
+				"1.21.9"
+			]
+		},
 		"improved-sign-editing": {},
 		"make_bubbles_pop": {},
 		"cubic-sun-moon": {},
