@@ -1,0 +1,197 @@
+{
+	"info": "This file is managed by Packrinth and not intended for manual editing. You should, however, add it to your Git repository.",
+	"projects": [
+		{
+			"name": "Sounds",
+			"id": "ZouiUX7t"
+		},
+		{
+			"name": "Simple Voice Chat",
+			"id": "9eGKb6K1"
+		},
+		{
+			"name": "Client Sort",
+			"id": "K0AkAin6"
+		},
+		{
+			"name": "Sodium",
+			"id": "AANobbMI"
+		},
+		{
+			"name": "Iris Shaders",
+			"id": "YL57xq9U"
+		},
+		{
+			"name": "Visuality",
+			"id": "rI0hvYcd"
+		},
+		{
+			"name": "Raise Sound Limit Simplified",
+			"id": "SKW62Pht"
+		},
+		{
+			"name": "Jade 🔍",
+			"id": "nvQzSEkH"
+		},
+		{
+			"name": "Fabric API",
+			"id": "P7dR8mSH"
+		},
+		{
+			"name": "M.R.U",
+			"id": "SNVQ2c0g"
+		}
+	],
+	"files": [
+		{
+			"path": "mods/sounds-2.4.17+edge+1.21.9-fabric.jar",
+			"hashes": {
+				"sha1": "6cbbc4e5e7e49a2e57f218f3279f80c13e0d4585",
+				"sha512": "1c1fa78fa43e97e55534bd8ad8c0c48fcf1a5a09c104b84634b470594005c7b5d13724f0868d855fe37b0451a07fc8d52fe6ce400fef85e0e092812b3a528791"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/ZouiUX7t/versions/sSjn02GQ/sounds-2.4.17%2Bedge%2B1.21.9-fabric.jar"
+			],
+			"fileSize": 8123999
+		},
+		{
+			"path": "mods/voicechat-fabric-1.21.10-2.6.4.jar",
+			"hashes": {
+				"sha1": "595c2b087929405cc4e8ea6f9fe5f6e83952d219",
+				"sha512": "c264ba172227358244d115a383ecaf7d9f19117f908c43c010c71c878448d64cbb1b5280ca4778278f6882160872bf112baffe871ad572aaa6234f20ada7af87"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/9eGKb6K1/versions/2UqRNWFr/voicechat-fabric-1.21.10-2.6.4.jar"
+			],
+			"fileSize": 5499796
+		},
+		{
+			"path": "mods/clientsort-fabric-2.0.0-beta.20+1.21.9.jar",
+			"hashes": {
+				"sha1": "61a36a8aac2cc37575ddf124c5ef0b3f5d0c1374",
+				"sha512": "c40d321169442001d191eec6fdedf14bff3c9ca23724f373215a4ee54a1e7d568d76a7cccd365be7b61dfd2204e8072834dc55412a4c03390baab10abdfbeb9b"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/K0AkAin6/versions/6IPZD3B7/clientsort-fabric-2.0.0-beta.20%2B1.21.9.jar"
+			],
+			"fileSize": 317044
+		},
+		{
+			"path": "mods/sodium-fabric-0.7.0+mc1.21.9.jar",
+			"hashes": {
+				"sha1": "78facebc00d55562922ad70888b9933522c36806",
+				"sha512": "675687d890dc1c0354dee275eac2dc12c3123237db4a9cd587482986a65d072ad1badfd6ee8371be2e834c59e3b5fae4a91e7376e076eacff06257fc69615c35"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/AANobbMI/versions/AQpu5aS1/sodium-fabric-0.7.0%2Bmc1.21.9.jar"
+			],
+			"fileSize": 1649197
+		},
+		{
+			"path": "mods/iris-fabric-1.9.4+mc1.21.10.jar",
+			"hashes": {
+				"sha1": "882f7256076aa6227f35889631677323ff4b6bdc",
+				"sha512": "7d7cf62f41bf8fd21179bf38293820d22a63216073ce75c5528835256efda9c431b616a92e5512b6bd27a276d38331dcad8f15b64b3e3cc44af025e5565cdd16"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/YL57xq9U/versions/RZp5fR8I/iris-fabric-1.9.4%2Bmc1.21.10.jar"
+			],
+			"fileSize": 2707924
+		},
+		{
+			"path": "mods/visuality-0.7.11+1.21.9.jar",
+			"hashes": {
+				"sha1": "0829e54722ffa7fa6d91ecca22907755c9d30829",
+				"sha512": "ec82f329335b29a70807f4f9c51e837cf801a630736080325468fd1b2f017edd9f4f6ed8aaf11abda85148c007c50f78c0e1b92c685589f0da9f0cea9fadff86"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/rI0hvYcd/versions/Dn8vJ9j6/visuality-0.7.11%2B1.21.9.jar"
+			],
+			"fileSize": 80967
+		},
+		{
+			"path": "mods/rsls-1.1.10.jar",
+			"hashes": {
+				"sha1": "d945e6cd815e1c5e3a7946e281cec0b3bd42decd",
+				"sha512": "e9b96b2339bd4c2fba823ff78837773518a1186da962e0921814d07cf5bcb55ed5182ee235681a820b27515c4127dca233304ff3cbffab78e708066dd5a14026"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/SKW62Pht/versions/sxtJHuYa/rsls-1.1.10.jar"
+			],
+			"fileSize": 53332
+		},
+		{
+			"path": "mods/Jade-1.21.9-Fabric-20.0.5.jar",
+			"hashes": {
+				"sha1": "1007888435ef4ce9334798217634a6a03dac1eaf",
+				"sha512": "4039ae3f6126abcf715db667cfb66ba18d17ee820824b9a86a62cba4a2e9e663d1423b7a7a10b265618caf733daa91d75226332cdce9056e65eadae4f912a05b"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/nvQzSEkH/versions/qC0qUqL5/Jade-1.21.9-Fabric-20.0.5.jar"
+			],
+			"fileSize": 921951
+		},
+		{
+			"path": "mods/fabric-api-0.134.1+1.21.10.jar",
+			"hashes": {
+				"sha1": "c891b6e76d3134640cc5fa9394f1f47397888380",
+				"sha512": "355380482bf62746a1c4db24d98a5cea3cb20607a5820d6d836fce511d933f6d352bc198edd31d77ce55cf3420293f26e679801b9f4c64c78c1deee5fe725cb8"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/P7dR8mSH/versions/2diTWKwa/fabric-api-0.134.1%2B1.21.10.jar"
+			],
+			"fileSize": 2290881
+		},
+		{
+			"path": "mods/mru-1.0.22+edge+1.21.8+fabric.jar",
+			"hashes": {
+				"sha1": "b1641986134d7a0dce34bdac0c83a3ace24882f8",
+				"sha512": "9d21e686bcae93605c766c93b85e25173b58988e90d26e1457a871b36c4a96e29222755cd6c57b3069eb7118d3743e3f1ac9367a620e4d4e8dca7e7c0653ceaa"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/SNVQ2c0g/versions/jPnaggIS/mru-1.0.22%2Bedge%2B1.21.8%2Bfabric.jar"
+			],
+			"fileSize": 244786
+		}
+	]
+}
