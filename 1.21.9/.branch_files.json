@@ -70,6 +70,10 @@
 			"id": "Q1vvjJYV"
 		},
 		{
+			"name": "No Fortune Chest",
+			"id": "4QufRNTv"
+		},
+		{
 			"name": "Chat Reporting Helper",
 			"id": "tN4E9NfV"
 		},
@@ -166,6 +170,10 @@
 			"id": "JuksLGBQ"
 		},
 		{
+			"name": "Auto-Run",
+			"id": "2i7tg1Wv"
+		},
+		{
 			"name": "Sodium",
 			"id": "AANobbMI"
 		},
@@ -202,6 +210,10 @@
 			"id": "rI0hvYcd"
 		},
 		{
+			"name": "Mouse Tweaks",
+			"id": "aC3cM3Vq"
+		},
+		{
 			"name": "Symbol Chat",
 			"id": "NKvLVQMc"
 		},
@@ -218,6 +230,10 @@
 			"id": "Wb5oqrBJ"
 		},
 		{
+			"name": "Cubes Without Borders",
+			"id": "ETlrkaYF"
+		},
+		{
 			"name": "Better Flame Particles",
 			"id": "ivUZsvzp"
 		},
@@ -228,6 +244,10 @@
 		{
 			"name": "WaxedIcons",
 			"id": "pC9ELBuh"
+		},
+		{
+			"name": "Krypton",
+			"id": "fQEb0iXm"
 		},
 		{
 			"name": "Fast Trading",
@@ -296,6 +316,10 @@
 		{
 			"name": "Clumps",
 			"id": "Wnxd13zP"
+		},
+		{
+			"name": "Solas Shader",
+			"id": "EpQFjzrQ"
 		},
 		{
 			"name": "Dynamic Crosshair",
@@ -587,19 +611,19 @@
 			"fileSize": 8123700
 		},
 		{
-			"path": "mods/litematica-fabric-1.21.9-0.24.0.jar",
+			"path": "mods/litematica-fabric-1.21.10-rc1-0.24.1.jar",
 			"hashes": {
-				"sha1": "42410df71ed1745999eefd80995951427becced6",
-				"sha512": "ee9d3eac545a380175fe0cd49c1839f03f49316b046910f2d32b24b13645c9349a243c8142e9f9d9e490a3059d04db8129ce28f502e9121384d337696b83ff97"
+				"sha1": "1bd9d9a5d9b826dc5d0dbbe4a9ce1f596777b658",
+				"sha512": "d5eb4c723be319a518c277d08048d19720059081584817ca103dbc11dbb6b7b54b1d5387a80f37191e02600632ca4b87453df05ceabdc641fcb1a94d71fab45b"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/bEpr0Arc/versions/t7AvttZG/litematica-fabric-1.21.9-0.24.0.jar"
+				"https://cdn.modrinth.com/data/bEpr0Arc/versions/e9K0D2hB/litematica-fabric-1.21.10-rc1-0.24.1.jar"
 			],
-			"fileSize": 1487833
+			"fileSize": 1490238
 		},
 		{
 			"path": "mods/emotecraft-fabric-for-MC1.21.9-3.1.0-b.build.124.jar",
@@ -645,6 +669,21 @@
 				"https://cdn.modrinth.com/data/Q1vvjJYV/versions/jRn8y2VF/BSL_v10.0.zip"
 			],
 			"fileSize": 1121678
+		},
+		{
+			"path": "mods/NoFortuneChest-1.2+1.21.9.jar",
+			"hashes": {
+				"sha1": "f00004d59a7141f2aa0c06c2f34616a3227882a0",
+				"sha512": "6487a668ba41e6694fc7d36cb91c581c3c7fab49ed9b850ba9374fef0d2344059819f87b5373046b24902d8b39eda742ad0a520b8bd3ad58ef0296f401cc866f"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/4QufRNTv/versions/FyU3X0LH/NoFortuneChest-1.2%2B1.21.9.jar"
+			],
+			"fileSize": 44868
 		},
 		{
 			"path": "resourcepack/Chat Reporting Helper.zip",
@@ -1007,6 +1046,21 @@
 			"fileSize": 612528
 		},
 		{
+			"path": "mods/autorun-mc1.21.9-v1.3.0.jar",
+			"hashes": {
+				"sha1": "096cfaabe9fc216b7454cae8fcc36a91bfd00c86",
+				"sha512": "c39377f1e2cdd78399678b3bf359e6cd111a006dc9f90335825cfb491dff0cff61ece25f342f5e3ccc5a8faca360b138e1d9a80310956c8ea2efcc738c335e5e"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/2i7tg1Wv/versions/tpqvVklC/autorun-mc1.21.9-v1.3.0.jar"
+			],
+			"fileSize": 15389
+		},
+		{
 			"path": "mods/sodium-fabric-0.7.0+mc1.21.9.jar",
 			"hashes": {
 				"sha1": "78facebc00d55562922ad70888b9933522c36806",
@@ -1142,6 +1196,21 @@
 			"fileSize": 80967
 		},
 		{
+			"path": "mods/MouseTweaks-fabric-mc1.21.9-2.29.jar",
+			"hashes": {
+				"sha1": "e6816dd7a2f61deca930c6787a04b74afb91249f",
+				"sha512": "b93539c1484bec68cc1f9cd3b9aebb8c2994eed3dedd3574e20bc3f1ec95c885b3d132a0924b5a65b9b3f15fb3ec463ad18004c6b8ecfa27cba66390295d1264"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/aC3cM3Vq/versions/ULOi34Uh/MouseTweaks-fabric-mc1.21.9-2.29.jar"
+			],
+			"fileSize": 76252
+		},
+		{
 			"path": "mods/symbol-chat-1.21.9-1.3.10.jar",
 			"hashes": {
 				"sha1": "ac7055e7e593474a838b599354a1412343f452f5",
@@ -1187,19 +1256,34 @@
 			"fileSize": 67874
 		},
 		{
-			"path": "mods/chat_heads-1.1.0-fabric-1.21.9.jar",
+			"path": "mods/chat_heads-1.1.1-fabric-1.21.9.jar",
 			"hashes": {
-				"sha1": "4f7f5e8daac17299144b4435c94a6b1ffc30241c",
-				"sha512": "dc77ab9d2bc6a1b1d8946aa2ca105a83b12982c51078e6af49f67daf0bfc09be8d30931836d72a56ac92da6732408e8c60e747682cdc45dac847be67f94e3e28"
+				"sha1": "c41e52708669ebcb2ee056ef6d17e426558ee49b",
+				"sha512": "5793e18d4370f9a8d1def91e46528dae7bac2ed2791b741d66296a58ec6c146a0ead2e4fe5f57dc8f06959316f669729818aecf3fbb235f05f0f4acb7a140901"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/Wb5oqrBJ/versions/lHUi3nYs/chat_heads-1.1.0-fabric-1.21.9.jar"
+				"https://cdn.modrinth.com/data/Wb5oqrBJ/versions/yUX0V6Iq/chat_heads-1.1.1-fabric-1.21.9.jar"
 			],
-			"fileSize": 84003
+			"fileSize": 84981
+		},
+		{
+			"path": "mods/cwb-fabric-3.0.0+mc1.21.5.jar",
+			"hashes": {
+				"sha1": "b663eb9a8238be3cd71173e39b6f9d01d0948c1d",
+				"sha512": "93ef2bce695fd7d180d03d8d1d2a15c74e7807f74f087518d607f754d58b1945fb571c5aa426e673c70c4c08dab54034cc927c89d4e5bf9521035dbbd5a6f236"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/ETlrkaYF/versions/wXhtL4fb/cwb-fabric-3.0.0%2Bmc1.21.5.jar"
+			],
+			"fileSize": 81623
 		},
 		{
 			"path": "resourcepack/better_flame_particles-v3.1-mc1.21.9+-resourcepack.zip",
@@ -1217,19 +1301,19 @@
 			"fileSize": 15618
 		},
 		{
-			"path": "mods/shulkerboxtooltip-fabric-5.2.9+1.21.9.jar",
+			"path": "mods/shulkerboxtooltip-fabric-5.2.10+1.21.9.jar",
 			"hashes": {
-				"sha1": "479ebb86597c0b812b980c5bd80ccbd44a933378",
-				"sha512": "e6a03c43e33552fd06ffbe5f0405e3f6774ce4a80d0aef61976cd86158242f3ab0e3ddb008870e6facec775f4fac8c321b5066881b0a6788db28700e2108f41c"
+				"sha1": "f80ce79dcfca7a0fd55eddcaf7eea842b8dcfae4",
+				"sha512": "2d15830f7a8215f31c2f7c315c88bc898c908d13ecddd3012dfb9acf68ebd04d2c5523bf77bcbabe0375bc7f9fe68ed0bbb0a482871c7c191d95b70b497c0adc"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/2M01OLQq/versions/OUMcMS4M/shulkerboxtooltip-fabric-5.2.9%2B1.21.9.jar"
+				"https://cdn.modrinth.com/data/2M01OLQq/versions/YaftlK6O/shulkerboxtooltip-fabric-5.2.10%2B1.21.9.jar"
 			],
-			"fileSize": 388176
+			"fileSize": 389546
 		},
 		{
 			"path": "mods/WaxedIcons-1.1+1.21.9.jar",
@@ -1245,6 +1329,21 @@
 				"https://cdn.modrinth.com/data/pC9ELBuh/versions/4gLw84uo/WaxedIcons-1.1%2B1.21.9.jar"
 			],
 			"fileSize": 65373
+		},
+		{
+			"path": "mods/krypton-0.2.10.jar",
+			"hashes": {
+				"sha1": "94ddaeeae6ca7fecc79e54a0aa02a5438a775a99",
+				"sha512": "4dcd7228d1890ddfc78c99ff284b45f9cf40aae77ef6359308e26d06fa0d938365255696af4cc12d524c46c4886cdcd19268c165a2bf0a2835202fe857da5cab"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/fQEb0iXm/versions/O9LmWYR7/krypton-0.2.10.jar"
+			],
+			"fileSize": 270195
 		},
 		{
 			"path": "mods/fasttrading-0.2.3+1.21.10-rc1.jar",
@@ -1459,17 +1558,17 @@
 		{
 			"path": "resourcepack/Hyper_Realistic_Sky_[Lite].zip",
 			"hashes": {
-				"sha1": "09a700555f4162c1e3507610aba41ecf56c7907a",
-				"sha512": "5951c60a4b6bec599986107795e141371bf6c2e6953edd492504a3999f626137a6299f132e45baf7cd0c0b6e5dd467d199c9f7518156afef7988554a0b018dac"
+				"sha1": "665e4fe099ccfeb6b13acf4401b2888c669dc531",
+				"sha512": "2695c26b4cc696e8e902a5f2984a60d63be0c0419274475d6a5f76c282b005c37c59e3bb1439644c412641ee2b843927f2471d4092a6f222cc016639c596f8c0"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/PsMUgCo5/versions/6zFsTzAz/Hyper_Realistic_Sky_%5BLite%5D.zip"
+				"https://cdn.modrinth.com/data/PsMUgCo5/versions/GqAh3wAo/Hyper_Realistic_Sky_%5BLite%5D.zip"
 			],
-			"fileSize": 35569223
+			"fileSize": 35569256
 		},
 		{
 			"path": "resourcepack/macebut3d-1.0.0.zip",
@@ -1500,6 +1599,21 @@
 				"https://cdn.modrinth.com/data/Wnxd13zP/versions/8JZ1P6ln/Clumps-fabric-1.21.9-27.0.0.2.jar"
 			],
 			"fileSize": 21119
+		},
+		{
+			"path": "shader/Solas Shader V3.0.zip",
+			"hashes": {
+				"sha1": "5c6c3ef7561272c39873f9efc56425526dfb5661",
+				"sha512": "e2d79b03a599dacbbd1a81e189e390bcd2ffda2b1cdad3da5db46ce9d1306fce2652fcd857f065c536ad472d8445c0bbf32f147d91e1df2c0fc8bb12d1e44f86"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/EpQFjzrQ/versions/idWbCGE2/Solas%20Shader%20V3.0.zip"
+			],
+			"fileSize": 1306582
 		},
 		{
 			"path": "mods/dynamiccrosshair-9.9+1.21.9-fabric.jar",
@@ -1697,19 +1811,19 @@
 			"fileSize": 244786
 		},
 		{
-			"path": "mods/malilib-fabric-1.21.9-0.26.1.jar",
+			"path": "mods/malilib-fabric-1.21.10-rc1-0.26.2.jar",
 			"hashes": {
-				"sha1": "6b1bac0fd3417f902d74f86c1803195114689985",
-				"sha512": "98c5bff29d83bc6edd9d80712a319c9514e095c8e3a2182677de019cd78058ca65507317905b674c6f2cf76a432ea02fe566bfc1aba7f12fb3479ef2dfe2515c"
+				"sha1": "d672cebf95b97514d8c2e47fe70542ba372b970f",
+				"sha512": "0e0d3fe03a06a10ff39876aa33b589bf98495d6c1780318d2002df2b88216d288724fe1403155bc79e5d30a921a4faa3becb214bed5ee773e00f72e8b62c386b"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/GcWjdA9I/versions/WptyNGJP/malilib-fabric-1.21.9-0.26.1.jar"
+				"https://cdn.modrinth.com/data/GcWjdA9I/versions/rGx2FOox/malilib-fabric-1.21.10-rc1-0.26.2.jar"
 			],
-			"fileSize": 1367292
+			"fileSize": 1367881
 		},
 		{
 			"path": "mods/PlayerAnimationLib-1.0.12+mc1.21.9.jar",
