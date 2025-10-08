@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+from multiprocessing import process
 import requests
 from functools import cache
 from py_markdown_table.markdown_table import markdown_table # pip install py-markdown-table
@@ -21,9 +22,11 @@ def get_request_json(url):
         raise Exception(f"Failed to fetch data from {url} ({response.status_code})")
 
 @cache
-def get_project_game_versions(project_id):
+def get_sorted_project_game_versions(project_id):
+    return ["1.20.1","1.20.4","1.21.1","1.21.3","1.21.4","1.21.5","1.21.6","1.21.7","1.21.8","1.21.9",\
+    "1.21.10"]
     url = f"{BASE_MODRINTH_API_URL}/project/{project_id}"
-    return get_request_json(url)["game_versions"]
+    return sorted(get_request_json(url)["game_versions"])
 
 @cache
 def get_project_versions(project_id):
@@ -32,7 +35,7 @@ def get_project_versions(project_id):
 
 @cache
 def get_newest_version_for_each_game_version():
-    project_game_versions = get_project_game_versions(CLIENT_PLUS_ID)
+    sorted_project_game_versions = get_sorted_project_game_versions(CLIENT_PLUS_ID)
     project_versions = get_project_versions(CLIENT_PLUS_ID)
     processed_game_versions = {}
     for project_version in project_versions:
@@ -40,7 +43,7 @@ def get_newest_version_for_each_game_version():
         if not set(version_game_versions).issubset(processed_game_versions): # does version_game_versions contain elements of processed_game_versions?
             for version_game_version in version_game_versions:
                 processed_game_versions[version_game_version] = project_version["id"]
-        if sorted(project_game_versions) == sorted(list(processed_game_versions.keys())): # check if all game versions are processed
+        if sorted_project_game_versions == sorted(list(processed_game_versions.keys())): # check if all game versions are processed
             break
     return processed_game_versions
 
@@ -80,7 +83,6 @@ def get_project_dict():
                 project_dict[version_dependency_project_id] = {}
             project_dict[version_dependency_project_id]["Name"] = project_link
             project_dict[version_dependency_project_id][newest_versions_key] = CHECKMARK_ICON
-
     return project_dict
 
 def add_crossmarks_to_project_dict(project_dict):
