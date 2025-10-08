@@ -457,7 +457,7 @@
 			"fileSize": 550582
 		},
 		{
-			"path": "resourcepack/EvenBetterEnchants_v2.1_1.21.5+.zip",
+			"path": "resourcepacks/EvenBetterEnchants_v2.1_1.21.5+.zip",
 			"hashes": {
 				"sha1": "5dd8e88e1acd09d4e94a8bbb03de67da380dbae9",
 				"sha512": "551ca925439eb4a5000d470dc0de53ccd3ed67bfc7200d1095c2142384042cd56a12f9296f438eaae05cf2c94e1fdbb1e618ab359ef57438575b757ce7b3a45d"
@@ -547,7 +547,7 @@
 			"fileSize": 119211
 		},
 		{
-			"path": "resourcepack/Icons v.1.12.zip",
+			"path": "resourcepacks/Icons v.1.12.zip",
 			"hashes": {
 				"sha1": "8a14e410a883080a2ddd5de9158565e505e203d5",
 				"sha512": "bab035fec0fabbbe9062152c654b05e6ac7ee587a9d58130716c99fc44235d042bb8f6cdf93901378415a5125a189a7b19adfe43e30b148cae6a81e85a51c926"
@@ -622,7 +622,7 @@
 			"fileSize": 6810809
 		},
 		{
-			"path": "resourcepack/SodiumTranslations.zip",
+			"path": "resourcepacks/SodiumTranslations.zip",
 			"hashes": {
 				"sha1": "bd77852c22826df37fdc903658ec03d18593c225",
 				"sha512": "8171491e92987c7d085872a8f0652453318ab853869773193be7ac9b14cf2bee395df17dfcdf7aaad81358b637a4722b1dfd6cbcf5feceeb2e4e437b9135f5d0"
@@ -637,7 +637,7 @@
 			"fileSize": 231454
 		},
 		{
-			"path": "shader/BSL_v10.0.zip",
+			"path": "shaderpacks/BSL_v10.0.zip",
 			"hashes": {
 				"sha1": "82eb9981a31a4753bb5022b5f64d5ec4f6a27071",
 				"sha512": "3ce31ae8c7242ae335de70df10f8147420a64ca372585c195d0b300f9e8c5b923f1e5bf2b8dddfcc741a0ce8e0235e079540101632837624787da84e9b52d72f"
@@ -652,7 +652,7 @@
 			"fileSize": 1121678
 		},
 		{
-			"path": "resourcepack/Chat Reporting Helper.zip",
+			"path": "resourcepacks/Chat Reporting Helper.zip",
 			"hashes": {
 				"sha1": "972997c7cbf5380ebac7e8e222db4a16260266ba",
 				"sha512": "dbd9bbae26560c808021f5b1a04f3edc5d3e63704eeb2c7557453e7c07c5e242a221182a8f0c2bdf9055847591f3bc8c16ded6d79af94905cb42d7224920d9b6"
@@ -742,7 +742,7 @@
 			"fileSize": 196367
 		},
 		{
-			"path": "resourcepack/qrafty's-capitalized-font-3.2.zip",
+			"path": "resourcepacks/qrafty's-capitalized-font-3.2.zip",
 			"hashes": {
 				"sha1": "ca390226309f13983ef6a183996015b1a01c7ead",
 				"sha512": "91e794c9a9dd44a89a307169274271a9516e3ccabfed99a55c4a03d3819e496c8ec26c93dfe44729d649e5da07ce7192df755abec7c1749ad10694c89fe1e3fe"
@@ -772,7 +772,7 @@
 			"fileSize": 188519
 		},
 		{
-			"path": "shader/Bliss_v2.1.1_(Chocapic13_Shaders_edit).zip",
+			"path": "shaderpacks/Bliss_v2.1.1_(Chocapic13_Shaders_edit).zip",
 			"hashes": {
 				"sha1": "041720f95ac2e3e9d4f7f999c8ba023cbdd547b3",
 				"sha512": "17eaf20f8d09a83cc4cd81eb52f463a04dcd73b73e7ecf09fdc9f4933eacfe3497161b1734f255e4be2f5589d8aa16142465cdc2c75a2d8f6e9d2d833032d9ff"
@@ -787,7 +787,7 @@
 			"fileSize": 1801687
 		},
 		{
-			"path": "resourcepack/BowLoad_V3.1.6r.zip",
+			"path": "resourcepacks/BowLoad_V3.1.6r.zip",
 			"hashes": {
 				"sha1": "c7f0c7bf416afa1aac6c8ddfb9e67d63e8a22fad",
 				"sha512": "16abbd3657c4435ad6fbd780d2895f55c8096dbf005a918706cf8f8fa6ff9c6074d244cb660a78df5442c45c9fbb0074f82ff48f6ead97c0d92464dfc369a7db"
@@ -802,7 +802,7 @@
 			"fileSize": 21867
 		},
 		{
-			"path": "resourcepack/Bare Bones 1.21.9.zip",
+			"path": "resourcepacks/Bare Bones 1.21.9.zip",
 			"hashes": {
 				"sha1": "914c515dff7cbc8a6289391ddd4f59c0d307bf98",
 				"sha512": "68d4a152764d7a93bf985d94af8f742057c8085a64dd747a00ed4b120c054034a35001bfdea437731449e35f3c6d490bc309a5eba5dc6f64315f35cfe5ec0613"
@@ -877,7 +877,7 @@
 			"fileSize": 1695560
 		},
 		{
-			"path": "resourcepack/animated-items-1.21.9 - 1.5.2.zip",
+			"path": "resourcepacks/animated-items-1.21.9 - 1.5.2.zip",
 			"hashes": {
 				"sha1": "6ac3bdb7b54b9b75d0d46acda66fc372119ab3c5",
 				"sha512": "ec99638bcdbcdb74b5a4e47a78242cd6375757bd04509344aa95374ade818a07925ad33f729979c9b864e90fab7783626d490cda763ae347d4a186ab37c578b6"
@@ -907,7 +907,7 @@
 			"fileSize": 355804
 		},
 		{
-			"path": "shader/miniature-shader-2.18.2.zip",
+			"path": "shaderpacks/miniature-shader-2.18.2.zip",
 			"hashes": {
 				"sha1": "fde97a8a2cefc490af3942ac84beca5e1afa0478",
 				"sha512": "f6ac07c8f008dd5376594d554cf1df6aae660e15d6df9bc61a0af579429ee6c5bf15713cdee11c8ff8549d66032ad8c11dafd76d2fbbca53cc4a850813f92b02"
@@ -922,7 +922,7 @@
 			"fileSize": 38319
 		},
 		{
-			"path": "resourcepack/Recolourful Containers DARK 2.1.2 (1.19.4+).zip",
+			"path": "resourcepacks/Recolourful Containers DARK 2.1.2 (1.19.4+).zip",
 			"hashes": {
 				"sha1": "99e7933ad482cc75ba31010cf11b191fbc286639",
 				"sha512": "6365fa0d26692228f2a269e6bd11bd1a7cbd8962d47f5a6b0b7dcb62207bde999891240546e83d33e4b753ce7943f3decceb757d2f4a8798be52a2b6ffc552f5"
@@ -952,7 +952,7 @@
 			"fileSize": 2213738
 		},
 		{
-			"path": "resourcepack/Better-Leaves-9.4.zip",
+			"path": "resourcepacks/Better-Leaves-9.4.zip",
 			"hashes": {
 				"sha1": "4caada00aa07d45c9795079dd78a6c07aa644376",
 				"sha512": "d6969d044a6e48468b3637e29e0d6afa9af4618bf20bf28db7e3c588ea6bbd2f3a4cf9f154524249fe154b4ff8fb7ccc8c59099fd9ccc6d6bec714ae56ea2102"
@@ -967,7 +967,7 @@
 			"fileSize": 1427931
 		},
 		{
-			"path": "resourcepack/LowOnFire v1.21.9§8.zip",
+			"path": "resourcepacks/LowOnFire v1.21.9§8.zip",
 			"hashes": {
 				"sha1": "47a4be72805eeccdc6e1c9dac2835bfcbda0762c",
 				"sha512": "e01d752880ac7ec9db4180c980ef86e1cdde5e237aba595fad7f0ebe528ee3bb85f76898dde0ff4958e56954c998d2b60c8f4e28e9def450364f2d39a9cc9927"
@@ -1102,7 +1102,7 @@
 			"fileSize": 48726
 		},
 		{
-			"path": "resourcepack/NewGlowingOres-§6[Border]§r.zip",
+			"path": "resourcepacks/NewGlowingOres-§6[Border]§r.zip",
 			"hashes": {
 				"sha1": "40d8c6748585e4585c8d1e54a28b8ea51cad080d",
 				"sha512": "29b9e71e9bc6473070ce2e73a3a9960170a6f1ef089459ffc93254067bc55d2ef4a65357848b433dca3a9a622909f9fd734c1f9dab3da68ae3448cddbf982a3c"
@@ -1132,7 +1132,7 @@
 			"fileSize": 2707924
 		},
 		{
-			"path": "shader/ComplementaryReimagined_r5.6.zip",
+			"path": "shaderpacks/ComplementaryReimagined_r5.6.zip",
 			"hashes": {
 				"sha1": "7ccd0ce325ea771cd17ca70f08b1fc819d41a06b",
 				"sha512": "71072a599138abedf271dc9563c9cde48568e4633a89c1dc0af7a5b94af2affcd29116a77215077a1278e009276834b6840e8c801e95405fbe4dee2cecce17a2"
@@ -1162,7 +1162,7 @@
 			"fileSize": 63706
 		},
 		{
-			"path": "shader/MakeUp-UltraFast-9.3e.zip",
+			"path": "shaderpacks/MakeUp-UltraFast-9.3e.zip",
 			"hashes": {
 				"sha1": "8084ea0bd65c07d21b0e71c0f0f3c7fa53ea54de",
 				"sha512": "9a0716e6915db8ad9039240c016e2cbef4e4b20de1e2ccd03bf6fdb829b27ae85f04eef8aafb088c1a806c8a7335b90b2bf5a8506fe8eff3aae6af2642339a4e"
@@ -1267,7 +1267,7 @@
 			"fileSize": 579536
 		},
 		{
-			"path": "resourcepack/Redstone Tweaks 2.5.2.zip",
+			"path": "resourcepacks/Redstone Tweaks 2.5.2.zip",
 			"hashes": {
 				"sha1": "d9a3ac4dc4f5c01dfc7cf89c02c09805a6c98034",
 				"sha512": "b6977a798abd8863afeb0120ea455e3df1305744879d8f600e08961aec54a37fe99ad45ae3e73bbb943625941fdb3a135f532e69777e766eeb96c2c9ca7fb530"
@@ -1342,7 +1342,7 @@
 			"fileSize": 478705
 		},
 		{
-			"path": "resourcepack/better_flame_particles-v3.1-mc1.21.9+-resourcepack.zip",
+			"path": "resourcepacks/better_flame_particles-v3.1-mc1.21.9+-resourcepack.zip",
 			"hashes": {
 				"sha1": "e1d8ca5cd2d2227d4f7c6e31f81b6f5e42ddbf9c",
 				"sha512": "91f0df928424b198feb56beed651a153a6d177509175718bee15a493879e6309c47be0e5ce1806a2b2e5dcbf69aa669a80bb5ef13bb66413962c26e532bc23be"
@@ -1417,7 +1417,7 @@
 			"fileSize": 88333
 		},
 		{
-			"path": "shader/ComplementaryUnbound_r5.6.zip",
+			"path": "shaderpacks/ComplementaryUnbound_r5.6.zip",
 			"hashes": {
 				"sha1": "b3507d28d70eeb0549b10edd1076d45146885032",
 				"sha512": "45bf203edc735b7a2ee23c45a1216d3557a625dc8cf8a284e1b19cc47716bb85a0f23a94905f3f7d2b85c078b9ac1b9c0ada145680a4008e5cbf99fc9f457eef"
@@ -1447,7 +1447,7 @@
 			"fileSize": 473524
 		},
 		{
-			"path": "resourcepack/Better Lanterns v1.3 - 1.21.9.zip",
+			"path": "resourcepacks/Better Lanterns v1.3 - 1.21.9.zip",
 			"hashes": {
 				"sha1": "15e4f8ea39208b73a2f7e018eb860e3bb4f99a13",
 				"sha512": "9d1fd9a51c98cf47ac1986adbc993ff5c5e031fa5bf03526ca3a41285e05a6b579109b587f2a54c72303354bbcf7d82851eddbae234ab39f1824ee1cbeb5704f"
@@ -1507,7 +1507,7 @@
 			"fileSize": 5012
 		},
 		{
-			"path": "resourcepack/MobCrates_1.21.9_v2.2.zip",
+			"path": "resourcepacks/MobCrates_1.21.9_v2.2.zip",
 			"hashes": {
 				"sha1": "9af354a49c9a7a770e5b0ce92ef49e3ad01030e1",
 				"sha512": "7c349a25263f4613e4229aae3419142bd4e2f85149366f441b795537c0b414b55e687a99d1643feed051f547dd82dd0327c0f38f930ceed2d39a09a3f493bc02"
@@ -1582,7 +1582,7 @@
 			"fileSize": 1869193
 		},
 		{
-			"path": "resourcepack/Recolourful Containers 2.1.2 (1.19.4+).zip",
+			"path": "resourcepacks/Recolourful Containers 2.1.2 (1.19.4+).zip",
 			"hashes": {
 				"sha1": "d6c5b3d7728f096a7af7a193be82cbcad1b35801",
 				"sha512": "d6e8bcd021bdab89bb50cf1b00ee3ced4df08437b881d7f49a52265f78ba506e91e6b201a4af0b5597555cf21cc651c94b5a4356a77fa246c9fb5cf0c5abc67e"
@@ -1612,7 +1612,7 @@
 			"fileSize": 8210
 		},
 		{
-			"path": "resourcepack/macebut3d-1.0.0.zip",
+			"path": "resourcepacks/macebut3d-1.0.0.zip",
 			"hashes": {
 				"sha1": "04b6e3c58c98e3514043c22ba0a070ed8d2977ff",
 				"sha512": "afcbf9eac1b40c09429831a6423af3faff7c2b97080e3af70832e3215b43b34d2b3dbed9e334f522ee12c8522e432a6b25787f5f1a8449072cfccdf6edd1a897"
@@ -1627,7 +1627,7 @@
 			"fileSize": 66204
 		},
 		{
-			"path": "shader/Solas Shader V3.0.zip",
+			"path": "shaderpacks/Solas Shader V3.0.zip",
 			"hashes": {
 				"sha1": "5c6c3ef7561272c39873f9efc56425526dfb5661",
 				"sha512": "e2d79b03a599dacbbd1a81e189e390bcd2ffda2b1cdad3da5db46ce9d1306fce2652fcd857f065c536ad472d8445c0bbf32f147d91e1df2c0fc8bb12d1e44f86"
@@ -1687,7 +1687,7 @@
 			"fileSize": 79653
 		},
 		{
-			"path": "resourcepack/Default_Splashes.zip",
+			"path": "resourcepacks/Default_Splashes.zip",
 			"hashes": {
 				"sha1": "62fb9125c707db2e4e08ba2ff10d9602a557e520",
 				"sha512": "a0146c68a0db96f06a2157098275c3e1f07bf387933fcd6da99131245b87fa9e71e70cdfacdb1cff269d367ca632547288ed730d4ec83f2e51a357202826ffc7"
