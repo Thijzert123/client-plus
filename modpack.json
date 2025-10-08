@@ -84,7 +84,7 @@
 		"bsl-shaders": {},
 		"nofortunechest": {
 			"exclude": [
-				"1.21.8"
+				"1.21.10"
 			]
 		},
 		"mod-loading-screen": {},
@@ -160,7 +160,11 @@
 		},
 		"modernfix": {},
 		"complementary-reimagined": {},
-		"controlling": {},
+		"controlling": {
+			"exclude": [
+				"1.21.10"
+			]
+		},
 		"seamless-loading-screen": {},
 		"cherished-worlds": {},
 		"makeup-ultra-fast-shaders": {},
@@ -225,7 +229,11 @@
 				"1.21.3"
 			]
 		},
-		"pick-up-notifier": {},
+		"pick-up-notifier": {
+			"exclude": [
+				"1.21.10"
+			]
+		},
 		"simple-grass-flowers": {},
 		"3dskinlayers": {},
 		"mob-crates": {},
@@ -245,7 +253,11 @@
 		"custom-credits": {},
 		"zoomify": {},
 		"recolourful-containers-gui": {},
-		"bindcommands": {},
+		"bindcommands": {
+			"exclude": [
+				"1.21.10"
+			]
+		},
 		"reimagined": {},
 		"mace-but-3d": {
 			"include": [
@@ -265,7 +277,11 @@
 		"voicechat-soundboard": {},
 		"better-f1-reborn": {},
 		"legendary-tooltips": {},
-		"hyper-realistic-sky": {},
+		"hyper-realistic-sky": {
+			"exclude": [
+				"1.21.10"
+			]
+		},
 		"indium": {},
 		"super-duper-vanilla": {},
 		"mace-but-3d-resourcepack": {
@@ -274,7 +290,11 @@
 				"1.21.3"
 			]
 		},
-		"clumps": {},
+		"clumps": {
+			"exclude": [
+				"1.21.10"
+			]
+		},
 		"fullbright-ub": {},
 		"solas-shader": {},
 		"explosive-enhancement": {},
@@ -295,7 +315,11 @@
 		"entity-view-distance": {},
 		"screenshot-viewer": {},
 		"spryzeens-healthbars": {},
-		"dramatic-skys": {},
+		"dramatic-skys": {
+			"exclude": [
+				"1.21.10"
+			]
+		},
 		"entitytexturefeatures": {},
 		"no-chat-reports": {},
 		"spectral": {},
