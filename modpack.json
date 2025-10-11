@@ -33,7 +33,8 @@
 				"1.21.6": "KMOzdYko",
 				"1.21.7": "KMOzdYko",
 				"1.21.8": "KMOzdYko",
-				"1.21.9": "KMOzdYko"
+				"1.21.9": "KMOzdYko",
+				"1.21.10": "KMOzdYko"
 			}
 		},
 		"dynamic-fps": {},
@@ -43,7 +44,8 @@
 				"1.21.6": "dQRt7CG3",
 				"1.21.7": "dQRt7CG3",
 				"1.21.8": "dQRt7CG3",
-				"1.21.9": "dQRt7CG3"
+				"1.21.9": "dQRt7CG3",
+				"1.21.10": "dQRt7CG3"
 			}
 		},
 		"inventory-blur": {},
@@ -69,7 +71,8 @@
 				"1.21.6": "iM6mxyAW",
 				"1.21.7": "iM6mxyAW",
 				"1.21.8": "iM6mxyAW",
-				"1.21.9": "iM6mxyAW"
+				"1.21.9": "iM6mxyAW",
+				"1.21.10": "iM6mxyAW"
 			}
 		},
 		"controlify": {},
@@ -82,11 +85,7 @@
 		"translations-for-sodium": {},
 		"lighty": {},
 		"bsl-shaders": {},
-		"nofortunechest": {
-			"exclude": [
-				"1.21.10"
-			]
-		},
+		"nofortunechest": {},
 		"mod-loading-screen": {},
 		"my-resource-pack": {},
 		"world-play-time": {},
@@ -160,11 +159,7 @@
 		},
 		"modernfix": {},
 		"complementary-reimagined": {},
-		"controlling": {
-			"exclude": [
-				"1.21.10"
-			]
-		},
+		"controlling": {},
 		"seamless-loading-screen": {},
 		"cherished-worlds": {},
 		"makeup-ultra-fast-shaders": {},
@@ -229,11 +224,7 @@
 				"1.21.3"
 			]
 		},
-		"pick-up-notifier": {
-			"exclude": [
-				"1.21.10"
-			]
-		},
+		"pick-up-notifier": {},
 		"simple-grass-flowers": {},
 		"3dskinlayers": {},
 		"mob-crates": {},
@@ -290,11 +281,7 @@
 				"1.21.3"
 			]
 		},
-		"clumps": {
-			"exclude": [
-				"1.21.10"
-			]
-		},
+		"clumps": {},
 		"fullbright-ub": {},
 		"solas-shader": {},
 		"explosive-enhancement": {},
