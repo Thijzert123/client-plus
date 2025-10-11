@@ -153,7 +153,7 @@
 		"new-glowing-ores": {},
 		"iris": {},
 		"enchant-icons-countxd": {},
-		"kinecraft-serialization": {
+		"kinecraft": {
 			"version_overrides": {
 				"1.21.4": "ppUfV7UC"
 			}

@@ -104,6 +104,8 @@ def sort_list_by_name(project_list):
 
 def get_markdown_table_from_project_list(project_list):
     project_list = sort_list_by_name(project_list)
+    print(project_list)
+    exit()
     return markdown_table(project_list).set_params(row_sep = "markdown", quote = False).get_markdown()
 
 
