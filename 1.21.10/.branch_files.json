@@ -466,6 +466,14 @@
 			"id": "4das1Fjq"
 		},
 		{
+			"name": "Smooth Scrolling",
+			"id": "CllP7wW0"
+		},
+		{
+			"name": "ClickThrough Plus",
+			"id": "fJi8nm80"
+		},
+		{
 			"name": "Fabric Language Kotlin",
 			"id": "Ha28R6CL"
 		},
@@ -478,12 +486,12 @@
 			"id": "WKwQAwke"
 		},
 		{
-			"name": "M.R.U",
-			"id": "SNVQ2c0g"
-		},
-		{
 			"name": "YetAnotherConfigLib (YACL)",
 			"id": "1eAoo2KR"
+		},
+		{
+			"name": "M.R.U",
+			"id": "SNVQ2c0g"
 		},
 		{
 			"name": "MaLiLib",
@@ -903,19 +911,19 @@
 			"fileSize": 871197
 		},
 		{
-			"path": "mods/voicechat-fabric-1.21.10-2.6.5.jar",
+			"path": "mods/voicechat-fabric-1.21.10-2.6.6.jar",
 			"hashes": {
-				"sha1": "2694faf8dc9b322ec2019bc15b86778542d24a98",
-				"sha512": "12127a29b5016200fee8127f37c43d06091a714405219e2553a7e5370089284687a5262add05eee7216460dc533a99242de92704c72329dc29aaab173b5ba3be"
+				"sha1": "f30622ce48b9c288d0af818b179a140c4ef8ae82",
+				"sha512": "fc0b838a0906ddafeabf9db3b459d4226a2f06458443ee1dee44d937e5896f0d8d3e7c7bbc2a93ea74b4665f37249e7da719bbabf8449c756d2a49116be61197"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/9eGKb6K1/versions/FFGpWLX9/voicechat-fabric-1.21.10-2.6.5.jar"
+				"https://cdn.modrinth.com/data/9eGKb6K1/versions/BjR2lc4k/voicechat-fabric-1.21.10-2.6.6.jar"
 			],
-			"fileSize": 5500796
+			"fileSize": 5500902
 		},
 		{
 			"path": "mods/ImmediatelyFast-Fabric-1.13.1+1.21.10.jar",
@@ -1053,19 +1061,19 @@
 			"fileSize": 554216
 		},
 		{
-			"path": "mods/lambdynamiclights-4.8.4+1.21.10.jar",
+			"path": "mods/lambdynamiclights-4.8.5+1.21.10.jar",
 			"hashes": {
-				"sha1": "8905956d985568d0198b5a0e1ed4270f01c3a5fd",
-				"sha512": "9e74da97b02e0e00978f793bc3144d3c8077d1fb022967baca22f066c311262d2bae6e2569af5846c58132ed315457c6fee91a5c66dbf0bcdc8bdc74b6a68fdd"
+				"sha1": "98e6eea9a15f07347ccc2f84c42883d684810163",
+				"sha512": "81dc51213bb20901bb86a3866890b3acbb2c10f8785d714d6d36bd33e9544cf1b1ea17f166844d996160a16d8102b76d8d463e3b9282b9ce21a38a21dac87258"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/yBW8D80W/versions/dSf75Gs7/lambdynamiclights-4.8.4%2B1.21.10.jar"
+				"https://cdn.modrinth.com/data/yBW8D80W/versions/bORAMbLk/lambdynamiclights-4.8.5%2B1.21.10.jar"
 			],
-			"fileSize": 2153346
+			"fileSize": 2153348
 		},
 		{
 			"path": "mods/chunksfadein-fabric-3.0.9-1.21.9.jar",
@@ -1233,19 +1241,19 @@
 			"fileSize": 42729
 		},
 		{
-			"path": "mods/clientsort-fabric-2.0.2+1.21.10.jar",
+			"path": "mods/clientsort-fabric-2.0.3+1.21.10.jar",
 			"hashes": {
-				"sha1": "bc6592d8d8f406d6ae5af930b40eb5b332544a35",
-				"sha512": "5a792c38f1fa381d138cc2072955e709a117167353d8e977a43ba21fc94ad2322faaf437bd843375840255f9d4dbd3505e00b7d829b6f67a4635a67c3034a709"
+				"sha1": "e38279f383ef19b0d37af443157058b5da5b00eb",
+				"sha512": "9885f0e91a653a51fbb9c697ba5d7e4f80fb8e75b845f20532ab1da0cb5f1e6f81561f6bb1e32c70f266d8c284744274cd299162a64239e00413f2d2564b4d81"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/K0AkAin6/versions/EMMic0ae/clientsort-fabric-2.0.2%2B1.21.10.jar"
+				"https://cdn.modrinth.com/data/K0AkAin6/versions/TE5Xc7c7/clientsort-fabric-2.0.3%2B1.21.10.jar"
 			],
-			"fileSize": 322965
+			"fileSize": 323259
 		},
 		{
 			"path": "mods/simplefog-fabric-1.21.9-2.0.11.jar",
@@ -1578,19 +1586,19 @@
 			"fileSize": 1736314
 		},
 		{
-			"path": "mods/optionsprofiles-1.21.10-fabric-v1.4.3.jar",
+			"path": "mods/optionsprofiles-1.21.10-fabric-v1.4.4.jar",
 			"hashes": {
-				"sha1": "3816aef3cb383573e7aa0be0dad545399c701da3",
-				"sha512": "333164ee5f03b17ec3ecb0a41b390c9276df178bb8aebab99371cd77c840f18b4dd951ac00e8f036b4d2bb8ed82b65cc38f5635f39a90a0f07f3bf45fe4cfe6a"
+				"sha1": "9f552fe2e814a0b96d751e602796255418e156aa",
+				"sha512": "acb6aeafb83442ddfff0e6da68bea04fbeb5f9061b0206dfc016f44bbf8b54ee73a089d051db225b191227489a9b5dc0fffdfa6b530d2af4776371f7d3888269"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/DnyS3EEW/versions/IyVcILWy/optionsprofiles-1.21.10-fabric-v1.4.3.jar"
+				"https://cdn.modrinth.com/data/DnyS3EEW/versions/elIHDMG4/optionsprofiles-1.21.10-fabric-v1.4.4.jar"
 			],
-			"fileSize": 70471
+			"fileSize": 70577
 		},
 		{
 			"path": "mods/chat_heads-1.1.1-fabric-1.21.9.jar",
@@ -2268,6 +2276,36 @@
 			"fileSize": 211673834
 		},
 		{
+			"path": "mods/smoothscroll-2.3.0.2+1.21.9.jar",
+			"hashes": {
+				"sha1": "36bfd9a0b9c9b5cc581b9550724dc31fcdc05145",
+				"sha512": "d9e9794100af840b8fa4906bb612c6fabb236c3e9de15e41a8fd515fdada7ca6bb94041c06dafcc11981e8512be8f6d6a940f4dbc6aec0c5d29033f88832097d"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/CllP7wW0/versions/nL1yYSEz/smoothscroll-2.3.0.2%2B1.21.9.jar"
+			],
+			"fileSize": 75298
+		},
+		{
+			"path": "mods/clickthrough-plus-fabric-3.5.2+1.21.9.jar",
+			"hashes": {
+				"sha1": "90ee1db273edda86af8cb933800140e63f153d57",
+				"sha512": "52d0c896405d426f968d7ac2b9aeb132cdd36b026bcaa802a1d74af11a2cbe03bbac5159828e5762fcce9a56347a73e1c694b46e5985d85d0b7770895627deef"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/fJi8nm80/versions/WeamFU4B/clickthrough-plus-fabric-3.5.2%2B1.21.9.jar"
+			],
+			"fileSize": 66660
+		},
+		{
 			"path": "mods/fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
 			"hashes": {
 				"sha1": "05e9cc4108da5b50735fa6d8a79a18fcd5310d82",
@@ -2313,21 +2351,6 @@
 			"fileSize": 1417212
 		},
 		{
-			"path": "mods/mru-1.0.24+edge+1.21.10-fabric.jar",
-			"hashes": {
-				"sha1": "10bba879cdd01ed422a77acee2aec690679fb8b7",
-				"sha512": "0519c4203224f81e2940b98d1e98cd01b000ab0c1dac9bb3b14ce8babf64707ffca8b13145477051369e3b24fe0a5602adb5f7f1e4886142a99c9d8108c24da1"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/SNVQ2c0g/versions/8L7NWA1k/mru-1.0.24%2Bedge%2B1.21.10-fabric.jar"
-			],
-			"fileSize": 94710
-		},
-		{
 			"path": "mods/yet_another_config_lib_v3-3.8.0+1.21.9-fabric.jar",
 			"hashes": {
 				"sha1": "9e25b9aa5118dc77d6ec1192df0c1bb237f7e9d1",
@@ -2341,6 +2364,21 @@
 				"https://cdn.modrinth.com/data/1eAoo2KR/versions/UZmV6xf4/yet_another_config_lib_v3-3.8.0%2B1.21.9-fabric.jar"
 			],
 			"fileSize": 1126346
+		},
+		{
+			"path": "mods/mru-1.0.24+edge+1.21.10-fabric.jar",
+			"hashes": {
+				"sha1": "10bba879cdd01ed422a77acee2aec690679fb8b7",
+				"sha512": "0519c4203224f81e2940b98d1e98cd01b000ab0c1dac9bb3b14ce8babf64707ffca8b13145477051369e3b24fe0a5602adb5f7f1e4886142a99c9d8108c24da1"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/SNVQ2c0g/versions/8L7NWA1k/mru-1.0.24%2Bedge%2B1.21.10-fabric.jar"
+			],
+			"fileSize": 94710
 		},
 		{
 			"path": "mods/malilib-fabric-1.21.10-rc1-0.26.2.jar",
