@@ -268,11 +268,7 @@
 		"voicechat-soundboard": {},
 		"better-f1-reborn": {},
 		"legendary-tooltips": {},
-		"hyper-realistic-sky": {
-			"exclude": [
-				"1.21.10"
-			]
-		},
+		"hyper-realistic-sky": {},
 		"indium": {},
 		"super-duper-vanilla": {},
 		"mace-but-3d-resourcepack": {
@@ -302,11 +298,7 @@
 		"entity-view-distance": {},
 		"screenshot-viewer": {},
 		"spryzeens-healthbars": {},
-		"dramatic-skys": {
-			"exclude": [
-				"1.21.10"
-			]
-		},
+		"dramatic-skys": {},
 		"entitytexturefeatures": {},
 		"no-chat-reports": {},
 		"spectral": {},
