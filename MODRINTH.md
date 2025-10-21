@@ -13,6 +13,10 @@ _Note: a few mods are (partially) server-side or require a server with the same 
 ## Mod information
 All the mods, resource packs and shaders have been carefully selected. If you have an issue of any kinds, or if you have recommendations or feature requests, feel free to [open an issue on GitHub](https://github.com/Thijzert123/client-plus/issues).
 
+
+<details>
+<summary>What is included in this modpack?</summary>
+
 |Name|
 |:--|
 |[(Bee's) Fancy Crops](https://modrinth.com/project/UGEVQ6t9)|
@@ -240,3 +244,5 @@ Apart from that, we also include various Vanilla Tweaks resource packs:
 - [Colored Ping Indicator](https://vanillatweaks.net/share/#lz4EZp)
 - [Lower Shield](https://vanillatweaks.net/share#dczqmI)
 - [Variated Blocks](https://vanillatweaks.net/share#Oz7pBC)
+
+</details>
