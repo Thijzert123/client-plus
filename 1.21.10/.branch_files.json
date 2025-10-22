@@ -130,6 +130,10 @@
 			"id": "ZvMtQlho"
 		},
 		{
+			"name": "Spryzeen's Knight Armor",
+			"id": "EwJHG2NA"
+		},
+		{
 			"name": "Bow Load Indicator",
 			"id": "dj5wVJsq"
 		},
@@ -380,6 +384,10 @@
 		{
 			"name": "Make Bubbles Pop",
 			"id": "gPCdW0Wr"
+		},
+		{
+			"name": "Cubic Sun & Moon",
+			"id": "g4bSYbrU"
 		},
 		{
 			"name": "Rethinking Voxels",
@@ -762,34 +770,34 @@
 			"fileSize": 8123404
 		},
 		{
-			"path": "mods/litematica-fabric-1.21.10-rc1-0.24.1.jar",
+			"path": "mods/litematica-fabric-1.21.10-0.24.2.jar",
 			"hashes": {
-				"sha1": "1bd9d9a5d9b826dc5d0dbbe4a9ce1f596777b658",
-				"sha512": "d5eb4c723be319a518c277d08048d19720059081584817ca103dbc11dbb6b7b54b1d5387a80f37191e02600632ca4b87453df05ceabdc641fcb1a94d71fab45b"
+				"sha1": "4c9eca0e6a9c1187cd77482269bec6cec0c2bb5f",
+				"sha512": "138ccb152b39c121f34471e3722eb15e7727063ce3224ec445a75a0bb4ffdd72884a100dbb177507c0695ca8357dd9e6760d705d924050ef8e433dad5be0afa4"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/bEpr0Arc/versions/e9K0D2hB/litematica-fabric-1.21.10-rc1-0.24.1.jar"
+				"https://cdn.modrinth.com/data/bEpr0Arc/versions/Pe5dd0Bl/litematica-fabric-1.21.10-0.24.2.jar"
 			],
-			"fileSize": 1490238
+			"fileSize": 1571713
 		},
 		{
-			"path": "mods/emotecraft-fabric-for-MC1.21.9-3.1.0-b.build.124.jar",
+			"path": "mods/emotecraft-fabric-for-MC1.21.9-3.1.0-b.build.125.jar",
 			"hashes": {
-				"sha1": "aa070816d8fa4add88e523650d7a82e592af8d60",
-				"sha512": "64c23391c5227f0c945b14829d4235da102e8885fb8d49df7c87318a2c76ced961ce9f994bd7d5ee954f572eef3ee1b547b91a159408089359161145e0282ead"
+				"sha1": "086562f022b246c8de668f8af15b9b0e01632c6e",
+				"sha512": "08399988a6a8cb886f8d5e13c250cd7ee807f2733dd345c7e7cbe6620c359f1fe5a6df875639e17aac2ec342af5835c1b45dac83e981770ca3017dcb40a841de"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/pZ2wrerK/versions/ykpWcmVC/emotecraft-fabric-for-MC1.21.9-3.1.0-b.build.124.jar"
+				"https://cdn.modrinth.com/data/pZ2wrerK/versions/CRM1cO7l/emotecraft-fabric-for-MC1.21.9-3.1.0-b.build.125.jar"
 			],
-			"fileSize": 1160059
+			"fileSize": 1161048
 		},
 		{
 			"path": "mods/worldedit-mod-7.3.17-beta-01.jar",
@@ -957,19 +965,19 @@
 			"fileSize": 196367
 		},
 		{
-			"path": "mods/notenoughanimations-fabric-1.10.4.1-mc1.21.10.jar",
+			"path": "mods/notenoughanimations-fabric-1.10.6-mc1.21.10.jar",
 			"hashes": {
-				"sha1": "b643c45b0a3c157b010567c79cf240d651f661ee",
-				"sha512": "a72ef1ee01128dd390c4989830c1824bacbb1b414c503377f777039d09cba11fa5273e58a3848f807247e2546d4c6dba8c52eb791bf56984726ae060d6192128"
+				"sha1": "72c2f83a05ab40c055f2d11d61d4e36a3f8d5e1f",
+				"sha512": "a08e75da58d15db6b4d1eed8927ab0d114861cb05d49df4103b93d2239e787ea1858aaf83d472585530a006d35ebd3c0a56101dfb633aa4dc254bd26b3dc49cb"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/MPCX6s5C/versions/U5spIFy5/notenoughanimations-fabric-1.10.4.1-mc1.21.10.jar"
+				"https://cdn.modrinth.com/data/MPCX6s5C/versions/rPkK5la7/notenoughanimations-fabric-1.10.6-mc1.21.10.jar"
 			],
-			"fileSize": 837714
+			"fileSize": 841908
 		},
 		{
 			"path": "resourcepacks/qrafty's-capitalized-font-3.2.zip",
@@ -1030,6 +1038,21 @@
 				"https://cdn.modrinth.com/data/ZvMtQlho/versions/VObMy7ML/Bliss_v2.1.1_%28Chocapic13_Shaders_edit%29.zip"
 			],
 			"fileSize": 1801687
+		},
+		{
+			"path": "resourcepacks/!§bKnightArmor.zip",
+			"hashes": {
+				"sha1": "183d7260b0ad410efdb849bd1312166fb13a111a",
+				"sha512": "52a3d9f109457acbf70d7ed534f158fc896dfe7d942a3bc0fc0f3234994656cb68683d1d7cf0739eb5c0c973d8afe1b7409047a575875624b3397601ca1501a7"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/EwJHG2NA/versions/Nd7MkIhr/%21%C2%A7bKnightArmor.zip"
+			],
+			"fileSize": 65846
 		},
 		{
 			"path": "resourcepacks/BowLoad_V3.1.6r.zip",
@@ -1977,6 +2000,21 @@
 			"fileSize": 30571
 		},
 		{
+			"path": "resourcepacks/cubic-sun-moon-v1.8.4a.zip",
+			"hashes": {
+				"sha1": "3154ed154b681ef722cbe53244e68e1e5fa5dfc0",
+				"sha512": "693dceb943a7e2644cab83647d04c126e8031f076961db846f686f21b5c825ff992efdecc3ad31525b7e4ad863ad4c1ffebaed6484935b961d580f59b1cb59e4"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/g4bSYbrU/versions/2sd99wcG/cubic-sun-moon-v1.8.4a.zip"
+			],
+			"fileSize": 11456373
+		},
+		{
 			"path": "shaderpacks/rethinking-voxels_r0.1-beta9.zip",
 			"hashes": {
 				"sha1": "9689915ec1a7215eb6060be2a08eaf3a09ebdbab",
@@ -2127,19 +2165,19 @@
 			"fileSize": 238845
 		},
 		{
-			"path": "shaderpacks/Solas Shader V3.0.zip",
+			"path": "shaderpacks/Solas Shader V3.1b.zip",
 			"hashes": {
-				"sha1": "5c6c3ef7561272c39873f9efc56425526dfb5661",
-				"sha512": "e2d79b03a599dacbbd1a81e189e390bcd2ffda2b1cdad3da5db46ce9d1306fce2652fcd857f065c536ad472d8445c0bbf32f147d91e1df2c0fc8bb12d1e44f86"
+				"sha1": "d92c721e575f645bc00a796c0511ec6729b59745",
+				"sha512": "8c194fb5cc64cc25fa2028c5b159b1258ceed55c7433e806bb61bd3c6a044965642e7e24b8f59bc8ed8664ca858234c1a0cb0f4c2e989284b39852425af20f87"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/EpQFjzrQ/versions/idWbCGE2/Solas%20Shader%20V3.0.zip"
+				"https://cdn.modrinth.com/data/EpQFjzrQ/versions/fTE3WANB/Solas%20Shader%20V3.1b.zip"
 			],
-			"fileSize": 1306582
+			"fileSize": 1301763
 		},
 		{
 			"path": "mods/dynamiccrosshair-9.10+1.21.9-fabric.jar",
@@ -2307,19 +2345,19 @@
 			"fileSize": 235431
 		},
 		{
-			"path": "mods/Flashback-0.38.1-for-MC1.21.10.jar",
+			"path": "mods/Flashback-0.38.2-for-MC1.21.10.jar",
 			"hashes": {
-				"sha1": "15c42db7875d034805351a4b7de22e3ce5ca2b0c",
-				"sha512": "647d4090883479ffc6c725e6904591eefdb0d85121ddacbe43d70b766d4abdbe9ebd83e2d1cb5be123427af9726be47fc501f5290febc9a63f7e580e5551d29d"
+				"sha1": "c4330a436461be3d19c5ef65ca77f4855d5ec583",
+				"sha512": "8a77717466a8601cdbc20f0a53b07a592991ee59396c1124ac355e1ed809a64ac99ed0d7b2e0be1a9f09d9bf31381c9371db7ecc576c980e4e4c640a42980d2c"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/4das1Fjq/versions/WpSqaN60/Flashback-0.38.1-for-MC1.21.10.jar"
+				"https://cdn.modrinth.com/data/4das1Fjq/versions/AwyE5yQ2/Flashback-0.38.2-for-MC1.21.10.jar"
 			],
-			"fileSize": 211673834
+			"fileSize": 211693057
 		},
 		{
 			"path": "mods/smoothscroll-2.3.0.2+1.21.9.jar",
@@ -2427,34 +2465,34 @@
 			"fileSize": 94710
 		},
 		{
-			"path": "mods/malilib-fabric-1.21.10-rc1-0.26.2.jar",
+			"path": "mods/malilib-fabric-1.21.10-0.26.3.jar",
 			"hashes": {
-				"sha1": "d672cebf95b97514d8c2e47fe70542ba372b970f",
-				"sha512": "0e0d3fe03a06a10ff39876aa33b589bf98495d6c1780318d2002df2b88216d288724fe1403155bc79e5d30a921a4faa3becb214bed5ee773e00f72e8b62c386b"
+				"sha1": "11488594330f0e83fa4368739e4bbdb5ba792baa",
+				"sha512": "0dfcfc598f1f8ea71779dd507dab7fcce5714d108781009d97ff5beead5fcbe18a8203f4dfef42f1d4376e1f8e07501ee3b74f790d24065b24616fce3b4e5cc1"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/GcWjdA9I/versions/rGx2FOox/malilib-fabric-1.21.10-rc1-0.26.2.jar"
+				"https://cdn.modrinth.com/data/GcWjdA9I/versions/4K7Z6tDa/malilib-fabric-1.21.10-0.26.3.jar"
 			],
-			"fileSize": 1367881
+			"fileSize": 1467389
 		},
 		{
-			"path": "mods/PlayerAnimationLib-1.0.12+mc1.21.9.jar",
+			"path": "mods/PlayerAnimationLibFabric-1.1.0+alpha.1+mc.1.21.9.jar",
 			"hashes": {
-				"sha1": "d183d4e60b9f836f043e70c1760c7f6ca5d8763f",
-				"sha512": "aaae4773f428106626850f34c8276a0e49bbc92e0a47a3c7d99c58742f1715334f150f7b50111c8d034e2921edd0005bbdda3300a64e783b7ae18c96eb7ae2f2"
+				"sha1": "b6a94e2d2c78464129ddf9a4623cfeb29a3b533d",
+				"sha512": "7d060fa0f099a57098a6a5b28af9f9f50bbf42423e1ca692f920a4d86c5e87be60dabee6fc9a78586359433284210cb114b3d05215ec1481f190b6fc567642c4"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/ha1mEyJS/versions/JAOEzLIR/PlayerAnimationLib-1.0.12%2Bmc1.21.9.jar"
+				"https://cdn.modrinth.com/data/ha1mEyJS/versions/o1mP1548/PlayerAnimationLibFabric-1.1.0%2Balpha.1%2Bmc.1.21.9.jar"
 			],
-			"fileSize": 1144124
+			"fileSize": 1147600
 		},
 		{
 			"path": "mods/UniLib-1.1.1+1.21.10-fabric.jar",
@@ -2562,34 +2600,34 @@
 			"fileSize": 198676
 		},
 		{
-			"path": "mods/PuzzlesLib-v21.10.3+mc1.21.10-Fabric.jar",
+			"path": "mods/PuzzlesLib-v21.10.5+mc1.21.10-Fabric.jar",
 			"hashes": {
-				"sha1": "7f8afbafa2db1e8614d0e7799539d17c1f0970b6",
-				"sha512": "3b4948c34dec4ef525b6c2c7b4a8ec8a186618e80e767538ce655848fbfd4e70907cf972729291576b1d3a6a772d92f838dcf54b991941dc156507984161c806"
+				"sha1": "c67b96b2215b1e236261c09cd7bd0a8e964c89f1",
+				"sha512": "3f1dacefb93c7036890a7dd64ed2496d4c7a52f555a4f45d985d9cd1ba06f7dc0daf45ef10c1fbe4a49c44c158dc1fa3f810460c88dcf245e18c0d19e43e2862"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/QAGBst4M/versions/cVBOv9XY/PuzzlesLib-v21.10.3%2Bmc1.21.10-Fabric.jar"
+				"https://cdn.modrinth.com/data/QAGBst4M/versions/5IsLRCgz/PuzzlesLib-v21.10.5%2Bmc1.21.10-Fabric.jar"
 			],
-			"fileSize": 1077702
+			"fileSize": 1077950
 		},
 		{
-			"path": "mods/collective-1.21.10-8.10.jar",
+			"path": "mods/collective-1.21.10-8.11.jar",
 			"hashes": {
-				"sha1": "788a4b2e9b09324abbd20cb8a23c8d42764a149b",
-				"sha512": "18a33c32412eddf2c200a9a7d72a6a92b8b501aca89d3441fa1b6a9be7852f1548d34c636a0ded20ff31f2d3019560cb5056eb24345886956c41f7e7f06bacc9"
+				"sha1": "1b3407f8187ac635e9d79e28c1cf6be93fb570d2",
+				"sha512": "391ce30547c2fc3886d917333a4ea813296ae02497186783d6474084e5638e0447b28a68e8d2160cce1fecc394b2a08fb6bcfb94e0ba6ff8009db781425eecf8"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/e0M1UDsY/versions/hfIrbsoZ/collective-1.21.10-8.10.jar"
+				"https://cdn.modrinth.com/data/e0M1UDsY/versions/Gi3mtnzR/collective-1.21.10-8.11.jar"
 			],
-			"fileSize": 960905
+			"fileSize": 961264
 		},
 		{
 			"path": "mods/optiboxes-1.6+1.21.9-fabric.jar",
