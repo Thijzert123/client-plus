@@ -12,6 +12,7 @@ _Note: a few mods are (partially) server-side or require a server with the same 
 
 ## Mod information
 All the mods, resource packs and shaders have been carefully selected. If you have an issue of any kinds, or if you have recommendations or feature requests, feel free to [open an issue on GitHub](https://github.com/Thijzert123/client-plus/issues).
+Client+ aims to improve the _modern_ versions of Minecraft, so older versions won't be updated as much. Alpha and beta versions are released so that you can enjoy Client+ as early as possible, however, please note that a number of mods may not be available due to them not being updated (yet).
 
 
 <details>
