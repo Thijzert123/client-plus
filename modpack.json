@@ -208,11 +208,7 @@
 		},
 		"rsls": {},
 		"sound-controller": {},
-		"polytone": {
-			"exclude": [
-				"1.21.8"
-			]
-		},
+		"polytone": {},
 		"show-me-your-skin": {},
 		"glowing-torchflower": {},
 		"no-resource-pack-warnings": {},
@@ -230,11 +226,7 @@
 		"mob-crates": {},
 		"infinite-music": {},
 		"vtdownloader": {},
-		"xaeroplus": {
-			"exclude": [
-				"1.21.9"
-			]
-		},
+		"xaeroplus": {},
 		"improved-sign-editing": {},
 		"make_bubbles_pop": {},
 		"cubic-sun-moon": {},
