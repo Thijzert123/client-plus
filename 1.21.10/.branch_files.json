@@ -66,6 +66,10 @@
 			"id": "bEpr0Arc"
 		},
 		{
+			"name": "Better Mount HUD",
+			"id": "kqJFAPU9"
+		},
+		{
 			"name": "Emotecraft",
 			"id": "pZ2wrerK"
 		},
@@ -514,12 +518,12 @@
 			"id": "WKwQAwke"
 		},
 		{
-			"name": "YetAnotherConfigLib (YACL)",
-			"id": "1eAoo2KR"
-		},
-		{
 			"name": "M.R.U",
 			"id": "SNVQ2c0g"
+		},
+		{
+			"name": "YetAnotherConfigLib (YACL)",
+			"id": "1eAoo2KR"
 		},
 		{
 			"name": "MaLiLib",
@@ -797,19 +801,34 @@
 			"fileSize": 8123404
 		},
 		{
-			"path": "mods/litematica-fabric-1.21.10-0.24.2.jar",
+			"path": "mods/litematica-fabric-1.21.10-0.24.3.jar",
 			"hashes": {
-				"sha1": "4c9eca0e6a9c1187cd77482269bec6cec0c2bb5f",
-				"sha512": "138ccb152b39c121f34471e3722eb15e7727063ce3224ec445a75a0bb4ffdd72884a100dbb177507c0695ca8357dd9e6760d705d924050ef8e433dad5be0afa4"
+				"sha1": "45f850b6915e7f32a74fea749dbeae062f6d657c",
+				"sha512": "15d9fc9930f96beb73c759884836787e1f9bdf0f0b5e3aa83d7bed0d59c80bf4bb8ad6779a197a6b66ea140ac6322c6ebdadd3ba416c9f13532d37c8d2a75009"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/bEpr0Arc/versions/Pe5dd0Bl/litematica-fabric-1.21.10-0.24.2.jar"
+				"https://cdn.modrinth.com/data/bEpr0Arc/versions/PVLPYmWh/litematica-fabric-1.21.10-0.24.3.jar"
 			],
-			"fileSize": 1571713
+			"fileSize": 1566840
+		},
+		{
+			"path": "mods/bettermounthud-1.2.6.jar",
+			"hashes": {
+				"sha1": "e32f65110c66a0862617dd137531d20a0697f9a9",
+				"sha512": "559163398693ad32de171781a461251178216afa31d226bcf037ddfd26ff2e6389cc6bd3c34539cd29928cc1bd27256b802f1f6cbda13ea270d12ff20db32371"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/kqJFAPU9/versions/rXZxHSEZ/bettermounthud-1.2.6.jar"
+			],
+			"fileSize": 21069
 		},
 		{
 			"path": "mods/emotecraft-fabric-for-MC1.21.9-3.1.0-b.build.128.jar",
@@ -1457,19 +1476,19 @@
 			"fileSize": 3573
 		},
 		{
-			"path": "mods/BetterF3-16.0.0-Fabric-1.21.10.jar",
+			"path": "mods/BetterF3-16.0.2-Fabric-1.21.10.jar",
 			"hashes": {
-				"sha1": "20d552786d8ab7e2fd08b55378543df47d14a078",
-				"sha512": "b63836ff0c76dae3ee9361b8844f7433b8b96789b910a0e23859dc5aa4484f8a6c120a30d68cb3f26368d087b26b6e025aa4ac431fd1ba93964423cda96f57ca"
+				"sha1": "bee259a3e9fdd35ce07a7251b441bd5f4a6c83d8",
+				"sha512": "4f87d9da65cce1d201972b478af214c15540131d0c48c214ee2ba0ccfa2cec311440d90eea6a33746965982db793f57145ecc08b640f523a0fb220568f782306"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/8shC1gFX/versions/yBR88ogY/BetterF3-16.0.0-Fabric-1.21.10.jar"
+				"https://cdn.modrinth.com/data/8shC1gFX/versions/OUojozcW/BetterF3-16.0.2-Fabric-1.21.10.jar"
 			],
-			"fileSize": 1812663
+			"fileSize": 1813526
 		},
 		{
 			"path": "mods/status-effect-bars-1.0.9.jar",
@@ -2492,21 +2511,6 @@
 			"fileSize": 1417212
 		},
 		{
-			"path": "mods/yet_another_config_lib_v3-3.8.0+1.21.9-fabric.jar",
-			"hashes": {
-				"sha1": "9e25b9aa5118dc77d6ec1192df0c1bb237f7e9d1",
-				"sha512": "9ca9ccbbf025a795f1853feba3dc9755a377f744e3b075d581d987ae51d32e170d839e9069a9f2b05bd121cca78dfff3882dd5ea132768c7ce0ecae81ed472e3"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/1eAoo2KR/versions/UZmV6xf4/yet_another_config_lib_v3-3.8.0%2B1.21.9-fabric.jar"
-			],
-			"fileSize": 1126346
-		},
-		{
 			"path": "mods/mru-1.0.24+edge+1.21.10-fabric.jar",
 			"hashes": {
 				"sha1": "10bba879cdd01ed422a77acee2aec690679fb8b7",
@@ -2520,6 +2524,21 @@
 				"https://cdn.modrinth.com/data/SNVQ2c0g/versions/8L7NWA1k/mru-1.0.24%2Bedge%2B1.21.10-fabric.jar"
 			],
 			"fileSize": 94710
+		},
+		{
+			"path": "mods/yet_another_config_lib_v3-3.8.0+1.21.9-fabric.jar",
+			"hashes": {
+				"sha1": "9e25b9aa5118dc77d6ec1192df0c1bb237f7e9d1",
+				"sha512": "9ca9ccbbf025a795f1853feba3dc9755a377f744e3b075d581d987ae51d32e170d839e9069a9f2b05bd121cca78dfff3882dd5ea132768c7ce0ecae81ed472e3"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/1eAoo2KR/versions/UZmV6xf4/yet_another_config_lib_v3-3.8.0%2B1.21.9-fabric.jar"
+			],
+			"fileSize": 1126346
 		},
 		{
 			"path": "mods/malilib-fabric-1.21.10-0.26.3.jar",
