@@ -430,6 +430,10 @@
 			"id": "na1dL51S"
 		},
 		{
+			"name": "Better F1 Reborn",
+			"id": "2JIeCmxb"
+		},
+		{
 			"name": "Hyper Realistic Sky",
 			"id": "PsMUgCo5"
 		},
@@ -518,12 +522,12 @@
 			"id": "WKwQAwke"
 		},
 		{
-			"name": "M.R.U",
-			"id": "SNVQ2c0g"
-		},
-		{
 			"name": "YetAnotherConfigLib (YACL)",
 			"id": "1eAoo2KR"
+		},
+		{
+			"name": "M.R.U",
+			"id": "SNVQ2c0g"
 		},
 		{
 			"name": "MaLiLib",
@@ -576,19 +580,19 @@
 	],
 	"files": [
 		{
-			"path": "mods/cloth-config-20.0.148-fabric.jar",
+			"path": "mods/cloth-config-20.0.149-fabric.jar",
 			"hashes": {
-				"sha1": "ad95aeea20f5ea134261317e2306c202a188434e",
-				"sha512": "3f6f02540a35c87e7ce84dc280d69b87ac7e0f31a0f6907cb9aab799f62fa291e1250c2fee0ec03aa46330b72df28b13ebe333b3e48ce6c769a9bd4058138d5a"
+				"sha1": "c86e380bdac24e4ecdd148558e9d4ddf32c86059",
+				"sha512": "df1d9e0349dc64fc0859f17b65b67b0d7745a26b4905e87fc148ddebc0285de51a3255848599f0d5ee24f6aab00fbac4849d40bb9052936eaa452d216c7ada62"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/9s6osm5g/versions/otNNBWZy/cloth-config-20.0.148-fabric.jar"
+				"https://cdn.modrinth.com/data/9s6osm5g/versions/qMxkrrmq/cloth-config-20.0.149-fabric.jar"
 			],
-			"fileSize": 1150269
+			"fileSize": 1150288
 		},
 		{
 			"path": "mods/BetterAdvancements-Fabric-1.21.10-0.4.7.47.jar",
@@ -696,19 +700,19 @@
 			"fileSize": 17373
 		},
 		{
-			"path": "mods/dynamic-fps-3.10.0+minecraft-1.21.9-fabric.jar",
+			"path": "mods/dynamic-fps-3.10.1+minecraft-1.21.9-fabric.jar",
 			"hashes": {
-				"sha1": "c9ed172c9197be77d91239656bd9ac233aee77e9",
-				"sha512": "5ab0f88c5a51bfd739f0d8ff045f2030d4ff0756de59db02662a0cfcce15d410b709c0bef3354079e0c202f4c8051d7b6199eeacb3d1134c2ac82883eb020929"
+				"sha1": "2f3120c0b74a1c273646051f5e32c20b7b6548eb",
+				"sha512": "db54aacd670d41f0c2d7dfd037c215482ec6ea36aaabef0d2bbfef6e25513f9cb21ef0f288ef16206ef64ba50fb58106de07c25ca828ef8937017a6a2c15487e"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/LQ3K71Q1/versions/Q6J9nFVf/dynamic-fps-3.10.0%2Bminecraft-1.21.9-fabric.jar"
+				"https://cdn.modrinth.com/data/LQ3K71Q1/versions/EBgFtvQL/dynamic-fps-3.10.1%2Bminecraft-1.21.9-fabric.jar"
 			],
-			"fileSize": 195014
+			"fileSize": 197178
 		},
 		{
 			"path": "mods/fallingleaves-2.0.2+1.21.9.jar",
@@ -1011,19 +1015,19 @@
 			"fileSize": 5500902
 		},
 		{
-			"path": "mods/ImmediatelyFast-Fabric-1.13.1+1.21.10.jar",
+			"path": "mods/ImmediatelyFast-Fabric-1.13.2+1.21.10.jar",
 			"hashes": {
-				"sha1": "2ec40ae5c20f03e426cefcb360fb74acbf75cc52",
-				"sha512": "d9d0bf83f88d992521aef2a2f31fb53967fcc8515f70c870322e4009d67f7475002d44428921e3085e1d849e805b3080fc5f1c5f8daa926b20d121214b1acc5a"
+				"sha1": "e3f487736064ccd6c94e110cbaa057cf72eea2aa",
+				"sha512": "4e1a36349ca1aff20ad199ae4f45160403684caf533ef8030fb154420b9bac0ec4e592537640bdf391ed09cc333894fc8b97c5e7aaa5bd8b9d3d98a7cbc2ed06"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/5ZwdcRci/versions/pAXzwgEN/ImmediatelyFast-Fabric-1.13.1%2B1.21.10.jar"
+				"https://cdn.modrinth.com/data/5ZwdcRci/versions/mmM8JfKR/ImmediatelyFast-Fabric-1.13.2%2B1.21.10.jar"
 			],
-			"fileSize": 196367
+			"fileSize": 196440
 		},
 		{
 			"path": "mods/notenoughanimations-fabric-1.10.6-mc1.21.10.jar",
@@ -1266,19 +1270,19 @@
 			"fileSize": 38741
 		},
 		{
-			"path": "resourcepacks/Recolourful Containers DARK 3.0 (1.19.4+).zip",
+			"path": "resourcepacks/Recolourful Containers DARK 3.0.1 (1.19.4+).zip",
 			"hashes": {
-				"sha1": "33e533b2f46d6fd6bb3804e3198bdab315ae11c9",
-				"sha512": "cf9a87138744f50afd5ff78faf772f954c2563a27f4c1d8f958f59577ca8db86f4982e8c8a19994cc68a66a18c232897677349c8f6eaa72ecb637486e876be25"
+				"sha1": "6e59babba8ffe884a8c33c67918c83a6746113d6",
+				"sha512": "15c19c5e6125f03e09119a08f310da3928d606f19d9086bf1226332bc8c20c291e208f363bfe413872d33cba44abacd2864c4d2a3b65d22ce01d03e40aa2c9e5"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/sQCUH0Mr/versions/xGTWqeND/Recolourful%20Containers%20DARK%203.0%20%281.19.4%2B%29.zip"
+				"https://cdn.modrinth.com/data/sQCUH0Mr/versions/VxLDuGIn/Recolourful%20Containers%20DARK%203.0.1%20%281.19.4%2B%29.zip"
 			],
-			"fileSize": 2136516
+			"fileSize": 2140526
 		},
 		{
 			"path": "mods/CraftPresence-2.7.0+1.21.10-fabric.jar",
@@ -2136,34 +2140,34 @@
 			"fileSize": 1869193
 		},
 		{
-			"path": "resourcepacks/Recolourful Containers 3.0 (1.19.4+).zip",
+			"path": "resourcepacks/Recolourful Containers 3.0.1 (1.19.4+).zip",
 			"hashes": {
-				"sha1": "4301f3eff9c6fd201effe8e231e8743d5122941d",
-				"sha512": "bc2375fd84b6bc3f40316bb3cbbe26cb747e6922722e535c147322845cc7764f13eab6ae13369b229d7eb57f4b307b8d2bb7c8640ea25bdc793c160be4b6b041"
+				"sha1": "957ea70d893ad333f623a0c52578e0a5e9c4da4d",
+				"sha512": "8f848cf6c6b826ee9c3e31cb605d789bb5b622fc714f7a9a1e106f0b836676dedf7d3baf4739c12b7f29ea61bc733dde6623250487fe7812aa9cfa6febc7f160"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/lewweaHO/versions/KyMY6c2n/Recolourful%20Containers%203.0%20%281.19.4%2B%29.zip"
+				"https://cdn.modrinth.com/data/lewweaHO/versions/IfnWx9K6/Recolourful%20Containers%203.0.1%20%281.19.4%2B%29.zip"
 			],
-			"fileSize": 2046454
+			"fileSize": 2050464
 		},
 		{
-			"path": "resourcepacks/§aReimagined§0_§8[v1.53.4]§0.zip",
+			"path": "resourcepacks/§aReimagined§0_§8[1.53.5]§0.zip",
 			"hashes": {
-				"sha1": "1c1894667b93abb1527df49723466801d247fe39",
-				"sha512": "747983e0ae4029565e668e480f55a26a465e282af6b73b9b4d0129a101a6408900281ddd52e0e44b82e2768cfb3cec68b7a4824ad0ae6734327831330615ec47"
+				"sha1": "36d522de7bff694348136d99189d865261bfc7ac",
+				"sha512": "7dce91b0328ea52c63863eaee265c5baf034e1c718b959d112eb98dd40fdda21f4e2288bb85533287542c181b80305ac7447c67ad8e9987f6a0263048fa127cb"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/ta5dy0aA/versions/OHbTJzTy/%C2%A7aReimagined%C2%A70_%C2%A78%5Bv1.53.4%5D%C2%A70.zip"
+				"https://cdn.modrinth.com/data/ta5dy0aA/versions/fiqTlecC/%C2%A7aReimagined%C2%A70_%C2%A78%5B1.53.5%5D%C2%A70.zip"
 			],
-			"fileSize": 64860230
+			"fileSize": 64861858
 		},
 		{
 			"path": "mods/durabilityplus_1.20.5-1.1.0.jar",
@@ -2179,6 +2183,21 @@
 				"https://cdn.modrinth.com/data/na1dL51S/versions/xoq7hD8B/durabilityplus_1.20.5-1.1.0.jar"
 			],
 			"fileSize": 8210
+		},
+		{
+			"path": "mods/BetterF1-Fabric-1.1+1.21.9.jar",
+			"hashes": {
+				"sha1": "da58c2b5305867fd24806aef4c002a2923b1def8",
+				"sha512": "114566a05e5d384643b5eddabed5435ecf6623ca2e273e4700a7a68a78b776366bfee0a1951181439439ae6a8199756563ad5208f0a63e6a8c9732ddabe6a53d"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/2JIeCmxb/versions/ZGXovn58/BetterF1-Fabric-1.1%2B1.21.9.jar"
+			],
+			"fileSize": 22837
 		},
 		{
 			"path": "resourcepacks/Hyper_Realistic_Sky_[Lite].zip",
@@ -2511,21 +2530,6 @@
 			"fileSize": 1417212
 		},
 		{
-			"path": "mods/mru-1.0.24+edge+1.21.10-fabric.jar",
-			"hashes": {
-				"sha1": "10bba879cdd01ed422a77acee2aec690679fb8b7",
-				"sha512": "0519c4203224f81e2940b98d1e98cd01b000ab0c1dac9bb3b14ce8babf64707ffca8b13145477051369e3b24fe0a5602adb5f7f1e4886142a99c9d8108c24da1"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/SNVQ2c0g/versions/8L7NWA1k/mru-1.0.24%2Bedge%2B1.21.10-fabric.jar"
-			],
-			"fileSize": 94710
-		},
-		{
 			"path": "mods/yet_another_config_lib_v3-3.8.0+1.21.9-fabric.jar",
 			"hashes": {
 				"sha1": "9e25b9aa5118dc77d6ec1192df0c1bb237f7e9d1",
@@ -2539,6 +2543,21 @@
 				"https://cdn.modrinth.com/data/1eAoo2KR/versions/UZmV6xf4/yet_another_config_lib_v3-3.8.0%2B1.21.9-fabric.jar"
 			],
 			"fileSize": 1126346
+		},
+		{
+			"path": "mods/mru-1.0.24+edge+1.21.10-fabric.jar",
+			"hashes": {
+				"sha1": "10bba879cdd01ed422a77acee2aec690679fb8b7",
+				"sha512": "0519c4203224f81e2940b98d1e98cd01b000ab0c1dac9bb3b14ce8babf64707ffca8b13145477051369e3b24fe0a5602adb5f7f1e4886142a99c9d8108c24da1"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/SNVQ2c0g/versions/8L7NWA1k/mru-1.0.24%2Bedge%2B1.21.10-fabric.jar"
+			],
+			"fileSize": 94710
 		},
 		{
 			"path": "mods/malilib-fabric-1.21.10-0.26.3.jar",
