@@ -50,6 +50,10 @@
 			"id": "lTS6nyFs"
 		},
 		{
+			"name": "Better Statistics Screen",
+			"id": "n6PXGAoM"
+		},
+		{
 			"name": "Better Command Block UI",
 			"id": "8iQcgjQ2"
 		},
@@ -534,6 +538,10 @@
 			"id": "1eAoo2KR"
 		},
 		{
+			"name": "Architectury API",
+			"id": "lhGA9TYQ"
+		},
+		{
 			"name": "MaLiLib",
 			"id": "GcWjdA9I"
 		},
@@ -556,10 +564,6 @@
 		{
 			"name": "Forge Config API Port",
 			"id": "ohNO6lps"
-		},
-		{
-			"name": "Architectury API",
-			"id": "lhGA9TYQ"
 		},
 		{
 			"name": "Konkrete",
@@ -762,6 +766,21 @@
 				"https://cdn.modrinth.com/data/lTS6nyFs/versions/bI0cp3nR/eg_inventory_blur-v1.2.1-fabric-mc1.21.8.jar"
 			],
 			"fileSize": 119211
+		},
+		{
+			"path": "mods/betterstats-4.0.0+fabric-1.21.10.jar",
+			"hashes": {
+				"sha1": "d815382a571c47c8a9ce58b31a8410cc6faab4cd",
+				"sha512": "3fe64111caa226c84b1bbcc9d6f95960db17cde1025d31ae1ed19d7bf4593577a6c4f22ee0da0ca13699b2343a54977fc6b1c5af500c8845fd5dbb4dab86276a"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/n6PXGAoM/versions/iW0cQm9E/betterstats-4.0.0%2Bfabric-1.21.10.jar"
+			],
+			"fileSize": 447661
 		},
 		{
 			"path": "mods/BetterCommandBlockUI-0.5.3-1.21.10.jar",
@@ -2159,19 +2178,19 @@
 			"fileSize": 2050464
 		},
 		{
-			"path": "resourcepacks/§aReimagined§0_§8[1.53.5]§0.zip",
+			"path": "resourcepacks/§aReimagined§0_§8[v1.53.6]§0.zip",
 			"hashes": {
-				"sha1": "36d522de7bff694348136d99189d865261bfc7ac",
-				"sha512": "7dce91b0328ea52c63863eaee265c5baf034e1c718b959d112eb98dd40fdda21f4e2288bb85533287542c181b80305ac7447c67ad8e9987f6a0263048fa127cb"
+				"sha1": "17c942e1e0a65eb04b13e1b6a42915f248d925e5",
+				"sha512": "7202f2b0f5eb244e4f7a3fa73fb12c273a2a43f8fc56d02fc6632d7c211c9d34b286095cb396fa55d7ac490fe53ce5b09ba969f9acb25323962e52cbfb87cf8a"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/ta5dy0aA/versions/fiqTlecC/%C2%A7aReimagined%C2%A70_%C2%A78%5B1.53.5%5D%C2%A70.zip"
+				"https://cdn.modrinth.com/data/ta5dy0aA/versions/WueKhzRD/%C2%A7aReimagined%C2%A70_%C2%A78%5Bv1.53.6%5D%C2%A70.zip"
 			],
-			"fileSize": 64861858
+			"fileSize": 64912732
 		},
 		{
 			"path": "mods/durabilityplus_1.20.5-1.1.0.jar",
@@ -2324,19 +2343,19 @@
 			"fileSize": 10586
 		},
 		{
-			"path": "mods/ferritecore-8.0.0-fabric.jar",
+			"path": "mods/ferritecore-8.0.2-fabric.jar",
 			"hashes": {
-				"sha1": "53d76354587cd1965b842fdce7cff965b5c52fe5",
-				"sha512": "131b82d1d366f0966435bfcb38c362d604d68ecf30c106d31a6261bfc868ca3a82425bb3faebaa2e5ea17d8eed5c92843810eb2df4790f2f8b1e6c1bdc9b7745"
+				"sha1": "5ea50634ed19a5e10acb46258bab0c1ee20f64ca",
+				"sha512": "8c3890fb116dfaf681f5f483ea0d1bfecfb87dd584cc72e772fe43ea6ecf15a09c782fedbe5cea3b8bf7e930bd5c00753a619ac5ce7afa7fd092769d68e9beec"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar"
+				"https://cdn.modrinth.com/data/uXXizFIs/versions/MGoveONm/ferritecore-8.0.2-fabric.jar"
 			],
-			"fileSize": 79653
+			"fileSize": 79573
 		},
 		{
 			"path": "resourcepacks/Default_Splashes.zip",
@@ -2474,19 +2493,19 @@
 			"fileSize": 211693057
 		},
 		{
-			"path": "mods/smoothscroll-2.3.0.2+1.21.9.jar",
+			"path": "mods/smoothscroll-2.3.1.jar",
 			"hashes": {
-				"sha1": "36bfd9a0b9c9b5cc581b9550724dc31fcdc05145",
-				"sha512": "d9e9794100af840b8fa4906bb612c6fabb236c3e9de15e41a8fd515fdada7ca6bb94041c06dafcc11981e8512be8f6d6a940f4dbc6aec0c5d29033f88832097d"
+				"sha1": "cc6217487c49639ea218442e3e68ae176831889c",
+				"sha512": "f93b19caee257454a6ea64f43736522e4355823efc800281195f7e3c5160545e1161419ed6e558044500654d4b6ddb7205510d064408abaec9ff11fa5eff75af"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/CllP7wW0/versions/nL1yYSEz/smoothscroll-2.3.0.2%2B1.21.9.jar"
+				"https://cdn.modrinth.com/data/CllP7wW0/versions/hg4wFNeT/smoothscroll-2.3.1.jar"
 			],
-			"fileSize": 75298
+			"fileSize": 75542
 		},
 		{
 			"path": "mods/clickthrough-plus-fabric-3.5.3+1.21.9.jar",
@@ -2579,6 +2598,21 @@
 			"fileSize": 1126346
 		},
 		{
+			"path": "mods/architectury-18.0.6-fabric.jar",
+			"hashes": {
+				"sha1": "d768e81f930c9dba397ecc79557fe963177397d2",
+				"sha512": "79a170c0df504197bc7b0e5735fe858f1b6ab6cd2b0f29b8328e7e870edbd08c00f8c202168df47cdb28e4bc05fcd45ee003f1434e217f46110fd6304e7d0921"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/lhGA9TYQ/versions/8Ing3Dbx/architectury-18.0.6-fabric.jar"
+			],
+			"fileSize": 575958
+		},
+		{
 			"path": "mods/malilib-fabric-1.21.10-0.26.3.jar",
 			"hashes": {
 				"sha1": "11488594330f0e83fa4368739e4bbdb5ba792baa",
@@ -2667,21 +2701,6 @@
 				"https://cdn.modrinth.com/data/ohNO6lps/versions/6T4w46C9/ForgeConfigAPIPort-v21.10.0%2Bmc1.21.10-Fabric.jar"
 			],
 			"fileSize": 615117
-		},
-		{
-			"path": "mods/architectury-18.0.6-fabric.jar",
-			"hashes": {
-				"sha1": "d768e81f930c9dba397ecc79557fe963177397d2",
-				"sha512": "79a170c0df504197bc7b0e5735fe858f1b6ab6cd2b0f29b8328e7e870edbd08c00f8c202168df47cdb28e4bc05fcd45ee003f1434e217f46110fd6304e7d0921"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/lhGA9TYQ/versions/8Ing3Dbx/architectury-18.0.6-fabric.jar"
-			],
-			"fileSize": 575958
 		},
 		{
 			"path": "mods/konkrete_fabric_1.9.13_MC_1.21.10.jar",
