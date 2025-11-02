@@ -34,4 +34,5 @@ The project list will be written to `modrinth_project_list.md`.
 - ~~Add force-version for Colourful GUI for 1.21.5~~
 - ~~Make sure we keep using the full version of the Torturable Healthbars resource packs (`torturable-healthbars` and `thfa`)~~
 - ~~Add force version for Mod Sets and dependencies for 1.21.5~~
-- Add Vanilla Tweaks for 1.21.8 (1.21.7 is also missing but that version is unsupported)
+- ~~Add Vanilla Tweaks for 1.21.8 (1.21.7 is also missing but that version is unsupported)~~
+- Remove `tcdcommons` from mod list because it is a dependency
