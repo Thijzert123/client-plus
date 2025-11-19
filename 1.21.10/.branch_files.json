@@ -466,6 +466,10 @@
 			"id": "na1dL51S"
 		},
 		{
+			"name": "Theone's Eating Animation Pack",
+			"id": "OhzX8kDf"
+		},
+		{
 			"name": "Better F1 Reborn",
 			"id": "2JIeCmxb"
 		},
@@ -576,10 +580,6 @@
 		{
 			"name": "Architectury API",
 			"id": "lhGA9TYQ"
-		},
-		{
-			"name": "MaLiLib",
-			"id": "GcWjdA9I"
 		},
 		{
 			"name": "Player Animation Library",
@@ -714,34 +714,34 @@
 			"fileSize": 75644
 		},
 		{
-			"path": "mods/sounds-2.4.18+edge+1.21.10-fabric.jar",
+			"path": "mods/sounds-2.4.19+edge+1.21.10-fabric.jar",
 			"hashes": {
-				"sha1": "d82dd979eb0ae49a69933fb7224f7f20a083336c",
-				"sha512": "35d5d87b006471e6e4f4c450dcb259f5b46b374dffe7d2db8d4959ac191adc8c1128fe9dcc7451da94668061de76e5b79c155c5f6c43be73f7fe9a3adf7b1176"
+				"sha1": "39ab8c9af6c6572d0498dfcb34baa58bc8762a5d",
+				"sha512": "7d2443033f80789aa2be8d8a3f871d2d5c187b37ae963480398174d64d7fe5bc1bedbbf5dfac7bdc231b011856ce0f62f97c17ae6320fe4d1ef5dd1d5981f91c"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/ZouiUX7t/versions/a6P7O9Rw/sounds-2.4.18%2Bedge%2B1.21.10-fabric.jar"
+				"https://cdn.modrinth.com/data/ZouiUX7t/versions/eS4NGsge/sounds-2.4.19%2Bedge%2B1.21.10-fabric.jar"
 			],
-			"fileSize": 8137803
+			"fileSize": 8138115
 		},
 		{
-			"path": "mods/lithium-fabric-0.20.0+mc1.21.10.jar",
+			"path": "mods/lithium-fabric-0.20.1+mc1.21.10.jar",
 			"hashes": {
-				"sha1": "6f828c09ad43641bed3438e7ea6a4ab313f78d40",
-				"sha512": "755c0e0fc7f6f38ac4d936cc6023d1dce6ecfd8d6bdc2c544c2a3c3d6d04f0d85db53722a089fa8be72ae32fc127e87f5946793ba6e8b4f2c2962ed30d333ed2"
+				"sha1": "7d44f5da9c690bbf1bd6d65c1acc81db5cf7f8c6",
+				"sha512": "79b2892d123f3bb12649927dd8fccc25c955ff38a19f3aba7cd0180c4cf5506c2a76d49418b13050f90bba7bb59f3623af06e8a275e2ae8c63808084043902bb"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/gvQqBUqZ/versions/oGKQMdyZ/lithium-fabric-0.20.0%2Bmc1.21.10.jar"
+				"https://cdn.modrinth.com/data/gvQqBUqZ/versions/NsswKiwi/lithium-fabric-0.20.1%2Bmc1.21.10.jar"
 			],
-			"fileSize": 830020
+			"fileSize": 835455
 		},
 		{
 			"path": "mods/yosbr-0.1.2.jar",
@@ -894,19 +894,19 @@
 			"fileSize": 8123404
 		},
 		{
-			"path": "mods/litematica-fabric-1.21.10-0.24.3.jar",
+			"path": "mods/litematica-fabric-1.21.10-0.24.5.jar",
 			"hashes": {
-				"sha1": "45f850b6915e7f32a74fea749dbeae062f6d657c",
-				"sha512": "15d9fc9930f96beb73c759884836787e1f9bdf0f0b5e3aa83d7bed0d59c80bf4bb8ad6779a197a6b66ea140ac6322c6ebdadd3ba416c9f13532d37c8d2a75009"
+				"sha1": "0d052c278b3a0065396ea1e6c1ed670a62b6ebfe",
+				"sha512": "cc43db146762f6f2b5863a92f68cc9d21fdc86526864a918e68755fc316d42adfc0a801af8a29747abc3dc18721c88e4731d0a0dbcaf2472283e36ca58df0f87"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/bEpr0Arc/versions/PVLPYmWh/litematica-fabric-1.21.10-0.24.3.jar"
+				"https://cdn.modrinth.com/data/bEpr0Arc/versions/dnpbV1lI/litematica-fabric-1.21.10-0.24.5.jar"
 			],
-			"fileSize": 1566840
+			"fileSize": 1575255
 		},
 		{
 			"path": "mods/bettermounthud-1.2.6.jar",
@@ -924,19 +924,19 @@
 			"fileSize": 21069
 		},
 		{
-			"path": "mods/emotecraft-fabric-for-MC1.21.9-3.1.0-b.build.128.jar",
+			"path": "mods/emotecraft-fabric-for-MC1.21.9-3.1.0-b.build.129.jar",
 			"hashes": {
-				"sha1": "2725eaa676b89f819e4e2912cc90b73f6673e859",
-				"sha512": "8781f2ee27b5c4d553fe135fb21200ffa3d49b6d05a08b67e454466c5187bc0c6da2e0458dc64349e132eb5c13980d250e6d605180c45aa6775a65413c79c414"
+				"sha1": "ee4462e570b7a85a9455575d723b198889231a04",
+				"sha512": "700e923bd19ef76a718204d2dc703426a6e852b91ce0cf07e3dbc2a13566c2641f484b9ab78731dc3a6d2f314a21afaece25b2f18dbc0e4f38fbef24d2ffc202"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/pZ2wrerK/versions/ykv2yoiq/emotecraft-fabric-for-MC1.21.9-3.1.0-b.build.128.jar"
+				"https://cdn.modrinth.com/data/pZ2wrerK/versions/LDwlofFj/emotecraft-fabric-for-MC1.21.9-3.1.0-b.build.129.jar"
 			],
-			"fileSize": 1161301
+			"fileSize": 1118991
 		},
 		{
 			"path": "mods/worldedit-mod-7.4.0-beta-01.jar",
@@ -956,17 +956,17 @@
 		{
 			"path": "resourcepacks/SodiumTranslations.zip",
 			"hashes": {
-				"sha1": "1e57315fd57d8cee5338534392b88387c4de8aef",
-				"sha512": "e1c2a0d2dbb569a9d8ed9816a1769505f800c4235c792cb3f1ad2d63142641c59efd9aca8cbdddddc433618fefe783192fadd969a2a7a04d081604473e429611"
+				"sha1": "0067e3414c2db17e0ab1ef9ca34fdd2678eb2885",
+				"sha512": "fa54d0fe8139c8b01dbd599c635f327811ed3edc7a3507220edf32db7b1099111bd57bfe237adc39074e8851a8e1145d3a4ad2b66650b160b819a4109f90689a"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/yfDziwn1/versions/1Jvg6uGm/SodiumTranslations.zip"
+				"https://cdn.modrinth.com/data/yfDziwn1/versions/wDPJqkKs/SodiumTranslations.zip"
 			],
-			"fileSize": 239240
+			"fileSize": 239709
 		},
 		{
 			"path": "mods/lighty-fabric-3.1.3+1.21.10.jar",
@@ -1494,19 +1494,19 @@
 			"fileSize": 42729
 		},
 		{
-			"path": "mods/clientsort-fabric-2.1.2+1.21.10.jar",
+			"path": "mods/clientsort-fabric-2.1.3+1.21.10.jar",
 			"hashes": {
-				"sha1": "5da76d1e0a6fef0e9d186a1f1f478142c2c216a9",
-				"sha512": "ef2154ea9e7cde648783f31535df220e71c576450b85fffc422b55ae2e290695009458b7e0935fda56e19af5ef2c4bd99cb211e96f0942f071aa047a04634d70"
+				"sha1": "38ac78f6954df589cd596865814f9c15f80bc9e8",
+				"sha512": "9617ae7ddba5e05cec0a1187da096c349c2911bab3be8d79187975eb0fe2cb09d95f1ca417075ee8430763d675e556fc48f3b16cfce5c02d85afb17ac3202068"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/K0AkAin6/versions/5qVto73j/clientsort-fabric-2.1.2%2B1.21.10.jar"
+				"https://cdn.modrinth.com/data/K0AkAin6/versions/vCESWjDL/clientsort-fabric-2.1.3%2B1.21.10.jar"
 			],
-			"fileSize": 329842
+			"fileSize": 330451
 		},
 		{
 			"path": "mods/simplefog-fabric-1.21.9-2.0.11.jar",
@@ -1524,19 +1524,19 @@
 			"fileSize": 36284
 		},
 		{
-			"path": "mods/Gamma-Utils-2.4.7+mc1.21.10.jar",
+			"path": "mods/Gamma-Utils-2.4.8+mc1.21.10.jar",
 			"hashes": {
-				"sha1": "40f614c49803878457364650fc0c042a9a39441d",
-				"sha512": "8cf42a4389332343da0289714413c430c76465890594c04bc8941e8b2d2851bd756cd2a483453719de2bbdc9353c1985261cc98e6130a0839ecb75c705ef7f5b"
+				"sha1": "878d5f0908209740fbec7c350cb27d45dfb7bdc9",
+				"sha512": "ca7f73c2ec2664ebf43f807403da720c9e3974585340b0120a459d6053264ad3731699ff9ee998000ed7fd22486191140a2e7c4d78ea362d68cc8a1c0f7765de"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/wdLuzzEP/versions/NuV2xRGz/Gamma-Utils-2.4.7%2Bmc1.21.10.jar"
+				"https://cdn.modrinth.com/data/wdLuzzEP/versions/cF3fq4wA/Gamma-Utils-2.4.8%2Bmc1.21.10.jar"
 			],
-			"fileSize": 98314
+			"fileSize": 98278
 		},
 		{
 			"path": "mods/modmenu-16.0.0-rc.1.jar",
@@ -1809,19 +1809,19 @@
 			"fileSize": 76252
 		},
 		{
-			"path": "mods/symbol-chat-1.21.9-1.3.10.jar",
+			"path": "mods/symbol-chat-1.21.10-1.3.11.jar",
 			"hashes": {
-				"sha1": "ac7055e7e593474a838b599354a1412343f452f5",
-				"sha512": "7c40a4a0767324317ff75485e7aee416b8c8cc1ada315309ef5575464e62e5e274708bda6c1aaef417e9cd73d5c04af4e318a15959cafaf1c7039449dd718d6c"
+				"sha1": "b24e8e380ef88ea349a020c48264a3b0317f4990",
+				"sha512": "77b82164158abd3585b5a57a39aa3d74688ee2fb49b82534214b942c3564f44355bb820bda6e4707f8d3d280c5982860bd7c93de1e6e238c9ff132700e3bcb8a"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/NKvLVQMc/versions/DLaYixPB/symbol-chat-1.21.9-1.3.10.jar"
+				"https://cdn.modrinth.com/data/NKvLVQMc/versions/kFn6iXxI/symbol-chat-1.21.10-1.3.11.jar"
 			],
-			"fileSize": 443764
+			"fileSize": 443993
 		},
 		{
 			"path": "mods/online-emotes-3.4.2+mc1.21.9-fabric.jar",
@@ -2364,6 +2364,21 @@
 			"fileSize": 8210
 		},
 		{
+			"path": "resourcepacks/Theone's Eating Animation Pack v1.0.zip",
+			"hashes": {
+				"sha1": "5330ab44c54f01b99e3ab3017ab52eb54ef88912",
+				"sha512": "807b51acb069911c5c0c4501277b79592ba6b0e42c5111ba59bdd5ee5775a461ee223a9fdd38c86676ea598467c1ebf16569257311e3e208506304d9f78494ef"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/OhzX8kDf/versions/qw5e9mrm/Theone%27s%20Eating%20Animation%20Pack%20v1.0.zip"
+			],
+			"fileSize": 133912
+		},
+		{
 			"path": "mods/BetterF1-Fabric-1.1+1.21.9.jar",
 			"hashes": {
 				"sha1": "da58c2b5305867fd24806aef4c002a2923b1def8",
@@ -2784,21 +2799,6 @@
 			"fileSize": 575958
 		},
 		{
-			"path": "mods/malilib-fabric-1.21.10-0.26.3.jar",
-			"hashes": {
-				"sha1": "11488594330f0e83fa4368739e4bbdb5ba792baa",
-				"sha512": "0dfcfc598f1f8ea71779dd507dab7fcce5714d108781009d97ff5beead5fcbe18a8203f4dfef42f1d4376e1f8e07501ee3b74f790d24065b24616fce3b4e5cc1"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/GcWjdA9I/versions/4K7Z6tDa/malilib-fabric-1.21.10-0.26.3.jar"
-			],
-			"fileSize": 1467389
-		},
-		{
 			"path": "mods/PlayerAnimationLibFabric-1.1.0+alpha.1+mc.1.21.9.jar",
 			"hashes": {
 				"sha1": "b6a94e2d2c78464129ddf9a4623cfeb29a3b533d",
@@ -2904,19 +2904,19 @@
 			"fileSize": 198661
 		},
 		{
-			"path": "mods/PuzzlesLib-v21.10.5+mc1.21.10-Fabric.jar",
+			"path": "mods/PuzzlesLib-v21.10.7+mc1.21.10-Fabric.jar",
 			"hashes": {
-				"sha1": "c67b96b2215b1e236261c09cd7bd0a8e964c89f1",
-				"sha512": "3f1dacefb93c7036890a7dd64ed2496d4c7a52f555a4f45d985d9cd1ba06f7dc0daf45ef10c1fbe4a49c44c158dc1fa3f810460c88dcf245e18c0d19e43e2862"
+				"sha1": "7dcd2fb4254461d6a4fdad09b42c4a855c6dee46",
+				"sha512": "a636e973010ab5b475dbbf6dd01ed12cdd01208cc03bd169aa6979c8e4c1a73ffb515e76ff41a8faaeb8aa5d1e9a4c57b34dd46fb6b47d18a2fa8092096fa20b"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/QAGBst4M/versions/5IsLRCgz/PuzzlesLib-v21.10.5%2Bmc1.21.10-Fabric.jar"
+				"https://cdn.modrinth.com/data/QAGBst4M/versions/nXoIV92k/PuzzlesLib-v21.10.7%2Bmc1.21.10-Fabric.jar"
 			],
-			"fileSize": 1077950
+			"fileSize": 1082708
 		},
 		{
 			"path": "mods/collective-1.21.10-8.13.jar",
