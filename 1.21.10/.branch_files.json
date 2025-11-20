@@ -582,6 +582,10 @@
 			"id": "lhGA9TYQ"
 		},
 		{
+			"name": "MaLiLib",
+			"id": "GcWjdA9I"
+		},
+		{
 			"name": "Player Animation Library",
 			"id": "ha1mEyJS"
 		},
@@ -2754,19 +2758,19 @@
 			"fileSize": 1417212
 		},
 		{
-			"path": "mods/mru-1.0.24+edge+1.21.10-fabric.jar",
+			"path": "mods/mru-1.0.25+edge+1.21.10-fabric.jar",
 			"hashes": {
-				"sha1": "10bba879cdd01ed422a77acee2aec690679fb8b7",
-				"sha512": "0519c4203224f81e2940b98d1e98cd01b000ab0c1dac9bb3b14ce8babf64707ffca8b13145477051369e3b24fe0a5602adb5f7f1e4886142a99c9d8108c24da1"
+				"sha1": "896e1b355bf55c7dd9e1901e2d00be079d3afd2c",
+				"sha512": "1eaab2f45483bf60104e90c5a10eb69480c0cea1ade3950f7624758caa95c214572d237c653380e89a7220f0f5ad0bcbba8677f53970d3462572e9d6e46fb886"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/SNVQ2c0g/versions/8L7NWA1k/mru-1.0.24%2Bedge%2B1.21.10-fabric.jar"
+				"https://cdn.modrinth.com/data/SNVQ2c0g/versions/FGQdTmZR/mru-1.0.25%2Bedge%2B1.21.10-fabric.jar"
 			],
-			"fileSize": 94710
+			"fileSize": 94781
 		},
 		{
 			"path": "mods/yet_another_config_lib_v3-3.8.0+1.21.9-fabric.jar",
@@ -2797,6 +2801,21 @@
 				"https://cdn.modrinth.com/data/lhGA9TYQ/versions/8Ing3Dbx/architectury-18.0.6-fabric.jar"
 			],
 			"fileSize": 575958
+		},
+		{
+			"path": "mods/malilib-fabric-1.21.10-0.26.6.jar",
+			"hashes": {
+				"sha1": "e419a4895ec2e547f345495fcc3be56a853b09ea",
+				"sha512": "4abf72916281bccc783bf96497909d0792a86bb45df607014d3a3aca5f96a7c10c1abd75b692f12a980613cbada701ba375abf9cf4f7a70f5b825639ef8d6ca4"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/GcWjdA9I/versions/Uddakc3M/malilib-fabric-1.21.10-0.26.6.jar"
+			],
+			"fileSize": 1509212
 		},
 		{
 			"path": "mods/PlayerAnimationLibFabric-1.1.0+alpha.1+mc.1.21.9.jar",
