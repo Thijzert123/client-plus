@@ -35,7 +35,8 @@
 				"1.21.7": "KMOzdYko",
 				"1.21.8": "KMOzdYko",
 				"1.21.9": "KMOzdYko",
-				"1.21.10": "KMOzdYko"
+				"1.21.10": "KMOzdYko",
+				"1.21.11": "KMOzdYko"
 			}
 		},
 		"dynamic-fps": {},
@@ -139,7 +140,11 @@
 		"clientsort": {},
 		"simplefog": {},
 		"skin-grabber": {},
-		"gamma-utils": {},
+		"gamma-utils": {
+			"exclude": [
+				"1.21.11"
+			]
+		},
 		"modmenu": {},
 		"wider-tab": {},
 		"optigui": {},
@@ -167,7 +172,11 @@
 		"moreculling": {},
 		"appleskin": {},
 		"subtle-effects": {},
-		"visuality": {},
+		"visuality": {
+			"exclude": [
+				"1.21.11"
+			]
+		},
 		"particular": {},
 		"music-notification": {},
 		"mouse-tweaks": {},
@@ -183,7 +192,11 @@
 				"1.21.4": "dYzIIsk2"
 			}
 		},
-		"chat-heads": {},
+		"chat-heads": {
+			"exclude": [
+				"1.21.11"
+			]
+		},
 		"cubes-without-borders": {},
 		"fancymenu": {},
 		"calcmod": {},
@@ -237,11 +250,7 @@
 		"custom-credits": {},
 		"zoomify": {},
 		"recolourful-containers-gui": {},
-		"bindcommands": {
-			"exclude": [
-				"1.21.10"
-			]
-		},
+		"bindcommands": {},
 		"reimagined": {},
 		"mace-but-3d": {
 			"include": [
