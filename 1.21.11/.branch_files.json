@@ -38,12 +38,20 @@
 			"id": "WhbRG4iK"
 		},
 		{
+			"name": "Icons Advertisement Removal [1.8 - 1.21.5]",
+			"id": "7Rq0ipFz"
+		},
+		{
 			"name": "Inventory Blur",
 			"id": "lTS6nyFs"
 		},
 		{
 			"name": "Better Statistics Screen",
 			"id": "n6PXGAoM"
+		},
+		{
+			"name": "Icons",
+			"id": "O7z3QKAG"
 		},
 		{
 			"name": "Litematica",
@@ -158,6 +166,10 @@
 			"id": "TtybOAsL"
 		},
 		{
+			"name": "Gamma Utils (Fullbright)",
+			"id": "wdLuzzEP"
+		},
+		{
 			"name": "Mod Menu",
 			"id": "mOgUt4GM"
 		},
@@ -186,6 +198,10 @@
 			"id": "EsAfCjCV"
 		},
 		{
+			"name": "Visuality",
+			"id": "rI0hvYcd"
+		},
+		{
 			"name": "Mouse Tweaks",
 			"id": "aC3cM3Vq"
 		},
@@ -200,6 +216,10 @@
 		{
 			"name": "Redstone Tweaks",
 			"id": "RvfAlf4Z"
+		},
+		{
+			"name": "Chat Heads",
+			"id": "Wb5oqrBJ"
 		},
 		{
 			"name": "Entity Culling",
@@ -531,6 +551,21 @@
 			"fileSize": 181268
 		},
 		{
+			"path": "resourcepacks/Icons Branding Remover 1.21.5.zip",
+			"hashes": {
+				"sha1": "f183d6ca0c3db6485e5ef997fa95033d5a549824",
+				"sha512": "504242a45bf6284be1654ce9afd221c29ef41cbabe770a5c4df1b560b90fedd420de4cd898fcb6dbf19c1b84424903c2e7f8f24e0c8b428d8eb33a142ce85e6a"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/7Rq0ipFz/versions/dQRt7CG3/Icons%20Branding%20Remover%201.21.5.zip"
+			],
+			"fileSize": 4424
+		},
+		{
 			"path": "mods/eg_inventory_blur-v1.2.1-fabric-mc1.21.8.jar",
 			"hashes": {
 				"sha1": "db748b534659be64856866fc118b8688dbc4db11",
@@ -559,6 +594,21 @@
 				"https://cdn.modrinth.com/data/n6PXGAoM/versions/7ok2h5ia/betterstats-5.0.0-alpha.1%2Bfabric-1.21.11.jar"
 			],
 			"fileSize": 186893
+		},
+		{
+			"path": "resourcepacks/Icons v.1.11.3.zip",
+			"hashes": {
+				"sha1": "6f9130130600e783a9c00346c9832cbb43d33f27",
+				"sha512": "8b369cfb3589c4322c66f99608e0e321eef45358d03f429ae07640771e12bcf15776d2528a39b2cec8603c0bf26babd24a2ef1c76ca87c9c18a2dab4a0bc2051"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/O7z3QKAG/versions/iM6mxyAW/Icons%20v.1.11.3.zip"
+			],
+			"fileSize": 5772258
 		},
 		{
 			"path": "mods/litematica-fabric-1.21.11-0.25.2.jar",
@@ -981,6 +1031,21 @@
 			"fileSize": 10151
 		},
 		{
+			"path": "mods/Gamma-Utils-2.5.10+mc1.21.11.jar",
+			"hashes": {
+				"sha1": "3f06271ea2c87634c23a37c97608b38fb78e015d",
+				"sha512": "476bb6ae151ff7136ceea239f2613ba17fff48017f8e58aa2a6ab8920d70733fcbd462560c8cfb3a6e71a752315c5581af8274f09ad79ddc5f964d153609721e"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/wdLuzzEP/versions/aVJkWMQl/Gamma-Utils-2.5.10%2Bmc1.21.11.jar"
+			],
+			"fileSize": 102032
+		},
+		{
 			"path": "mods/modmenu-17.0.0-alpha.1.jar",
 			"hashes": {
 				"sha1": "b8582a34b433aed24478c9bb43156b66340d0f1f",
@@ -1086,6 +1151,21 @@
 			"fileSize": 168688
 		},
 		{
+			"path": "mods/visuality-0.7.12+1.21.11.jar",
+			"hashes": {
+				"sha1": "769fd72ad3e3f4b83f16b1c3f61417a5b0494fd8",
+				"sha512": "7edad16ba77da630b4097186d78eb7f0e7535ece7bc88ec38b852381c1bd59c7a30ac525bce5120f477e17a4e6df007a8e020fd33e24671fbfe93c8314feb363"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/rI0hvYcd/versions/H81pJbu3/visuality-0.7.12%2B1.21.11.jar"
+			],
+			"fileSize": 80429
+		},
+		{
 			"path": "mods/MouseTweaks-fabric-mc1.21.11-2.30.jar",
 			"hashes": {
 				"sha1": "86515de45fe960bd717deea0954055106e857b81",
@@ -1144,6 +1224,21 @@
 				"https://cdn.modrinth.com/data/RvfAlf4Z/versions/XauQUBeR/Redstone%20Tweaks%202.5.3.zip"
 			],
 			"fileSize": 1742461
+		},
+		{
+			"path": "mods/chat_heads-1.1.8-fabric-1.21.11.jar",
+			"hashes": {
+				"sha1": "3543124fb1d6390a1d2d97a85f392ab9724ad813",
+				"sha512": "e2ee0d1f9f68312689d50a283c87ec7019dc13fcab86fea5fcbfdd0efd23b91c4b277d8c3f35641a4df9b58b926227c0d7403d062fe6c97f71d1423d51448824"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/Wb5oqrBJ/versions/19GmaMFY/chat_heads-1.1.8-fabric-1.21.11.jar"
+			],
+			"fileSize": 84894
 		},
 		{
 			"path": "mods/entityculling-fabric-1.9.4-mc1.21.11.jar",

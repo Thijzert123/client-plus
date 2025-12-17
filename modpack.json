@@ -47,7 +47,8 @@
 				"1.21.7": "dQRt7CG3",
 				"1.21.8": "dQRt7CG3",
 				"1.21.9": "dQRt7CG3",
-				"1.21.10": "dQRt7CG3"
+				"1.21.10": "dQRt7CG3",
+        "1.21.11": "dQRt7CG3"
 			}
 		},
 		"inventory-blur": {},
@@ -74,7 +75,8 @@
 				"1.21.7": "iM6mxyAW",
 				"1.21.8": "iM6mxyAW",
 				"1.21.9": "iM6mxyAW",
-				"1.21.10": "iM6mxyAW"
+				"1.21.10": "iM6mxyAW",
+        "1.21.11": "iM6mxyAW"
 			}
 		},
 		"controlify": {},
@@ -141,9 +143,6 @@
 		"simplefog": {},
 		"skin-grabber": {},
 		"gamma-utils": {
-			"exclude": [
-				"1.21.11"
-			]
 		},
 		"modmenu": {},
 		"wider-tab": {},
@@ -173,9 +172,6 @@
 		"appleskin": {},
 		"subtle-effects": {},
 		"visuality": {
-			"exclude": [
-				"1.21.11"
-			]
 		},
 		"particular": {},
 		"music-notification": {},
@@ -193,9 +189,6 @@
 			}
 		},
 		"chat-heads": {
-			"exclude": [
-				"1.21.11"
-			]
 		},
 		"cubes-without-borders": {},
 		"fancymenu": {},
