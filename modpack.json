@@ -186,7 +186,10 @@
 		"mod-sets": {
 			"version_overrides": {
 				"1.21.4": "dYzIIsk2"
-			}
+			},
+      "include": [
+        "1.21.4"
+      ]
 		},
 		"chat-heads": {
 		},
