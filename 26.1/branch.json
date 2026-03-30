@@ -1,8 +1,8 @@
 {
-	"version": "1.0.0+26.1-alpha.1",
+	"version": "1.0.0+26.1-beta.1",
 	"minecraft_version": "26.1",
 	"mod_loader": "fabric",
-	"loader_version": "0.18.4",
+	"loader_version": "0.18.5",
 	"acceptable_loaders": [
 		"minecraft",
 		"vanilla",
