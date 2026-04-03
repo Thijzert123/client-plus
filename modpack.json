@@ -212,11 +212,7 @@
 		"xanders-sodium-options": {},
 		"fresh-animations": {},
 		"better-lanterns": {},
-		"noisium": {
-			"exclude": [
-				"1.21.8"
-			]
-		},
+		"zfastnoise": {},
 		"rsls": {},
 		"sound-controller": {},
 		"polytone": {},
@@ -303,11 +299,19 @@
 		"spectral": {},
 		"jade": {},
 		"better-suggestions": {},
-		"sodium-extra": {},
+		"sodium-extra": {
+      "exclude": [
+        "26.1"
+      ]
+    },
 		"hey-wiki": {},
 		"ebe": {},
 		"grimdark-sky": {},
-		"flashback": {},
+		"flashback": {
+      "exclude": [
+        "26.1"
+      ]
+    },
 		"detail-armor-bar": {},
 		"smooth-scroll": {},
 		"clickthrough+": {},
