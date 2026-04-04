@@ -18,7 +18,8 @@
 		"1.20.1",
 		"1.21.10",
 		"1.21.11",
-		"26.1"
+		"26.1",
+		"26.1.1"
 	],
 	"projects": {
 		"cloth-config": {},
@@ -38,7 +39,7 @@
 				"1.21.9": "KMOzdYko",
 				"1.21.10": "KMOzdYko",
 				"1.21.11": "KMOzdYko",
-        "26.1": "KMOzdYko"
+				"26.1": "KMOzdYko"
 			}
 		},
 		"dynamic-fps": {},
@@ -51,7 +52,7 @@
 				"1.21.9": "dQRt7CG3",
 				"1.21.10": "dQRt7CG3",
 				"1.21.11": "dQRt7CG3",
-        "26.1": "dQRt7CG3"
+				"26.1": "dQRt7CG3"
 			}
 		},
 		"inventory-blur": {},
@@ -80,7 +81,7 @@
 				"1.21.9": "iM6mxyAW",
 				"1.21.10": "iM6mxyAW",
 				"1.21.11": "iM6mxyAW",
-        "26.1": "iM6mxyAW"
+				"26.1": "iM6mxyAW"
 			}
 		},
 		"controlify": {},
@@ -107,7 +108,11 @@
 		"immediatelyfast": {},
 		"thfa": {},
 		"auth-me": {},
-		"not-enough-animations": {},
+		"not-enough-animations": {
+      "exclude": [
+        "26.1.1"
+      ]
+    },
 		"qraftys-capitalized-font": {},
 		"fancy-crops": {},
 		"e4mc": {},
@@ -148,7 +153,11 @@
 		"skin-grabber": {},
 		"gamma-utils": {},
 		"modmenu": {},
-		"wider-tab": {},
+		"wider-tab": {
+      "exclude": [
+        "26.1.1"
+      ]
+    },
 		"optigui": {},
 		"creative-fly": {},
 		"autorun": {},
@@ -176,7 +185,11 @@
 		"subtle-effects": {},
 		"visuality": {},
 		"particular": {},
-		"music-notification": {},
+		"music-notification": {
+      "exclude": [
+        "26.1.1"
+      ]
+    },
 		"mouse-tweaks": {},
 		"symbol-chat": {},
 		"swd-panorama": {},
@@ -197,7 +210,11 @@
 		"cubes-without-borders": {},
 		"fancymenu": {},
 		"calcmod": {},
-		"entityculling": {},
+		"entityculling": {
+      "exclude": [
+        "26.1.1"
+      ]
+    },
 		"better-flame-particles": {},
 		"shulkerboxtooltip": {},
 		"torturable-healthbars": {},
@@ -263,7 +280,11 @@
 		"voicechat-soundboard": {},
 		"better-f1-reborn": {},
 		"legendary-tooltips": {},
-		"hyper-realistic-sky": {},
+		"hyper-realistic-sky": {
+      "exclude": [
+        "26.1.1"
+      ]
+    },
 		"indium": {},
 		"super-duper-vanilla": {},
 		"mace-but-3d-resourcepack": {
@@ -299,19 +320,15 @@
 		"spectral": {},
 		"jade": {},
 		"better-suggestions": {},
-		"sodium-extra": {
-      "exclude": [
-        "26.1"
-      ]
-    },
+		"sodium-extra": {},
 		"hey-wiki": {},
 		"ebe": {},
 		"grimdark-sky": {},
 		"flashback": {
-      "exclude": [
-        "26.1"
-      ]
-    },
+			"exclude": [
+				"26.1.1"
+			]
+		},
 		"detail-armor-bar": {},
 		"smooth-scroll": {},
 		"clickthrough+": {},
