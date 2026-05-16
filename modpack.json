@@ -91,18 +91,30 @@
         "26.1.2": "iM6xmyAW"
 			}
 		},
-		"controlify": {},
+		"controlify": {
+      "exclude": [
+        "26.1.2"
+      ]
+    },
 		"litematica": {},
 		"better-mount-hud": {},
 		"rei": {},
 		"emotecraft": {},
-		"worldedit": {},
+		"worldedit": {
+      "exclude": [
+        "26.1.2"
+      ]
+    },
 		"nuit-interop": {},
 		"translations-for-sodium": {},
 		"lighty": {},
 		"bsl-shaders": {},
 		"nofortunechest": {},
-		"mod-loading-screen": {},
+		"mod-loading-screen": {
+      "exclude": [
+        "26.1.2"
+      ]
+    },
 		"my-resource-pack": {},
 		"world-play-time": {},
 		"chat-reporting-helper": {},
@@ -156,7 +168,11 @@
 		"skin-grabber": {},
 		"gamma-utils": {},
 		"modmenu": {},
-		"wider-tab": {},
+		"wider-tab": {
+      "exclude": [
+        "26.1.2"
+      ]
+    },
 		"optigui": {},
 		"creative-fly": {},
 		"autorun": {},
@@ -211,7 +227,11 @@
 		"torturable-healthbars": {},
 		"skinshuffle": {},
 		"waxedicons": {},
-		"krypton": {},
+		"krypton": {
+      "exclude": [
+        "26.1.2"
+      ]
+    },
 		"fast-trading": {},
 		"screenshot-to-clipboard": {},
 		"complementary-unbound": {},

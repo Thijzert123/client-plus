@@ -74,10 +74,6 @@
 			"id": "8iQcgjQ2"
 		},
 		{
-			"name": "Controlify (Controller support)",
-			"id": "DOUdJVEm"
-		},
-		{
 			"name": "Litematica",
 			"id": "bEpr0Arc"
 		},
@@ -90,10 +86,6 @@
 			"id": "pZ2wrerK"
 		},
 		{
-			"name": "WorldEdit",
-			"id": "1u6JkXh5"
-		},
-		{
 			"name": "Translations for Sodium",
 			"id": "yfDziwn1"
 		},
@@ -104,10 +96,6 @@
 		{
 			"name": "BSL Shaders",
 			"id": "Q1vvjJYV"
-		},
-		{
-			"name": "Mod Loading Screen",
-			"id": "xAGJ6rQS"
 		},
 		{
 			"name": "My Resource Pack, My Choice",
@@ -254,10 +242,6 @@
 			"id": "mOgUt4GM"
 		},
 		{
-			"name": "Wider Tab",
-			"id": "IA3kkkhV"
-		},
-		{
 			"name": "OptiGUI",
 			"id": "JuksLGBQ"
 		},
@@ -376,10 +360,6 @@
 		{
 			"name": "Skin Shuffle",
 			"id": "3s19I5jr"
-		},
-		{
-			"name": "Krypton",
-			"id": "fQEb0iXm"
 		},
 		{
 			"name": "Fast Trading",
@@ -550,12 +530,12 @@
 			"id": "Eldc1g37"
 		},
 		{
-			"name": "Fabric Language Kotlin",
-			"id": "Ha28R6CL"
-		},
-		{
 			"name": "Fabric API",
 			"id": "P7dR8mSH"
+		},
+		{
+			"name": "Fabric Language Kotlin",
+			"id": "Ha28R6CL"
 		},
 		{
 			"name": "LibJF",
@@ -902,21 +882,6 @@
 			"fileSize": 172255
 		},
 		{
-			"path": "mods/controlify-3.0.1+26.1-fabric.jar",
-			"hashes": {
-				"sha1": "ea8b836a6425c5361062fe5f36d692a2ac50fa5d",
-				"sha512": "e4831fca00e0ea2fd8bc9d0a6fe76a226e1f1e3b7403398c318ca03cd26d05808b4e20957eae0ab8315fd0b1e2a6788e1ad6c7f715fc3f374499f2975e1a6e5e"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/DOUdJVEm/versions/g2vgDVPC/controlify-3.0.1%2B26.1-fabric.jar"
-			],
-			"fileSize": 7366245
-		},
-		{
 			"path": "mods/litematica-fabric-26.1.2-0.27.3.jar",
 			"hashes": {
 				"sha1": "2c572440306a6e5e9947eebd60d61ef7b59205ee",
@@ -962,21 +927,6 @@
 			"fileSize": 913957
 		},
 		{
-			"path": "mods/worldedit-mod-7.4.3.jar",
-			"hashes": {
-				"sha1": "87dc85780868e38885d188a60fc7f9f7d8be5277",
-				"sha512": "de51a1a319e057f1312ec54de2f08df5d0c00a78718080a3284e0c1ffadffb47d5353e0e538d9334b72eb7260df5a6f2c4bf8373eec8d5a4f6cdfaae1ff4524e"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/1u6JkXh5/versions/gjsLvJfW/worldedit-mod-7.4.3.jar"
-			],
-			"fileSize": 5215216
-		},
-		{
 			"path": "resourcepacks/SodiumTranslations.zip",
 			"hashes": {
 				"sha1": "1b3f0e8755ea9016314e4e833c382cb0a8558bc8",
@@ -1020,21 +970,6 @@
 				"https://cdn.modrinth.com/data/Q1vvjJYV/versions/hIibTfxn/BSL_v10.1.3.zip"
 			],
 			"fileSize": 1127026
-		},
-		{
-			"path": "mods/mod-loading-screen-1.0.5.jar",
-			"hashes": {
-				"sha1": "c378690f841fdeee182aea9704c0a077268b731d",
-				"sha512": "e8a5b086fd90a00250dee49bbf3642dce71016712a803d9d13f6c998555091c51317658badcb809d2b6cab30f72d96e268557f50aef73550581ef4917cdb1920"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/xAGJ6rQS/versions/dHmCqlFI/mod-loading-screen-1.0.5.jar"
-			],
-			"fileSize": 1288845
 		},
 		{
 			"path": "mods/myresourcepack-1.2.7+26.1.jar",
@@ -1577,21 +1512,6 @@
 			"fileSize": 855297
 		},
 		{
-			"path": "mods/wider-tab-1.0.0+26.1.jar",
-			"hashes": {
-				"sha1": "f5ba800660d9cd4ae1486a1d3b932b9b61af7b8a",
-				"sha512": "f8c19ff1e2f548b0a258ae981f994d68dbc73f69af2c2176ccdedfa2886d91c58d427e4943e322f4f846a68c7e6927df5ed3047b50e98814c1b32874cbcb764c"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/IA3kkkhV/versions/uBYc7tJp/wider-tab-1.0.0%2B26.1.jar"
-			],
-			"fileSize": 13634
-		},
-		{
 			"path": "mods/optigui-2.3.0-beta.10+26.1.jar",
 			"hashes": {
 				"sha1": "e1f7a1897762baec94f580d9a558127da485f5fd",
@@ -2040,21 +1960,6 @@
 				"https://cdn.modrinth.com/data/3s19I5jr/versions/PxOMlzF3/skinshuffle-2.11.0%2B26.1-fabric.jar"
 			],
 			"fileSize": 5286823
-		},
-		{
-			"path": "mods/krypton-0.3.0.jar",
-			"hashes": {
-				"sha1": "2557a2dae9492ab98580a61fb9f209df7a90e733",
-				"sha512": "14233210283a76f3cf435a3b8ddbcbd65a858d2b1a10b88ff643c0a01486dfd2bf1843bd3456cd4fb86cbb3b06f2dea0c4e663b1976a48e96de16d3b5a707ec9"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/fQEb0iXm/versions/kYAGItyj/krypton-0.3.0.jar"
-			],
-			"fileSize": 268664
 		},
 		{
 			"path": "mods/FastTrading-0.2.3+26.1.1.jar",
@@ -2687,21 +2592,6 @@
 			"fileSize": 497369
 		},
 		{
-			"path": "mods/fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
-			"hashes": {
-				"sha1": "b6190b247c557c493dc4204121744f289a1d1837",
-				"sha512": "fa5ed2613f7216999cc0c5ddc71906f082a32b52507d7160acbdcf0eb8de12993ba302e5afde6681d025008ecc66c7533fc0c21deb672ef681b2194fb9be4245"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/Ha28R6CL/versions/2i87JpYj/fabric-language-kotlin-1.13.11%2Bkotlin.2.3.21.jar"
-			],
-			"fileSize": 7813444
-		},
-		{
 			"path": "mods/fabric-api-0.149.0+26.1.2.jar",
 			"hashes": {
 				"sha1": "1d3aa9049af831d4d7ed7fbf1b5f0fbb37d7fab4",
@@ -2715,6 +2605,21 @@
 				"https://cdn.modrinth.com/data/P7dR8mSH/versions/Sy2Bq7Xc/fabric-api-0.149.0%2B26.1.2.jar"
 			],
 			"fileSize": 2491741
+		},
+		{
+			"path": "mods/fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
+			"hashes": {
+				"sha1": "b6190b247c557c493dc4204121744f289a1d1837",
+				"sha512": "fa5ed2613f7216999cc0c5ddc71906f082a32b52507d7160acbdcf0eb8de12993ba302e5afde6681d025008ecc66c7533fc0c21deb672ef681b2194fb9be4245"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/Ha28R6CL/versions/2i87JpYj/fabric-language-kotlin-1.13.11%2Bkotlin.2.3.21.jar"
+			],
+			"fileSize": 7813444
 		},
 		{
 			"path": "mods/libjf-26.1.2.jar",
