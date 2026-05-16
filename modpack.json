@@ -19,7 +19,8 @@
 		"1.21.10",
 		"1.21.11",
 		"26.1",
-		"26.1.1"
+		"26.1.1",
+		"26.1.2"
 	],
 	"projects": {
 		"cloth-config": {},
@@ -39,7 +40,9 @@
 				"1.21.9": "KMOzdYko",
 				"1.21.10": "KMOzdYko",
 				"1.21.11": "KMOzdYko",
-				"26.1": "KMOzdYko"
+				"26.1": "KMOzdYko",
+        "26.1.1": "KMOzdYko",
+        "26.1.2": "KMOzdYko"
 			}
 		},
 		"dynamic-fps": {},
@@ -52,7 +55,9 @@
 				"1.21.9": "dQRt7CG3",
 				"1.21.10": "dQRt7CG3",
 				"1.21.11": "dQRt7CG3",
-				"26.1": "dQRt7CG3"
+				"26.1": "dQRt7CG3",
+        "26.1.1": "dQRt7CG3",
+        "26.1.2": "dQRt7CG3"
 			}
 		},
 		"inventory-blur": {},
@@ -81,7 +86,9 @@
 				"1.21.9": "iM6mxyAW",
 				"1.21.10": "iM6mxyAW",
 				"1.21.11": "iM6mxyAW",
-				"26.1": "iM6mxyAW"
+				"26.1": "iM6mxyAW",
+        "26.1.1": "iM6mxyAW",
+        "26.1.2": "iM6xmyAW"
 			}
 		},
 		"controlify": {},
@@ -108,11 +115,7 @@
 		"immediatelyfast": {},
 		"thfa": {},
 		"auth-me": {},
-		"not-enough-animations": {
-      "exclude": [
-        "26.1.1"
-      ]
-    },
+		"not-enough-animations": {},
 		"qraftys-capitalized-font": {},
 		"fancy-crops": {},
 		"e4mc": {},
@@ -153,11 +156,7 @@
 		"skin-grabber": {},
 		"gamma-utils": {},
 		"modmenu": {},
-		"wider-tab": {
-      "exclude": [
-        "26.1.1"
-      ]
-    },
+		"wider-tab": {},
 		"optigui": {},
 		"creative-fly": {},
 		"autorun": {},
@@ -185,11 +184,7 @@
 		"subtle-effects": {},
 		"visuality": {},
 		"particular": {},
-		"music-notification": {
-      "exclude": [
-        "26.1.1"
-      ]
-    },
+		"music-notification": {},
 		"mouse-tweaks": {},
 		"symbol-chat": {},
 		"swd-panorama": {},
@@ -210,11 +205,7 @@
 		"cubes-without-borders": {},
 		"fancymenu": {},
 		"calcmod": {},
-		"entityculling": {
-      "exclude": [
-        "26.1.1"
-      ]
-    },
+		"entityculling": {},
 		"better-flame-particles": {},
 		"shulkerboxtooltip": {},
 		"torturable-healthbars": {},
@@ -280,11 +271,7 @@
 		"voicechat-soundboard": {},
 		"better-f1-reborn": {},
 		"legendary-tooltips": {},
-		"hyper-realistic-sky": {
-      "exclude": [
-        "26.1.1"
-      ]
-    },
+		"hyper-realistic-sky": {},
 		"indium": {},
 		"super-duper-vanilla": {},
 		"mace-but-3d-resourcepack": {
@@ -324,11 +311,7 @@
 		"hey-wiki": {},
 		"ebe": {},
 		"grimdark-sky": {},
-		"flashback": {
-			"exclude": [
-				"26.1.1"
-			]
-		},
+		"flashback": {},
 		"detail-armor-bar": {},
 		"smooth-scroll": {},
 		"clickthrough+": {},
