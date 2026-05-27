@@ -23,6 +23,7 @@
 		"26.1.2"
 	],
 	"projects": {
+    "bundles-beyond": {},
 		"cloth-config": {},
 		"better-advancements": {},
 		"capes": {},
