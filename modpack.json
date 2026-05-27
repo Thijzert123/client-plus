@@ -76,22 +76,7 @@
 		"tras-fresh-player": {},
 		"better-stats": {},
 		"bettercommandblockui": {},
-		"icons": {
-			"version_overrides": {
-				"1.21.3": "iM6mxyAW",
-				"1.21.4": "iM6mxyAW",
-				"1.21.5": "iM6mxyAW",
-				"1.21.6": "iM6mxyAW",
-				"1.21.7": "iM6mxyAW",
-				"1.21.8": "iM6mxyAW",
-				"1.21.9": "iM6mxyAW",
-				"1.21.10": "iM6mxyAW",
-				"1.21.11": "iM6mxyAW",
-				"26.1": "iM6mxyAW",
-        "26.1.1": "iM6mxyAW",
-        "26.1.2": "iM6xmyAW"
-			}
-		},
+		"icons": {},
 		"controlify": {
       "exclude": [
         "26.1.2"

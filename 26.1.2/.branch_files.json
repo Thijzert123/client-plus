@@ -78,6 +78,10 @@
 			"id": "8iQcgjQ2"
 		},
 		{
+			"name": "Icons",
+			"id": "O7z3QKAG"
+		},
+		{
 			"name": "Litematica",
 			"id": "bEpr0Arc"
 		},
@@ -562,10 +566,6 @@
 			"id": "SNVQ2c0g"
 		},
 		{
-			"name": "Icons",
-			"id": "O7z3QKAG"
-		},
-		{
 			"name": "MaLiLib",
 			"id": "GcWjdA9I"
 		},
@@ -907,6 +907,21 @@
 				"https://cdn.modrinth.com/data/8iQcgjQ2/versions/hZzJb0zx/BetterCommandBlockUI-0.5.3-26.1.jar"
 			],
 			"fileSize": 172255
+		},
+		{
+			"path": "resourcepacks/Icons v.1.13.3.zip",
+			"hashes": {
+				"sha1": "1535490093a72495858c9082211fa56598fc35e0",
+				"sha512": "6c43a0afb7537fbeb5e2e84b7a683e203cb5a9808411e5089046ccda2606c74335f08131924c6fb782826f64491250b23116dbfecae345475f684f9431f5cd0d"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/O7z3QKAG/versions/yTuG7y8g/Icons%20v.1.13.3.zip"
+			],
+			"fileSize": 8340789
 		},
 		{
 			"path": "mods/litematica-fabric-26.1.2-0.27.6.jar",
@@ -2722,21 +2737,6 @@
 				"https://cdn.modrinth.com/data/SNVQ2c0g/versions/ftCpXvm8/mru-1.0.28%2Blts%2B26.1-fabric.jar"
 			],
 			"fileSize": 94207
-		},
-		{
-			"path": "resourcepacks/Icons v.1.13.3.zip",
-			"hashes": {
-				"sha1": "1535490093a72495858c9082211fa56598fc35e0",
-				"sha512": "6c43a0afb7537fbeb5e2e84b7a683e203cb5a9808411e5089046ccda2606c74335f08131924c6fb782826f64491250b23116dbfecae345475f684f9431f5cd0d"
-			},
-			"env": {
-				"client": "required",
-				"server": "required"
-			},
-			"downloads": [
-				"https://cdn.modrinth.com/data/O7z3QKAG/versions/yTuG7y8g/Icons%20v.1.13.3.zip"
-			],
-			"fileSize": 8340789
 		},
 		{
 			"path": "mods/malilib-fabric-26.1.2-0.28.6.jar",
